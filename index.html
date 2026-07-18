@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
+  <title>Jun AI Command Center</title>
+  <link rel="stylesheet" href="./css/theme.css">
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./js/main.js" defer></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="メインメニュー">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">J</span>
+        <div><p class="brand-name">JUN AI</p><p class="brand-subtitle">COMMAND CENTER</p></div>
+      </div>
+      <nav class="navigation">
+        <a class="nav-link active" href="#overview" aria-current="page"><span>◈</span><span>今日の概要</span></a>
+        <a class="nav-link" href="#world"><span>◎</span><span>世界情勢</span></a>
+        <a class="nav-link" href="#market"><span>↗</span><span>株式市場</span></a>
+        <a class="nav-link" href="#crypto"><span>₿</span><span>仮想通貨</span></a>
+        <a class="nav-link" href="#assets"><span>¥</span><span>投資管理</span></a>
+        <a class="nav-link" href="#ai"><span>✦</span><span>AI分析</span></a>
+      </nav>
+      <p class="sidebar-note">Secure personal dashboard</p>
+    </aside>
+
+    <div class="main-area">
+      <header class="topbar">
+        <button class="menu-button" id="menuButton" type="button" aria-label="メニューを開く"
+                aria-expanded="false" aria-controls="sidebar">☰</button>
+        <div><p class="eyebrow">DAILY INTELLIGENCE</p><h1>今日の概要</h1></div>
+        <div class="topbar-status"><span class="status-dot"></span><span>System Ready</span></div>
+      </header>
+
+      <main class="dashboard" id="overview">
+        <section class="welcome-panel" aria-labelledby="welcomeTitle">
+          <div>
+            <p class="eyebrow">GOOD MORNING, JUN</p>
+            <h2 id="welcomeTitle">5分で今日の流れをつかむ</h2>
+            <p class="muted">世界情勢・市場・AIニュースを一つの画面に集約します。</p>
+          </div>
+          <time class="current-date" id="currentDate"></time>
+        </section>
+
+        <section class="summary-grid" aria-label="主要情報">
+          <article class="card card-accent">
+            <div class="card-heading"><span class="card-icon">!</span><h3>重要ニュース</h3></div>
+            <p class="card-value">準備中</p><p class="card-description">STEP3で最新ニュースを連携します。</p>
+          </article>
+          <article class="card">
+            <div class="card-heading"><span class="card-icon">↗</span><h3>市場概況</h3></div>
+            <p class="card-value">データ未接続</p><p class="card-description">株価・為替・仮想通貨を追加予定です。</p>
+          </article>
+          <article class="card">
+            <div class="card-heading"><span class="card-icon">✦</span><h3>AI分析</h3></div>
+            <p class="card-value">待機中</p><p class="card-description">信頼できる情報源を基に要約します。</p>
+          </article>
+        </section>
+
+        <section class="content-grid">
+          <article class="panel">
+            <div class="panel-heading"><div><p class="eyebrow">FOCUS</p><h2>今日注目するポイント</h2></div><span class="badge">PREVIEW</span></div>
+            <div class="empty-state"><span>◇</span><p>データ連携後、重要度の高い情報をここに表示します。</p></div>
+          </article>
+          <article class="panel">
+            <div class="panel-heading"><div><p class="eyebrow">MODULES</p><h2>情報モジュール</h2></div></div>
+            <ul class="module-list">
+              <li><span>世界情勢</span><span class="module-status">予定</span></li>
+              <li><span>マーケット</span><span class="module-status">予定</span></li>
+              <li><span>熊本・天草</span><span class="module-status">予定</span></li>
+            </ul>
+          </article>
+        </section>
+      </main>
+    </div>
+  </div>
+</body>
+</html>
