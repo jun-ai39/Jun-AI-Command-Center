@@ -20,6 +20,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = PROJECT_ROOT / "data" / "market.json"
 COINGECKO_ENDPOINT = "https://api.coingecko.com/api/v3/coins/markets"
+FEAR_GREED_ENDPOINT = "https://api.alternative.me/fng/?limit=1&format=json"
 YAHOO_ENDPOINTS = (
     "https://query1.finance.yahoo.com/v8/finance/chart",
     "https://query2.finance.yahoo.com/v8/finance/chart",
@@ -30,6 +31,14 @@ COIN_NAMES = {
     "ethereum": "Ethereum",
     "solana": "Solana",
     "ripple": "XRP",
+}
+
+FEAR_GREED_LABELS_JA = {
+    "Extreme Fear": "極度の恐怖",
+    "Fear": "恐怖",
+    "Neutral": "中立",
+    "Greed": "強欲",
+    "Extreme Greed": "極度の強欲",
 }
 
 # Yahoo Financeの記号は公開API仕様ではないため、変更時は見直します。
@@ -130,6 +139,61 @@ def normalize_crypto(coins: list[dict]) -> list[dict]:
     return items
 
 
+def normalize_fear_greed(payload: dict) -> dict:
+    """Alternative.meのレスポンスを画面表示用に整形します。"""
+    metadata = payload.get("metadata", {})
+    if metadata.get("error"):
+        raise ValueError(f"Alternative.me error: {metadata['error']}")
+
+    results = payload.get("data")
+    if not isinstance(results, list) or not results:
+        raise ValueError("Fear & Greed Index result is empty")
+
+    result = results[0]
+    try:
+        value = int(result.get("value"))
+    except (TypeError, ValueError) as error:
+        raise ValueError("Fear & Greed Index value is invalid") from error
+    if not 0 <= value <= 100:
+        raise ValueError("Fear & Greed Index value is outside 0-100")
+
+    classification = str(result.get("value_classification", "")).strip()
+    timestamp = result.get("timestamp")
+    observed_at = None
+    try:
+        observed_at = datetime.fromtimestamp(
+            int(timestamp), tz=timezone.utc
+        ).isoformat(timespec="seconds")
+    except (TypeError, ValueError, OSError):
+        # 指標値が正常なら、日時だけ欠けても表示を継続します。
+        pass
+
+    return {
+        "name": "Crypto Fear & Greed Index",
+        "scope": "Bitcoin market sentiment",
+        "value": value,
+        "classification": classification,
+        "classification_ja": FEAR_GREED_LABELS_JA.get(
+            classification, classification or "分類なし"
+        ),
+        "observed_at": observed_at,
+        "source": "Alternative.me",
+    }
+
+
+def fetch_fear_greed() -> dict:
+    """一時的な通信エラーを考慮して最大3回取得します。"""
+    last_error: Exception | None = None
+    for attempt in range(1, 4):
+        try:
+            return normalize_fear_greed(fetch_json(FEAR_GREED_ENDPOINT))
+        except Exception as error:
+            last_error = error
+            if attempt < 3:
+                time.sleep(attempt * 5)
+    raise RuntimeError(f"Fear & Greed Index request failed after retries: {last_error}")
+
+
 def parse_yahoo_chart(payload: dict, asset: dict) -> dict:
     """Yahoo Financeのレスポンスから現在値と前日比を取り出します。"""
     chart = payload.get("chart", {})
@@ -211,6 +275,7 @@ def load_existing_data() -> dict:
             "updated_at": None,
             "stocks": [],
             "crypto": [],
+            "sentiment": None,
             "forex": [],
             "commodities": [],
         }
@@ -237,7 +302,7 @@ def write_json_safely(data: dict) -> None:
 
 def main() -> None:
     data = load_existing_data()
-    data["schema_version"] = 1
+    data["schema_version"] = 2
     updated_any = False
 
     try:
@@ -246,6 +311,14 @@ def main() -> None:
         print(f"Updated cryptocurrency data with {len(data['crypto'])} assets.")
     except Exception as error:
         print(f"WARNING: Cryptocurrency data was not updated: {error}")
+
+    try:
+        data["sentiment"] = fetch_fear_greed()
+        updated_any = True
+        print("Updated Crypto Fear & Greed Index.")
+    except Exception as error:
+        data.setdefault("sentiment", None)
+        print(f"WARNING: Fear & Greed Index was not updated: {error}")
 
     for group_name, assets in MARKET_ASSETS.items():
         items = fetch_market_group(assets)
@@ -259,6 +332,7 @@ def main() -> None:
 
     data["sources"] = {
         "crypto": "CoinGecko API",
+        "sentiment": "Alternative.me Crypto Fear & Greed Index",
         "market": "Yahoo Finance chart endpoint (unofficial)",
     }
     if updated_any:

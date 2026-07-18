@@ -6,11 +6,11 @@
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
   <link rel="stylesheet" href="./css/theme.css?v=4.1.0">
-  <link rel="stylesheet" href="./css/style.css?v=4.1.0">
+  <link rel="stylesheet" href="./css/style.css?v=4.3.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
   <script src="./js/news.js?v=3.3.0" defer></script>
-  <script src="./js/market.js?v=4.2.1" defer></script>
+  <script src="./js/market.js?v=4.3.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -108,9 +108,27 @@
         </section>
 
         <section class="page-section" id="crypto" data-page-section hidden>
-          <div class="section-intro"><p class="eyebrow">DIGITAL ASSETS</p><h2>仮想通貨</h2><p class="muted">BTC・ETH・主要アルトの動きを確認します。</p></div>
+          <div class="section-intro"><p class="eyebrow">DIGITAL ASSETS</p><h2>仮想通貨</h2><p class="muted">BTC・ETH・主要アルトの価格とBitcoin市場心理を確認します。</p></div>
           <div class="data-toolbar panel"><p>主要暗号資産の価格と24時間変動率</p><span class="badge" id="cryptoStatus">LOADING</span></div>
-          <div class="market-list panel" id="cryptoList" aria-live="polite"></div>
+          <div class="crypto-grid">
+            <article class="fear-greed-card panel" aria-labelledby="fearGreedTitle">
+              <div class="panel-heading">
+                <div><p class="eyebrow">MARKET SENTIMENT</p><h2 id="fearGreedTitle">Fear &amp; Greed Index</h2></div>
+                <span class="badge">BITCOIN</span>
+              </div>
+              <div class="fear-greed-value-row">
+                <strong class="fear-greed-value" id="fearGreedValue">--</strong>
+                <div><p class="fear-greed-label" id="fearGreedLabel">取得待ち</p><p class="fear-greed-date" id="fearGreedDate">指標日を確認中</p></div>
+              </div>
+              <div class="fear-greed-meter" id="fearGreedMeter" role="meter" aria-label="Bitcoin Fear and Greed Index" aria-valuemin="0" aria-valuemax="100">
+                <span class="fear-greed-indicator" aria-hidden="true"></span>
+              </div>
+              <div class="fear-greed-scale" aria-hidden="true"><span>0 恐怖</span><span>50 中立</span><span>100 強欲</span></div>
+              <p class="fear-greed-note">0〜100で表すBitcoin市場心理の参考指標です。投資判断は複数の情報と組み合わせてください。</p>
+              <a class="fear-greed-source" href="https://alternative.me/crypto/fear-and-greed-index/" target="_blank" rel="noopener noreferrer">データ提供：Alternative.me</a>
+            </article>
+            <div class="market-list panel" id="cryptoList" aria-live="polite"></div>
+          </div>
         </section>
 
         <section class="page-section" id="assets" data-page-section hidden>

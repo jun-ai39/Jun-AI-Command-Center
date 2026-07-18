@@ -17,6 +17,10 @@ document.addEventListener("DOMContentLoaded", async () => {
   const marketSourceNote = document.getElementById("marketSourceNote");
   const overviewValue = document.getElementById("marketOverviewValue");
   const overviewMeta = document.getElementById("marketOverviewMeta");
+  const fearGreedValue = document.getElementById("fearGreedValue");
+  const fearGreedLabel = document.getElementById("fearGreedLabel");
+  const fearGreedDate = document.getElementById("fearGreedDate");
+  const fearGreedMeter = document.getElementById("fearGreedMeter");
 
   const formatNumber = (value, currency, decimals = 2) => {
     const number = Number(value);
@@ -72,6 +76,40 @@ document.addEventListener("DOMContentLoaded", async () => {
     items.forEach((item) => container.append(createRow(item)));
   };
 
+  const renderFearGreed = (sentiment) => {
+    const rawValue = sentiment?.value;
+    const value = rawValue === null || rawValue === undefined || rawValue === ""
+      ? Number.NaN
+      : Number(rawValue);
+    const hasValue = Number.isFinite(value) && value >= 0 && value <= 100;
+
+    if (fearGreedValue) fearGreedValue.textContent = hasValue ? String(Math.round(value)) : "--";
+    if (fearGreedLabel) {
+      fearGreedLabel.textContent = hasValue
+        ? sentiment.classification_ja || sentiment.classification || "分類なし"
+        : "取得待ち";
+    }
+    if (fearGreedDate) {
+      fearGreedDate.textContent = sentiment?.observed_at
+        ? `指標日：${new Date(sentiment.observed_at).toLocaleDateString("ja-JP", { timeZone: "Asia/Tokyo" })}`
+        : "指標日を確認できません";
+    }
+    if (fearGreedMeter) {
+      const meterValue = hasValue ? Math.round(value) : 50;
+      fearGreedMeter.style.setProperty("--fear-greed-value", String(meterValue));
+      if (hasValue) {
+        fearGreedMeter.setAttribute("aria-valuenow", String(meterValue));
+        fearGreedMeter.setAttribute(
+          "aria-valuetext",
+          `${meterValue} ${sentiment.classification_ja || sentiment.classification || "分類なし"}`
+        );
+      } else {
+        fearGreedMeter.removeAttribute("aria-valuenow");
+        fearGreedMeter.setAttribute("aria-valuetext", "データ取得待ち");
+      }
+    }
+  };
+
   try {
     const response = await fetch("./data/market.json", { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -81,6 +119,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderList(elements.crypto, data.crypto, "仮想通貨データを準備中です。");
     renderList(elements.forex, data.forex, "為替データを準備中です。");
     renderList(elements.commodities, data.commodities, "商品データを準備中です。");
+    renderFearGreed(data.sentiment);
 
     const stockCount = Array.isArray(data.stocks) ? data.stocks.length : 0;
     const cryptoCount = Array.isArray(data.crypto) ? data.crypto.length : 0;
@@ -112,5 +151,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
     if (marketStatus) marketStatus.textContent = "ERROR";
     if (cryptoStatus) cryptoStatus.textContent = "ERROR";
+    renderFearGreed(null);
   }
 });
