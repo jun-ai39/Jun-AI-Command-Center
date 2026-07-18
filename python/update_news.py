@@ -9,8 +9,8 @@ from __future__ import annotations
 import json
 import os
 import tempfile
-import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
@@ -18,41 +18,59 @@ from urllib.parse import urlparse
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = PROJECT_ROOT / "data" / "news.json"
-API_ENDPOINT = "https://api.gdeltproject.org/api/v2/doc/doc"
 MAX_ITEMS = 9
 
-
-def build_api_url() -> str:
-    """GDELT DOC 2.0 APIの検索URLを作成します。"""
-    parameters = {
-        "query": "(conflict OR economy OR disaster OR diplomacy) sourcelang:japanese",
-        "mode": "artlist",
-        "maxrecords": "50",
-        "format": "json",
-        "sort": "datedesc",
-        "timespan": "24h",
-    }
-    return f"{API_ENDPOINT}?{urllib.parse.urlencode(parameters)}"
+# APIのアクセス制限を避けるため、報道機関が配信するRSSを使用します。
+RSS_SOURCES = (
+    ("BBC News 日本語", "https://feeds.bbci.co.uk/japanese/rss.xml"),
+    ("NHK NEWS WEB", "https://www.nhk.or.jp/rss/news/cat0.xml"),
+)
 
 
-def fetch_articles() -> list[dict]:
-    """APIから記事一覧を取得します。"""
+def fetch_rss(source_name: str, feed_url: str) -> list[dict]:
+    """1つのRSSから記事一覧を取得します。"""
     request = urllib.request.Request(
-        build_api_url(),
+        feed_url,
         headers={
             "User-Agent": "Jun-AI-Command-Center/1.0 (+GitHub Pages)",
-            "Accept": "application/json",
+            "Accept": "application/rss+xml, application/xml, text/xml",
         },
     )
 
     with urllib.request.urlopen(request, timeout=30) as response:
         if response.status != 200:
-            raise RuntimeError(f"GDELT API returned HTTP {response.status}")
-        payload = json.load(response)
+            raise RuntimeError(f"{source_name} returned HTTP {response.status}")
+        xml_data = response.read()
 
-    articles = payload.get("articles", [])
-    if not isinstance(articles, list):
-        raise ValueError("API response does not contain an article list")
+    root = ET.fromstring(xml_data)
+    articles: list[dict] = []
+    for item in root.findall(".//item"):
+        articles.append(
+            {
+                "title": item.findtext("title", default=""),
+                "url": item.findtext("link", default=""),
+                "published_at": item.findtext("pubDate", default=""),
+                "source": source_name,
+            }
+        )
+    return articles
+
+
+def fetch_articles() -> list[dict]:
+    """複数RSSを取得し、1つが失敗しても残りを使用します。"""
+    articles: list[dict] = []
+    errors: list[str] = []
+
+    for source_name, feed_url in RSS_SOURCES:
+        try:
+            articles.extend(fetch_rss(source_name, feed_url))
+        except Exception as error:
+            errors.append(f"{source_name}: {error}")
+
+    if not articles:
+        raise RuntimeError("All RSS sources failed: " + " | ".join(errors))
+    if errors:
+        print("Some RSS sources failed: " + " | ".join(errors))
     return articles
 
 
@@ -83,9 +101,9 @@ def normalize_article(article: dict) -> dict | None:
         "title": title[:240],
         "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
         "url": url,
-        "source": parsed_url.netloc.removeprefix("www.")[:100],
+        "source": str(article.get("source", parsed_url.netloc)).strip()[:100],
         "category": classify(title),
-        "published_at": str(article.get("seendate", ""))[:32],
+        "published_at": str(article.get("published_at", ""))[:64],
     }
 
 
@@ -109,7 +127,7 @@ def build_news_data(articles: list[dict]) -> dict:
     return {
         "schema_version": 1,
         "updated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "source": "GDELT DOC 2.0 API",
+        "source": "Official news RSS feeds",
         "items": items,
     }
 
