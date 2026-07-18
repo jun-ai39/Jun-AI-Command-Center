@@ -5,11 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
-  <link rel="stylesheet" href="./css/theme.css?v=3.3.0">
-  <link rel="stylesheet" href="./css/style.css?v=3.3.0">
+  <link rel="stylesheet" href="./css/theme.css?v=4.1.0">
+  <link rel="stylesheet" href="./css/style.css?v=4.1.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
   <script src="./js/news.js?v=3.3.0" defer></script>
+  <script src="./js/market.js?v=4.1.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -63,7 +64,7 @@
           </article>
           <article class="card">
             <div class="card-heading"><span class="card-icon">↗</span><h3>市場概況</h3></div>
-            <p class="card-value">データ未接続</p><p class="card-description">株価・為替・仮想通貨を追加予定です。</p>
+            <p class="card-value" id="marketOverviewValue">データ未接続</p><p class="card-description" id="marketOverviewMeta">市場データを確認しています。</p>
           </article>
           <article class="card">
             <div class="card-heading"><span class="card-icon">✦</span><h3>AI分析</h3></div>
@@ -102,18 +103,14 @@
 
         <section class="page-section" id="market" data-page-section hidden>
           <div class="section-intro"><p class="eyebrow">MARKET PULSE</p><h2>株式市場</h2><p class="muted">日本・米国の主要指数を一覧化します。</p></div>
-          <div class="placeholder-grid">
-            <article class="panel placeholder-card"><span class="feature-icon">↗</span><h3>主要指数</h3><p>日経平均・TOPIX・NYダウ・NASDAQ・S&amp;P500を表示予定です。</p></article>
-            <article class="panel placeholder-card"><span class="feature-icon">▦</span><h3>ヒートマップ</h3><p>市場全体の強弱を色で確認できる画面を追加します。</p></article>
-          </div>
+          <div class="data-toolbar panel"><p id="marketUpdatedAt">更新情報を確認中</p><span class="badge" id="marketStatus">LOADING</span></div>
+          <div class="market-list panel" id="stockList" aria-live="polite"></div>
         </section>
 
         <section class="page-section" id="crypto" data-page-section hidden>
           <div class="section-intro"><p class="eyebrow">DIGITAL ASSETS</p><h2>仮想通貨</h2><p class="muted">BTC・ETH・主要アルトの動きを確認します。</p></div>
-          <div class="placeholder-grid">
-            <article class="panel placeholder-card"><span class="feature-icon">₿</span><h3>価格と変動率</h3><p>安全な公開データから価格情報を取得します。</p></article>
-            <article class="panel placeholder-card"><span class="feature-icon">◉</span><h3>Fear &amp; Greed</h3><p>市場心理を示す指標を追加予定です。</p></article>
-          </div>
+          <div class="data-toolbar panel"><p>主要暗号資産の価格と24時間変動率</p><span class="badge" id="cryptoStatus">LOADING</span></div>
+          <div class="market-list panel" id="cryptoList" aria-live="polite"></div>
         </section>
 
         <section class="page-section" id="assets" data-page-section hidden>
@@ -134,9 +131,9 @@
 
         <section class="page-section" id="forex" data-page-section hidden>
           <div class="section-intro"><p class="eyebrow">FOREX &amp; COMMODITIES</p><h2>為替・商品</h2><p class="muted">ドル円・ユーロ円・金・原油をまとめて確認します。</p></div>
-          <div class="placeholder-grid">
-            <article class="panel placeholder-card"><span class="feature-icon">⇄</span><h3>主要為替</h3><p>現在値、前日比、短期推移を表示予定です。</p></article>
-            <article class="panel placeholder-card"><span class="feature-icon">◆</span><h3>金・原油</h3><p>市場のリスク傾向を確認できる構成にします。</p></article>
+          <div class="market-split">
+            <div><p class="market-section-title">主要為替</p><div class="market-list panel" id="forexList" aria-live="polite"></div></div>
+            <div><p class="market-section-title">商品</p><div class="market-list panel" id="commodityList" aria-live="polite"></div></div>
           </div>
         </section>
 
