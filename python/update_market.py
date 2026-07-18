@@ -36,7 +36,16 @@ COIN_NAMES = {
 MARKET_ASSETS = {
     "stocks": (
         {"symbol": "^N225", "name": "日経平均", "decimals": 2},
-        {"symbol": "^TOPX", "name": "TOPIX", "decimals": 2},
+        {
+            # Yahoo FinanceではTOPIX指数そのものを安定取得できないため、
+            # TOPIXへの連動を目指すETFを参考値として使用します。
+            "symbol": "1308.T",
+            "display_symbol": "1308",
+            "name": "TOPIX連動ETF（参考値）",
+            "decimals": 1,
+            "instrument_type": "proxy_etf",
+            "proxy_for": "TOPIX",
+        },
         {"symbol": "^DJI", "name": "NYダウ", "decimals": 2},
         {"symbol": "^IXIC", "name": "NASDAQ総合", "decimals": 2},
         {"symbol": "^GSPC", "name": "S&P 500", "decimals": 2},
@@ -154,7 +163,7 @@ def parse_yahoo_chart(payload: dict, asset: dict) -> dict:
     if isinstance(previous, (int, float)) and previous != 0:
         change_percent = ((price - previous) / previous) * 100
 
-    return {
+    item = {
         "symbol": asset.get("display_symbol", asset["symbol"]),
         "name": asset["name"],
         "price": price,
@@ -162,6 +171,13 @@ def parse_yahoo_chart(payload: dict, asset: dict) -> dict:
         "change_percent": change_percent,
         "decimals": asset["decimals"],
     }
+
+    # 代替指標であることをJSONにも保存し、将来のUI変更でも判別できるようにします。
+    for key in ("instrument_type", "proxy_for"):
+        if key in asset:
+            item[key] = asset[key]
+
+    return item
 
 
 def fetch_yahoo_asset(asset: dict) -> dict:
