@@ -10,7 +10,7 @@
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
   <script src="./js/news.js?v=3.3.0" defer></script>
-  <script src="./js/market.js?v=4.2.0" defer></script>
+  <script src="./js/market.js?v=4.2.1" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -102,8 +102,8 @@
         </section>
 
         <section class="page-section" id="market" data-page-section hidden>
-          <div class="section-intro"><p class="eyebrow">MARKET PULSE</p><h2>株式市場</h2><p class="muted">日本・米国の主要指数を一覧化します。</p></div>
-          <div class="data-toolbar panel"><p id="marketUpdatedAt">更新情報を確認中</p><span class="badge" id="marketStatus">LOADING</span></div>
+          <div class="section-intro"><p class="eyebrow">MARKET PULSE</p><h2>株式市場</h2><p class="muted">日本・米国の主要指数を一覧化します。参考値・遅延データです。</p></div>
+          <div class="data-toolbar panel"><div><p id="marketUpdatedAt">更新情報を確認中</p><p class="data-source-note" id="marketSourceNote">データ取得元を確認中</p></div><span class="badge" id="marketStatus">LOADING</span></div>
           <div class="market-list panel" id="stockList" aria-live="polite"></div>
         </section>
 
@@ -130,7 +130,7 @@
         </section>
 
         <section class="page-section" id="forex" data-page-section hidden>
-          <div class="section-intro"><p class="eyebrow">FOREX &amp; COMMODITIES</p><h2>為替・商品</h2><p class="muted">ドル円・ユーロ円・金・原油をまとめて確認します。</p></div>
+          <div class="section-intro"><p class="eyebrow">FOREX &amp; COMMODITIES</p><h2>為替・商品</h2><p class="muted">ドル円・ユーロ円・金・原油をまとめて確認します。参考値・遅延データです。</p></div>
           <div class="market-split">
             <div><p class="market-section-title">主要為替</p><div class="market-list panel" id="forexList" aria-live="polite"></div></div>
             <div><p class="market-section-title">商品</p><div class="market-list panel" id="commodityList" aria-live="polite"></div></div>

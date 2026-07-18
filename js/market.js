@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const marketStatus = document.getElementById("marketStatus");
   const cryptoStatus = document.getElementById("cryptoStatus");
   const marketUpdatedAt = document.getElementById("marketUpdatedAt");
+  const marketSourceNote = document.getElementById("marketSourceNote");
   const overviewValue = document.getElementById("marketOverviewValue");
   const overviewMeta = document.getElementById("marketOverviewMeta");
 
@@ -89,6 +90,11 @@ document.addEventListener("DOMContentLoaded", async () => {
       marketUpdatedAt.textContent = data.updated_at
         ? `最終更新：${new Date(data.updated_at).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo" })}`
         : "市場データはまだありません";
+    }
+    if (marketSourceNote) {
+      marketSourceNote.textContent = data.sources?.market
+        ? "データ：Yahoo Finance非公式エンドポイント（参考値・遅延あり）"
+        : "市場データの取得元はまだありません";
     }
 
     if (stockCount && overviewValue && overviewMeta) {
