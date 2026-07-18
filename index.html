@@ -6,7 +6,7 @@
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
   <link rel="stylesheet" href="./css/theme.css?v=4.1.0">
-  <link rel="stylesheet" href="./css/style.css?v=7.1.0">
+  <link rel="stylesheet" href="./css/style.css?v=7.2.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
   <script src="./js/news.js?v=3.3.0" defer></script>
@@ -14,6 +14,7 @@
   <script src="./js/ai.js?v=5.1.0" defer></script>
   <script src="./js/assets.js?v=6.2.0" defer></script>
   <script src="./js/weather.js?v=7.1.0" defer></script>
+  <script src="./js/bike.js?v=7.2.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -303,11 +304,46 @@
         </section>
 
         <section class="page-section" id="bike" data-page-section hidden>
-          <div class="section-intro"><p class="eyebrow">MOTORCYCLE</p><h2>バイク</h2><p class="muted">ツーリングルートとイベント情報を集約します。</p></div>
-          <div class="placeholder-grid">
-            <article class="panel placeholder-card"><span class="feature-icon">⌁</span><h3>おすすめルート</h3><p>海沿い・山道・景観を軸にルートを提案します。</p></article>
-            <article class="panel placeholder-card"><span class="feature-icon">□</span><h3>イベント</h3><p>熊本・九州の開催情報を確認できるようにします。</p></article>
+          <div class="section-intro"><p class="eyebrow">MOTORCYCLE</p><h2>熊本ツーリング</h2><p class="muted">景観別のルート候補と、出発前に確認する公式情報をまとめます。</p></div>
+
+          <aside class="ride-safety-notice" aria-label="ツーリング情報の注意事項">
+            <span aria-hidden="true">!</span>
+            <p><strong>掲載ルートは参考候補です。</strong>実際の経路・通行可否・天候を確認し、無理のない計画で走行してください。</p>
+          </aside>
+
+          <div class="ride-check-grid" aria-label="出発前の確認">
+            <a class="panel ride-check-card" href="#kumamoto">
+              <span aria-hidden="true">☁</span><div><p class="eyebrow">WEATHER</p><h3>熊本の天気</h3><p>気温・降水・風を確認</p></div><b aria-hidden="true">→</b>
+            </a>
+            <a class="panel ride-check-card" href="https://www.jartic.or.jp/map/?p=R04" target="_blank" rel="noopener noreferrer">
+              <span aria-hidden="true">↗</span><div><p class="eyebrow">TRAFFIC</p><h3>道路交通情報</h3><p>JARTICで渋滞・規制を確認</p></div><b aria-hidden="true">↗</b>
+            </a>
+            <a class="panel ride-check-card" href="https://portal.bousai.pref.kumamoto.jp/" target="_blank" rel="noopener noreferrer">
+              <span aria-hidden="true">!</span><div><p class="eyebrow">ROAD &amp; DISASTER</p><h3>防災情報くまもと</h3><p>道路規制・雨量を確認</p></div><b aria-hidden="true">↗</b>
+            </a>
           </div>
+
+          <section class="bike-routes-section" aria-labelledby="bikeRoutesTitle">
+            <div class="panel-heading bike-section-heading">
+              <div><p class="eyebrow">ROUTE IDEAS</p><h2 id="bikeRoutesTitle">ツーリング候補</h2></div>
+              <span class="badge" id="bikeRouteCount">LOADING</span>
+            </div>
+            <div class="bike-route-grid" id="bikeRouteGrid" aria-live="polite">
+              <article class="panel bike-message">ルート候補を読み込んでいます。</article>
+            </div>
+          </section>
+
+          <section class="bike-events-section" aria-labelledby="bikeEventsTitle">
+            <div class="panel-heading bike-section-heading">
+              <div><p class="eyebrow">OFFICIAL INFORMATION</p><h2 id="bikeEventsTitle">イベント・観光情報</h2></div>
+              <span class="badge">EXTERNAL</span>
+            </div>
+            <div class="official-link-grid">
+              <a class="panel official-link-card" href="https://kumamoto.guide/events/" target="_blank" rel="noopener noreferrer"><p class="eyebrow">KUMAMOTO</p><h3>熊本県公式イベント</h3><p>県内の開催情報を一覧で確認します。</p><span>公式サイトを開く ↗</span></a>
+              <a class="panel official-link-card" href="https://www.asocity-kanko.jp/" target="_blank" rel="noopener noreferrer"><p class="eyebrow">ASO</p><h3>阿蘇市観光協会</h3><p>阿蘇の季節情報・観光情報を確認します。</p><span>公式サイトを開く ↗</span></a>
+              <a class="panel official-link-card" href="https://www.t-island.jp/" target="_blank" rel="noopener noreferrer"><p class="eyebrow">AMAKUSA</p><h3>天草宝島観光協会</h3><p>天草の最新情報・イベントを確認します。</p><span>公式サイトを開く ↗</span></a>
+            </div>
+          </section>
         </section>
 
         <section class="page-section" id="fishing" data-page-section hidden>
