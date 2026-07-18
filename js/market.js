@@ -44,7 +44,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     price.className = "market-price";
     price.textContent = formatNumber(item.price, item.currency, item.decimals);
 
-    const changeValue = Number(item.change_percent);
+    const changeValue = item.change_percent === null || item.change_percent === undefined
+      ? Number.NaN
+      : Number(item.change_percent);
     const change = document.createElement("p");
     const direction = changeValue > 0 ? "positive" : changeValue < 0 ? "negative" : "neutral";
     change.className = `market-change ${direction}`;
@@ -92,7 +94,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (stockCount && overviewValue && overviewMeta) {
       const lead = data.stocks[0];
       overviewValue.textContent = formatNumber(lead.price, lead.currency, lead.decimals);
-      overviewMeta.textContent = `${lead.name || lead.symbol}・前日比 ${Number(lead.change_percent).toFixed(2)}%`;
+      const leadChange = Number(lead.change_percent);
+      overviewMeta.textContent = Number.isFinite(leadChange)
+        ? `${lead.name || lead.symbol}・前日比 ${leadChange.toFixed(2)}%`
+        : `${lead.name || lead.symbol}・前日比データなし`;
     }
   } catch (error) {
     console.error("市場データの読み込みに失敗しました。", error);
