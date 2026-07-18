@@ -6,13 +6,14 @@
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
   <link rel="stylesheet" href="./css/theme.css?v=4.1.0">
-  <link rel="stylesheet" href="./css/style.css?v=6.2.0">
+  <link rel="stylesheet" href="./css/style.css?v=7.1.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
   <script src="./js/news.js?v=3.3.0" defer></script>
   <script src="./js/market.js?v=4.4.0" defer></script>
   <script src="./js/ai.js?v=5.1.0" defer></script>
   <script src="./js/assets.js?v=6.2.0" defer></script>
+  <script src="./js/weather.js?v=7.1.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -258,11 +259,47 @@
         </section>
 
         <section class="page-section" id="kumamoto" data-page-section hidden>
-          <div class="section-intro"><p class="eyebrow">LOCAL WEATHER</p><h2>熊本</h2><p class="muted">熊本の現在天気と週間予報を確認します。</p></div>
-          <div class="placeholder-grid">
-            <article class="panel placeholder-card"><span class="feature-icon">☁</span><h3>今日の天気</h3><p>気温・降水確率・風を表示予定です。</p></article>
-            <article class="panel placeholder-card"><span class="feature-icon">▥</span><h3>週間予報</h3><p>ツーリングや釣りの予定判断に活用します。</p></article>
+          <div class="section-intro"><p class="eyebrow">LOCAL WEATHER</p><h2>熊本の天気</h2><p class="muted">熊本市の現在天気と7日間予報を確認します。</p></div>
+
+          <div class="data-toolbar panel weather-toolbar">
+            <div><p id="weatherUpdatedAt">天気情報を確認中</p><p class="data-source-note">予報値のため、実際の天候と異なる場合があります。</p></div>
+            <span class="badge" id="weatherStatus">LOADING</span>
           </div>
+
+          <div class="weather-current-grid">
+            <article class="panel current-weather-card">
+              <div class="panel-heading">
+                <div><p class="eyebrow">CURRENT CONDITIONS</p><h2>熊本市</h2></div>
+                <span class="badge">KUMAMOTO</span>
+              </div>
+              <div class="current-weather-main">
+                <span class="weather-main-icon" id="currentWeatherIcon" aria-hidden="true">--</span>
+                <div><p class="current-temperature" id="currentTemperature">--°</p><p class="current-condition" id="currentCondition">読み込み中</p></div>
+              </div>
+              <p class="feels-like" id="currentFeelsLike">体感温度を確認中</p>
+            </article>
+
+            <div class="weather-metrics" aria-label="現在の気象情報">
+              <article class="panel weather-metric"><span aria-hidden="true">◌</span><div><p>湿度</p><strong id="currentHumidity">--%</strong></div></article>
+              <article class="panel weather-metric"><span aria-hidden="true">⋰</span><div><p>降水量</p><strong id="currentPrecipitation">-- mm</strong></div></article>
+              <article class="panel weather-metric"><span aria-hidden="true">↝</span><div><p>風</p><strong id="currentWind">-- km/h</strong><small id="currentWindDirection">--</small></div></article>
+            </div>
+          </div>
+
+          <article class="panel weekly-weather-panel">
+            <div class="panel-heading">
+              <div><p class="eyebrow">7 DAY FORECAST</p><h2>週間予報</h2></div>
+              <span class="badge">DAILY</span>
+            </div>
+            <div class="weekly-weather-grid" id="weeklyWeather" aria-live="polite">
+              <p class="weather-message">週間予報を読み込んでいます。</p>
+            </div>
+          </article>
+
+          <p class="weather-attribution">
+            Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">Open-Meteo.com</a>
+            · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>
+          </p>
         </section>
 
         <section class="page-section" id="bike" data-page-section hidden>

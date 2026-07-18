@@ -242,6 +242,45 @@ a { color: inherit; text-decoration: none; }
 .holdings-message { display: table-cell !important; color: var(--color-muted) !important; text-align: center !important; }
 .portfolio-footnote { padding: 16px 4px 0; color: #60738a; font-size: .68rem; line-height: 1.6; }
 .portfolio-footnote p { margin: 0; }
+.weather-current-grid { display: grid; grid-template-columns: minmax(330px,1.15fr) minmax(360px,.85fr); gap: 18px; }
+.weather-toolbar { margin-bottom: 18px; }
+.current-weather-card { min-height: 300px; }
+.current-weather-main { display: flex; align-items: center; gap: 26px; margin-top: 34px; }
+.weather-main-icon {
+  display: grid; width: 112px; height: 112px; place-items: center; border: 1px solid rgba(85,215,255,.18);
+  border-radius: 28px; background: radial-gradient(circle,rgba(85,215,255,.15),rgba(85,215,255,.04));
+  color: #ffd67a; font-size: 3.8rem; line-height: 1;
+}
+.current-temperature { margin: 0; font-size: clamp(3.2rem,7vw,5.4rem); font-weight: 800; letter-spacing: -.07em; line-height: .9; }
+.current-condition { margin: 13px 0 0; color: var(--color-primary); font-weight: 800; }
+.feels-like { margin: 26px 0 0; color: var(--color-muted); font-size: .78rem; }
+.weather-metrics { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 18px; }
+.weather-metric { display: flex; min-height: 141px; align-items: center; gap: 16px; padding: 21px; }
+.weather-metric:last-child { grid-column: 1 / -1; }
+.weather-metric > span {
+  display: grid; flex: 0 0 auto; width: 42px; height: 42px; place-items: center; border-radius: 12px;
+  background: var(--color-primary-soft); color: var(--color-primary); font-size: 1.15rem;
+}
+.weather-metric p { margin: 0 0 8px; color: var(--color-muted); font-size: .7rem; }
+.weather-metric strong { display: block; font-size: 1.05rem; }
+.weather-metric small { display: block; margin-top: 5px; color: var(--color-muted); font-size: .64rem; }
+.weekly-weather-panel { min-height: auto; margin-top: 18px; }
+.weekly-weather-grid { display: grid; grid-template-columns: repeat(7,minmax(120px,1fr)); gap: 10px; margin-top: 26px; overflow-x: auto; padding-bottom: 4px; }
+.forecast-card {
+  min-width: 120px; padding: 17px 13px; border: 1px solid var(--color-border); border-radius: 12px;
+  background: rgba(7,11,20,.32); text-align: center;
+}
+.forecast-card.today { border-color: rgba(85,215,255,.34); background: rgba(85,215,255,.07); }
+.forecast-card time { color: var(--color-muted); font-size: .68rem; font-weight: 700; }
+.forecast-card.today time { color: var(--color-primary); }
+.forecast-icon { display: block; min-height: 42px; margin: 13px 0 7px; color: #ffd67a; font-size: 2rem; line-height: 1.2; }
+.forecast-condition { min-height: 34px; margin: 0; font-size: .72rem; font-weight: 750; line-height: 1.4; }
+.forecast-temperature { margin: 12px 0; font-size: .76rem; font-weight: 800; }
+.forecast-detail { margin: 5px 0 0; color: var(--color-muted); font-size: .62rem; line-height: 1.4; }
+.weather-message { grid-column: 1 / -1; margin: 24px 0; color: var(--color-muted); text-align: center; }
+.weather-attribution { margin: 14px 4px 0; color: #60738a; font-size: .66rem; }
+.weather-attribution a { color: var(--color-primary); }
+.weather-attribution a:hover, .weather-attribution a:focus-visible { text-decoration: underline; }
 @keyframes page-in {
   from { opacity: 0; transform: translateY(6px); }
   to { opacity: 1; transform: translateY(0); }
@@ -300,6 +339,7 @@ a { color: inherit; text-decoration: none; }
   .briefing-watch-list { grid-template-columns: 1fr; }
   .portfolio-summary { grid-template-columns: 1fr; }
   .portfolio-main-grid { grid-template-columns: 1fr; }
+  .weather-current-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 560px) {
   .topbar { min-height: 78px; }
@@ -316,4 +356,9 @@ a { color: inherit; text-decoration: none; }
   .allocation-legend { width: 100%; }
   .history-chart { gap: 5px; height: 210px; }
   .history-value { font-size: .56rem; }
+  .current-weather-main { align-items: flex-start; gap: 18px; }
+  .weather-main-icon { width: 86px; height: 86px; border-radius: 22px; font-size: 3rem; }
+  .weather-metrics { grid-template-columns: 1fr; }
+  .weather-metric:last-child { grid-column: auto; }
+  .weather-metric { min-height: 110px; }
 }
