@@ -108,6 +108,28 @@ a { color: inherit; text-decoration: none; }
 .market-message { padding: 30px 22px; color: var(--color-muted); text-align: center; }
 .market-split { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 18px; }
 .market-section-title { margin: 0 0 10px; color: var(--color-muted); font-size: .78rem; font-weight: 700; }
+.market-visual-grid { display: grid; grid-template-columns: minmax(360px,.9fr) minmax(480px,1.1fr); gap: 18px; align-items: stretch; }
+.heatmap-panel { min-height: auto; }
+.heatmap-legend { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px; color: var(--color-muted); font-size: .62rem; }
+.heatmap-legend span { display: inline-flex; align-items: center; gap: 5px; }
+.heatmap-legend span::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: #60738a; }
+.heatmap-legend .negative::before { background: #ff5d73; }
+.heatmap-legend .positive::before { background: var(--color-success); }
+.heatmap-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; margin-top: 24px; }
+.heatmap-tile {
+  --heat-intensity: .08;
+  min-height: 112px; padding: 16px; border: 1px solid var(--color-border); border-radius: 12px;
+  background: rgba(96,115,138,var(--heat-intensity));
+}
+.heatmap-tile.lead { grid-column: 1 / -1; min-height: 128px; }
+.heatmap-tile.positive { border-color: rgba(66,230,164,.2); background: rgba(66,230,164,var(--heat-intensity)); }
+.heatmap-tile.negative { border-color: rgba(255,93,115,.2); background: rgba(255,93,115,var(--heat-intensity)); }
+.heatmap-symbol { margin: 0 0 5px; color: var(--color-muted); font-size: .66rem; font-weight: 700; letter-spacing: .08em; }
+.heatmap-name { margin: 0; font-size: .8rem; }
+.heatmap-change { margin: 18px 0 0; font-size: 1.15rem; font-weight: 800; }
+.heatmap-tile.positive .heatmap-change { color: #79f1bd; }
+.heatmap-tile.negative .heatmap-change { color: #ff9aa7; }
+.heatmap-tile.neutral .heatmap-change { color: var(--color-muted); }
 .crypto-grid { display: grid; grid-template-columns: minmax(280px,.8fr) minmax(420px,1.2fr); gap: 18px; }
 .fear-greed-card { min-height: auto; }
 .fear-greed-value-row { display: flex; align-items: center; gap: 18px; margin: 28px 0 22px; }
@@ -186,6 +208,7 @@ a { color: inherit; text-decoration: none; }
   .placeholder-grid { grid-template-columns: 1fr; }
   .news-grid { grid-template-columns: 1fr; }
   .market-split { grid-template-columns: 1fr; }
+  .market-visual-grid { grid-template-columns: 1fr; }
   .crypto-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 560px) {
@@ -195,4 +218,6 @@ a { color: inherit; text-decoration: none; }
   .welcome-panel { align-items: flex-start; flex-direction: column; }
   .market-row { grid-template-columns: minmax(120px,1fr) 1fr; gap: 10px; }
   .market-change { grid-column: 2; }
+  .heatmap-panel .panel-heading { align-items: flex-start; flex-direction: column; }
+  .heatmap-legend { justify-content: flex-start; }
 }

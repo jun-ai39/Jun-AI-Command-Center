@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const marketSourceNote = document.getElementById("marketSourceNote");
   const overviewValue = document.getElementById("marketOverviewValue");
   const overviewMeta = document.getElementById("marketOverviewMeta");
+  const marketHeatmap = document.getElementById("marketHeatmap");
   const fearGreedValue = document.getElementById("fearGreedValue");
   const fearGreedLabel = document.getElementById("fearGreedLabel");
   const fearGreedDate = document.getElementById("fearGreedDate");
@@ -76,6 +77,58 @@ document.addEventListener("DOMContentLoaded", async () => {
     items.forEach((item) => container.append(createRow(item)));
   };
 
+  const createHeatmapTile = (item, index) => {
+    const tile = document.createElement("div");
+    const changeValue = item.change_percent === null || item.change_percent === undefined
+      ? Number.NaN
+      : Number(item.change_percent);
+    const direction = changeValue > 0.01
+      ? "positive"
+      : changeValue < -0.01
+        ? "negative"
+        : "neutral";
+    const intensity = Number.isFinite(changeValue)
+      ? Math.min(Math.abs(changeValue) / 5, 1) * 0.42 + 0.08
+      : 0.08;
+
+    tile.className = `heatmap-tile ${direction}${index === 0 ? " lead" : ""}`;
+    tile.style.setProperty("--heat-intensity", intensity.toFixed(3));
+
+    const symbol = document.createElement("p");
+    symbol.className = "heatmap-symbol";
+    symbol.textContent = item.symbol || "--";
+
+    const name = document.createElement("p");
+    name.className = "heatmap-name";
+    name.textContent = item.name || "名称未設定";
+
+    const change = document.createElement("p");
+    change.className = "heatmap-change";
+    change.textContent = Number.isFinite(changeValue)
+      ? `${changeValue > 0 ? "+" : ""}${changeValue.toFixed(2)}%`
+      : "--";
+
+    tile.setAttribute(
+      "aria-label",
+      `${name.textContent}、前日比${Number.isFinite(changeValue) ? change.textContent : "データなし"}`
+    );
+    tile.append(symbol, name, change);
+    return tile;
+  };
+
+  const renderHeatmap = (items) => {
+    if (!marketHeatmap) return;
+    marketHeatmap.replaceChildren();
+    if (!Array.isArray(items) || items.length === 0) {
+      const message = document.createElement("p");
+      message.className = "market-message";
+      message.textContent = "ヒートマップデータを準備中です。";
+      marketHeatmap.append(message);
+      return;
+    }
+    items.forEach((item, index) => marketHeatmap.append(createHeatmapTile(item, index)));
+  };
+
   const renderFearGreed = (sentiment) => {
     const rawValue = sentiment?.value;
     const value = rawValue === null || rawValue === undefined || rawValue === ""
@@ -116,6 +169,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const data = await response.json();
 
     renderList(elements.stocks, data.stocks, "株式市場データを準備中です。");
+    renderHeatmap(data.stocks);
     renderList(elements.crypto, data.crypto, "仮想通貨データを準備中です。");
     renderList(elements.forex, data.forex, "為替データを準備中です。");
     renderList(elements.commodities, data.commodities, "商品データを準備中です。");
@@ -151,6 +205,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
     if (marketStatus) marketStatus.textContent = "ERROR";
     if (cryptoStatus) cryptoStatus.textContent = "ERROR";
+    renderHeatmap([]);
     renderFearGreed(null);
   }
 });
