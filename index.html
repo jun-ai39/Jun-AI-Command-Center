@@ -6,11 +6,12 @@
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
   <link rel="stylesheet" href="./css/theme.css?v=4.1.0">
-  <link rel="stylesheet" href="./css/style.css?v=4.4.0">
+  <link rel="stylesheet" href="./css/style.css?v=5.1.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
   <script src="./js/news.js?v=3.3.0" defer></script>
   <script src="./js/market.js?v=4.4.0" defer></script>
+  <script src="./js/ai.js?v=5.1.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -67,8 +68,8 @@
             <p class="card-value" id="marketOverviewValue">データ未接続</p><p class="card-description" id="marketOverviewMeta">市場データを確認しています。</p>
           </article>
           <article class="card">
-            <div class="card-heading"><span class="card-icon">✦</span><h3>AI分析</h3></div>
-            <p class="card-value">待機中</p><p class="card-description">信頼できる情報源を基に要約します。</p>
+            <div class="card-heading"><span class="card-icon">✦</span><h3>自動ブリーフ</h3></div>
+            <p class="card-value" id="aiOverviewValue">準備中</p><p class="card-description" id="aiOverviewMeta">無料のルールベースブリーフを確認しています。</p>
           </article>
         </section>
 
@@ -152,10 +153,28 @@
         </section>
 
         <section class="page-section" id="ai" data-page-section hidden>
-          <div class="section-intro"><p class="eyebrow">AI BRIEFING</p><h2>AI分析</h2><p class="muted">出来事・背景・注意点・見通しを整理します。</p></div>
-          <div class="placeholder-grid">
-            <article class="panel placeholder-card"><span class="feature-icon">✦</span><h3>朝の要約</h3><p>GitHub Actionsを使い、秘密情報を画面側へ置かずに生成します。</p></article>
-            <article class="panel placeholder-card"><span class="feature-icon">✓</span><h3>根拠確認</h3><p>情報源と更新日時を確認できる設計にします。</p></article>
+          <div class="section-intro"><p class="eyebrow">MORNING BRIEFING</p><h2>朝の自動ブリーフ</h2><p class="muted">最新見出しと市場数値を、無料のルールで機械的に整理します。</p></div>
+          <div class="data-toolbar panel">
+            <div><p id="briefingUpdatedAt">生成情報を確認中</p><p class="data-source-note" id="briefingMode">ルールベース（AI未使用）</p></div>
+            <span class="badge" id="briefingStatus">LOADING</span>
+          </div>
+          <div class="briefing-layout">
+            <article class="briefing-panel panel">
+              <div class="panel-heading"><div><p class="eyebrow">WHAT HAPPENED</p><h2>何が起きたか</h2></div><span class="badge">HEADLINES</span></div>
+              <div class="briefing-news-list" id="briefingNewsList" aria-live="polite"></div>
+            </article>
+            <article class="briefing-panel panel">
+              <div class="panel-heading"><div><p class="eyebrow">MARKET SNAPSHOT</p><h2>市場の動き</h2></div><span class="badge">NUMBERS</span></div>
+              <div class="briefing-market-grid" id="briefingMarketGrid" aria-live="polite"></div>
+            </article>
+            <article class="briefing-panel panel briefing-wide">
+              <div class="panel-heading"><div><p class="eyebrow">TODAY'S FOCUS</p><h2>今日の確認ポイント</h2></div><span class="badge">RULE BASED</span></div>
+              <div class="briefing-watch-list" id="briefingWatchList" aria-live="polite"></div>
+            </article>
+            <article class="briefing-panel panel briefing-wide briefing-limitation">
+              <div class="panel-heading"><div><p class="eyebrow">LIMITATIONS</p><h2>背景と見通しについて</h2></div><span class="badge">AI OFF</span></div>
+              <ul id="briefingLimitations"></ul>
+            </article>
           </div>
         </section>
 

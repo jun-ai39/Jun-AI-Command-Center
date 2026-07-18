@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "mode": "rule_based",
+  "mode_label": "ルールベース（AI未使用）",
+  "ai_generated": false,
+  "news_items": [],
+  "market_snapshot": [],
+  "watch_points": [],
+  "limitations": [
+    "記事見出しと取得済み数値を機械的に整理します。",
+    "出来事の因果関係や背景は自動判定しません。",
+    "将来予測・売買判断・投資助言は生成しません。"
+  ],
+  "source_updated_at": {
+    "news": null,
+    "market": null
+  }
+}
