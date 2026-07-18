@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "is_sample": true,
+  "as_of": "2026-07-18",
+  "summary": {
+    "total_value": 3480000,
+    "invested_amount": 3000000
+  },
+  "allocation": [
+    { "label": "NISA", "percent": 74.7, "color": "#55d7ff" },
+    { "label": "仮想通貨", "percent": 25.3, "color": "#a78bfa" }
+  ],
+  "history": [
+    { "month": "2月", "value": 2970000 },
+    { "month": "3月", "value": 3050000 },
+    { "month": "4月", "value": 3180000 },
+    { "month": "5月", "value": 3120000 },
+    { "month": "6月", "value": 3310000 },
+    { "month": "7月", "value": 3480000 }
+  ],
+  "holdings": [
+    {
+      "category": "NISA",
+      "name": "全世界株式インデックス（架空）",
+      "value": 1550000,
+      "profit": 210000
+    },
+    {
+      "category": "NISA",
+      "name": "米国株式インデックス（架空）",
+      "value": 1050000,
+      "profit": 170000
+    },
+    {
+      "category": "暗号資産",
+      "name": "Bitcoin（架空保有）",
+      "value": 620000,
+      "profit": 75000
+    },
+    {
+      "category": "暗号資産",
+      "name": "Ethereum（架空保有）",
+      "value": 260000,
+      "profit": 25000
+    }
+  ]
+}

@@ -182,6 +182,66 @@ a { color: inherit; text-decoration: none; }
 .briefing-limitation { border-color: rgba(255,180,84,.18); }
 .briefing-limitation ul { display: grid; gap: 9px; margin: 22px 0 0; padding-left: 20px; color: var(--color-muted); font-size: .78rem; line-height: 1.6; }
 .briefing-empty { grid-column: 1 / -1; margin: 22px 0 0; color: var(--color-muted); font-size: .8rem; }
+.portfolio-intro { display: flex; align-items: flex-end; justify-content: space-between; gap: 18px; }
+.sample-badge {
+  flex: 0 0 auto; padding: 8px 12px; border: 1px solid rgba(255,180,84,.35); border-radius: 999px;
+  background: rgba(255,180,84,.1); color: #ffc778; font-size: .72rem; font-weight: 800;
+}
+.sample-notice {
+  display: flex; align-items: center; gap: 12px; margin-bottom: 18px; padding: 14px 18px;
+  border: 1px solid rgba(255,180,84,.24); border-radius: 12px; background: rgba(255,180,84,.07);
+}
+.sample-notice > span {
+  display: grid; flex: 0 0 auto; width: 28px; height: 28px; place-items: center;
+  border-radius: 50%; background: rgba(255,180,84,.15); color: #ffc778; font-weight: 800;
+}
+.sample-notice p { margin: 0; color: var(--color-muted); font-size: .78rem; line-height: 1.6; }
+.sample-notice strong { color: #ffd79f; }
+.portfolio-summary { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 18px; }
+.portfolio-stat { min-height: 150px; padding: 22px; }
+.portfolio-stat-value { margin: 24px 0 7px; font-size: clamp(1.35rem,2.4vw,2rem); font-weight: 800; letter-spacing: -.03em; }
+.portfolio-stat-meta { margin: 0; color: var(--color-muted); font-size: .74rem; }
+.portfolio-stat-value.positive, .portfolio-stat-meta.positive, .holdings-table td.positive { color: var(--color-success); }
+.portfolio-stat-value.negative, .portfolio-stat-meta.negative, .holdings-table td.negative { color: #ff788a; }
+.portfolio-main-grid { display: grid; grid-template-columns: minmax(320px,.8fr) minmax(440px,1.2fr); gap: 18px; margin-top: 18px; }
+.allocation-panel, .history-panel, .holdings-panel { min-height: auto; }
+.allocation-content { display: grid; grid-template-columns: 180px minmax(150px,1fr); align-items: center; gap: 26px; margin-top: 28px; }
+.allocation-chart {
+  display: grid; width: 180px; aspect-ratio: 1; place-items: center; border-radius: 50%;
+  box-shadow: inset 0 0 32px rgba(7,11,20,.16);
+}
+.allocation-chart > div {
+  display: grid; width: 116px; aspect-ratio: 1; place-content: center; justify-items: center;
+  border: 1px solid var(--color-border); border-radius: 50%; background: #0d1422;
+}
+.allocation-chart strong { font-size: .92rem; }
+.allocation-chart span { margin-top: 5px; color: var(--color-muted); font-size: .64rem; }
+.allocation-legend { display: grid; gap: 4px; margin: 0; padding: 0; list-style: none; }
+.allocation-legend li { display: flex; justify-content: space-between; gap: 12px; padding: 13px 0; border-bottom: 1px solid var(--color-border); font-size: .78rem; }
+.allocation-legend li:last-child { border-bottom: 0; }
+.allocation-legend span { display: flex; align-items: center; gap: 8px; color: var(--color-muted); }
+.allocation-legend i { width: 8px; height: 8px; border-radius: 50%; }
+.history-chart { display: grid; grid-template-columns: repeat(6,minmax(46px,1fr)); gap: 10px; height: 230px; margin-top: 28px; }
+.history-column { display: grid; grid-template-rows: 24px 1fr 24px; gap: 7px; min-width: 0; text-align: center; }
+.history-value { color: var(--color-muted); font-size: .62rem; }
+.history-bar-track { position: relative; overflow: hidden; border-radius: 8px; background: rgba(85,215,255,.05); }
+.history-bar { position: absolute; right: 0; bottom: 0; left: 0; border-radius: 8px 8px 4px 4px; background: linear-gradient(180deg,#55d7ff,#1b7fa5); }
+.history-column:last-child .history-bar { background: linear-gradient(180deg,#78edff,#42e6a4); box-shadow: 0 0 20px rgba(66,230,164,.14); }
+.history-column small { color: var(--color-muted); font-size: .68rem; }
+.holdings-panel { margin-top: 18px; }
+.holdings-table-wrap { margin: 24px -26px -26px; overflow-x: auto; }
+.holdings-table { width: 100%; min-width: 650px; border-collapse: collapse; }
+.holdings-table th, .holdings-table td { padding: 16px 26px; border-top: 1px solid var(--color-border); text-align: right; }
+.holdings-table th { color: #6f849c; font-size: .66rem; font-weight: 700; letter-spacing: .05em; }
+.holdings-table td { color: var(--color-muted); font-size: .8rem; font-weight: 700; }
+.holdings-table th:first-child, .holdings-table td:first-child { text-align: left; }
+.holdings-table td:first-child { display: flex; align-items: center; gap: 12px; color: var(--color-text); }
+.holding-type { padding: 5px 8px; border-radius: 999px; font-size: .62rem; white-space: nowrap; }
+.holding-type.nisa { background: rgba(85,215,255,.1); color: var(--color-primary); }
+.holding-type.crypto { background: rgba(167,139,250,.12); color: #c4b5fd; }
+.holdings-message { display: table-cell !important; color: var(--color-muted) !important; text-align: center !important; }
+.portfolio-footnote { padding: 16px 4px 0; color: #60738a; font-size: .68rem; line-height: 1.6; }
+.portfolio-footnote p { margin: 0; }
 @keyframes page-in {
   from { opacity: 0; transform: translateY(6px); }
   to { opacity: 1; transform: translateY(0); }
@@ -238,6 +298,8 @@ a { color: inherit; text-decoration: none; }
   .briefing-layout { grid-template-columns: 1fr; }
   .briefing-wide { grid-column: auto; }
   .briefing-watch-list { grid-template-columns: 1fr; }
+  .portfolio-summary { grid-template-columns: 1fr; }
+  .portfolio-main-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 560px) {
   .topbar { min-height: 78px; }
@@ -249,4 +311,9 @@ a { color: inherit; text-decoration: none; }
   .heatmap-panel .panel-heading { align-items: flex-start; flex-direction: column; }
   .heatmap-legend { justify-content: flex-start; }
   .briefing-market-grid { grid-template-columns: 1fr; }
+  .portfolio-intro { align-items: flex-start; flex-direction: column; }
+  .allocation-content { grid-template-columns: 1fr; justify-items: center; }
+  .allocation-legend { width: 100%; }
+  .history-chart { gap: 5px; height: 210px; }
+  .history-value { font-size: .56rem; }
 }
