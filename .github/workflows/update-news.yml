@@ -1,7 +1,7 @@
 name: Update dashboard data and deploy Pages
 
 on:
-  # mainブランチの画面変更も自動公開します。
+  # mainブランチへ画面変更をPushした場合も自動公開します。
   push:
     branches:
       - main
@@ -11,64 +11,114 @@ on:
   # GitHubのActions画面から手動実行できます。
   workflow_dispatch:
 
+# 権限は各ジョブで必要最小限だけ許可します。
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
+# 前回の更新中に次の更新が始まった場合は、順番に実行します。
 concurrency:
-  group: pages-news-update
+  group: pages-dashboard-update
   cancel-in-progress: false
 
 jobs:
-  update-and-deploy:
+  # 定時実行と手動実行のときだけ、公開データを更新します。
+  update-data:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        # v7.0.0：安全性と再現性のため、正式リリースのSHAへ固定します。
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0
+
+      - name: Set up Python
+        # v6.3.0
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: "3.13"
+
+      - name: Update news data
+        run: python python/update_news.py
+
+      - name: Update market data
+        run: python python/update_market.py
+
+      - name: Build rule-based morning briefing
+        run: python python/update_briefing.py
+
+      - name: Validate generated JSON
+        run: |
+          python -m json.tool data/news.json > /dev/null
+          python -m json.tool data/market.json > /dev/null
+          python -m json.tool data/briefing.json > /dev/null
+
+      - name: Commit updated dashboard data
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/market.json data/briefing.json
+
+          if git diff --cached --quiet; then
+            echo "Dashboard data has not changed."
+          else
+            # [skip ci]で自動コミットによる重複実行を防ぎます。
+            git commit -m "chore: update dashboard data [skip ci]"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+  # 画面変更のPush後、またはデータ更新成功後にGitHub Pagesを公開します。
+  deploy-pages:
+    needs: update-data
+    if: >-
+      always() &&
+      (needs.update-data.result == 'success' || needs.update-data.result == 'skipped')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Set up Python
-        uses: actions/setup-python@v6
+      - name: Checkout latest main branch
+        # v7.0.0
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0
         with:
-          python-version: "3.13"
+          # 定時更新で作成された最新データを公開対象にします。
+          ref: main
 
-      - name: Update news data
-        if: github.event_name != 'push'
-        run: python python/update_news.py
-
-      - name: Update market data
-        if: github.event_name != 'push'
-        run: python python/update_market.py
-
-      - name: Build rule-based morning briefing
-        if: github.event_name != 'push'
-        run: python python/update_briefing.py
-
-      - name: Commit updated dashboard data
-        if: github.event_name != 'push'
+      - name: Prepare public site files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/market.json data/briefing.json
-          if git diff --cached --quiet; then
-            echo "Dashboard data has not changed."
-          else
-            git commit -m "chore: update dashboard data"
-            git push
-          fi
+          set -euo pipefail
+          mkdir -p _site
+          cp index.html _site/
+
+          # 公開に必要なフォルダだけをコピーします。
+          for directory in css js data assets config; do
+            if [ -d "$directory" ]; then
+              cp -R "$directory" _site/
+            fi
+          done
 
       - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+        # v6.0.0
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d
 
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v4
+        # v5.0.0
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9
         with:
-          path: "."
+          path: "_site"
 
       - name: Deploy GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        # v5.0.0
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128
