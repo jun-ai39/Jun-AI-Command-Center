@@ -1,19 +1,81 @@
 {
   "schema_version": 1,
-  "generated_at": null,
+  "generated_at": "2026-07-18T08:33:03+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
-  "news_items": [],
-  "market_snapshot": [],
-  "watch_points": [],
+  "news_items": [
+    {
+      "title": "アメリカ軍、7夜連続でイラン空爆",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 18 Jul 2026 04:40:56 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cy0jg4z92yro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "トランプ氏のSNS運営会社、「市場を動かす」投稿への高速アクセスを有料販売へ",
+      "category": "経済",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 18 Jul 2026 03:37:40 GMT",
+      "url": "https://www.bbc.com/japanese/articles/clyv5dex6nwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "カナダの大規模な山火事でアメリカにも煙、トランプ氏は追加関税を主張",
+      "category": "経済",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 18 Jul 2026 03:22:24 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c75g64r790ro?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "market_snapshot": [
+    {
+      "label": "株式",
+      "value": "上昇 0・下落 5・横ばい 0",
+      "detail": "最大変動：日経平均 -4.61%"
+    },
+    {
+      "label": "暗号資産",
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Bitcoin +2.08%"
+    },
+    {
+      "label": "市場心理",
+      "value": "25 / 100",
+      "detail": "極度の恐怖"
+    },
+    {
+      "label": "ドル円",
+      "value": "162.353 JPY",
+      "detail": "前日比 +0.29%"
+    }
+  ],
+  "watch_points": [
+    {
+      "title": "最新ニュースを確認",
+      "detail": "アメリカ軍、7夜連続でイラン空爆",
+      "meta": "世界情勢・BBC News 日本語",
+      "level": "normal"
+    },
+    {
+      "title": "株式市場の最大変動",
+      "detail": "日経平均が前日比-4.61%です。",
+      "meta": "取得対象の中で絶対値が最大",
+      "level": "alert"
+    },
+    {
+      "title": "Bitcoin市場心理",
+      "detail": "Fear & Greed Indexは25（極度の恐怖）です。",
+      "meta": "Alternative.meの参考指標",
+      "level": "alert"
+    }
+  ],
   "limitations": [
-    "記事見出しと取得済み数値を機械的に整理します。",
-    "出来事の因果関係や背景は自動判定しません。",
-    "将来予測・売買判断・投資助言は生成しません。"
+    "記事見出しと取得済み数値を機械的に整理しています。",
+    "出来事の因果関係や背景は自動判定していません。",
+    "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": null,
-    "market": null
+    "news": "2026-07-18T08:32:53+00:00",
+    "market": "2026-07-18T08:33:03+00:00"
   }
 }
