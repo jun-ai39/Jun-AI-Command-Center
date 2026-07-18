@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Jun AI Command Center</title>
+  <desc id="desc">濃紺の背景に水色の文字Jを配置したアプリアイコン</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0c2032"/>
+    </linearGradient>
+    <linearGradient id="letter" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#68e7ff"/>
+      <stop offset="1" stop-color="#22bdec"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- マスク可能なアイコンとして使えるよう、背景はキャンバス全体を覆います。 -->
+  <rect width="1024" height="1024" fill="url(#background)"/>
+
+  <!-- 小さい表示でも輪郭が分かる、控えめな近未来風フレームです。 -->
+  <rect x="92" y="92" width="840" height="840" rx="220"
+        fill="none" stroke="#38d4ff" stroke-opacity="0.34" stroke-width="18"/>
+  <path d="M213 310V220Q213 180 253 180H343"
+        fill="none" stroke="#68e7ff" stroke-opacity="0.65" stroke-width="18" stroke-linecap="round"/>
+  <path d="M811 714V804Q811 844 771 844H681"
+        fill="none" stroke="#22bdec" stroke-opacity="0.45" stroke-width="18" stroke-linecap="round"/>
+
+  <!-- フォントに依存しないパスで、Junの頭文字Jを表現しています。 -->
+  <g fill="none" stroke="url(#letter)" stroke-width="105" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M420 295H690"/>
+    <path d="M635 295V622C635 750 550 817 438 817C344 817 282 775 247 707"/>
+  </g>
+</svg>
