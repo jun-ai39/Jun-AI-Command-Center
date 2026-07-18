@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "locations": [
+    {
+      "id": "hondo",
+      "name": "本渡沖",
+      "description": "本渡瀬戸周辺の参考格子",
+      "latitude": 32.45,
+      "longitude": 130.18
+    },
+    {
+      "id": "ushibuka",
+      "name": "牛深沖",
+      "description": "天草下島南部の参考格子",
+      "latitude": 32.18,
+      "longitude": 130.0
+    },
+    {
+      "id": "tomioka",
+      "name": "富岡沖",
+      "description": "天草灘側の参考格子",
+      "latitude": 32.54,
+      "longitude": 129.98
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
   <link rel="stylesheet" href="./css/theme.css?v=4.1.0">
-  <link rel="stylesheet" href="./css/style.css?v=7.2.0">
+  <link rel="stylesheet" href="./css/style.css?v=7.3.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
   <script src="./js/news.js?v=3.3.0" defer></script>
@@ -15,6 +15,7 @@
   <script src="./js/assets.js?v=6.2.0" defer></script>
   <script src="./js/weather.js?v=7.1.0" defer></script>
   <script src="./js/bike.js?v=7.2.0" defer></script>
+  <script src="./js/fishing.js?v=7.3.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -347,11 +348,59 @@
         </section>
 
         <section class="page-section" id="fishing" data-page-section hidden>
-          <div class="section-intro"><p class="eyebrow">AMAKUSA FISHING</p><h2>釣り</h2><p class="muted">天草の潮汐・天気・風を一画面にまとめます。</p></div>
-          <div class="placeholder-grid">
-            <article class="panel placeholder-card"><span class="feature-icon">≈</span><h3>潮汐</h3><p>満潮・干潮時刻と潮回りを表示予定です。</p></article>
-            <article class="panel placeholder-card"><span class="feature-icon">↝</span><h3>風・波</h3><p>安全な釣行判断に必要な情報を優先します。</p></article>
+          <div class="section-intro"><p class="eyebrow">AMAKUSA FISHING</p><h2>天草の海況</h2><p class="muted">釣行前に風・波・降水・海水温と公式潮位表を確認します。</p></div>
+
+          <div class="data-toolbar panel fishing-toolbar">
+            <div><p id="fishingUpdatedAt">海況を確認中</p><p class="data-source-note" id="fishingLocationName">地点データを読み込み中</p></div>
+            <span class="badge" id="fishingStatus">LOADING</span>
           </div>
+
+          <div class="panel fishing-location-panel">
+            <div><p class="eyebrow">FORECAST POINT</p><h2>確認地点</h2></div>
+            <div class="fishing-location-buttons" id="fishingLocationButtons" aria-label="海況を確認する地点"></div>
+          </div>
+
+          <aside class="marine-safety-notice" aria-label="海況予報の注意事項">
+            <span aria-hidden="true">!</span>
+            <p><strong>数値予報だけで釣行可否を判断しないでください。</strong>沿岸では波・潮流の誤差が大きいため、警報・現地状況・立入規制を必ず確認してください。</p>
+          </aside>
+
+          <div class="marine-summary-grid" aria-label="現在の海況">
+            <article class="panel marine-primary-card">
+              <div class="panel-heading"><div><p class="eyebrow">CURRENT SEA</p><h2>波の状況</h2></div><span class="badge">MODEL</span></div>
+              <div class="marine-wave-main"><span aria-hidden="true">≈</span><div><strong id="currentWaveHeight">-- m</strong><p id="currentWaveDirection">波向を確認中</p></div></div>
+              <p class="marine-period" id="currentWavePeriod">周期 -- 秒</p>
+            </article>
+
+            <div class="marine-metrics">
+              <article class="panel marine-metric"><span aria-hidden="true">↝</span><div><p>風速</p><strong id="fishingWindSpeed">-- km/h</strong><small id="fishingWindDirection">--</small></div></article>
+              <article class="panel marine-metric"><span aria-hidden="true">!</span><div><p>最大瞬間風速</p><strong id="fishingWindGust">-- km/h</strong></div></article>
+              <article class="panel marine-metric"><span aria-hidden="true">⋰</span><div><p>現在の降水量</p><strong id="fishingPrecipitation">-- mm</strong></div></article>
+              <article class="panel marine-metric"><span aria-hidden="true">○</span><div><p>海面水温</p><strong id="seaTemperature">--°C</strong></div></article>
+              <article class="panel marine-metric"><span aria-hidden="true">⇢</span><div><p>潮流モデル</p><strong id="oceanCurrentSpeed">-- km/h</strong><small id="oceanCurrentDirection">--</small></div></article>
+            </div>
+          </div>
+
+          <article class="panel marine-forecast-panel">
+            <div class="panel-heading"><div><p class="eyebrow">7 DAY FORECAST</p><h2>週間海況</h2></div><span class="badge">REFERENCE</span></div>
+            <div class="marine-forecast-grid" id="marineForecast" aria-live="polite"><p class="marine-message">週間海況を読み込んでいます。</p></div>
+          </article>
+
+          <article class="panel tide-links-panel">
+            <div class="panel-heading"><div><p class="eyebrow">OFFICIAL TIDE TABLE</p><h2>満潮・干潮を確認</h2></div><span class="badge">JMA</span></div>
+            <p class="tide-description">潮汐時刻は気象庁の公式潮位表で確認します。海域に近い地点を選んでください。</p>
+            <div class="tide-link-grid">
+              <a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=HS" target="_blank" rel="noopener noreferrer"><strong>本渡瀬戸</strong><span>満潮・干潮を開く ↗</span></a>
+              <a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/suisan.php?stn=RH" target="_blank" rel="noopener noreferrer"><strong>苓北</strong><span>満潮・干潮を開く ↗</span></a>
+              <a href="https://www.data.jma.go.jp/kaiyou/db/tide/suisan/index.php" target="_blank" rel="noopener noreferrer"><strong>全国地点一覧</strong><span>気象庁で地点を選ぶ ↗</span></a>
+            </div>
+          </article>
+
+          <p class="marine-attribution">
+            Weather and marine data by <a href="https://open-meteo.com/" target="_blank" rel="noopener noreferrer">Open-Meteo.com</a>
+            · Wave model source: <a href="https://www.dwd.de/" target="_blank" rel="noopener noreferrer">DWD</a>
+            · <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>
+          </p>
         </section>
 
         <section class="page-section" id="ai-news" data-page-section hidden>
