@@ -5,9 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
-  <link rel="stylesheet" href="./css/theme.css">
-  <link rel="stylesheet" href="./css/style.css">
-  <script src="./js/main.js" defer></script>
+  <link rel="stylesheet" href="./css/theme.css?v=2.3.0">
+  <link rel="stylesheet" href="./css/style.css?v=2.3.0">
+  <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
+  <script src="./js/main.js?v=2.3.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -23,9 +24,17 @@
         <a class="nav-link" href="#crypto" data-page="crypto" data-title="仮想通貨"><span>₿</span><span>仮想通貨</span></a>
         <a class="nav-link" href="#assets" data-page="assets" data-title="投資管理"><span>¥</span><span>投資管理</span></a>
         <a class="nav-link" href="#ai" data-page="ai" data-title="AI分析"><span>✦</span><span>AI分析</span></a>
+        <p class="nav-group-label">LIFE &amp; INFO</p>
+        <a class="nav-link" href="#forex" data-page="forex" data-title="為替・商品"><span>⇄</span><span>為替・商品</span></a>
+        <a class="nav-link" href="#calendar" data-page="calendar" data-title="経済カレンダー"><span>□</span><span>経済カレンダー</span></a>
+        <a class="nav-link" href="#kumamoto" data-page="kumamoto" data-title="熊本"><span>☁</span><span>熊本</span></a>
+        <a class="nav-link" href="#bike" data-page="bike" data-title="バイク"><span>⌁</span><span>バイク</span></a>
+        <a class="nav-link" href="#fishing" data-page="fishing" data-title="釣り"><span>≈</span><span>釣り</span></a>
+        <a class="nav-link" href="#ai-news" data-page="ai-news" data-title="AIニュース"><span>◫</span><span>AIニュース</span></a>
       </nav>
       <p class="sidebar-note">Secure personal dashboard</p>
     </aside>
+    <button class="sidebar-overlay" id="sidebarOverlay" type="button" aria-label="メニューを閉じる"></button>
 
     <div class="main-area">
       <header class="topbar">
@@ -115,6 +124,54 @@
           <div class="placeholder-grid">
             <article class="panel placeholder-card"><span class="feature-icon">✦</span><h3>朝の要約</h3><p>GitHub Actionsを使い、秘密情報を画面側へ置かずに生成します。</p></article>
             <article class="panel placeholder-card"><span class="feature-icon">✓</span><h3>根拠確認</h3><p>情報源と更新日時を確認できる設計にします。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="forex" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">FOREX &amp; COMMODITIES</p><h2>為替・商品</h2><p class="muted">ドル円・ユーロ円・金・原油をまとめて確認します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">⇄</span><h3>主要為替</h3><p>現在値、前日比、短期推移を表示予定です。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">◆</span><h3>金・原油</h3><p>市場のリスク傾向を確認できる構成にします。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="calendar" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">ECONOMIC EVENTS</p><h2>経済カレンダー</h2><p class="muted">市場に影響する主要イベントを時系列で確認します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">□</span><h3>重要イベント</h3><p>FOMC・CPI・雇用統計・日銀会合を表示します。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">!</span><h3>事前通知</h3><p>注目度の高い予定を今日の概要へ表示予定です。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="kumamoto" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">LOCAL WEATHER</p><h2>熊本</h2><p class="muted">熊本の現在天気と週間予報を確認します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">☁</span><h3>今日の天気</h3><p>気温・降水確率・風を表示予定です。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">▥</span><h3>週間予報</h3><p>ツーリングや釣りの予定判断に活用します。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="bike" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">MOTORCYCLE</p><h2>バイク</h2><p class="muted">ツーリングルートとイベント情報を集約します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">⌁</span><h3>おすすめルート</h3><p>海沿い・山道・景観を軸にルートを提案します。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">□</span><h3>イベント</h3><p>熊本・九州の開催情報を確認できるようにします。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="fishing" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">AMAKUSA FISHING</p><h2>釣り</h2><p class="muted">天草の潮汐・天気・風を一画面にまとめます。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">≈</span><h3>潮汐</h3><p>満潮・干潮時刻と潮回りを表示予定です。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">↝</span><h3>風・波</h3><p>安全な釣行判断に必要な情報を優先します。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="ai-news" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">AI INDUSTRY</p><h2>AIニュース</h2><p class="muted">主要企業と生成AI全般の更新情報を追跡します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">◫</span><h3>主要企業</h3><p>OpenAI・Google・Anthropicの公式発表を優先します。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">✦</span><h3>学習ポイント</h3><p>ジュンさんのAI学習に役立つ内容を整理します。</p></article>
           </div>
         </section>
       </main>

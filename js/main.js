@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const dateElement = document.getElementById("currentDate");
   const menuButton = document.getElementById("menuButton");
   const sidebar = document.getElementById("sidebar");
+  const sidebarOverlay = document.getElementById("sidebarOverlay");
   const pageTitle = document.getElementById("pageTitle");
   const navLinks = document.querySelectorAll(".nav-link[data-page]");
   const pageSections = document.querySelectorAll("[data-page-section]");
@@ -19,18 +20,27 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   if (menuButton && sidebar) {
+    const closeMenu = () => {
+      sidebar.classList.remove("open");
+      document.body.classList.remove("menu-open");
+      menuButton.setAttribute("aria-expanded", "false");
+      menuButton.setAttribute("aria-label", "メニューを開く");
+    };
+
     menuButton.addEventListener("click", () => {
       const isOpen = sidebar.classList.toggle("open");
+      document.body.classList.toggle("menu-open", isOpen);
       menuButton.setAttribute("aria-expanded", String(isOpen));
       menuButton.setAttribute("aria-label", isOpen ? "メニューを閉じる" : "メニューを開く");
     });
 
     sidebar.querySelectorAll(".nav-link").forEach((link) => {
-      link.addEventListener("click", () => {
-        sidebar.classList.remove("open");
-        menuButton.setAttribute("aria-expanded", "false");
-        menuButton.setAttribute("aria-label", "メニューを開く");
-      });
+      link.addEventListener("click", closeMenu);
+    });
+
+    if (sidebarOverlay) sidebarOverlay.addEventListener("click", closeMenu);
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") closeMenu();
     });
   }
 
@@ -60,12 +70,20 @@ document.addEventListener("DOMContentLoaded", () => {
       const title = link.dataset.title;
       if (!pageName || !title) return;
       showPage(pageName, title);
-      window.history.replaceState(null, "", `#${pageName}`);
+      window.history.pushState(null, "", `#${pageName}`);
     });
   });
 
-  // ページを再読込しても、URLの # に対応する画面を表示します。
-  const initialPage = window.location.hash.replace("#", "") || "overview";
-  const initialLink = document.querySelector(`.nav-link[data-page="${initialPage}"]`);
-  if (initialLink) showPage(initialPage, initialLink.dataset.title);
+  // URLの # に対応する画面を表示します。
+  const showPageFromHash = () => {
+    const pageName = window.location.hash.replace("#", "") || "overview";
+    const targetLink = document.querySelector(`.nav-link[data-page="${pageName}"]`);
+    if (targetLink) showPage(pageName, targetLink.dataset.title);
+    else showPage("overview", "今日の概要");
+  };
+
+  // 戻る・進むボタンや、URLの直接変更にも対応します。
+  window.addEventListener("hashchange", showPageFromHash);
+  window.addEventListener("popstate", showPageFromHash);
+  showPageFromHash();
 });
