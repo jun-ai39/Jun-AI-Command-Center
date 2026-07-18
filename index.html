@@ -17,12 +17,12 @@
         <div><p class="brand-name">JUN AI</p><p class="brand-subtitle">COMMAND CENTER</p></div>
       </div>
       <nav class="navigation">
-        <a class="nav-link active" href="#overview" aria-current="page"><span>◈</span><span>今日の概要</span></a>
-        <a class="nav-link" href="#world"><span>◎</span><span>世界情勢</span></a>
-        <a class="nav-link" href="#market"><span>↗</span><span>株式市場</span></a>
-        <a class="nav-link" href="#crypto"><span>₿</span><span>仮想通貨</span></a>
-        <a class="nav-link" href="#assets"><span>¥</span><span>投資管理</span></a>
-        <a class="nav-link" href="#ai"><span>✦</span><span>AI分析</span></a>
+        <a class="nav-link active" href="#overview" data-page="overview" data-title="今日の概要" aria-current="page"><span>◈</span><span>今日の概要</span></a>
+        <a class="nav-link" href="#world" data-page="world" data-title="世界情勢"><span>◎</span><span>世界情勢</span></a>
+        <a class="nav-link" href="#market" data-page="market" data-title="株式市場"><span>↗</span><span>株式市場</span></a>
+        <a class="nav-link" href="#crypto" data-page="crypto" data-title="仮想通貨"><span>₿</span><span>仮想通貨</span></a>
+        <a class="nav-link" href="#assets" data-page="assets" data-title="投資管理"><span>¥</span><span>投資管理</span></a>
+        <a class="nav-link" href="#ai" data-page="ai" data-title="AI分析"><span>✦</span><span>AI分析</span></a>
       </nav>
       <p class="sidebar-note">Secure personal dashboard</p>
     </aside>
@@ -31,11 +31,12 @@
       <header class="topbar">
         <button class="menu-button" id="menuButton" type="button" aria-label="メニューを開く"
                 aria-expanded="false" aria-controls="sidebar">☰</button>
-        <div><p class="eyebrow">DAILY INTELLIGENCE</p><h1>今日の概要</h1></div>
+        <div><p class="eyebrow">DAILY INTELLIGENCE</p><h1 id="pageTitle">今日の概要</h1></div>
         <div class="topbar-status"><span class="status-dot"></span><span>System Ready</span></div>
       </header>
 
-      <main class="dashboard" id="overview">
+      <main class="dashboard">
+        <section class="page-section active" id="overview" data-page-section>
         <section class="welcome-panel" aria-labelledby="welcomeTitle">
           <div>
             <p class="eyebrow">GOOD MORNING, JUN</p>
@@ -73,6 +74,48 @@
               <li><span>熊本・天草</span><span class="module-status">予定</span></li>
             </ul>
           </article>
+        </section>
+        </section>
+
+        <!-- 各機能の画面。データ連携は後続STEPで追加します。 -->
+        <section class="page-section" id="world" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">GLOBAL INTELLIGENCE</p><h2>世界情勢</h2><p class="muted">地域別ニュース・紛争・災害・経済情報を集約します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">◎</span><h3>地域別ニュース</h3><p>STEP3で信頼できるニュースソースを接続します。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">◇</span><h3>世界地図</h3><p>重要地域を視覚的に確認する地図を追加予定です。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="market" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">MARKET PULSE</p><h2>株式市場</h2><p class="muted">日本・米国の主要指数を一覧化します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">↗</span><h3>主要指数</h3><p>日経平均・TOPIX・NYダウ・NASDAQ・S&amp;P500を表示予定です。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">▦</span><h3>ヒートマップ</h3><p>市場全体の強弱を色で確認できる画面を追加します。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="crypto" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">DIGITAL ASSETS</p><h2>仮想通貨</h2><p class="muted">BTC・ETH・主要アルトの動きを確認します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">₿</span><h3>価格と変動率</h3><p>安全な公開データから価格情報を取得します。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">◉</span><h3>Fear &amp; Greed</h3><p>市場心理を示す指標を追加予定です。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="assets" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">PORTFOLIO</p><h2>投資管理</h2><p class="muted">NISAと仮想通貨の資産推移を管理します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">¥</span><h3>NISA資産</h3><p>個人データを公開しない安全な保存方式を設計します。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">⌁</span><h3>資産推移</h3><p>評価額と積立状況をグラフで確認できるようにします。</p></article>
+          </div>
+        </section>
+
+        <section class="page-section" id="ai" data-page-section hidden>
+          <div class="section-intro"><p class="eyebrow">AI BRIEFING</p><h2>AI分析</h2><p class="muted">出来事・背景・注意点・見通しを整理します。</p></div>
+          <div class="placeholder-grid">
+            <article class="panel placeholder-card"><span class="feature-icon">✦</span><h3>朝の要約</h3><p>GitHub Actionsを使い、秘密情報を画面側へ置かずに生成します。</p></article>
+            <article class="panel placeholder-card"><span class="feature-icon">✓</span><h3>根拠確認</h3><p>情報源と更新日時を確認できる設計にします。</p></article>
+          </div>
         </section>
       </main>
     </div>
