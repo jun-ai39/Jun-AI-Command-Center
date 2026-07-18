@@ -14,6 +14,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const limitations = document.getElementById("briefingLimitations");
   const overviewValue = document.getElementById("aiOverviewValue");
   const overviewMeta = document.getElementById("aiOverviewMeta");
+  const overviewFocusList = document.getElementById("overviewFocusList");
+  const overviewFocusStatus = document.getElementById("overviewFocusStatus");
 
   const formatDate = (value) => {
     if (!value) return "更新待ち";
@@ -139,6 +141,44 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   };
 
+  // TOP画面には、朝に最初に確認する3件をコンパクトに表示します。
+  const renderOverviewFocus = (items) => {
+    if (!overviewFocusList) return;
+    overviewFocusList.replaceChildren();
+
+    if (!Array.isArray(items) || items.length === 0) {
+      const message = document.createElement("p");
+      message.className = "overview-focus-message";
+      message.textContent = "確認ポイントを準備中です。";
+      overviewFocusList.append(message);
+      if (overviewFocusStatus) overviewFocusStatus.textContent = "STANDBY";
+      return;
+    }
+
+    items.slice(0, 3).forEach((item, index) => {
+      const card = document.createElement("article");
+      card.className = `overview-focus-item${item.level === "alert" ? " alert" : ""}`;
+
+      const number = document.createElement("span");
+      number.className = "overview-focus-number";
+      number.textContent = String(index + 1).padStart(2, "0");
+
+      const content = document.createElement("div");
+      const title = document.createElement("h3");
+      const detail = document.createElement("p");
+      title.textContent = item.title || "確認ポイント";
+      detail.textContent = item.detail || "詳細なし";
+      content.append(title, detail);
+
+      card.append(number, content);
+      overviewFocusList.append(card);
+    });
+
+    if (overviewFocusStatus) {
+      overviewFocusStatus.textContent = `${Math.min(items.length, 3)} POINTS`;
+    }
+  };
+
   const renderLimitations = (items) => {
     if (!limitations) return;
     limitations.replaceChildren();
@@ -160,6 +200,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderNews(data.news_items);
     renderMarket(data.market_snapshot);
     renderWatchPoints(data.watch_points);
+    renderOverviewFocus(data.watch_points);
     renderLimitations(data.limitations);
 
     const pointCount = Array.isArray(data.watch_points) ? data.watch_points.length : 0;
@@ -179,6 +220,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderNews([]);
     renderMarket([]);
     renderWatchPoints([]);
+    renderOverviewFocus([]);
     renderLimitations([]);
   }
 });

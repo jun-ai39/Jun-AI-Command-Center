@@ -6,12 +6,12 @@
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
   <link rel="stylesheet" href="./css/theme.css?v=4.1.0">
-  <link rel="stylesheet" href="./css/style.css?v=7.3.0">
+  <link rel="stylesheet" href="./css/style.css?v=9.1.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
   <script src="./js/news.js?v=3.3.0" defer></script>
   <script src="./js/market.js?v=4.4.0" defer></script>
-  <script src="./js/ai.js?v=5.1.0" defer></script>
+  <script src="./js/ai.js?v=9.1.0" defer></script>
   <script src="./js/assets.js?v=6.2.0" defer></script>
   <script src="./js/weather.js?v=7.1.0" defer></script>
   <script src="./js/bike.js?v=7.2.0" defer></script>
@@ -79,15 +79,17 @@
 
         <section class="content-grid">
           <article class="panel">
-            <div class="panel-heading"><div><p class="eyebrow">FOCUS</p><h2>今日注目するポイント</h2></div><span class="badge">PREVIEW</span></div>
-            <div class="empty-state"><span>◇</span><p>データ連携後、重要度の高い情報をここに表示します。</p></div>
+            <div class="panel-heading"><div><p class="eyebrow">FOCUS</p><h2>今日注目するポイント</h2></div><span class="badge" id="overviewFocusStatus">LOADING</span></div>
+            <div class="overview-focus-list" id="overviewFocusList" aria-live="polite">
+              <p class="overview-focus-message">朝の確認ポイントを読み込んでいます。</p>
+            </div>
           </article>
           <article class="panel">
             <div class="panel-heading"><div><p class="eyebrow">MODULES</p><h2>情報モジュール</h2></div></div>
             <ul class="module-list">
-              <li><span>世界情勢</span><span class="module-status">予定</span></li>
-              <li><span>マーケット</span><span class="module-status">予定</span></li>
-              <li><span>熊本・天草</span><span class="module-status">予定</span></li>
+              <li><span>世界情勢</span><span class="module-status active">稼働中</span></li>
+              <li><span>マーケット</span><span class="module-status active">稼働中</span></li>
+              <li><span>熊本・天草</span><span class="module-status active">LIVE</span></li>
             </ul>
           </article>
         </section>
