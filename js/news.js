@@ -7,6 +7,7 @@
 
 document.addEventListener("DOMContentLoaded", async () => {
   const newsGrid = document.getElementById("newsGrid");
+  const newsFilters = document.getElementById("newsFilters");
   const newsStatus = document.getElementById("newsStatus");
   const newsUpdatedAt = document.getElementById("newsUpdatedAt");
   const topNewsTitle = document.getElementById("topNewsTitle");
@@ -24,6 +25,102 @@ document.addEventListener("DOMContentLoaded", async () => {
     text.textContent = message;
     card.append(heading, text);
     newsGrid.append(card);
+  };
+
+  const formatDate = (dateValue) => {
+    if (!dateValue) return "日時不明";
+    const date = new Date(dateValue);
+    if (Number.isNaN(date.getTime())) return "日時不明";
+    return date.toLocaleString("ja-JP", {
+      timeZone: "Asia/Tokyo",
+      month: "numeric",
+      day: "numeric",
+      hour: "2-digit",
+      minute: "2-digit"
+    });
+  };
+
+  const createNewsCard = (item) => {
+    const card = document.createElement("article");
+    card.className = "panel news-card";
+
+    const meta = document.createElement("div");
+    meta.className = "news-meta";
+
+    const category = document.createElement("span");
+    category.className = "news-category";
+    category.textContent = item.category || "一般";
+
+    const source = document.createElement("span");
+    source.textContent = item.source || "情報源未設定";
+
+    const published = document.createElement("span");
+    published.textContent = formatDate(item.published_at);
+    meta.append(category, source, published);
+
+    const heading = document.createElement("h3");
+    heading.textContent = item.title || "タイトルなし";
+
+    const summary = document.createElement("p");
+    summary.textContent = item.summary || "要約はありません。";
+
+    const link = document.createElement("a");
+    try {
+      const safeUrl = new URL(item.url);
+      if (safeUrl.protocol !== "https:") throw new Error("HTTPS以外のURLです");
+      link.href = safeUrl.href;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "情報源を開く →";
+    } catch {
+      link.href = "#";
+      link.textContent = "情報源URLなし";
+      link.setAttribute("aria-disabled", "true");
+    }
+
+    card.append(meta, heading, summary, link);
+    return card;
+  };
+
+  const renderNews = (items, categoryName = "すべて") => {
+    const filteredItems = categoryName === "すべて"
+      ? items
+      : items.filter((item) => (item.category || "一般") === categoryName);
+
+    newsGrid.replaceChildren();
+    if (filteredItems.length === 0) {
+      showMessage("該当するニュースはありません", "別のカテゴリを選択してください。");
+      return;
+    }
+
+    filteredItems.slice(0, 9).forEach((item) => {
+      newsGrid.append(createNewsCard(item));
+    });
+    if (newsStatus) newsStatus.textContent = `${filteredItems.length} NEWS`;
+  };
+
+  const createFilters = (items) => {
+    if (!newsFilters) return;
+    const categories = ["すべて", ...new Set(items.map((item) => item.category || "一般"))];
+    newsFilters.replaceChildren();
+
+    categories.forEach((categoryName, index) => {
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = `filter-button${index === 0 ? " active" : ""}`;
+      button.textContent = categoryName;
+      button.setAttribute("aria-pressed", index === 0 ? "true" : "false");
+
+      button.addEventListener("click", () => {
+        newsFilters.querySelectorAll(".filter-button").forEach((filterButton) => {
+          const isCurrent = filterButton === button;
+          filterButton.classList.toggle("active", isCurrent);
+          filterButton.setAttribute("aria-pressed", String(isCurrent));
+        });
+        renderNews(items, categoryName);
+      });
+      newsFilters.append(button);
+    });
   };
 
   try {
@@ -45,43 +142,8 @@ document.addEventListener("DOMContentLoaded", async () => {
       return;
     }
 
-    newsGrid.replaceChildren();
-    items.slice(0, 9).forEach((item) => {
-      const card = document.createElement("article");
-      card.className = "panel news-card";
-
-      const meta = document.createElement("div");
-      meta.className = "news-meta";
-      const category = document.createElement("span");
-      category.className = "news-category";
-      category.textContent = item.category || "一般";
-      const source = document.createElement("span");
-      source.textContent = item.source || "情報源未設定";
-      meta.append(category, source);
-
-      const heading = document.createElement("h3");
-      heading.textContent = item.title || "タイトルなし";
-      const summary = document.createElement("p");
-      summary.textContent = item.summary || "要約はありません。";
-      const link = document.createElement("a");
-      try {
-        const safeUrl = new URL(item.url);
-        if (safeUrl.protocol !== "https:") throw new Error("HTTPS以外のURLです");
-        link.href = safeUrl.href;
-        link.target = "_blank";
-        link.rel = "noopener noreferrer";
-        link.textContent = "情報源を開く →";
-      } catch {
-        link.href = "#";
-        link.textContent = "情報源URLなし";
-        link.setAttribute("aria-disabled", "true");
-      }
-
-      card.append(meta, heading, summary, link);
-      newsGrid.append(card);
-    });
-
-    if (newsStatus) newsStatus.textContent = `${items.length} NEWS`;
+    createFilters(items);
+    renderNews(items);
     if (topNewsTitle) topNewsTitle.textContent = items[0].title || "最新ニュース";
     if (topNewsMeta) topNewsMeta.textContent = `${items[0].source || "情報源未設定"}・詳細は世界情勢へ`;
   } catch (error) {

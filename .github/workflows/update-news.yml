@@ -1,6 +1,10 @@
 name: Update news and deploy Pages
 
 on:
+  # mainブランチの画面変更も自動公開します。
+  push:
+    branches:
+      - main
   # 日本時間の毎朝6:17（UTCでは前日の21:17）に実行します。
   schedule:
     - cron: "17 21 * * *"
@@ -33,9 +37,11 @@ jobs:
           python-version: "3.13"
 
       - name: Update news data
+        if: github.event_name != 'push'
         run: python python/update_news.py
 
       - name: Commit updated news data
+        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
