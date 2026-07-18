@@ -5,10 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
-  <link rel="stylesheet" href="./css/theme.css?v=2.3.0">
-  <link rel="stylesheet" href="./css/style.css?v=2.3.0">
+  <link rel="stylesheet" href="./css/theme.css?v=3.1.0">
+  <link rel="stylesheet" href="./css/style.css?v=3.1.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
-  <script src="./js/main.js?v=2.3.0" defer></script>
+  <script src="./js/main.js?v=3.1.0" defer></script>
+  <script src="./js/news.js?v=3.1.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -58,7 +59,7 @@
         <section class="summary-grid" aria-label="主要情報">
           <article class="card card-accent">
             <div class="card-heading"><span class="card-icon">!</span><h3>重要ニュース</h3></div>
-            <p class="card-value">準備中</p><p class="card-description">STEP3で最新ニュースを連携します。</p>
+            <p class="card-value" id="topNewsTitle">準備中</p><p class="card-description" id="topNewsMeta">ニュースデータを確認しています。</p>
           </article>
           <article class="card">
             <div class="card-heading"><span class="card-icon">↗</span><h3>市場概況</h3></div>
@@ -89,9 +90,12 @@
         <!-- 各機能の画面。データ連携は後続STEPで追加します。 -->
         <section class="page-section" id="world" data-page-section hidden>
           <div class="section-intro"><p class="eyebrow">GLOBAL INTELLIGENCE</p><h2>世界情勢</h2><p class="muted">地域別ニュース・紛争・災害・経済情報を集約します。</p></div>
-          <div class="placeholder-grid">
-            <article class="panel placeholder-card"><span class="feature-icon">◎</span><h3>地域別ニュース</h3><p>STEP3で信頼できるニュースソースを接続します。</p></article>
-            <article class="panel placeholder-card"><span class="feature-icon">◇</span><h3>世界地図</h3><p>重要地域を視覚的に確認する地図を追加予定です。</p></article>
+          <div class="news-toolbar panel">
+            <div><p class="eyebrow">LATEST UPDATE</p><p class="news-update" id="newsUpdatedAt">更新情報を確認中</p></div>
+            <span class="badge" id="newsStatus">LOADING</span>
+          </div>
+          <div class="news-grid" id="newsGrid" aria-live="polite">
+            <article class="panel news-message"><h3>ニュースを読み込んでいます</h3><p>しばらくお待ちください。</p></article>
           </div>
         </section>
 
