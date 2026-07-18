@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-18T07:06:42+00:00",
+  "updated_at": "2026-07-18T07:17:18+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -9,6 +9,16 @@
       "currency": "JPY",
       "change_percent": -4.612558115947989,
       "decimals": 2
+    },
+    {
+      "symbol": "1308",
+      "name": "TOPIX連動ETF（参考値）",
+      "price": 4034.0,
+      "currency": "JPY",
+      "change_percent": -2.134885977680738,
+      "decimals": 1,
+      "instrument_type": "proxy_etf",
+      "proxy_for": "TOPIX"
     },
     {
       "symbol": "^DJI",
@@ -39,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 10386392.796418194,
+      "price": 10389248.424481198,
       "currency": "JPY",
-      "change_percent": 1.89945,
+      "change_percent": 1.99915,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 299484.10316545126,
+      "price": 299247.9643394139,
       "currency": "JPY",
-      "change_percent": 0.93502,
+      "change_percent": 0.93612,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 176.78378436990667,
+      "price": 176.70858738381958,
       "currency": "JPY",
-      "change_percent": 0.40442,
+      "change_percent": 0.54531,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 12173.560550710516,
+      "price": 12165.914969757267,
       "currency": "JPY",
-      "change_percent": 0.71026,
+      "change_percent": 0.74636,
       "decimals": 0
     }
   ],
