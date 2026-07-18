@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "updated_at": "2026-07-18T07:17:18+00:00",
+  "schema_version": 2,
+  "updated_at": "2026-07-18T07:36:39+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 10389248.424481198,
+      "price": 10391029.452647598,
       "currency": "JPY",
-      "change_percent": 1.99915,
+      "change_percent": 1.88296,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 299247.9643394139,
+      "price": 299512.94596008956,
       "currency": "JPY",
-      "change_percent": 0.93612,
+      "change_percent": 1.06549,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 176.70858738381958,
+      "price": 176.89700359857972,
       "currency": "JPY",
-      "change_percent": 0.54531,
+      "change_percent": 0.71047,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 12165.914969757267,
+      "price": 12165.401911665414,
       "currency": "JPY",
-      "change_percent": 0.74636,
+      "change_percent": 0.6642,
       "decimals": 0
     }
   ],
@@ -117,6 +117,16 @@
   ],
   "sources": {
     "crypto": "CoinGecko API",
+    "sentiment": "Alternative.me Crypto Fear & Greed Index",
     "market": "Yahoo Finance chart endpoint (unofficial)"
+  },
+  "sentiment": {
+    "name": "Crypto Fear & Greed Index",
+    "scope": "Bitcoin market sentiment",
+    "value": 25,
+    "classification": "Extreme Fear",
+    "classification_ja": "極度の恐怖",
+    "observed_at": "2026-07-18T00:00:00+00:00",
+    "source": "Alternative.me"
   }
 }
