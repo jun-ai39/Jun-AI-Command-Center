@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-07-19T00:13:55+00:00",
+  "updated_at": "2026-07-19T06:27:03+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "【2026年サッカー男子W杯】 イングランド、6-4でフランス破る　3位決定戦",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2dl5v0kd1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "published_at": "Sun, 19 Jul 2026 04:42:31 GMT"
+    },
+    {
+      "title": "遠い恒星の地球型惑星で大気を初確認、生命居住可能領域の内側",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckgdn4ypyk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "published_at": "Sat, 18 Jul 2026 03:12:07 GMT"
+    },
     {
       "title": "アメリカ軍、7夜連続でイラン空爆",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -18,14 +34,6 @@
       "source": "BBC News 日本語",
       "category": "経済",
       "published_at": "Sat, 18 Jul 2026 03:22:24 GMT"
-    },
-    {
-      "title": "遠い恒星の地球型惑星で大気を初確認、生命居住可能領域の内側",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckgdn4ypyk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "published_at": "Sat, 18 Jul 2026 03:12:07 GMT"
     },
     {
       "title": "トランプ氏のSNS運営会社、「市場を動かす」投稿への高速アクセスを有料販売へ",
@@ -66,14 +74,6 @@
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "published_at": "Fri, 17 Jul 2026 09:07:31 GMT"
-    },
-    {
-      "title": "トランプ氏、米選挙システムに「衝撃的な脆弱性」あると主張　中間選挙を控え",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9q9gzr7e4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "published_at": "Fri, 17 Jul 2026 06:28:51 GMT"
     }
   ]
 }

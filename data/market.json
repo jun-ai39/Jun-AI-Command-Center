@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-19T00:14:05+00:00",
+  "updated_at": "2026-07-19T06:27:14+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 10531795.253423305,
+      "price": 10509611.740919992,
       "currency": "JPY",
-      "change_percent": 1.49525,
+      "change_percent": 1.17856,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 302510.80630581436,
+      "price": 303520.11275556503,
       "currency": "JPY",
-      "change_percent": 1.16887,
+      "change_percent": 1.29241,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 177.60921155361345,
+      "price": 178.15643394645085,
       "currency": "JPY",
-      "change_percent": 0.47902,
+      "change_percent": 0.82661,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 12262.499430922173,
+      "price": 12344.910217229168,
       "currency": "JPY",
-      "change_percent": 0.64096,
+      "change_percent": 1.32437,
       "decimals": 0
     }
   ],
@@ -103,7 +103,7 @@
       "name": "金先物",
       "price": 4018.8,
       "currency": "USD",
-      "change_percent": 0.545409056792599,
+      "change_percent": -1.0415897170717228,
       "decimals": 2
     },
     {
@@ -111,7 +111,7 @@
       "name": "WTI原油先物",
       "price": 81.78,
       "currency": "USD",
-      "change_percent": 4.658305605323779,
+      "change_percent": 3.075371817494325,
       "decimals": 2
     }
   ],
