@@ -1,0 +1,244 @@
+/*
+ * STEP15 世界情勢マップ
+ * 外部ライブラリを使用せず、軽量な模式図と地域ボタンを表示します。
+ */
+
+.world-map-panel {
+  min-height: auto;
+  margin-bottom: 18px;
+  padding: clamp(20px, 3vw, 28px);
+  overflow: hidden;
+}
+
+.world-map-heading {
+  margin-bottom: 22px;
+}
+
+.world-map-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.55fr) minmax(250px, .45fr);
+  gap: 24px;
+  align-items: stretch;
+}
+
+.world-map-visual {
+  position: relative;
+  min-height: 360px;
+  overflow: hidden;
+  border: 1px solid rgba(85, 215, 255, .16);
+  border-radius: 18px;
+  background: #07101e;
+  box-shadow: inset 0 0 45px rgba(85, 215, 255, .035);
+}
+
+.world-map-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 360px;
+}
+
+.world-map-ocean {
+  fill: url("#worldMapOcean");
+}
+
+.world-map-grid-lines {
+  fill: none;
+  stroke: rgba(85, 215, 255, .055);
+  stroke-width: 1;
+  stroke-dasharray: 4 8;
+}
+
+.world-map-land path {
+  fill: url("#worldMapLand");
+  stroke: rgba(85, 215, 255, .2);
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+
+.world-map-markers {
+  position: absolute;
+  inset: 0;
+}
+
+.world-region-marker {
+  position: absolute;
+  left: var(--map-x);
+  top: var(--map-y);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 9px;
+  border: 1px solid rgba(143, 163, 187, .26);
+  border-radius: 999px;
+  background: rgba(7, 11, 20, .86);
+  color: var(--color-muted);
+  font-size: .68rem;
+  font-weight: 750;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  transform: translate(-50%, -50%);
+  transition:
+    color var(--transition-fast),
+    border-color var(--transition-fast),
+    background var(--transition-fast),
+    transform var(--transition-fast);
+}
+
+.world-region-marker::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: #60738a;
+  box-shadow: 0 0 0 rgba(85, 215, 255, 0);
+}
+
+.world-region-marker:hover,
+.world-region-marker:focus-visible,
+.world-region-marker.active {
+  border-color: rgba(85, 215, 255, .5);
+  background: rgba(85, 215, 255, .15);
+  color: var(--color-text);
+  transform: translate(-50%, -50%) scale(1.04);
+}
+
+.world-region-marker.active::before {
+  background: var(--color-primary);
+  box-shadow: 0 0 12px rgba(85, 215, 255, .9);
+}
+
+.world-map-controls {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+}
+
+.world-map-selection {
+  margin: 0 0 14px;
+  color: var(--color-text);
+  font-size: .9rem;
+  font-weight: 800;
+}
+
+.world-region-filters {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.world-region-button {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 10px 11px;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: rgba(7, 11, 20, .34);
+  color: var(--color-muted);
+  cursor: pointer;
+  transition:
+    color var(--transition-fast),
+    border-color var(--transition-fast),
+    background var(--transition-fast);
+}
+
+.world-region-button:hover,
+.world-region-button:focus-visible,
+.world-region-button.active {
+  border-color: rgba(85, 215, 255, .36);
+  background: var(--color-primary-soft);
+  color: var(--color-text);
+}
+
+.world-region-button > span:first-child {
+  overflow: hidden;
+  font-size: .76rem;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.world-region-count {
+  display: inline-grid;
+  min-width: 24px;
+  height: 20px;
+  place-items: center;
+  padding: 0 5px;
+  border-radius: 999px;
+  background: rgba(96, 115, 138, .18);
+  color: #7890aa;
+  font-size: .62rem;
+  font-weight: 800;
+}
+
+.world-region-button.active .world-region-count {
+  background: rgba(85, 215, 255, .18);
+  color: var(--color-primary);
+}
+
+.world-map-note {
+  margin: auto 0 0;
+  padding-top: 18px;
+  color: #6f849c;
+  font-size: .68rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 1060px) {
+  .world-map-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .world-map-controls {
+    min-height: 0;
+  }
+
+  .world-map-note {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 700px) {
+  .world-map-panel {
+    padding: 17px;
+  }
+
+  .world-map-heading {
+    align-items: flex-start;
+  }
+
+  .world-map-visual,
+  .world-map-svg {
+    min-height: 290px;
+  }
+
+  .world-region-marker {
+    padding: 5px 7px;
+    font-size: .6rem;
+  }
+
+  .world-region-marker::before {
+    width: 6px;
+    height: 6px;
+  }
+
+  .world-region-filters {
+    grid-template-columns: 1fr;
+  }
+
+  .world-region-button {
+    padding: 11px 12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .world-region-marker,
+  .world-region-button {
+    transition: none;
+  }
+}

@@ -5,11 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="世界情勢・経済・投資・学習情報を5分で確認する個人用ダッシュボード">
   <title>Jun AI Command Center</title>
-  <link rel="stylesheet" href="./css/theme.css?v=4.1.0">
-  <link rel="stylesheet" href="./css/style.css?v=9.1.0">
+  <link rel="stylesheet" href="./css/theme.css?v=14.1.0">
+  <link rel="stylesheet" href="./css/style.css?v=14.1.0">
+  <link rel="stylesheet" href="./css/world-map.css?v=15.1.0">
   <!-- バージョン番号を付け、更新後も古いJavaScriptが残らないようにします。 -->
   <script src="./js/main.js?v=3.3.0" defer></script>
-  <script src="./js/news.js?v=3.3.0" defer></script>
+  <script src="./js/world-map.js?v=15.1.0" defer></script>
+  <script src="./js/news.js?v=15.1.0" defer></script>
   <script src="./js/market.js?v=4.4.0" defer></script>
   <script src="./js/ai.js?v=9.1.0" defer></script>
   <script src="./js/assets.js?v=6.2.0" defer></script>
@@ -107,14 +109,87 @@
 
         <!-- 各機能の画面。データ連携は後続STEPで追加します。 -->
         <section class="page-section" id="world" data-page-section hidden>
-          <div class="section-intro"><p class="eyebrow">GLOBAL INTELLIGENCE</p><h2>世界情勢</h2><p class="muted">地域別ニュース・紛争・災害・経済情報を集約します。</p></div>
+          <div class="section-intro">
+            <p class="eyebrow">GLOBAL INTELLIGENCE</p>
+            <h2>世界情勢</h2>
+            <p class="muted">地図から地域を選び、ニュース・紛争・災害・経済情報を確認します。</p>
+          </div>
+
+          <section class="world-map-panel panel" aria-labelledby="worldMapTitle">
+            <div class="panel-heading world-map-heading">
+              <div>
+                <p class="eyebrow">REGIONAL VIEW</p>
+                <h2 id="worldMapTitle">世界情勢マップ</h2>
+              </div>
+              <span class="badge">SCHEMATIC</span>
+            </div>
+
+            <div class="world-map-layout">
+              <div class="world-map-visual">
+                <!--
+                  軽量な模式図です。国境や領有範囲を表す地図ではありません。
+                  地域ボタンはJavaScriptで重ねて表示します。
+                -->
+                <svg class="world-map-svg" viewBox="0 0 1000 470"
+                     role="img" aria-label="ニュースを地域別に選択するための世界地図">
+                  <defs>
+                    <linearGradient id="worldMapOcean" x1="0" y1="0" x2="1" y2="1">
+                      <stop offset="0%" stop-color="#081a2d"></stop>
+                      <stop offset="100%" stop-color="#07101e"></stop>
+                    </linearGradient>
+                    <linearGradient id="worldMapLand" x1="0" y1="0" x2="1" y2="1">
+                      <stop offset="0%" stop-color="#173a51"></stop>
+                      <stop offset="100%" stop-color="#102538"></stop>
+                    </linearGradient>
+                  </defs>
+                  <rect class="world-map-ocean" width="1000" height="470" rx="24"></rect>
+                  <g class="world-map-grid-lines" aria-hidden="true">
+                    <path d="M0 117.5H1000M0 235H1000M0 352.5H1000"></path>
+                    <path d="M200 0V470M400 0V470M600 0V470M800 0V470"></path>
+                  </g>
+                  <g class="world-map-land" aria-hidden="true">
+                    <path d="M70 92L124 52 216 62 272 104 326 116 303 166 250 177 219 219 169 208 142 172 93 151Z"></path>
+                    <path d="M274 221L332 240 373 294 354 358 319 427 286 390 275 329 247 276Z"></path>
+                    <path d="M425 111L471 83 528 91 557 121 533 154 484 160 447 143Z"></path>
+                    <path d="M470 171L535 164 588 213 576 296 531 379 486 332 461 256Z"></path>
+                    <path d="M552 102L636 70 727 87 814 77 906 124 877 181 810 193 768 237 691 218 642 174 579 159Z"></path>
+                    <path d="M757 293L821 278 889 309 903 359 850 398 782 381 741 337Z"></path>
+                    <path d="M902 205L915 193 923 213 911 226Z"></path>
+                    <path d="M628 211L655 195 677 222 651 243Z"></path>
+                  </g>
+                </svg>
+                <div class="world-map-markers" id="worldMapMarkers"
+                     aria-label="地図上の地域フィルター"></div>
+              </div>
+
+              <div class="world-map-controls">
+                <p class="world-map-selection" id="worldMapSelection" aria-live="polite">
+                  すべての地域を表示中
+                </p>
+                <div class="world-region-filters" id="worldRegionFilters"
+                     aria-label="地域を選択"></div>
+                <p class="world-map-note">
+                  地図は地域選択用の模式図です。記事の地域は見出しの語句から自動分類するため、
+                  実際の関連地域と異なる場合があります。
+                </p>
+              </div>
+            </div>
+          </section>
+
           <div class="news-toolbar panel">
-            <div><p class="eyebrow">LATEST UPDATE</p><p class="news-update" id="newsUpdatedAt">更新情報を確認中</p></div>
+            <div>
+              <p class="eyebrow">LATEST UPDATE</p>
+              <p class="news-update" id="newsUpdatedAt">更新情報を確認中</p>
+            </div>
             <span class="badge" id="newsStatus">LOADING</span>
           </div>
-          <div class="news-filters" id="newsFilters" aria-label="ニュースのカテゴリ絞り込み"></div>
+          <div class="news-filters" id="newsFilters"
+               aria-label="ニュースのカテゴリ絞り込み"></div>
           <div class="news-grid" id="newsGrid" aria-live="polite">
-            <article class="panel news-message"><h3>ニュースを読み込んでいます</h3><p>しばらくお待ちください。</p></article>
+            <article class="panel news-message">
+              <h3>ニュースを読み込んでいます</h3>
+              <p>しばらくお待ちください。</p>
+            </article>
           </div>
         </section>
 

@@ -1,6 +1,6 @@
 """Jun AI Command Center の世界情勢ニュースを更新します。
 
-公開APIから見出しと情報源URLだけを取得し、data/news.jsonへ保存します。
+報道機関のRSSから見出しと情報源URLを取得し、data/news.jsonへ保存します。
 API取得に失敗した場合は既存データを上書きしません。
 """
 
@@ -19,16 +19,142 @@ from urllib.parse import urlparse
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_PATH = PROJECT_ROOT / "data" / "news.json"
 MAX_ITEMS = 9
+MAX_RESPONSE_BYTES = 5_000_000
 
-# APIのアクセス制限を避けるため、報道機関が配信するRSSを使用します。
+# APIキーを必要としない、報道機関のRSSだけを使用します。
 RSS_SOURCES = (
     ("BBC News 日本語", "https://feeds.bbci.co.uk/japanese/rss.xml"),
     ("NHK NEWS WEB", "https://www.nhk.or.jp/rss/news/cat0.xml"),
 )
 
+# 地域の表示名は js/world-map.js と対応しています。
+REGION_KEYWORDS = (
+    (
+        "japan",
+        ("日本", "国内", "東京", "北海道", "沖縄", "日銀", "国会"),
+    ),
+    (
+        "middle-east",
+        (
+            "中東",
+            "イラン",
+            "イスラエル",
+            "ガザ",
+            "パレスチナ",
+            "シリア",
+            "レバノン",
+            "イラク",
+            "サウジ",
+            "イエメン",
+            "ヨルダン",
+            "カタール",
+            "アラブ首長国連邦",
+            "uae",
+        ),
+    ),
+    (
+        "latin-america",
+        (
+            "中南米",
+            "メキシコ",
+            "ブラジル",
+            "アルゼンチン",
+            "チリ",
+            "ペルー",
+            "コロンビア",
+            "キューバ",
+            "ベネズエラ",
+        ),
+    ),
+    (
+        "north-america",
+        (
+            "北米",
+            "アメリカ",
+            "米国",
+            "カナダ",
+            "ワシントン",
+            "ニューヨーク",
+            "トランプ",
+            "united states",
+            "u.s.",
+            "canada",
+        ),
+    ),
+    (
+        "europe",
+        (
+            "欧州",
+            "ヨーロッパ",
+            "イギリス",
+            "英国",
+            "英仏",
+            "フランス",
+            "ドイツ",
+            "イタリア",
+            "スペイン",
+            "ウクライナ",
+            "ロシア",
+            "ポーランド",
+            "nato",
+            "eu",
+        ),
+    ),
+    (
+        "africa",
+        (
+            "アフリカ",
+            "南アフリカ",
+            "スーダン",
+            "エジプト",
+            "ナイジェリア",
+            "ケニア",
+            "エチオピア",
+            "コンゴ",
+            "ソマリア",
+        ),
+    ),
+    (
+        "oceania",
+        (
+            "オセアニア",
+            "オーストラリア",
+            "ニュージーランド",
+            "太平洋諸島",
+            "フィジー",
+            "パプアニューギニア",
+        ),
+    ),
+    (
+        "asia",
+        (
+            "アジア",
+            "中国",
+            "韓国",
+            "北朝鮮",
+            "台湾",
+            "香港",
+            "インド",
+            "パキスタン",
+            "東南アジア",
+            "asean",
+            "フィリピン",
+            "インドネシア",
+            "タイ",
+            "ベトナム",
+            "ミャンマー",
+            "シンガポール",
+        ),
+    ),
+)
+
 
 def fetch_rss(source_name: str, feed_url: str) -> list[dict]:
-    """1つのRSSから記事一覧を取得します。"""
+    """1つのRSSから記事一覧を安全に取得します。"""
+    parsed_feed_url = urlparse(feed_url)
+    if parsed_feed_url.scheme != "https" or not parsed_feed_url.netloc:
+        raise ValueError(f"{source_name} has an invalid RSS URL")
+
     request = urllib.request.Request(
         feed_url,
         headers={
@@ -40,10 +166,15 @@ def fetch_rss(source_name: str, feed_url: str) -> list[dict]:
     with urllib.request.urlopen(request, timeout=30) as response:
         if response.status != 200:
             raise RuntimeError(f"{source_name} returned HTTP {response.status}")
-        xml_data = response.read()
+
+        # 想定外に大きなレスポンスを読み込まないよう上限を設定します。
+        xml_data = response.read(MAX_RESPONSE_BYTES + 1)
+        if len(xml_data) > MAX_RESPONSE_BYTES:
+            raise RuntimeError(f"{source_name} RSS response is too large")
 
     root = ET.fromstring(xml_data)
     articles: list[dict] = []
+
     for item in root.findall(".//item"):
         articles.append(
             {
@@ -53,6 +184,7 @@ def fetch_rss(source_name: str, feed_url: str) -> list[dict]:
                 "source": source_name,
             }
         )
+
     return articles
 
 
@@ -71,6 +203,7 @@ def fetch_articles() -> list[dict]:
         raise RuntimeError("All RSS sources failed: " + " | ".join(errors))
     if errors:
         print("Some RSS sources failed: " + " | ".join(errors))
+
     return articles
 
 
@@ -79,13 +212,27 @@ def classify(title: str) -> str:
     categories = {
         "災害": ("地震", "津波", "台風", "洪水", "豪雨", "噴火", "災害"),
         "経済": ("経済", "市場", "株価", "金利", "物価", "関税", "貿易"),
-        "紛争": ("戦争", "攻撃", "軍事", "紛争", "停戦", "ミサイル"),
+        "紛争": ("戦争", "攻撃", "軍事", "紛争", "停戦", "ミサイル", "空爆"),
         "外交": ("首脳", "会談", "外交", "協議", "条約", "合意"),
     }
+
     for category, keywords in categories.items():
         if any(keyword in title for keyword in keywords):
             return category
+
     return "世界情勢"
+
+
+def classify_region(title: str) -> str:
+    """見出しの語句から地図用の地域を推定します。"""
+    normalized_title = title.casefold()
+
+    # REGION_KEYWORDSの順番が分類の優先順位です。
+    for region, keywords in REGION_KEYWORDS:
+        if any(keyword.casefold() in normalized_title for keyword in keywords):
+            return region
+
+    return "global"
 
 
 def normalize_article(article: dict) -> dict | None:
@@ -103,6 +250,7 @@ def normalize_article(article: dict) -> dict | None:
         "url": url,
         "source": str(article.get("source", parsed_url.netloc)).strip()[:100],
         "category": classify(title),
+        "region": classify_region(title),
         "published_at": str(article.get("published_at", ""))[:64],
     }
 
@@ -116,8 +264,10 @@ def build_news_data(articles: list[dict]) -> dict:
         normalized = normalize_article(article)
         if not normalized or normalized["url"] in seen_urls:
             continue
+
         seen_urls.add(normalized["url"])
         items.append(normalized)
+
         if len(items) >= MAX_ITEMS:
             break
 
@@ -125,7 +275,7 @@ def build_news_data(articles: list[dict]) -> dict:
         raise ValueError("No valid news articles were returned")
 
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "updated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source": "Official news RSS feeds",
         "items": items,
@@ -141,10 +291,12 @@ def write_json_safely(data: dict) -> None:
         suffix=".json",
         text=True,
     )
+
     try:
         with os.fdopen(file_descriptor, "w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=2)
             file.write("\n")
+
         os.replace(temporary_name, OUTPUT_PATH)
     except Exception:
         Path(temporary_name).unlink(missing_ok=True)
