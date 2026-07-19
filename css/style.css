@@ -1,5 +1,10 @@
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+
+  /* theme.cssで設定した文字サイズを全画面へ適用します。 */
+  font-size: var(--font-size-base);
+}
 body {
   margin: 0; min-width: 320px; min-height: 100vh;
   background: radial-gradient(circle at 85% 5%, rgba(34,107,157,.18), transparent 32%), var(--color-bg);

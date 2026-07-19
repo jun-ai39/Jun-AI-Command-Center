@@ -1,5 +1,7 @@
 /* 色や余白を変数としてまとめ、デザイン変更を簡単にします。 */
 :root {
+  /* 全画面の文字を標準の16pxより少し大きくします。 */
+  --font-size-base: 17px;
   color-scheme: dark;
   --color-bg: #070b14;
   --color-surface: #0d1422;
