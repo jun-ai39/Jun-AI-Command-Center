@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-18T13:15:37+00:00",
+  "updated_at": "2026-07-19T00:14:05+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 10392187.588450521,
+      "price": 10531795.253423305,
       "currency": "JPY",
-      "change_percent": 1.85402,
+      "change_percent": 1.49525,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 298599.3920857111,
+      "price": 302510.80630581436,
       "currency": "JPY",
-      "change_percent": 1.35513,
+      "change_percent": 1.16887,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 176.49833062622392,
+      "price": 177.60921155361345,
       "currency": "JPY",
-      "change_percent": 1.31916,
+      "change_percent": 0.47902,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 12139.006326879831,
+      "price": 12262.499430922173,
       "currency": "JPY",
-      "change_percent": 1.45611,
+      "change_percent": 0.64096,
       "decimals": 0
     }
   ],
@@ -123,10 +123,10 @@
   "sentiment": {
     "name": "Crypto Fear & Greed Index",
     "scope": "Bitcoin market sentiment",
-    "value": 25,
-    "classification": "Extreme Fear",
-    "classification_ja": "極度の恐怖",
-    "observed_at": "2026-07-18T00:00:00+00:00",
+    "value": 28,
+    "classification": "Fear",
+    "classification_ja": "恐怖",
+    "observed_at": "2026-07-19T00:00:00+00:00",
     "source": "Alternative.me"
   }
 }
