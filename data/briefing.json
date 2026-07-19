@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-19T06:27:14+00:00",
+  "generated_at": "2026-07-19T07:31:42+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
@@ -14,7 +14,7 @@
     },
     {
       "title": "アメリカ軍、7夜連続でイラン空爆",
-      "category": "世界情勢",
+      "category": "紛争",
       "source": "BBC News 日本語",
       "published_at": "Sat, 18 Jul 2026 04:40:56 GMT",
       "url": "https://www.bbc.com/japanese/articles/cy0jg4z92yro?at_medium=RSS&at_campaign=rss"
@@ -36,7 +36,7 @@
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +1.32%"
+      "detail": "最大変動：Solana +1.68%"
     },
     {
       "label": "市場心理",
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-19T06:27:03+00:00",
-    "market": "2026-07-19T06:27:14+00:00"
+    "news": "2026-07-19T07:31:32+00:00",
+    "market": "2026-07-19T07:31:42+00:00"
   }
 }
