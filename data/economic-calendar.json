@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "verified_at": "2026-07-19",
+  "display_timezone": "Asia/Tokyo",
+  "notice": "公表日程は変更される場合があります。最終確認は必ずリンク先の公的機関で行ってください。",
+  "sources": [
+    {
+      "name": "Federal Reserve Board",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "name": "U.S. Bureau of Labor Statistics - CPI",
+      "url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+    },
+    {
+      "name": "U.S. Bureau of Labor Statistics - Employment Situation",
+      "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+    },
+    {
+      "name": "Bank of Japan",
+      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+    }
+  ],
+  "events": [
+    {
+      "id": "fomc-2026-07",
+      "title": "FOMC政策金利発表",
+      "category": "fomc",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-07-30T03:00:00+09:00",
+      "official_time": "7月29日 14:00（米国東部時間）",
+      "detail": "7月28日から29日のFOMC会合後に声明を公表予定です。",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "id": "boj-2026-07",
+      "title": "日銀 金融政策決定会合",
+      "category": "boj",
+      "country": "日本",
+      "importance": "high",
+      "all_day": true,
+      "start_date": "2026-07-30",
+      "end_date": "2026-07-31",
+      "timing_note": "結果公表時刻は未定",
+      "detail": "会合日程は7月30日から31日です。公表時刻は日銀の最新情報を確認してください。",
+      "source_name": "Bank of Japan",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+    },
+    {
+      "id": "employment-2026-08",
+      "title": "米国雇用統計",
+      "category": "employment",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-08-07T21:30:00+09:00",
+      "official_time": "8月7日 08:30（米国東部時間）",
+      "period": "2026年7月分",
+      "detail": "Employment Situationの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+    },
+    {
+      "id": "cpi-2026-08",
+      "title": "米国消費者物価指数（CPI）",
+      "category": "cpi",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-08-12T21:30:00+09:00",
+      "official_time": "8月12日 08:30（米国東部時間）",
+      "period": "2026年7月分",
+      "detail": "Consumer Price Indexの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+    },
+    {
+      "id": "employment-2026-09",
+      "title": "米国雇用統計",
+      "category": "employment",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-09-04T21:30:00+09:00",
+      "official_time": "9月4日 08:30（米国東部時間）",
+      "period": "2026年8月分",
+      "detail": "Employment Situationの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+    },
+    {
+      "id": "cpi-2026-09",
+      "title": "米国消費者物価指数（CPI）",
+      "category": "cpi",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-09-11T21:30:00+09:00",
+      "official_time": "9月11日 08:30（米国東部時間）",
+      "period": "2026年8月分",
+      "detail": "Consumer Price Indexの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+    },
+    {
+      "id": "fomc-2026-09",
+      "title": "FOMC政策金利発表",
+      "category": "fomc",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-09-17T03:00:00+09:00",
+      "official_time": "9月16日 14:00（米国東部時間）",
+      "detail": "9月15日から16日のFOMC会合後に声明を公表予定です。",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "id": "boj-2026-09",
+      "title": "日銀 金融政策決定会合",
+      "category": "boj",
+      "country": "日本",
+      "importance": "high",
+      "all_day": true,
+      "start_date": "2026-09-17",
+      "end_date": "2026-09-18",
+      "timing_note": "結果公表時刻は未定",
+      "detail": "会合日程は9月17日から18日です。公表時刻は日銀の最新情報を確認してください。",
+      "source_name": "Bank of Japan",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+    },
+    {
+      "id": "employment-2026-10",
+      "title": "米国雇用統計",
+      "category": "employment",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-10-02T21:30:00+09:00",
+      "official_time": "10月2日 08:30（米国東部時間）",
+      "period": "2026年9月分",
+      "detail": "Employment Situationの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+    },
+    {
+      "id": "cpi-2026-10",
+      "title": "米国消費者物価指数（CPI）",
+      "category": "cpi",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-10-14T21:30:00+09:00",
+      "official_time": "10月14日 08:30（米国東部時間）",
+      "period": "2026年9月分",
+      "detail": "Consumer Price Indexの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+    },
+    {
+      "id": "fomc-2026-10",
+      "title": "FOMC政策金利発表",
+      "category": "fomc",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-10-29T03:00:00+09:00",
+      "official_time": "10月28日 14:00（米国東部時間）",
+      "detail": "10月27日から28日のFOMC会合後に声明を公表予定です。",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "id": "boj-2026-10",
+      "title": "日銀 金融政策決定会合",
+      "category": "boj",
+      "country": "日本",
+      "importance": "high",
+      "all_day": true,
+      "start_date": "2026-10-29",
+      "end_date": "2026-10-30",
+      "timing_note": "結果公表時刻は未定",
+      "detail": "会合日程は10月29日から30日です。公表時刻は日銀の最新情報を確認してください。",
+      "source_name": "Bank of Japan",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+    },
+    {
+      "id": "employment-2026-11",
+      "title": "米国雇用統計",
+      "category": "employment",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-11-06T22:30:00+09:00",
+      "official_time": "11月6日 08:30（米国東部時間）",
+      "period": "2026年10月分",
+      "detail": "Employment Situationの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+    },
+    {
+      "id": "cpi-2026-11",
+      "title": "米国消費者物価指数（CPI）",
+      "category": "cpi",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-11-10T22:30:00+09:00",
+      "official_time": "11月10日 08:30（米国東部時間）",
+      "period": "2026年10月分",
+      "detail": "Consumer Price Indexの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+    },
+    {
+      "id": "employment-2026-12",
+      "title": "米国雇用統計",
+      "category": "employment",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-12-04T22:30:00+09:00",
+      "official_time": "12月4日 08:30（米国東部時間）",
+      "period": "2026年11月分",
+      "detail": "Employment Situationの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+    },
+    {
+      "id": "fomc-2026-12",
+      "title": "FOMC政策金利発表",
+      "category": "fomc",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-12-10T04:00:00+09:00",
+      "official_time": "12月9日 14:00（米国東部時間）",
+      "detail": "12月8日から9日のFOMC会合後に声明を公表予定です。",
+      "source_name": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+    },
+    {
+      "id": "cpi-2026-12",
+      "title": "米国消費者物価指数（CPI）",
+      "category": "cpi",
+      "country": "米国",
+      "importance": "high",
+      "starts_at": "2026-12-10T22:30:00+09:00",
+      "official_time": "12月10日 08:30（米国東部時間）",
+      "period": "2026年11月分",
+      "detail": "Consumer Price Indexの公表予定です。",
+      "source_name": "U.S. Bureau of Labor Statistics",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm"
+    },
+    {
+      "id": "boj-2026-12",
+      "title": "日銀 金融政策決定会合",
+      "category": "boj",
+      "country": "日本",
+      "importance": "high",
+      "all_day": true,
+      "start_date": "2026-12-17",
+      "end_date": "2026-12-18",
+      "timing_note": "結果公表時刻は未定",
+      "detail": "会合日程は12月17日から18日です。公表時刻は日銀の最新情報を確認してください。",
+      "source_name": "Bank of Japan",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm"
+    }
+  ]
+}
