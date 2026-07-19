@@ -1,0 +1,150 @@
+/*
+ * STEP16 TOP画面・直近経済イベント
+ * 既存の3枚カードを崩さず、横長の確認カードとして追加します。
+ */
+
+.overview-calendar-card {
+  display: flex;
+  min-height: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin-top: 18px;
+  padding: 21px 24px;
+  border-color: rgba(85, 215, 255, .24);
+  background:
+    linear-gradient(105deg, rgba(85, 215, 255, .07), transparent 56%),
+    var(--color-surface);
+  color: var(--color-text);
+  transition:
+    border-color var(--transition-fast),
+    background var(--transition-fast),
+    transform var(--transition-fast);
+}
+
+.overview-calendar-card:hover,
+.overview-calendar-card:focus-visible {
+  border-color: rgba(85, 215, 255, .48);
+  background:
+    linear-gradient(105deg, rgba(85, 215, 255, .11), transparent 62%),
+    var(--color-surface);
+  transform: translateY(-1px);
+}
+
+.overview-calendar-main {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 18px;
+}
+
+.overview-calendar-icon {
+  display: grid;
+  width: 48px;
+  height: 48px;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid rgba(85, 215, 255, .28);
+  border-radius: 13px;
+  background: var(--color-primary-soft);
+  color: var(--color-primary);
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.overview-calendar-card h2 {
+  margin: 6px 0 6px;
+  font-size: 1.08rem;
+  line-height: 1.45;
+}
+
+.overview-calendar-date {
+  margin: 0;
+  color: var(--color-primary);
+  font-size: .84rem;
+  font-weight: 800;
+}
+
+.overview-calendar-meta {
+  margin: 5px 0 0;
+  color: var(--color-muted);
+  font-size: .72rem;
+  line-height: 1.6;
+}
+
+.overview-calendar-action {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 14px;
+  color: var(--color-primary);
+  font-size: .72rem;
+  font-weight: 750;
+}
+
+.overview-calendar-countdown {
+  min-width: 76px;
+  padding: 8px 10px;
+  border: 1px solid rgba(85, 215, 255, .28);
+  border-radius: 999px;
+  background: rgba(85, 215, 255, .08);
+  color: var(--color-primary);
+  text-align: center;
+}
+
+.overview-calendar-card[data-urgency="soon"] {
+  border-color: rgba(255, 180, 84, .34);
+  background:
+    linear-gradient(105deg, rgba(255, 180, 84, .08), transparent 58%),
+    var(--color-surface);
+}
+
+.overview-calendar-card[data-urgency="soon"] .overview-calendar-countdown {
+  border-color: rgba(255, 180, 84, .34);
+  background: rgba(255, 180, 84, .1);
+  color: #ffc778;
+}
+
+.overview-calendar-card[data-urgency="urgent"] {
+  border-color: rgba(255, 111, 137, .4);
+  background:
+    linear-gradient(105deg, rgba(255, 111, 137, .09), transparent 58%),
+    var(--color-surface);
+}
+
+.overview-calendar-card[data-urgency="urgent"] .overview-calendar-countdown,
+.overview-calendar-card[data-urgency="error"] .overview-calendar-countdown {
+  border-color: rgba(255, 111, 137, .4);
+  background: rgba(255, 111, 137, .1);
+  color: #ff9daf;
+}
+
+@media (max-width: 760px) {
+  .overview-calendar-card {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 17px;
+    padding: 19px;
+  }
+
+  .overview-calendar-main {
+    align-items: flex-start;
+  }
+
+  .overview-calendar-icon {
+    width: 42px;
+    height: 42px;
+  }
+
+  .overview-calendar-action {
+    justify-content: space-between;
+    padding-top: 14px;
+    border-top: 1px solid var(--color-border);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .overview-calendar-card {
+    transition: none;
+  }
+}

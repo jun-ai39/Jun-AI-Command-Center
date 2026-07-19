@@ -25,7 +25,10 @@
 <link rel="stylesheet" href="./css/status.css?v=11.1.0">
 <script src="./js/status.js?v=11.1.0" defer></script>
 <link rel="stylesheet" href="./css/calendar.css?v=12.1.0">
-<script src="./js/calendar.js?v=12.1.0" defer></script>
+<link rel="stylesheet" href="./css/overview-calendar.css?v=16.1.0">
+<script src="./js/economic-calendar-data.js?v=16.1.0" defer></script>
+<script src="./js/overview-calendar.js?v=16.1.0" defer></script>
+<script src="./js/calendar.js?v=16.1.0" defer></script>
 <link rel="stylesheet" href="./css/ai-news.css?v=13.1.0">
 <script src="./js/ai-news.js?v=13.1.0" defer></script>
 </head>
@@ -88,6 +91,30 @@
             <p class="card-value" id="aiOverviewValue">準備中</p><p class="card-description" id="aiOverviewMeta">無料のルールベースブリーフを確認しています。</p>
           </article>
         </section>
+
+        <!-- 最も近い経済イベントを、朝のTOP画面ですぐ確認します。 -->
+        <a class="overview-calendar-card panel" href="#calendar"
+           aria-labelledby="overviewCalendarTitle">
+          <div class="overview-calendar-main">
+            <span class="overview-calendar-icon" aria-hidden="true">□</span>
+            <div>
+              <p class="eyebrow">NEXT ECONOMIC EVENT</p>
+              <h2 id="overviewCalendarTitle">経済予定を確認中</h2>
+              <p class="overview-calendar-date" id="overviewCalendarDate">
+                公式日程データを読み込んでいます。
+              </p>
+              <p class="overview-calendar-meta" id="overviewCalendarMeta">
+                FOMC・CPI・雇用統計・日銀
+              </p>
+            </div>
+          </div>
+          <div class="overview-calendar-action">
+            <span class="overview-calendar-countdown" id="overviewCalendarCountdown">
+              LOADING
+            </span>
+            <span>経済カレンダーを開く →</span>
+          </div>
+        </a>
 
         <section class="content-grid">
           <article class="panel">
