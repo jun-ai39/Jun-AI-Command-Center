@@ -1,10 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-19T00:14:05+00:00",
+  "generated_at": "2026-07-19T06:27:14+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
+    {
+      "title": "【2026年サッカー男子W杯】 イングランド、6-4でフランス破る　3位決定戦",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Sun, 19 Jul 2026 04:42:31 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cx2dl5v0kd1o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "アメリカ軍、7夜連続でイラン空爆",
       "category": "世界情勢",
@@ -18,13 +25,6 @@
       "source": "BBC News 日本語",
       "published_at": "Sat, 18 Jul 2026 03:37:40 GMT",
       "url": "https://www.bbc.com/japanese/articles/clyv5dex6nwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "カナダの大規模な山火事でアメリカにも煙、トランプ氏は追加関税を主張",
-      "category": "経済",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 18 Jul 2026 03:22:24 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c75g64r790ro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -36,7 +36,7 @@
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Bitcoin +1.50%"
+      "detail": "最大変動：Solana +1.32%"
     },
     {
       "label": "市場心理",
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "アメリカ軍、7夜連続でイラン空爆",
+      "detail": "【2026年サッカー男子W杯】 イングランド、6-4でフランス破る　3位決定戦",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-19T00:13:55+00:00",
-    "market": "2026-07-19T00:14:05+00:00"
+    "news": "2026-07-19T06:27:03+00:00",
+    "market": "2026-07-19T06:27:14+00:00"
   }
 }
