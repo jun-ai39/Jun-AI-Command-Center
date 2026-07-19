@@ -1,0 +1,59 @@
+/* データ更新状態の表示専用スタイルです。 */
+.data-health-status {
+  padding: 7px 10px;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: rgba(12, 24, 39, 0.72);
+  white-space: nowrap;
+}
+
+.data-health-status .status-dot {
+  flex: 0 0 auto;
+  transition: background-color 160ms ease, box-shadow 160ms ease;
+}
+
+.data-health-status.is-checking .status-dot {
+  background: #49c8f2;
+  box-shadow: 0 0 12px rgba(73, 200, 242, 0.72);
+}
+
+.data-health-status.is-fresh .status-dot {
+  background: #53e6ad;
+  box-shadow: 0 0 12px rgba(83, 230, 173, 0.72);
+}
+
+.data-health-status.is-stale {
+  color: #ffd37a;
+  border-color: rgba(255, 190, 75, 0.42);
+}
+
+.data-health-status.is-stale .status-dot {
+  background: #ffbe4b;
+  box-shadow: 0 0 12px rgba(255, 190, 75, 0.72);
+}
+
+.data-health-status.is-error {
+  color: #ff9da6;
+  border-color: rgba(255, 107, 117, 0.42);
+}
+
+.data-health-status.is-error .status-dot {
+  background: #ff6b75;
+  box-shadow: 0 0 12px rgba(255, 107, 117, 0.72);
+}
+
+/* スマートフォンでも、短い更新状態だけは表示します。 */
+@media (max-width: 560px) {
+  .topbar-status.data-health-status {
+    display: flex;
+    max-width: 112px;
+    padding: 6px 8px;
+    font-size: 0.64rem;
+    overflow: hidden;
+  }
+
+  .data-health-status span:last-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
