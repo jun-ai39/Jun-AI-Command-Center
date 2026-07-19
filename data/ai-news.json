@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "verified_at": "2026-07-19",
+  "display_timezone": "Asia/Tokyo",
+  "notice": "各社の公式発表を基にした短い日本語説明です。詳細と最新情報は必ず公式記事で確認してください。",
+  "sources": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/"
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/news"
+    }
+  ],
+  "items": [
+    {
+      "id": "openai-ai-age-scorecard-2026-07-17",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-17",
+      "category": "business",
+      "title_ja": "AI時代の価値を測るスコアカード",
+      "original_title": "A scorecard for the AI age",
+      "summary_ja": "AI投資の価値を、完了した仕事、成功タスクのコスト、信頼性、規模の観点から測る考え方を紹介しています。",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age/"
+    },
+    {
+      "id": "google-gemini-notebook-2026-07-16",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-16",
+      "category": "product",
+      "title_ja": "NotebookLMがGemini Notebookへ名称変更",
+      "original_title": "NotebookLM is now Gemini Notebook",
+      "summary_ja": "研究支援ツールの名称変更と、コード実行に対応する安全なクラウド環境、Googleサービス間の連携強化を発表しています。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
+    },
+    {
+      "id": "openai-safe-ai-for-teens-2026-07-16",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-16",
+      "category": "safety",
+      "title_ja": "10代が安全にAIを利用するために",
+      "original_title": "Why teens deserve access to safe AI",
+      "summary_ja": "10代のAI利用に関する保護策、方針、外部専門家や関係機関との協力について説明しています。",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai/"
+    },
+    {
+      "id": "anthropic-claude-for-teachers-2026-07-14",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "published_at": "2026-07-14",
+      "category": "education",
+      "title_ja": "教師向けClaudeを発表",
+      "original_title": "Introducing Claude for Teachers",
+      "summary_ja": "米国の認証済みK-12教育者向けに、Claudeの機能や授業支援スキル、教育課程との連携を提供すると発表しています。",
+      "url": "https://www.anthropic.com/news/claude-for-teachers"
+    },
+    {
+      "id": "google-gemini-study-notebooks-2026-07-10",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-10",
+      "category": "education",
+      "title_ja": "Geminiの学習ノート機能を紹介",
+      "original_title": "How to make Gemini study notebooks for any subject",
+      "summary_ja": "学習内容に合わせた短いレッスン、練習問題、進捗ダッシュボードを備える学習ノート機能を紹介しています。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/"
+    },
+    {
+      "id": "openai-gpt-5-6-2026-07-09",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-09",
+      "category": "model",
+      "title_ja": "GPT-5.6モデルファミリーを発表",
+      "original_title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary_ja": "用途とコストの異なるSol、Terra、Lunaを含むGPT-5.6モデルファミリーの一般提供を発表しています。",
+      "url": "https://openai.com/index/gpt-5-6/"
+    },
+    {
+      "id": "anthropic-hard-questions-2026-07-09",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "published_at": "2026-07-09",
+      "category": "society",
+      "title_ja": "AIに関する難しい問いを一般募集",
+      "original_title": "Inviting hard questions",
+      "summary_ja": "仕事、社会、家族、科学、医療などに対するAIの影響について、一般から問いを募り、対応状況を公表する取り組みです。",
+      "url": "https://www.anthropic.com/news/hard-questions"
+    },
+    {
+      "id": "google-ai-updates-may-2026",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-06-05",
+      "category": "product",
+      "title_ja": "2026年5月のGoogle AI発表まとめ",
+      "original_title": "The latest AI news we announced in May 2026",
+      "summary_ja": "Google I/Oを含む2026年5月のAI関連発表を、モデル、エージェント、検索、開発、科学などの分野別にまとめています。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
+    },
+    {
+      "id": "anthropic-claude-sonnet-5-2026-06-30",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "published_at": "2026-06-30",
+      "category": "model",
+      "title_ja": "Claude Sonnet 5を発表",
+      "original_title": "Introducing Claude Sonnet 5",
+      "summary_ja": "計画、ツール利用、コーディング、知識作業などのエージェント性能を強化したSonnetモデルを発表しています。",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5"
+    }
+  ]
+}
