@@ -1,6 +1,6 @@
 {
-  "schema_version": 1,
-  "updated_at": "2026-07-19T06:27:03+00:00",
+  "schema_version": 2,
+  "updated_at": "2026-07-19T07:31:32+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
@@ -9,6 +9,7 @@
       "url": "https://www.bbc.com/japanese/articles/cx2dl5v0kd1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "europe",
       "published_at": "Sun, 19 Jul 2026 04:42:31 GMT"
     },
     {
@@ -17,6 +18,7 @@
       "url": "https://www.bbc.com/japanese/articles/ckgdn4ypyk5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "global",
       "published_at": "Sat, 18 Jul 2026 03:12:07 GMT"
     },
     {
@@ -24,7 +26,8 @@
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cy0jg4z92yro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "紛争",
+      "region": "middle-east",
       "published_at": "Sat, 18 Jul 2026 04:40:56 GMT"
     },
     {
@@ -33,6 +36,7 @@
       "url": "https://www.bbc.com/japanese/articles/c75g64r790ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "経済",
+      "region": "north-america",
       "published_at": "Sat, 18 Jul 2026 03:22:24 GMT"
     },
     {
@@ -41,6 +45,7 @@
       "url": "https://www.bbc.com/japanese/articles/clyv5dex6nwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "経済",
+      "region": "north-america",
       "published_at": "Sat, 18 Jul 2026 03:37:40 GMT"
     },
     {
@@ -49,6 +54,7 @@
       "url": "https://www.bbc.com/japanese/articles/c1513495w5no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "global",
       "published_at": "Fri, 17 Jul 2026 13:33:05 GMT"
     },
     {
@@ -57,6 +63,7 @@
       "url": "https://www.bbc.com/japanese/articles/cq56dxvxwnyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "global",
       "published_at": "Fri, 17 Jul 2026 06:00:46 GMT"
     },
     {
@@ -65,6 +72,7 @@
       "url": "https://www.bbc.com/japanese/articles/clyjlzmv49no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "災害",
+      "region": "latin-america",
       "published_at": "Sat, 18 Jul 2026 01:15:01 GMT"
     },
     {
@@ -73,6 +81,7 @@
       "url": "https://www.bbc.com/japanese/articles/c62e4pdnmllo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "japan",
       "published_at": "Fri, 17 Jul 2026 09:07:31 GMT"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-19T06:27:14+00:00",
+  "updated_at": "2026-07-19T07:31:42+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 10509611.740919992,
+      "price": 10506082.123936092,
       "currency": "JPY",
-      "change_percent": 1.17856,
+      "change_percent": 1.11103,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 303520.11275556503,
+      "price": 303456.6224866802,
       "currency": "JPY",
-      "change_percent": 1.29241,
+      "change_percent": 1.31765,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 178.15643394645085,
+      "price": 178.02196841443964,
       "currency": "JPY",
-      "change_percent": 0.82661,
+      "change_percent": 0.63695,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 12344.910217229168,
+      "price": 12369.551462668878,
       "currency": "JPY",
-      "change_percent": 1.32437,
+      "change_percent": 1.67781,
       "decimals": 0
     }
   ],
