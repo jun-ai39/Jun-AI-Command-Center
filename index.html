@@ -15,7 +15,9 @@
   <script src="./js/market.js?v=4.4.0" defer></script>
   <script src="./js/ai.js?v=9.1.0" defer></script>
   <script src="./js/assets.js?v=6.2.0" defer></script>
-  <script src="./js/weather.js?v=7.1.0" defer></script>
+  <script src="./js/weather-data.js?v=17.1.0" defer></script>
+  <script src="./js/overview-weather.js?v=17.1.0" defer></script>
+  <script src="./js/weather.js?v=17.1.0" defer></script>
   <script src="./js/bike.js?v=7.2.0" defer></script>
   <script src="./js/fishing.js?v=7.3.0" defer></script>
 <link rel="manifest" href="./manifest.webmanifest">
@@ -26,6 +28,7 @@
 <script src="./js/status.js?v=11.1.0" defer></script>
 <link rel="stylesheet" href="./css/calendar.css?v=12.1.0">
 <link rel="stylesheet" href="./css/overview-calendar.css?v=16.1.0">
+<link rel="stylesheet" href="./css/overview-weather.css?v=17.1.0">
 <script src="./js/economic-calendar-data.js?v=16.1.0" defer></script>
 <script src="./js/overview-calendar.js?v=16.1.0" defer></script>
 <script src="./js/calendar.js?v=16.1.0" defer></script>
@@ -92,6 +95,7 @@
           </article>
         </section>
 
+        <section class="overview-utility-grid" aria-label="今日の予定と熊本の天気">
         <!-- 最も近い経済イベントを、朝のTOP画面ですぐ確認します。 -->
         <a class="overview-calendar-card panel" href="#calendar"
            aria-labelledby="overviewCalendarTitle">
@@ -115,6 +119,44 @@
             <span>経済カレンダーを開く →</span>
           </div>
         </a>
+
+          <!-- 熊本市の現在天気と今日の予報を、1枚にまとめて表示します。 -->
+          <a class="overview-weather-card panel" href="#kumamoto"
+             aria-labelledby="overviewWeatherTitle">
+            <div class="overview-weather-main">
+              <span class="overview-weather-icon" id="overviewWeatherIcon"
+                    aria-hidden="true">--</span>
+              <div>
+                <p class="eyebrow">KUMAMOTO WEATHER</p>
+                <h2 id="overviewWeatherTitle">熊本の天気を確認中</h2>
+                <p class="overview-weather-updated" id="overviewWeatherUpdated">
+                  Open-Meteoから予報を読み込んでいます。
+                </p>
+              </div>
+            </div>
+
+            <div class="overview-weather-metrics" aria-label="今日の熊本の天気">
+              <div>
+                <span>現在</span>
+                <strong id="overviewWeatherTemperature">--°</strong>
+              </div>
+              <div>
+                <span>最高 / 最低</span>
+                <strong id="overviewWeatherRange">--° / --°</strong>
+              </div>
+              <div>
+                <span>降水確率</span>
+                <strong id="overviewWeatherRain">--%</strong>
+              </div>
+              <div>
+                <span>風速</span>
+                <strong id="overviewWeatherWind">-- km/h</strong>
+              </div>
+            </div>
+
+            <span class="overview-weather-link">熊本の天気を開く →</span>
+          </a>
+        </section>
 
         <section class="content-grid">
           <article class="panel">

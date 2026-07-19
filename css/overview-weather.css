@@ -1,0 +1,159 @@
+/*
+ * STEP17 TOP画面・熊本天気カード
+ * 経済イベントと横並びにし、スマートフォンでは縦並びにします。
+ */
+
+.overview-utility-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 18px;
+}
+
+.overview-utility-grid .overview-calendar-card {
+  min-width: 0;
+  margin-top: 0;
+}
+
+.overview-weather-card {
+  position: relative;
+  display: grid;
+  min-width: 0;
+  min-height: 0;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 18px;
+  padding: 21px 24px;
+  overflow: hidden;
+  border-color: rgba(85, 215, 255, .24);
+  background:
+    radial-gradient(circle at 92% 12%, rgba(85, 215, 255, .12), transparent 32%),
+    var(--color-surface);
+  color: var(--color-text);
+  transition:
+    border-color var(--transition-fast),
+    background var(--transition-fast),
+    transform var(--transition-fast);
+}
+
+.overview-weather-card:hover,
+.overview-weather-card:focus-visible {
+  border-color: rgba(85, 215, 255, .48);
+  background:
+    radial-gradient(circle at 92% 12%, rgba(85, 215, 255, .18), transparent 38%),
+    var(--color-surface);
+  transform: translateY(-1px);
+}
+
+.overview-weather-main {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 17px;
+}
+
+.overview-weather-icon {
+  display: grid;
+  width: 54px;
+  height: 54px;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid rgba(85, 215, 255, .25);
+  border-radius: 15px;
+  background: var(--color-primary-soft);
+  color: #ffd67a;
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
+.overview-weather-card h2 {
+  margin: 6px 0 5px;
+  font-size: 1.08rem;
+  line-height: 1.45;
+}
+
+.overview-weather-updated {
+  margin: 0;
+  color: var(--color-muted);
+  font-size: .7rem;
+  line-height: 1.5;
+}
+
+.overview-weather-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.overview-weather-metrics > div {
+  min-width: 0;
+  padding: 10px;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: rgba(7, 11, 20, .3);
+}
+
+.overview-weather-metrics span {
+  display: block;
+  overflow: hidden;
+  color: #6f849c;
+  font-size: .62rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.overview-weather-metrics strong {
+  display: block;
+  margin-top: 7px;
+  overflow: hidden;
+  color: var(--color-text);
+  font-size: .76rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.overview-weather-link {
+  color: var(--color-primary);
+  font-size: .72rem;
+  font-weight: 750;
+  text-align: right;
+}
+
+.overview-weather-card[data-weather-state="rain"] {
+  border-color: rgba(106, 157, 255, .36);
+  background:
+    radial-gradient(circle at 92% 12%, rgba(106, 157, 255, .17), transparent 38%),
+    var(--color-surface);
+}
+
+.overview-weather-card[data-weather-state="wind"],
+.overview-weather-card[data-weather-state="error"] {
+  border-color: rgba(255, 180, 84, .36);
+}
+
+@media (max-width: 1180px) {
+  .overview-utility-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 620px) {
+  .overview-weather-card {
+    padding: 19px;
+  }
+
+  .overview-weather-icon {
+    width: 46px;
+    height: 46px;
+    font-size: 1.5rem;
+  }
+
+  .overview-weather-metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .overview-weather-card {
+    transition: none;
+  }
+}
