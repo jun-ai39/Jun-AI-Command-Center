@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-19T07:31:42+00:00",
+  "generated_at": "2026-07-20T08:26:00+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "【2026年サッカー男子W杯】 イングランド、6-4でフランス破る　3位決定戦",
+      "title": "ウクライナで徴兵担当者への暴力事件が増加　兵員不足と徴兵忌避の溝",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sun, 19 Jul 2026 04:42:31 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cx2dl5v0kd1o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 20 Jul 2026 07:08:57 GMT",
+      "url": "https://www.bbc.com/japanese/articles/clyevd78emeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "アメリカ軍、7夜連続でイラン空爆",
+      "title": "米軍のイラン攻撃続く　イランの攻撃で米兵の死者増える",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 18 Jul 2026 04:40:56 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cy0jg4z92yro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 20 Jul 2026 02:30:07 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cre4z3gzereo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "トランプ氏のSNS運営会社、「市場を動かす」投稿への高速アクセスを有料販売へ",
-      "category": "経済",
+      "title": "【2026年サッカー男子W杯】 スペイン、2回目の優勝　決勝でアルゼンチンを延長1-0で下す",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 18 Jul 2026 03:37:40 GMT",
-      "url": "https://www.bbc.com/japanese/articles/clyv5dex6nwo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 20 Jul 2026 02:26:11 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwyr5ngxqw1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,24 +35,24 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +1.68%"
+      "value": "上昇 1・下落 3・横ばい 0",
+      "detail": "最大変動：Bitcoin -0.74%"
     },
     {
       "label": "市場心理",
-      "value": "28 / 100",
+      "value": "29 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "162.353 JPY",
-      "detail": "前日比 +0.29%"
+      "value": "162.356 JPY",
+      "detail": "前日比 -0.04%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "【2026年サッカー男子W杯】 イングランド、6-4でフランス破る　3位決定戦",
+      "detail": "ウクライナで徴兵担当者への暴力事件が増加　兵員不足と徴兵忌避の溝",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは28（恐怖）です。",
+      "detail": "Fear & Greed Indexは29（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-19T07:31:32+00:00",
-    "market": "2026-07-19T07:31:42+00:00"
+    "news": "2026-07-20T08:25:50+00:00",
+    "market": "2026-07-20T08:26:00+00:00"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-19",
+  "verified_at": "2026-07-20",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-19T07:31:32+00:00",
+  "updated_at": "2026-07-20T08:25:51+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

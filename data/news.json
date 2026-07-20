@@ -1,8 +1,44 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-19T07:31:32+00:00",
+  "updated_at": "2026-07-20T08:25:50+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "【2026年サッカー男子W杯】 スペイン、2回目の優勝　決勝でアルゼンチンを延長1-0で下す",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyr5ngxqw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Mon, 20 Jul 2026 02:26:11 GMT"
+    },
+    {
+      "title": "【解説】「アンディ」が英首相になるのは初、しかしバーナム氏は何十年もかけて官邸を目指した",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c62ejv3r148o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 20 Jul 2026 01:53:23 GMT"
+    },
+    {
+      "title": "米軍のイラン攻撃続く　イランの攻撃で米兵の死者増える",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cre4z3gzereo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Mon, 20 Jul 2026 02:30:07 GMT"
+    },
+    {
+      "title": "ウクライナで徴兵担当者への暴力事件が増加　兵員不足と徴兵忌避の溝",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/clyevd78emeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 20 Jul 2026 07:08:57 GMT"
+    },
     {
       "title": "【2026年サッカー男子W杯】 イングランド、6-4でフランス破る　3位決定戦",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -20,15 +56,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Sat, 18 Jul 2026 03:12:07 GMT"
-    },
-    {
-      "title": "アメリカ軍、7夜連続でイラン空爆",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy0jg4z92yro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Sat, 18 Jul 2026 04:40:56 GMT"
     },
     {
       "title": "カナダの大規模な山火事でアメリカにも煙、トランプ氏は追加関税を主張",
@@ -49,40 +76,13 @@
       "published_at": "Sat, 18 Jul 2026 03:37:40 GMT"
     },
     {
-      "title": "英労働党、新党首にバーナム氏を任命　週明けに首相に就任し政権発足へ",
+      "title": "アメリカ軍、7夜連続でイラン空爆",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c1513495w5no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cy0jg4z92yro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 17 Jul 2026 13:33:05 GMT"
-    },
-    {
-      "title": "【解説】 バーナム氏の政策について分かっていること　週明けに新たな英首相に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq56dxvxwnyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 17 Jul 2026 06:00:46 GMT"
-    },
-    {
-      "title": "メキシコ沖でM7.3の地震、一時津波警報も",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/clyjlzmv49no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "latin-america",
-      "published_at": "Sat, 18 Jul 2026 01:15:01 GMT"
-    },
-    {
-      "title": "日本、皇位継承の規定を緩める　女性天皇を認めないことは変わらず",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c62e4pdnmllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Fri, 17 Jul 2026 09:07:31 GMT"
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Sat, 18 Jul 2026 04:40:56 GMT"
     }
   ]
 }
