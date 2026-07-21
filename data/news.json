@@ -1,34 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-20T08:25:50+00:00",
+  "updated_at": "2026-07-21T06:41:10+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "【2026年サッカー男子W杯】 スペイン、2回目の優勝　決勝でアルゼンチンを延長1-0で下す",
+      "title": "アメリカ、10夜連続でイラン空爆　トランプ氏は米兵殺害への報復を警告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyr5ngxqw1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Mon, 20 Jul 2026 02:26:11 GMT"
-    },
-    {
-      "title": "【解説】「アンディ」が英首相になるのは初、しかしバーナム氏は何十年もかけて官邸を目指した",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c62ejv3r148o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 20 Jul 2026 01:53:23 GMT"
-    },
-    {
-      "title": "米軍のイラン攻撃続く　イランの攻撃で米兵の死者増える",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cre4z3gzereo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cj9d02npzezo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "middle-east",
-      "published_at": "Mon, 20 Jul 2026 02:30:07 GMT"
+      "published_at": "Tue, 21 Jul 2026 04:17:47 GMT"
+    },
+    {
+      "title": "トランプ米大統領、カナダに50％の追加関税",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn0n888vrgro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "north-america",
+      "published_at": "Tue, 21 Jul 2026 01:52:26 GMT"
+    },
+    {
+      "title": "イエメンのフーシ派、紅海でサウジアラビアに対する「海上封鎖」を発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr7kve2p48lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Tue, 21 Jul 2026 03:57:46 GMT"
+    },
+    {
+      "title": "バーナム新英首相が組閣、財務相にヒーリー前国務相　外相はミリバンド氏",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyrdd5z2k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 21 Jul 2026 02:02:59 GMT"
+    },
+    {
+      "title": "NY中心部の米連邦庁舎前で放火、当局は「移民当局に反対」の陸軍退役軍人を拘束",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgj6ej7mgzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 21 Jul 2026 05:47:14 GMT"
+    },
+    {
+      "title": "スターマー氏が辞任、バーナム氏が就任　約100秒で振り返るイギリスの首相交代",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cz97geqw20lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 21 Jul 2026 06:30:33 GMT"
+    },
+    {
+      "title": "【解説】　容赦ない策士？　風見鶏？　ダンスおじさん？　イギリスのバーナム新首相とは",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjej0nd7118o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 20 Jul 2026 12:51:56 GMT"
+    },
+    {
+      "title": "バーナム氏、イギリスの新首相に就任　政治の安定と分権化推進を強調　原稿見ずに演説",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ce3q1qde797o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 20 Jul 2026 12:48:50 GMT"
     },
     {
       "title": "ウクライナで徴兵担当者への暴力事件が増加　兵員不足と徴兵忌避の溝",
@@ -38,51 +83,6 @@
       "category": "世界情勢",
       "region": "europe",
       "published_at": "Mon, 20 Jul 2026 07:08:57 GMT"
-    },
-    {
-      "title": "【2026年サッカー男子W杯】 イングランド、6-4でフランス破る　3位決定戦",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2dl5v0kd1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sun, 19 Jul 2026 04:42:31 GMT"
-    },
-    {
-      "title": "遠い恒星の地球型惑星で大気を初確認、生命居住可能領域の内側",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckgdn4ypyk5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 18 Jul 2026 03:12:07 GMT"
-    },
-    {
-      "title": "カナダの大規模な山火事でアメリカにも煙、トランプ氏は追加関税を主張",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c75g64r790ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Sat, 18 Jul 2026 03:22:24 GMT"
-    },
-    {
-      "title": "トランプ氏のSNS運営会社、「市場を動かす」投稿への高速アクセスを有料販売へ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/clyv5dex6nwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Sat, 18 Jul 2026 03:37:40 GMT"
-    },
-    {
-      "title": "アメリカ軍、7夜連続でイラン空爆",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy0jg4z92yro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Sat, 18 Jul 2026 04:40:56 GMT"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-20",
+  "verified_at": "2026-07-21",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,28 @@
     }
   ],
   "items": [
+    {
+      "id": "google-85a5cc9c947a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-21",
+      "category": "model",
+      "title_ja": "5 ways to build a side hustle with Gemini",
+      "original_title": "5 ways to build a side hustle with Gemini",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/"
+    },
+    {
+      "id": "openai-a5ab872c216c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-20",
+      "category": "safety",
+      "title_ja": "Safety and alignment in an era of long-horizon models",
+      "original_title": "Safety and alignment in an era of long-horizon models",
+      "summary_ja": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+    },
     {
       "id": "openai-c5c524823095",
       "source": "openai",
@@ -55,17 +77,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
     },
     {
-      "id": "google-6a0f44aaf2f6",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-17",
-      "category": "product",
-      "title_ja": "Create, edit and star in videos with two Google Vids updates",
-      "original_title": "Create, edit and star in videos with two Google Vids updates",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
-    },
-    {
       "id": "google-943c5c0f9917",
       "source": "google",
       "source_name": "Google",
@@ -75,6 +86,17 @@
       "original_title": "We’re partnering with the Georgia Public Library Service for no-cost career and AI training.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/"
+    },
+    {
+      "id": "google-6a0f44aaf2f6",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-17",
+      "category": "product",
+      "title_ja": "Create, edit and star in videos with two Google Vids updates",
+      "original_title": "Create, edit and star in videos with two Google Vids updates",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
     },
     {
       "id": "openai-f47e8f0dcf67",
@@ -209,17 +231,6 @@
       "url": "https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/"
     },
     {
-      "id": "google-90c6b2e30b40",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-14",
-      "category": "model",
-      "title_ja": "How Gemini is speaking the language of Southeast Asia",
-      "original_title": "How Gemini is speaking the language of Southeast Asia",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -240,17 +251,6 @@
       "original_title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "summary_ja": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "url": "https://openai.com/index/deutsche-telekom"
-    },
-    {
-      "id": "openai-aa67bf587bd0",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-10",
-      "category": "education",
-      "title_ja": "Getting started with ChatGPT",
-      "original_title": "Getting started with ChatGPT",
-      "summary_ja": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-      "url": "https://openai.com/academy/getting-started"
     },
     {
       "id": "anthropic-hard-questions-2026-07-09",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-20T08:25:51+00:00",
+  "updated_at": "2026-07-21T06:41:10+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

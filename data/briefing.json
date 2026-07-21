@@ -1,72 +1,72 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-20T08:26:00+00:00",
+  "generated_at": "2026-07-21T06:41:21+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ウクライナで徴兵担当者への暴力事件が増加　兵員不足と徴兵忌避の溝",
+      "title": "スターマー氏が辞任、バーナム氏が就任　約100秒で振り返るイギリスの首相交代",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 20 Jul 2026 07:08:57 GMT",
-      "url": "https://www.bbc.com/japanese/articles/clyevd78emeo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 21 Jul 2026 06:30:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cz97geqw20lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "米軍のイラン攻撃続く　イランの攻撃で米兵の死者増える",
+      "title": "NY中心部の米連邦庁舎前で放火、当局は「移民当局に反対」の陸軍退役軍人を拘束",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Tue, 21 Jul 2026 05:47:14 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cvgj6ej7mgzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "アメリカ、10夜連続でイラン空爆　トランプ氏は米兵殺害への報復を警告",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 20 Jul 2026 02:30:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cre4z3gzereo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【2026年サッカー男子W杯】 スペイン、2回目の優勝　決勝でアルゼンチンを延長1-0で下す",
-      "category": "世界情勢",
-      "source": "BBC News 日本語",
-      "published_at": "Mon, 20 Jul 2026 02:26:11 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwyr5ngxqw1o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 21 Jul 2026 04:17:47 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj9d02npzezo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -4.61%"
+      "detail": "最大変動：日経平均 -2.47%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 1・下落 3・横ばい 0",
-      "detail": "最大変動：Bitcoin -0.74%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Ethereum +5.08%"
     },
     {
       "label": "市場心理",
-      "value": "29 / 100",
-      "detail": "恐怖"
+      "value": "25 / 100",
+      "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "162.356 JPY",
-      "detail": "前日比 -0.04%"
+      "value": "162.539 JPY",
+      "detail": "前日比 +0.22%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ウクライナで徴兵担当者への暴力事件が増加　兵員不足と徴兵忌避の溝",
+      "detail": "スターマー氏が辞任、バーナム氏が就任　約100秒で振り返るイギリスの首相交代",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-4.61%です。",
+      "detail": "日経平均が前日比-2.47%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは29（恐怖）です。",
+      "detail": "Fear & Greed Indexは25（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
-      "level": "normal"
+      "level": "alert"
     }
   ],
   "limitations": [
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-20T08:25:50+00:00",
-    "market": "2026-07-20T08:26:00+00:00"
+    "news": "2026-07-21T06:41:10+00:00",
+    "market": "2026-07-21T06:41:21+00:00"
   }
 }
