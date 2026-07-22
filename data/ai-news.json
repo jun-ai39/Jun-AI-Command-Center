@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-21",
+  "verified_at": "2026-07-22",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,61 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-3064e426d18c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-22",
+      "category": "business",
+      "title_ja": "Introducing the ChatGPT for small business program",
+      "original_title": "Introducing the ChatGPT for small business program",
+      "summary_ja": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+    },
+    {
+      "id": "google-20883c2d7e6f",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-22",
+      "category": "product",
+      "title_ja": "13 Google tips for a fun, productive summer off from college",
+      "original_title": "13 Google tips for a fun, productive summer off from college",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/"
+    },
+    {
+      "id": "google-09b59cb95c87",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-22",
+      "category": "model",
+      "title_ja": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "original_title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+    },
+    {
+      "id": "openai-d925d8c91f46",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-21",
+      "category": "safety",
+      "title_ja": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "original_title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary_ja": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+    },
+    {
+      "id": "openai-69e481323262",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-21",
+      "category": "business",
+      "title_ja": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "original_title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "summary_ja": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+    },
     {
       "id": "google-85a5cc9c947a",
       "source": "google",
@@ -187,50 +242,6 @@
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
     },
     {
-      "id": "openai-009013928220",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-14",
-      "category": "model",
-      "title_ja": "How sales teams use ChatGPT Work",
-      "original_title": "How sales teams use ChatGPT Work",
-      "summary_ja": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-    },
-    {
-      "id": "openai-578b3bdf5cbf",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-14",
-      "category": "model",
-      "title_ja": "How data science teams use ChatGPT Work",
-      "original_title": "How data science teams use ChatGPT Work",
-      "summary_ja": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-    },
-    {
-      "id": "google-d864c12b1675",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-14",
-      "category": "product",
-      "title_ja": "Reconstructing Pelé’s “lost” goal",
-      "original_title": "Reconstructing Pelé’s “lost” goal",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/"
-    },
-    {
-      "id": "google-623321c26bf4",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-14",
-      "category": "model",
-      "title_ja": "We’re expanding Gemini in Chrome to users in the U.K.",
-      "original_title": "We’re expanding Gemini in Chrome to users in the U.K.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -240,17 +251,6 @@
       "original_title": "Introducing Claude for Teachers",
       "summary_ja": "米国の認証済みK-12教育者向けに、Claudeの機能や授業支援スキル、教育課程との連携を提供すると発表しています。",
       "url": "https://www.anthropic.com/news/claude-for-teachers"
-    },
-    {
-      "id": "openai-521cb8f57272",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-10",
-      "category": "product",
-      "title_ja": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "original_title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "summary_ja": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-      "url": "https://openai.com/index/deutsche-telekom"
     },
     {
       "id": "anthropic-hard-questions-2026-07-09",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-21T06:41:10+00:00",
+  "updated_at": "2026-07-22T00:12:01+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

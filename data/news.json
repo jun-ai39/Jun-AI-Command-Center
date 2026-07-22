@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-21T06:41:10+00:00",
+  "updated_at": "2026-07-22T00:12:00+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
@@ -11,6 +11,15 @@
       "category": "紛争",
       "region": "middle-east",
       "published_at": "Tue, 21 Jul 2026 04:17:47 GMT"
+    },
+    {
+      "title": "バーナム新英首相が組閣、財務相にヒーリー前国務相　外相はミリバンド氏",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyrdd5z2k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 21 Jul 2026 02:02:59 GMT"
     },
     {
       "title": "トランプ米大統領、カナダに50％の追加関税",
@@ -31,13 +40,31 @@
       "published_at": "Tue, 21 Jul 2026 03:57:46 GMT"
     },
     {
-      "title": "バーナム新英首相が組閣、財務相にヒーリー前国務相　外相はミリバンド氏",
+      "title": "【2026年サッカー男子W杯】 優勝のスペイン代表、ファン200万人と王室が熱烈に歓迎",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyrdd5z2k2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c2k7xq07q2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 21 Jul 2026 07:56:57 GMT"
+    },
+    {
+      "title": "なぜウクライナの徴兵担当者は自国で暴力に直面しているのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cpw9272qlx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 21 Jul 2026 08:20:21 GMT"
+    },
+    {
+      "title": "アフガニスタン東部で洪水、少なくとも20人死亡　100人以上が行方不明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqjxz787l7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "災害",
       "region": "global",
-      "published_at": "Tue, 21 Jul 2026 02:02:59 GMT"
+      "published_at": "Tue, 21 Jul 2026 08:49:29 GMT"
     },
     {
       "title": "NY中心部の米連邦庁舎前で放火、当局は「移民当局に反対」の陸軍退役軍人を拘束",
@@ -56,33 +83,6 @@
       "category": "世界情勢",
       "region": "europe",
       "published_at": "Tue, 21 Jul 2026 06:30:33 GMT"
-    },
-    {
-      "title": "【解説】　容赦ない策士？　風見鶏？　ダンスおじさん？　イギリスのバーナム新首相とは",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjej0nd7118o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 20 Jul 2026 12:51:56 GMT"
-    },
-    {
-      "title": "バーナム氏、イギリスの新首相に就任　政治の安定と分権化推進を強調　原稿見ずに演説",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce3q1qde797o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 20 Jul 2026 12:48:50 GMT"
-    },
-    {
-      "title": "ウクライナで徴兵担当者への暴力事件が増加　兵員不足と徴兵忌避の溝",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/clyevd78emeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 20 Jul 2026 07:08:57 GMT"
     }
   ]
 }
