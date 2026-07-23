@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-22",
+  "verified_at": "2026-07-23",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,83 @@
   ],
   "items": [
     {
+      "id": "google-646dcb0e6c7c",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-23",
+      "category": "product",
+      "title_ja": "Q2 2026 earnings call: Remarks from our CEO",
+      "original_title": "Q2 2026 earnings call: Remarks from our CEO",
+      "summary_ja": "Read an edited transcript of Sundar Pichai’s remarks from the Q2 2026 Alphabet earnings call.",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/"
+    },
+    {
+      "id": "google-b6c036e2206b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-23",
+      "category": "model",
+      "title_ja": "Here’s how to ask Gemini Live for help with anything you see.",
+      "original_title": "Here’s how to ask Gemini Live for help with anything you see.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/"
+    },
+    {
+      "id": "openai-082c4173c70b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-22",
+      "category": "safety",
+      "title_ja": "Building AI infrastructure with the Effingham County community",
+      "original_title": "Building AI infrastructure with the Effingham County community",
+      "summary_ja": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+    },
+    {
+      "id": "openai-932591afba7f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-22",
+      "category": "business",
+      "title_ja": "How news organizations are using AI to advance their vital missions",
+      "original_title": "How news organizations are using AI to advance their vital missions",
+      "summary_ja": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai"
+    },
+    {
+      "id": "openai-577ddf6b90e6",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-22",
+      "category": "product",
+      "title_ja": "Advancing the next era of national science",
+      "original_title": "Advancing the next era of national science",
+      "summary_ja": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
+    },
+    {
+      "id": "openai-839f7a51d7b5",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-22",
+      "category": "business",
+      "title_ja": "Introducing OpenAI Presence",
+      "original_title": "Introducing OpenAI Presence",
+      "summary_ja": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "url": "https://openai.com/index/introducing-openai-presence"
+    },
+    {
+      "id": "openai-389ebd02d283",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-22",
+      "category": "business",
+      "title_ja": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "original_title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "summary_ja": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "url": "https://openai.com/index/ntt-data"
+    },
+    {
       "id": "openai-3064e426d18c",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +108,17 @@
       "original_title": "Introducing the ChatGPT for small business program",
       "summary_ja": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+    },
+    {
+      "id": "google-a9dfe60b87c5",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-22",
+      "category": "model",
+      "title_ja": "3 Google updates from Galaxy Unpacked 2026",
+      "original_title": "3 Google updates from Galaxy Unpacked 2026",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
     },
     {
       "id": "google-20883c2d7e6f",
@@ -110,17 +198,6 @@
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
     },
     {
-      "id": "openai-a907415b440a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-17",
-      "category": "safety",
-      "title_ja": "Why teens deserve access to safe AI",
-      "original_title": "Why teens deserve access to safe AI",
-      "summary_ja": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-    },
-    {
       "id": "google-af76aea73422",
       "source": "google",
       "source_name": "Google",
@@ -154,17 +231,6 @@
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
     },
     {
-      "id": "openai-f47e8f0dcf67",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-16",
-      "category": "business",
-      "title_ja": "How Cars24 scales conversations and builds faster with OpenAI",
-      "original_title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "summary_ja": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-      "url": "https://openai.com/index/cars24"
-    },
-    {
       "id": "google-a1b1816fb1e0",
       "source": "google",
       "source_name": "Google",
@@ -174,72 +240,6 @@
       "original_title": "The DMA should not undercut security & privacy for Europeans",
       "summary_ja": "Today's decisions risk undermining vital privacy and security guardrails for millions of Europeans. We have repeatedly offered solutions to safeguard users while satisfy…",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/"
-    },
-    {
-      "id": "google-2674aae91a84",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-16",
-      "category": "business",
-      "title_ja": "We’re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.",
-      "original_title": "We’re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/"
-    },
-    {
-      "id": "openai-23b1197c7433",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-15",
-      "category": "safety",
-      "title_ja": "The US is advancing AI safety through state and federal action",
-      "original_title": "The US is advancing AI safety through state and federal action",
-      "summary_ja": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
-    },
-    {
-      "id": "openai-f8df3e0d3cc8",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-15",
-      "category": "safety",
-      "title_ja": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "original_title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "summary_ja": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
-    },
-    {
-      "id": "google-b76447458294",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-15",
-      "category": "product",
-      "title_ja": "Explore The Met in new ways with generative AI",
-      "original_title": "Explore The Met in new ways with generative AI",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-met-ai-initiatives/"
-    },
-    {
-      "id": "google-db1ed1c9277f",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-15",
-      "category": "product",
-      "title_ja": "Our largest solar and battery storage project ever",
-      "original_title": "Our largest solar and battery storage project ever",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/steel-river-arkansas/"
-    },
-    {
-      "id": "openai-0a5ca4c5b523",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-14",
-      "category": "education",
-      "title_ja": "How to manage AI investments in the agentic era",
-      "original_title": "How to manage AI investments in the agentic era",
-      "summary_ja": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-22T00:12:01+00:00",
+  "updated_at": "2026-07-23T06:38:47+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

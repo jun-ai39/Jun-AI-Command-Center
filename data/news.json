@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-22T00:12:00+00:00",
+  "updated_at": "2026-07-23T06:38:46+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "アメリカ、10夜連続でイラン空爆　トランプ氏は米兵殺害への報復を警告",
+      "title": "アメリカ、サウジアラビアとの画期的な原子力協定に署名　ウラン濃縮への懸念の声も",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj9d02npzezo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c0rdq7vgzxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 23 Jul 2026 05:25:57 GMT"
+    },
+    {
+      "title": "ウクライナ、ロシアの通販大手の倉庫を相次ぎ攻撃　中小企業に打撃",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cg7mz1nmze0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Thu, 23 Jul 2026 04:22:48 GMT"
+    },
+    {
+      "title": "米オープンAI、自社AIが暴走し「前例のない」サイバー攻撃を仕掛けたと発表　セキュリティーテスト中に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c235nmklxndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "global",
+      "published_at": "Thu, 23 Jul 2026 04:18:36 GMT"
+    },
+    {
+      "title": "ヒトラー生家に警察署を開設、ナチスの聖地化を防ごうと　オーストリア",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cgmky2ynrlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 23 Jul 2026 06:16:38 GMT"
+    },
+    {
+      "title": "マムダニNY市長、ネタニヤフ氏拘束に改めて言及　のちに権限ないと後退",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c1l1vjv39jyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 23 Jul 2026 05:00:04 GMT"
+    },
+    {
+      "title": "アメリカ、イランを11夜連続で空爆　トランプ氏は地下核施設への攻撃を示唆",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ceqel88qlnxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "middle-east",
-      "published_at": "Tue, 21 Jul 2026 04:17:47 GMT"
+      "published_at": "Wed, 22 Jul 2026 09:09:50 GMT"
     },
     {
-      "title": "バーナム新英首相が組閣、財務相にヒーリー前国務相　外相はミリバンド氏",
+      "title": "ゼレンスキー氏、ウクライナ軍総司令官を解任　連日の抗議デモを受け",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyrdd5z2k2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 21 Jul 2026 02:02:59 GMT"
-    },
-    {
-      "title": "トランプ米大統領、カナダに50％の追加関税",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn0n888vrgro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Tue, 21 Jul 2026 01:52:26 GMT"
-    },
-    {
-      "title": "イエメンのフーシ派、紅海でサウジアラビアに対する「海上封鎖」を発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr7kve2p48lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Tue, 21 Jul 2026 03:57:46 GMT"
-    },
-    {
-      "title": "【2026年サッカー男子W杯】 優勝のスペイン代表、ファン200万人と王室が熱烈に歓迎",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c2k7xq07q2po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c04k721ep9wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Tue, 21 Jul 2026 07:56:57 GMT"
+      "published_at": "Wed, 22 Jul 2026 02:52:00 GMT"
     },
     {
-      "title": "なぜウクライナの徴兵担当者は自国で暴力に直面しているのか",
+      "title": "バーナム英首相が初閣議、生活費問題への取り組みを指示",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cpw9272qlx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 21 Jul 2026 08:20:21 GMT"
-    },
-    {
-      "title": "アフガニスタン東部で洪水、少なくとも20人死亡　100人以上が行方不明",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqjxz787l7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "global",
-      "published_at": "Tue, 21 Jul 2026 08:49:29 GMT"
-    },
-    {
-      "title": "NY中心部の米連邦庁舎前で放火、当局は「移民当局に反対」の陸軍退役軍人を拘束",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgj6ej7mgzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c75gw9303ero?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 21 Jul 2026 05:47:14 GMT"
+      "published_at": "Wed, 22 Jul 2026 02:43:43 GMT"
     },
     {
-      "title": "スターマー氏が辞任、バーナム氏が就任　約100秒で振り返るイギリスの首相交代",
+      "title": "ロシアの軍艦が英プリマス沖で実弾演習、英仏軍が監視するなか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cz97geqw20lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c171dky7rrlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Tue, 21 Jul 2026 06:30:33 GMT"
+      "published_at": "Wed, 22 Jul 2026 09:00:53 GMT"
     }
   ]
 }

@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T00:12:13+00:00",
+  "generated_at": "2026-07-23T06:38:58+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "アフガニスタン東部で洪水、少なくとも20人死亡　100人以上が行方不明",
-      "category": "災害",
-      "source": "BBC News 日本語",
-      "published_at": "Tue, 21 Jul 2026 08:49:29 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqjxz787l7po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "なぜウクライナの徴兵担当者は自国で暴力に直面しているのか",
+      "title": "ヒトラー生家に警察署を開設、ナチスの聖地化を防ごうと　オーストリア",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 21 Jul 2026 08:20:21 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cpw9272qlx4o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 23 Jul 2026 06:16:38 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cgmky2ynrlyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【2026年サッカー男子W杯】 優勝のスペイン代表、ファン200万人と王室が熱烈に歓迎",
+      "title": "アメリカ、サウジアラビアとの画期的な原子力協定に署名　ウラン濃縮への懸念の声も",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 21 Jul 2026 07:56:57 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c2k7xq07q2po?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 23 Jul 2026 05:25:57 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c0rdq7vgzxwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "マムダニNY市長、ネタニヤフ氏拘束に改めて言及　のちに権限ないと後退",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Thu, 23 Jul 2026 05:00:04 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c1l1vjv39jyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -3.66%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 -2.20%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +3.34%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Bitcoin -1.00%"
     },
     {
       "label": "市場心理",
-      "value": "33 / 100",
+      "value": "31 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "163.146 JPY",
-      "detail": "前日比 +0.66%"
+      "value": "163.074 JPY",
+      "detail": "前日比 +0.43%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "アフガニスタン東部で洪水、少なくとも20人死亡　100人以上が行方不明",
-      "meta": "災害・BBC News 日本語",
+      "detail": "ヒトラー生家に警察署を開設、ナチスの聖地化を防ごうと　オーストリア",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.66%です。",
+      "detail": "NASDAQ総合が前日比-2.20%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは33（恐怖）です。",
+      "detail": "Fear & Greed Indexは31（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-22T00:12:00+00:00",
-    "market": "2026-07-22T00:12:12+00:00"
+    "news": "2026-07-23T06:38:46+00:00",
+    "market": "2026-07-23T06:38:58+00:00"
   }
 }
