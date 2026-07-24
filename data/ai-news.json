@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-23",
+  "verified_at": "2026-07-24",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,50 @@
     }
   ],
   "items": [
+    {
+      "id": "google-736c640ea333",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-24",
+      "category": "model",
+      "title_ja": "Apply now for the Google for Startups Gemini Startup Forum.",
+      "original_title": "Apply now for the Google for Startups Gemini Startup Forum.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-winter-2026/"
+    },
+    {
+      "id": "openai-bf70d809f954",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-23",
+      "category": "model",
+      "title_ja": "Launching Health in ChatGPT",
+      "original_title": "Launching Health in ChatGPT",
+      "summary_ja": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "url": "https://openai.com/index/health-in-chatgpt"
+    },
+    {
+      "id": "google-c02aaf31c680",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-23",
+      "category": "product",
+      "title_ja": "Understanding the AI economy",
+      "original_title": "Understanding the AI economy",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/"
+    },
+    {
+      "id": "google-15bbd3f3024c",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-23",
+      "category": "safety",
+      "title_ja": "Introducing selfie for sign-in: a new, easy way to access your Google Account",
+      "original_title": "Introducing selfie for sign-in: a new, easy way to access your Google Account",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/"
+    },
     {
       "id": "google-646dcb0e6c7c",
       "source": "google",
@@ -187,17 +231,6 @@
       "url": "https://openai.com/index/safety-alignment-long-horizon-models"
     },
     {
-      "id": "openai-c5c524823095",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-17",
-      "category": "business",
-      "title_ja": "A scorecard for the AI age",
-      "original_title": "A scorecard for the AI age",
-      "summary_ja": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-    },
-    {
       "id": "google-af76aea73422",
       "source": "google",
       "source_name": "Google",
@@ -207,39 +240,6 @@
       "original_title": "NotebookLM is now Gemini Notebook",
       "summary_ja": "研究支援ツールの名称変更と、コード実行に対応する安全なクラウド環境、Googleサービス間の連携強化を発表しています。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
-    },
-    {
-      "id": "google-943c5c0f9917",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-17",
-      "category": "product",
-      "title_ja": "We’re partnering with the Georgia Public Library Service for no-cost career and AI training.",
-      "original_title": "We’re partnering with the Georgia Public Library Service for no-cost career and AI training.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/"
-    },
-    {
-      "id": "google-6a0f44aaf2f6",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-17",
-      "category": "product",
-      "title_ja": "Create, edit and star in videos with two Google Vids updates",
-      "original_title": "Create, edit and star in videos with two Google Vids updates",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
-    },
-    {
-      "id": "google-a1b1816fb1e0",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-16",
-      "category": "safety",
-      "title_ja": "The DMA should not undercut security & privacy for Europeans",
-      "original_title": "The DMA should not undercut security & privacy for Europeans",
-      "summary_ja": "Today's decisions risk undermining vital privacy and security guardrails for millions of Europeans. We have repeatedly offered solutions to safeguard users while satisfy…",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-23T06:38:47+00:00",
+  "updated_at": "2026-07-24T00:15:07+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

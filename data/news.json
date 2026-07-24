@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-23T06:38:46+00:00",
+  "updated_at": "2026-07-24T00:15:06+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
@@ -37,7 +37,25 @@
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Thu, 23 Jul 2026 06:16:38 GMT"
+      "published_at": "Thu, 23 Jul 2026 07:44:46 GMT"
+    },
+    {
+      "title": "【分析】 イエメン近海でタンカーが相次ぎ急旋回、フーシ派の「海上封鎖」警告受け",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c934l1v0k19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 23 Jul 2026 07:50:32 GMT"
+    },
+    {
+      "title": "トランプ政権の技術顧問、中国AIモデルが米競合から技術を盗んだと非難",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cgq50ne1549o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Thu, 23 Jul 2026 06:50:45 GMT"
     },
     {
       "title": "マムダニNY市長、ネタニヤフ氏拘束に改めて言及　のちに権限ないと後退",
@@ -49,40 +67,22 @@
       "published_at": "Thu, 23 Jul 2026 05:00:04 GMT"
     },
     {
-      "title": "アメリカ、イランを11夜連続で空爆　トランプ氏は地下核施設への攻撃を示唆",
+      "title": "ルーヴル美術館、宝飾品が盗まれたギャラリーの一般公開を再開　9カ月ぶり",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ceqel88qlnxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Wed, 22 Jul 2026 09:09:50 GMT"
-    },
-    {
-      "title": "ゼレンスキー氏、ウクライナ軍総司令官を解任　連日の抗議デモを受け",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c04k721ep9wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 22 Jul 2026 02:52:00 GMT"
-    },
-    {
-      "title": "バーナム英首相が初閣議、生活費問題への取り組みを指示",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c75gw9303ero?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cp9ex89evnpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 22 Jul 2026 02:43:43 GMT"
+      "published_at": "Thu, 23 Jul 2026 08:15:58 GMT"
     },
     {
-      "title": "ロシアの軍艦が英プリマス沖で実弾演習、英仏軍が監視するなか",
+      "title": "インドネシアで赤ちゃん売買組織の19人に有罪判決……子どもたちはどうなるのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c171dky7rrlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cpq8l5p223zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 22 Jul 2026 09:00:53 GMT"
+      "region": "asia",
+      "published_at": "Thu, 23 Jul 2026 08:50:25 GMT"
     }
   ]
 }

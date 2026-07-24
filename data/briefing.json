@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-23T06:38:58+00:00",
+  "generated_at": "2026-07-24T00:15:18+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ヒトラー生家に警察署を開設、ナチスの聖地化を防ごうと　オーストリア",
+      "title": "インドネシアで赤ちゃん売買組織の19人に有罪判決……子どもたちはどうなるのか",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 23 Jul 2026 06:16:38 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cgmky2ynrlyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 23 Jul 2026 08:50:25 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cpq8l5p223zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "アメリカ、サウジアラビアとの画期的な原子力協定に署名　ウラン濃縮への懸念の声も",
+      "title": "ルーヴル美術館、宝飾品が盗まれたギャラリーの一般公開を再開　9カ月ぶり",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 23 Jul 2026 05:25:57 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c0rdq7vgzxwo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 23 Jul 2026 08:15:58 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cp9ex89evnpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "マムダニNY市長、ネタニヤフ氏拘束に改めて言及　のちに権限ないと後退",
+      "title": "【分析】 イエメン近海でタンカーが相次ぎ急旋回、フーシ派の「海上封鎖」警告受け",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 23 Jul 2026 05:00:04 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c1l1vjv39jyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 23 Jul 2026 07:50:32 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c934l1v0k19o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -2.20%"
+      "value": "上昇 2・下落 3・横ばい 0",
+      "detail": "最大変動：TOPIX連動ETF（参考値） +3.32%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Bitcoin -1.00%"
+      "detail": "最大変動：Ethereum -3.00%"
     },
     {
       "label": "市場心理",
-      "value": "31 / 100",
+      "value": "28 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "163.074 JPY",
-      "detail": "前日比 +0.43%"
+      "value": "163.850 JPY",
+      "detail": "前日比 +0.82%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ヒトラー生家に警察署を開設、ナチスの聖地化を防ごうと　オーストリア",
+      "detail": "インドネシアで赤ちゃん売買組織の19人に有罪判決……子どもたちはどうなるのか",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-2.20%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比+3.32%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは31（恐怖）です。",
+      "detail": "Fear & Greed Indexは28（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-23T06:38:46+00:00",
-    "market": "2026-07-23T06:38:58+00:00"
+    "news": "2026-07-24T00:15:06+00:00",
+    "market": "2026-07-24T00:15:18+00:00"
   }
 }
