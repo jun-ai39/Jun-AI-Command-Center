@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-24T00:15:18+00:00",
+  "generated_at": "2026-07-25T06:06:54+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "インドネシアで赤ちゃん売買組織の19人に有罪判決……子どもたちはどうなるのか",
+      "title": "フランスとスペインで山火事広がる、22万人以上が避難　スペインは緊急事態宣言",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 23 Jul 2026 08:50:25 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cpq8l5p223zo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 25 Jul 2026 04:03:16 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cn7nv6kemggo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ルーヴル美術館、宝飾品が盗まれたギャラリーの一般公開を再開　9カ月ぶり",
+      "title": "ヨルダン川西岸で銃撃、パレスチナ人4人とイスラエル人2人が死亡",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 23 Jul 2026 08:15:58 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cp9ex89evnpo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 25 Jul 2026 03:42:20 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cqlxyk41kelo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【分析】 イエメン近海でタンカーが相次ぎ急旋回、フーシ派の「海上封鎖」警告受け",
-      "category": "世界情勢",
+      "title": "ロシア軍、キーウ近郊のドローン展示会を攻撃　10人殺害",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 23 Jul 2026 07:50:32 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c934l1v0k19o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 25 Jul 2026 03:36:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c0m7w40m8r3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：TOPIX連動ETF（参考値） +3.32%"
+      "detail": "最大変動：TOPIX連動ETF（参考値） +2.45%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Ethereum -3.00%"
+      "detail": "最大変動：Solana -2.20%"
     },
     {
       "label": "市場心理",
-      "value": "28 / 100",
+      "value": "27 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "163.850 JPY",
-      "detail": "前日比 +0.82%"
+      "value": "163.791 JPY",
+      "detail": "前日比 +0.79%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "インドネシアで赤ちゃん売買組織の19人に有罪判決……子どもたちはどうなるのか",
+      "detail": "フランスとスペインで山火事広がる、22万人以上が避難　スペインは緊急事態宣言",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "TOPIX連動ETF（参考値）が前日比+3.32%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比+2.45%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは28（恐怖）です。",
+      "detail": "Fear & Greed Indexは27（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-24T00:15:06+00:00",
-    "market": "2026-07-24T00:15:18+00:00"
+    "news": "2026-07-25T06:06:43+00:00",
+    "market": "2026-07-25T06:06:54+00:00"
   }
 }

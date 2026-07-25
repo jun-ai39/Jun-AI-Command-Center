@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-24T00:15:06+00:00",
+  "updated_at": "2026-07-25T06:06:43+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "アメリカ、サウジアラビアとの画期的な原子力協定に署名　ウラン濃縮への懸念の声も",
+      "title": "ロシア軍、キーウ近郊のドローン展示会を攻撃　10人殺害",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c0rdq7vgzxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 23 Jul 2026 05:25:57 GMT"
-    },
-    {
-      "title": "ウクライナ、ロシアの通販大手の倉庫を相次ぎ攻撃　中小企業に打撃",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cg7mz1nmze0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c0m7w40m8r3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Thu, 23 Jul 2026 04:22:48 GMT"
+      "published_at": "Sat, 25 Jul 2026 03:36:52 GMT"
     },
     {
-      "title": "米オープンAI、自社AIが暴走し「前例のない」サイバー攻撃を仕掛けたと発表　セキュリティーテスト中に",
+      "title": "フランスとスペインで山火事広がる、22万人以上が避難　スペインは緊急事態宣言",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c235nmklxndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "global",
-      "published_at": "Thu, 23 Jul 2026 04:18:36 GMT"
-    },
-    {
-      "title": "ヒトラー生家に警察署を開設、ナチスの聖地化を防ごうと　オーストリア",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cgmky2ynrlyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cn7nv6kemggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 23 Jul 2026 07:44:46 GMT"
+      "region": "europe",
+      "published_at": "Sat, 25 Jul 2026 04:03:16 GMT"
     },
     {
-      "title": "【分析】 イエメン近海でタンカーが相次ぎ急旋回、フーシ派の「海上封鎖」警告受け",
+      "title": "【解説】 イランにとっての三つの選択肢　ホルムズ海峡めぐり多大なリスク冒すなか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c934l1v0k19o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cr593q9n840o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Thu, 23 Jul 2026 07:50:32 GMT"
+      "published_at": "Sat, 25 Jul 2026 03:17:09 GMT"
     },
     {
-      "title": "トランプ政権の技術顧問、中国AIモデルが米競合から技術を盗んだと非難",
+      "title": "ヨルダン川西岸で銃撃、パレスチナ人4人とイスラエル人2人が死亡",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cgq50ne1549o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqlxyk41kelo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Sat, 25 Jul 2026 03:42:20 GMT"
+    },
+    {
+      "title": "国際刑事裁判所、主任検察官を解任　性的不正行為の疑惑で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cz053xzrm71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 25 Jul 2026 02:36:39 GMT"
+    },
+    {
+      "title": "トランプ政権、新たな関税を発動　強制労働対策が不十分として60の国・地域に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cgmky0wmxy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
       "region": "north-america",
-      "published_at": "Thu, 23 Jul 2026 06:50:45 GMT"
+      "published_at": "Fri, 24 Jul 2026 06:39:19 GMT"
     },
     {
-      "title": "マムダニNY市長、ネタニヤフ氏拘束に改めて言及　のちに権限ないと後退",
+      "title": "米・サウジ原子力協定、イスラエル国家の承認が条件とトランプ氏",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c1l1vjv39jyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c8xnqz0nd4po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Fri, 24 Jul 2026 03:33:27 GMT"
+    },
+    {
+      "title": "米議会、AIツールの「緊急停止スイッチ」を推進　オープンAIでの暴走事案受け",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cp87q0pmn1ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Thu, 23 Jul 2026 05:00:04 GMT"
+      "published_at": "Fri, 24 Jul 2026 05:50:50 GMT"
     },
     {
-      "title": "ルーヴル美術館、宝飾品が盗まれたギャラリーの一般公開を再開　9カ月ぶり",
+      "title": "更迭されたウクライナ前国防相、復帰を要求　ほかの役職は受け入れないと",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp9ex89evnpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/czxqnlrn001o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 23 Jul 2026 08:15:58 GMT"
-    },
-    {
-      "title": "インドネシアで赤ちゃん売買組織の19人に有罪判決……子どもたちはどうなるのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cpq8l5p223zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 23 Jul 2026 08:50:25 GMT"
+      "region": "europe",
+      "published_at": "Fri, 24 Jul 2026 05:51:55 GMT"
     }
   ]
 }

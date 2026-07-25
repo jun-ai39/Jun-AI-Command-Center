@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-24",
+  "verified_at": "2026-07-25",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,17 @@
     }
   ],
   "items": [
+    {
+      "id": "google-5f9b54e1255a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-24",
+      "category": "product",
+      "title_ja": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
+      "original_title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/"
+    },
     {
       "id": "google-736c640ea333",
       "source": "google",
@@ -231,17 +242,6 @@
       "url": "https://openai.com/index/safety-alignment-long-horizon-models"
     },
     {
-      "id": "google-af76aea73422",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-17",
-      "category": "model",
-      "title_ja": "NotebookLMがGemini Notebookへ名称変更",
-      "original_title": "NotebookLM is now Gemini Notebook",
-      "summary_ja": "研究支援ツールの名称変更と、コード実行に対応する安全なクラウド環境、Googleサービス間の連携強化を発表しています。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-24T00:15:07+00:00",
+  "updated_at": "2026-07-25T06:06:44+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
