@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-26T07:18:06+00:00",
+  "generated_at": "2026-07-27T10:52:18+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "フランスとスペインで山火事広がる、22万人以上が避難　スペインは緊急事態宣言",
+      "title": "ヨルダン川西岸でイスラエル人入植者がパレスチナ人の村へ……催涙ガス立ち込める現場でBBC取材",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 25 Jul 2026 04:03:16 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cn7nv6kemggo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 27 Jul 2026 09:14:17 GMT",
+      "url": "https://www.bbc.com/japanese/articles/clyq5qvw0yvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ヨルダン川西岸で銃撃、パレスチナ人4人とイスラエル人2人が死亡",
+      "title": "バーナム英首相、「イギリスにとって正しい」ならトランプ氏批判もするとBBCに　早期の解散総選挙は否定",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 25 Jul 2026 03:42:20 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqlxyk41kelo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 27 Jul 2026 08:16:08 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj4k5pe1kgdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ロシア軍、キーウ近郊のドローン展示会を攻撃　10人殺害",
-      "category": "紛争",
+      "title": "イスラエル人入植者がヨルダン川西岸で放火とパレスチナ人説明　モスクや車、農地に被害と",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 25 Jul 2026 03:36:52 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c0m7w40m8r3o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 27 Jul 2026 07:17:37 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq6d7p76844o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：TOPIX連動ETF（参考値） +2.45%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 -2.13%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +1.50%"
+      "detail": "最大変動：Ethereum +4.19%"
     },
     {
       "label": "市場心理",
-      "value": "26 / 100",
+      "value": "30 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "163.791 JPY",
-      "detail": "前日比 +0.79%"
+      "value": "163.575 JPY",
+      "detail": "前日比 +0.67%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "フランスとスペインで山火事広がる、22万人以上が避難　スペインは緊急事態宣言",
+      "detail": "ヨルダン川西岸でイスラエル人入植者がパレスチナ人の村へ……催涙ガス立ち込める現場でBBC取材",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "TOPIX連動ETF（参考値）が前日比+2.45%です。",
+      "detail": "NASDAQ総合が前日比-2.13%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは26（恐怖）です。",
+      "detail": "Fear & Greed Indexは30（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-26T07:17:56+00:00",
-    "market": "2026-07-26T07:18:06+00:00"
+    "news": "2026-07-27T10:52:07+00:00",
+    "market": "2026-07-27T10:52:18+00:00"
   }
 }

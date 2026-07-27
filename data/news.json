@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-26T07:17:56+00:00",
+  "updated_at": "2026-07-27T10:52:07+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ロシア軍、キーウ近郊のドローン展示会を攻撃　10人殺害",
+      "title": "仏ボルドー近郊に山火事広がる、数万人が避難　スペインでもバレンシア州へ拡大",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c0m7w40m8r3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c4gx4e4vvz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 27 Jul 2026 02:50:41 GMT"
+    },
+    {
+      "title": "イスラエル人入植者がヨルダン川西岸で放火とパレスチナ人説明　モスクや車、農地に被害と",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq6d7p76844o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Mon, 27 Jul 2026 07:17:37 GMT"
+    },
+    {
+      "title": "トランプ氏、イラン攻撃を一時停止　協議の余地つくるためと米大使が説明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c1w1d5z2wxno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 25 Jul 2026 03:36:52 GMT"
-    },
-    {
-      "title": "フランスとスペインで山火事広がる、22万人以上が避難　スペインは緊急事態宣言",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn7nv6kemggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 25 Jul 2026 04:03:16 GMT"
-    },
-    {
-      "title": "【解説】 イランにとっての三つの選択肢　ホルムズ海峡めぐり多大なリスク冒すなか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr593q9n840o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Sat, 25 Jul 2026 03:17:09 GMT"
+      "published_at": "Mon, 27 Jul 2026 02:35:44 GMT"
     },
     {
-      "title": "ヨルダン川西岸で銃撃、パレスチナ人4人とイスラエル人2人が死亡",
+      "title": "バーナム英首相、「イギリスにとって正しい」ならトランプ氏批判もするとBBCに　早期の解散総選挙は否定",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqlxyk41kelo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cj4k5pe1kgdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Sat, 25 Jul 2026 03:42:20 GMT"
-    },
-    {
-      "title": "国際刑事裁判所、主任検察官を解任　性的不正行為の疑惑で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cz053xzrm71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 25 Jul 2026 02:36:39 GMT"
-    },
-    {
-      "title": "トランプ政権、新たな関税を発動　強制労働対策が不十分として60の国・地域に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cgmky0wmxy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
       "region": "north-america",
-      "published_at": "Fri, 24 Jul 2026 06:39:19 GMT"
+      "published_at": "Mon, 27 Jul 2026 08:16:08 GMT"
     },
     {
-      "title": "米・サウジ原子力協定、イスラエル国家の承認が条件とトランプ氏",
+      "title": "ヨルダン川西岸でイスラエル人入植者がパレスチナ人の村へ……催涙ガス立ち込める現場でBBC取材",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8xnqz0nd4po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/clyq5qvw0yvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Fri, 24 Jul 2026 03:33:27 GMT"
+      "published_at": "Mon, 27 Jul 2026 09:14:17 GMT"
     },
     {
-      "title": "米議会、AIツールの「緊急停止スイッチ」を推進　オープンAIでの暴走事案受け",
+      "title": "独ベルリン・プライド襲撃で1人死亡、多数負傷　警察は容疑者を射殺",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp87q0pmn1ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/czxq47717z9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 24 Jul 2026 05:50:50 GMT"
+      "published_at": "Mon, 27 Jul 2026 02:29:03 GMT"
     },
     {
-      "title": "更迭されたウクライナ前国防相、復帰を要求　ほかの役職は受け入れないと",
+      "title": "インドの「ゴキブリ人民党」抗議運動、教育相の辞任受け終了　医大入試問題の漏洩が抗議のきっかけ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/czxqnlrn001o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cy7401j4n05o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Mon, 27 Jul 2026 04:56:30 GMT"
+    },
+    {
+      "title": "ゼレンスキー氏の訪英を前にウクライナ支援の継続を約束　バーナム首相",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c0jlz2ge528o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Fri, 24 Jul 2026 05:51:55 GMT"
+      "published_at": "Mon, 27 Jul 2026 05:11:38 GMT"
+    },
+    {
+      "title": "日本のレジェンド、三浦知良選手が59歳でゴール決める　2022年以来",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckgv252kynlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Mon, 27 Jul 2026 06:14:40 GMT"
     }
   ]
 }

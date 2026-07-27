@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-26",
+  "verified_at": "2026-07-27",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,17 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-db9d0913513d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-27",
+      "category": "business",
+      "title_ja": "How AI is expanding what people do at work",
+      "original_title": "How AI is expanding what people do at work",
+      "summary_ja": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+    },
     {
       "id": "google-5f9b54e1255a",
       "source": "google",
@@ -231,17 +242,6 @@
       "url": "https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/"
     },
     {
-      "id": "openai-a5ab872c216c",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-20",
-      "category": "safety",
-      "title_ja": "Safety and alignment in an era of long-horizon models",
-      "original_title": "Safety and alignment in an era of long-horizon models",
-      "summary_ja": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-26T07:17:56+00:00",
+  "updated_at": "2026-07-27T10:52:08+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
