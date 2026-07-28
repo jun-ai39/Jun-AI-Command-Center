@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-27T10:52:18+00:00",
+  "generated_at": "2026-07-28T00:14:54+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
@@ -30,23 +30,23 @@
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -2.13%"
+      "value": "上昇 2・下落 3・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 -2.26%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Ethereum +4.19%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -4.20%"
     },
     {
       "label": "市場心理",
-      "value": "30 / 100",
+      "value": "29 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "163.575 JPY",
-      "detail": "前日比 +0.67%"
+      "value": "163.816 JPY",
+      "detail": "前日比 +0.39%"
     }
   ],
   "watch_points": [
@@ -58,13 +58,13 @@
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-2.13%です。",
+      "detail": "NASDAQ総合が前日比-2.26%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは30（恐怖）です。",
+      "detail": "Fear & Greed Indexは29（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-27T10:52:07+00:00",
-    "market": "2026-07-27T10:52:18+00:00"
+    "news": "2026-07-28T00:14:42+00:00",
+    "market": "2026-07-28T00:14:54+00:00"
   }
 }

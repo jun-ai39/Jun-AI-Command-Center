@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-27",
+  "verified_at": "2026-07-28",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,17 @@
     }
   ],
   "items": [
+    {
+      "id": "google-e2ef01d5562b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-28",
+      "category": "product",
+      "title_ja": "NOAA and Google Cloud collaborate to advance weather forecasting.",
+      "original_title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/"
+    },
     {
       "id": "openai-db9d0913513d",
       "source": "openai",
@@ -231,17 +242,6 @@
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
     },
     {
-      "id": "google-85a5cc9c947a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-21",
-      "category": "model",
-      "title_ja": "5 ways to build a side hustle with Gemini",
-      "original_title": "5 ways to build a side hustle with Gemini",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-27T10:52:08+00:00",
+  "updated_at": "2026-07-28T00:14:42+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
