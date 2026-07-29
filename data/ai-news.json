@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-28",
+  "verified_at": "2026-07-29",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-824b5ba22f1e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-29",
+      "category": "product",
+      "title_ja": "Scientific computing in the age of agentic AI",
+      "original_title": "Scientific computing in the age of agentic AI",
+      "summary_ja": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai"
+    },
+    {
+      "id": "google-7691342c0d33",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-29",
+      "category": "model",
+      "title_ja": "How Gemini Flash agents are helping a Michigan dairy farmer",
+      "original_title": "How Gemini Flash agents are helping a Michigan dairy farmer",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/"
+    },
+    {
+      "id": "google-55560096859e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-29",
+      "category": "model",
+      "title_ja": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "original_title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+    },
+    {
+      "id": "google-7fd8522a2c7e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-29",
+      "category": "product",
+      "title_ja": "3 new ways nonprofits can put AI to work",
+      "original_title": "3 new ways nonprofits can put AI to work",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/"
+    },
+    {
+      "id": "google-dc323d8334b7",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-28",
+      "category": "product",
+      "title_ja": "5 ways AI Mode in Search helps you enjoy the real world",
+      "original_title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
+    },
+    {
+      "id": "google-af83a14b083e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-28",
+      "category": "product",
+      "title_ja": "Google and KDDI are ready to back Japanese startups.",
+      "original_title": "Google and KDDI are ready to back Japanese startups.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/"
+    },
     {
       "id": "google-e2ef01d5562b",
       "source": "google",
@@ -99,28 +165,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/"
     },
     {
-      "id": "google-646dcb0e6c7c",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-23",
-      "category": "product",
-      "title_ja": "Q2 2026 earnings call: Remarks from our CEO",
-      "original_title": "Q2 2026 earnings call: Remarks from our CEO",
-      "summary_ja": "Read an edited transcript of Sundar Pichai’s remarks from the Q2 2026 Alphabet earnings call.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/"
-    },
-    {
-      "id": "google-b6c036e2206b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-23",
-      "category": "model",
-      "title_ja": "Here’s how to ask Gemini Live for help with anything you see.",
-      "original_title": "Here’s how to ask Gemini Live for help with anything you see.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/"
-    },
-    {
       "id": "openai-082c4173c70b",
       "source": "openai",
       "source_name": "OpenAI",
@@ -187,39 +231,6 @@
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
     },
     {
-      "id": "google-a9dfe60b87c5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-22",
-      "category": "model",
-      "title_ja": "3 Google updates from Galaxy Unpacked 2026",
-      "original_title": "3 Google updates from Galaxy Unpacked 2026",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
-    },
-    {
-      "id": "google-20883c2d7e6f",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-22",
-      "category": "product",
-      "title_ja": "13 Google tips for a fun, productive summer off from college",
-      "original_title": "13 Google tips for a fun, productive summer off from college",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/"
-    },
-    {
-      "id": "google-09b59cb95c87",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-22",
-      "category": "model",
-      "title_ja": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "original_title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
-    },
-    {
       "id": "openai-d925d8c91f46",
       "source": "openai",
       "source_name": "OpenAI",
@@ -229,17 +240,6 @@
       "original_title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "summary_ja": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
-    },
-    {
-      "id": "openai-69e481323262",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-21",
-      "category": "business",
-      "title_ja": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "original_title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "summary_ja": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-28T00:14:42+00:00",
+  "updated_at": "2026-07-29T00:13:53+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

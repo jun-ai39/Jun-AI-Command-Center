@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-28T00:14:54+00:00",
+  "generated_at": "2026-07-29T00:14:03+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ヨルダン川西岸でイスラエル人入植者がパレスチナ人の村へ……催涙ガス立ち込める現場でBBC取材",
-      "category": "世界情勢",
+      "title": "熊本でM7.1の地震、広範囲に被害　イオンモールで多くの人が閉じ込められたか",
+      "category": "災害",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 27 Jul 2026 09:14:17 GMT",
-      "url": "https://www.bbc.com/japanese/articles/clyq5qvw0yvo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 28 Jul 2026 13:45:10 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cly8z48p78vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "バーナム英首相、「イギリスにとって正しい」ならトランプ氏批判もするとBBCに　早期の解散総選挙は否定",
+      "title": "バーナム首相、ゼレンスキー大統領と英海軍基地を訪問　ウクライナ支持を強調",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 27 Jul 2026 08:16:08 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cj4k5pe1kgdo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 28 Jul 2026 07:07:36 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cdx8k5e01p8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "イスラエル人入植者がヨルダン川西岸で放火とパレスチナ人説明　モスクや車、農地に被害と",
+      "title": "バーナム英首相の飼い犬、首相官邸の猫ラリーとは「気が合わないだろう」　マンチェスターに残ることに",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 27 Jul 2026 07:17:37 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq6d7p76844o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 28 Jul 2026 06:55:13 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cdx7vv0yg7eo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -2.26%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：日経平均 -6.11%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -4.20%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：Ethereum +1.60%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "163.816 JPY",
-      "detail": "前日比 +0.39%"
+      "value": "163.870 JPY",
+      "detail": "前日比 +0.48%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ヨルダン川西岸でイスラエル人入植者がパレスチナ人の村へ……催涙ガス立ち込める現場でBBC取材",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "熊本でM7.1の地震、広範囲に被害　イオンモールで多くの人が閉じ込められたか",
+      "meta": "災害・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-2.26%です。",
+      "detail": "日経平均が前日比-6.11%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-28T00:14:42+00:00",
-    "market": "2026-07-28T00:14:54+00:00"
+    "news": "2026-07-29T00:13:53+00:00",
+    "market": "2026-07-29T00:14:03+00:00"
   }
 }
