@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T00:14:03+00:00",
+  "generated_at": "2026-07-30T06:14:07+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "熊本でM7.1の地震、広範囲に被害　イオンモールで多くの人が閉じ込められたか",
-      "category": "災害",
+      "title": "アメリカ、イランに「大規模な」攻撃を開始　米軍に対するミサイル発射に報復と",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 28 Jul 2026 13:45:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cly8z48p78vo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 30 Jul 2026 05:14:59 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq89ze9w5nxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "バーナム首相、ゼレンスキー大統領と英海軍基地を訪問　ウクライナ支持を強調",
+      "title": "米ファウチ博士、上院公聴会で黙秘権行使　コロナ発生源めぐり",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 28 Jul 2026 07:07:36 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cdx8k5e01p8o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 30 Jul 2026 04:46:58 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cjrvl5rzqqno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "バーナム英首相の飼い犬、首相官邸の猫ラリーとは「気が合わないだろう」　マンチェスターに残ることに",
+      "title": "英イングランドで干ばつ、半分以上の地域で　環境当局が警告",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 28 Jul 2026 06:55:13 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cdx7vv0yg7eo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 30 Jul 2026 04:12:12 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c9w01djypego?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -6.11%"
+      "value": "上昇 0・下落 5・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 -4.86%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：Ethereum +1.60%"
+      "value": "上昇 2・下落 1・横ばい 1",
+      "detail": "最大変動：XRP -0.70%"
     },
     {
       "label": "市場心理",
-      "value": "29 / 100",
+      "value": "28 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "163.870 JPY",
-      "detail": "前日比 +0.48%"
+      "value": "163.594 JPY",
+      "detail": "前日比 -0.15%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "熊本でM7.1の地震、広範囲に被害　イオンモールで多くの人が閉じ込められたか",
-      "meta": "災害・BBC News 日本語",
+      "detail": "アメリカ、イランに「大規模な」攻撃を開始　米軍に対するミサイル発射に報復と",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-6.11%です。",
+      "detail": "NASDAQ総合が前日比-4.86%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは29（恐怖）です。",
+      "detail": "Fear & Greed Indexは28（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-29T00:13:53+00:00",
-    "market": "2026-07-29T00:14:03+00:00"
+    "news": "2026-07-30T06:13:56+00:00",
+    "market": "2026-07-30T06:14:07+00:00"
   }
 }
