@@ -1,72 +1,72 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T06:14:07+00:00",
+  "generated_at": "2026-07-31T08:11:54+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "アメリカ、イランに「大規模な」攻撃を開始　米軍に対するミサイル発射に報復と",
+      "title": "トランプ氏のガザ平和評議会が「完全武装解除」で合意と発表　ハマスも近く声明発表と",
+      "category": "外交",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 31 Jul 2026 08:07:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cg4dxy56v4vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "ウクライナ東部で同じ家族の少なくとも5人が死亡、ロシアのミサイル攻撃で　ゼレンスキー氏が発表",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 30 Jul 2026 05:14:59 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq89ze9w5nxo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 31 Jul 2026 07:51:15 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c62q7wlgxeyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "米ファウチ博士、上院公聴会で黙秘権行使　コロナ発生源めぐり",
+      "title": "UEFA、FIFAが外部投資導入ならW杯ボイコットと決定　FIFAは「サッカー売らない」と",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 30 Jul 2026 04:46:58 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cjrvl5rzqqno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "英イングランドで干ばつ、半分以上の地域で　環境当局が警告",
-      "category": "世界情勢",
-      "source": "BBC News 日本語",
-      "published_at": "Thu, 30 Jul 2026 04:12:12 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c9w01djypego?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 31 Jul 2026 06:12:31 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cnvn7ye1vryo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -4.86%"
+      "value": "上昇 2・下落 3・横ばい 0",
+      "detail": "最大変動：TOPIX連動ETF（参考値） -1.51%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 1・横ばい 1",
-      "detail": "最大変動：XRP -0.70%"
+      "value": "上昇 1・下落 2・横ばい 1",
+      "detail": "最大変動：Ethereum -0.80%"
     },
     {
       "label": "市場心理",
-      "value": "28 / 100",
-      "detail": "恐怖"
+      "value": "25 / 100",
+      "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "163.594 JPY",
-      "detail": "前日比 -0.15%"
+      "value": "160.424 JPY",
+      "detail": "前日比 -1.95%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "アメリカ、イランに「大規模な」攻撃を開始　米軍に対するミサイル発射に報復と",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "トランプ氏のガザ平和評議会が「完全武装解除」で合意と発表　ハマスも近く声明発表と",
+      "meta": "外交・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-4.86%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比-1.51%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "alert"
+      "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは28（恐怖）です。",
+      "detail": "Fear & Greed Indexは25（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
-      "level": "normal"
+      "level": "alert"
     }
   ],
   "limitations": [
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-07-30T06:13:56+00:00",
-    "market": "2026-07-30T06:14:07+00:00"
+    "news": "2026-07-31T08:11:44+00:00",
+    "market": "2026-07-31T08:11:54+00:00"
   }
 }

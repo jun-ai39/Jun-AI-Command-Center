@@ -1,8 +1,62 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-30T06:13:56+00:00",
+  "updated_at": "2026-07-31T08:11:44+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "トランプ氏のガザ平和評議会が「完全武装解除」で合意と発表　ハマスも近く声明発表と",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cg4dxy56v4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "middle-east",
+      "published_at": "Fri, 31 Jul 2026 08:07:52 GMT"
+    },
+    {
+      "title": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2kp4ng0d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Fri, 31 Jul 2026 05:29:51 GMT"
+    },
+    {
+      "title": "ウクライナ東部で同じ家族の少なくとも5人が死亡、ロシアのミサイル攻撃で　ゼレンスキー氏が発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c62q7wlgxeyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Fri, 31 Jul 2026 07:51:15 GMT"
+    },
+    {
+      "title": "UEFA、FIFAが外部投資導入ならW杯ボイコットと決定　FIFAは「サッカー売らない」と",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cnvn7ye1vryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 31 Jul 2026 06:12:31 GMT"
+    },
+    {
+      "title": "米アンソロピック、AIモデルがテスト中に3社をハッキングと公表　オープンAIの事案受けた調査で発覚",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c04kr96vdqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 31 Jul 2026 04:06:49 GMT"
+    },
+    {
+      "title": "熊本地震の死者35人に　猛暑での避難生活続く",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c171w78z009o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "災害",
+      "region": "global",
+      "published_at": "Fri, 31 Jul 2026 02:27:46 GMT"
+    },
     {
       "title": "アメリカ、イランに「大規模な」攻撃を開始　米軍に対するミサイル発射に報復と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -29,60 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Thu, 30 Jul 2026 04:46:58 GMT"
-    },
-    {
-      "title": "南欧で山火事が拡大、クレタ島で消防士2人死亡　スペインやフランスも熱波に警戒",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp87mm0jl86o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 30 Jul 2026 02:40:52 GMT"
-    },
-    {
-      "title": "トランプ米政権、中国製の最新ヒト型ロボットの輸入を禁止へ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/czxq0vng4z0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 29 Jul 2026 07:12:23 GMT"
-    },
-    {
-      "title": "アメリカ、安保理会合で仏大使の発言中に退席　権威主義国家と同列視されたことに抗議",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5yw51geyxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 29 Jul 2026 06:18:24 GMT"
-    },
-    {
-      "title": "ゼレンスキー氏とネタニヤフ氏、個別にトランプ氏と会談　それぞれ戦争が長引くなか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgxdxr8gp4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Wed, 29 Jul 2026 04:02:49 GMT"
-    },
-    {
-      "title": "熊本地震、死者13人と首相　イオンモールや日本製紙工場で複数人が死亡や心肺停止",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5y6267j5p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "japan",
-      "published_at": "Wed, 29 Jul 2026 09:17:39 GMT"
-    },
-    {
-      "title": "城の石垣が崩れ、ショッピングセンターで夜通し捜索続く……熊本で震度7の地震",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c70gngp5qqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "global",
-      "published_at": "Wed, 29 Jul 2026 02:01:51 GMT"
     }
   ]
 }

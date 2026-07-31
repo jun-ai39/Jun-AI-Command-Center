@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-30",
+  "verified_at": "2026-07-31",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-f8ec64126bda",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-01",
+      "category": "safety",
+      "title_ja": "Advancing responsible AI across Europe",
+      "original_title": "Advancing responsible AI across Europe",
+      "summary_ja": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
+    },
+    {
+      "id": "google-5a01c69735c0",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-31",
+      "category": "model",
+      "title_ja": "Gemini Spark now integrates with Chrome",
+      "original_title": "Gemini Spark now integrates with Chrome",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/"
+    },
+    {
+      "id": "google-0bb5162dd11b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-31",
+      "category": "model",
+      "title_ja": "Introducing Gemini Robotics ER 2",
+      "original_title": "Introducing Gemini Robotics ER 2",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/"
+    },
+    {
+      "id": "google-4f7ea67314c2",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-07-31",
+      "category": "product",
+      "title_ja": "Take a look at short films created by our latest group of artists in Google’s Flow Sessions program.",
+      "original_title": "Take a look at short films created by our latest group of artists in Google’s Flow Sessions program.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/google-flow-sessions-short-films/"
+    },
+    {
+      "id": "openai-dca7adc62d79",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-30",
+      "category": "business",
+      "title_ja": "Advancing the price-performance frontier with GPT-5.6",
+      "original_title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary_ja": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+    },
+    {
+      "id": "openai-da425c76a8c0",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-30",
+      "category": "model",
+      "title_ja": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "original_title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "summary_ja": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "url": "https://openai.com/index/avatarin"
+    },
     {
       "id": "openai-265c6a0134ab",
       "source": "openai",
@@ -143,28 +209,6 @@
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
     },
     {
-      "id": "google-af83a14b083e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-28",
-      "category": "product",
-      "title_ja": "Google and KDDI are ready to back Japanese startups.",
-      "original_title": "Google and KDDI are ready to back Japanese startups.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/"
-    },
-    {
-      "id": "google-e2ef01d5562b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-28",
-      "category": "product",
-      "title_ja": "NOAA and Google Cloud collaborate to advance weather forecasting.",
-      "original_title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/"
-    },
-    {
       "id": "openai-db9d0913513d",
       "source": "openai",
       "source_name": "OpenAI",
@@ -174,17 +218,6 @@
       "original_title": "How AI is expanding what people do at work",
       "summary_ja": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-    },
-    {
-      "id": "google-5f9b54e1255a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-24",
-      "category": "product",
-      "title_ja": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
-      "original_title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/"
     },
     {
       "id": "openai-bf70d809f954",
@@ -207,39 +240,6 @@
       "original_title": "Building AI infrastructure with the Effingham County community",
       "summary_ja": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
-    },
-    {
-      "id": "openai-932591afba7f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-22",
-      "category": "business",
-      "title_ja": "How news organizations are using AI to advance their vital missions",
-      "original_title": "How news organizations are using AI to advance their vital missions",
-      "summary_ja": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai"
-    },
-    {
-      "id": "openai-577ddf6b90e6",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-22",
-      "category": "product",
-      "title_ja": "Advancing the next era of national science",
-      "original_title": "Advancing the next era of national science",
-      "summary_ja": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
-    },
-    {
-      "id": "openai-839f7a51d7b5",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-22",
-      "category": "business",
-      "title_ja": "Introducing OpenAI Presence",
-      "original_title": "Introducing OpenAI Presence",
-      "summary_ja": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "url": "https://openai.com/index/introducing-openai-presence"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-30T06:13:56+00:00",
+  "updated_at": "2026-07-31T08:11:44+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
