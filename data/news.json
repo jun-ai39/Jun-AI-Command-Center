@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-07-31T08:11:44+00:00",
+  "updated_at": "2026-08-01T00:15:40+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
@@ -31,13 +31,31 @@
       "published_at": "Fri, 31 Jul 2026 07:51:15 GMT"
     },
     {
+      "title": "「死ぬかと思った」　熊本地震の衝撃と恐怖、被災住民らが語る",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2mjx5e5y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "災害",
+      "region": "global",
+      "published_at": "Fri, 31 Jul 2026 08:53:45 GMT"
+    },
+    {
+      "title": "スペインの飛び地セウタにモロッコから移民押し寄せ　5万人近くと当局",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c75g4l5zq7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 31 Jul 2026 09:40:10 GMT"
+    },
+    {
       "title": "UEFA、FIFAが外部投資導入ならW杯ボイコットと決定　FIFAは「サッカー売らない」と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cnvn7ye1vryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 31 Jul 2026 06:12:31 GMT"
+      "published_at": "Fri, 31 Jul 2026 09:57:22 GMT"
     },
     {
       "title": "米アンソロピック、AIモデルがテスト中に3社をハッキングと公表　オープンAIの事案受けた調査で発覚",
@@ -65,24 +83,6 @@
       "category": "紛争",
       "region": "middle-east",
       "published_at": "Thu, 30 Jul 2026 05:14:59 GMT"
-    },
-    {
-      "title": "英イングランドで干ばつ、半分以上の地域で　環境当局が警告",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9w01djypego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 30 Jul 2026 04:12:12 GMT"
-    },
-    {
-      "title": "米ファウチ博士、上院公聴会で黙秘権行使　コロナ発生源めぐり",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjrvl5rzqqno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 30 Jul 2026 04:46:58 GMT"
     }
   ]
 }

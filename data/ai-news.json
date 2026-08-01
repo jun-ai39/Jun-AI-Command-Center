@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-07-31",
+  "verified_at": "2026-08-01",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -31,6 +31,61 @@
       "original_title": "Advancing responsible AI across Europe",
       "summary_ja": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
+    },
+    {
+      "id": "openai-966cd163f869",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-01",
+      "category": "business",
+      "title_ja": "Building abundant intelligence",
+      "original_title": "Building abundant intelligence",
+      "summary_ja": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "url": "https://openai.com/index/building-abundant-intelligence"
+    },
+    {
+      "id": "google-5566bf3bec36",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-01",
+      "category": "model",
+      "title_ja": "Simplify your morning with this vibe-coded schedule app.",
+      "original_title": "Simplify your morning with this vibe-coded schedule app.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/"
+    },
+    {
+      "id": "google-04e5894ab585",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-01",
+      "category": "model",
+      "title_ja": "Find out what’s new in the Gemini app in July's Gemini Drop.",
+      "original_title": "Find out what’s new in the Gemini app in July's Gemini Drop.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/"
+    },
+    {
+      "id": "openai-cd88270c0062",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-31",
+      "category": "safety",
+      "title_ja": "Univé builds an AI-ready workforce",
+      "original_title": "Univé builds an AI-ready workforce",
+      "summary_ja": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "url": "https://openai.com/index/unive"
+    },
+    {
+      "id": "openai-ff7c1653ce2e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-07-31",
+      "category": "business",
+      "title_ja": "Disrupting a Criminal Scam Operation",
+      "original_title": "Disrupting a Criminal Scam Operation",
+      "summary_ja": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
     },
     {
       "id": "google-5a01c69735c0",
@@ -176,17 +231,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/"
     },
     {
-      "id": "google-55560096859e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-29",
-      "category": "model",
-      "title_ja": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "original_title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
-    },
-    {
       "id": "google-7fd8522a2c7e",
       "source": "google",
       "source_name": "Google",
@@ -196,50 +240,6 @@
       "original_title": "3 new ways nonprofits can put AI to work",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/"
-    },
-    {
-      "id": "google-dc323d8334b7",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-28",
-      "category": "product",
-      "title_ja": "5 ways AI Mode in Search helps you enjoy the real world",
-      "original_title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
-    },
-    {
-      "id": "openai-db9d0913513d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-27",
-      "category": "business",
-      "title_ja": "How AI is expanding what people do at work",
-      "original_title": "How AI is expanding what people do at work",
-      "summary_ja": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-    },
-    {
-      "id": "openai-bf70d809f954",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-23",
-      "category": "model",
-      "title_ja": "Launching Health in ChatGPT",
-      "original_title": "Launching Health in ChatGPT",
-      "summary_ja": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-      "url": "https://openai.com/index/health-in-chatgpt"
-    },
-    {
-      "id": "openai-082c4173c70b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-22",
-      "category": "safety",
-      "title_ja": "Building AI infrastructure with the Effingham County community",
-      "original_title": "Building AI infrastructure with the Effingham County community",
-      "summary_ja": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-07-31T08:11:44+00:00",
+  "updated_at": "2026-08-01T00:15:40+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
