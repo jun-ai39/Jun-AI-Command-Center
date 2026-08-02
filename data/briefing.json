@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T00:15:50+00:00",
+  "generated_at": "2026-08-02T06:48:05+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "UEFA、FIFAが外部投資導入ならW杯ボイコットと決定　FIFAは「サッカー売らない」と",
+      "title": "モロッコからスペイン領セウタへ6万人押し寄せる　スペイン首相は人身売買業者を非難",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 31 Jul 2026 09:57:22 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cnvn7ye1vryo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 01 Aug 2026 03:48:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cpd7jy4yqg4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "スペインの飛び地セウタにモロッコから移民押し寄せ　5万人近くと当局",
+      "title": "トランプ米政権、リンカーン記念堂の反射池の改修「ミス」認める　器物損壊罪での起訴取り下げ",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 31 Jul 2026 09:40:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c75g4l5zq7yo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 01 Aug 2026 03:34:27 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cly8r1433xeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "「死ぬかと思った」　熊本地震の衝撃と恐怖、被災住民らが語る",
-      "category": "災害",
+      "title": "FIFA、外部投資導入の計画撤回　サッカー界の強い反発受け",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 31 Jul 2026 08:53:45 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cx2mjx5e5y0o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 01 Aug 2026 03:32:47 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq6d803gnqjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,8 +35,8 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Ethereum -3.30%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：XRP +1.60%"
     },
     {
       "label": "市場心理",
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "UEFA、FIFAが外部投資導入ならW杯ボイコットと決定　FIFAは「サッカー売らない」と",
+      "detail": "モロッコからスペイン領セウタへ6万人押し寄せる　スペイン首相は人身売買業者を非難",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-01T00:15:40+00:00",
-    "market": "2026-08-01T00:15:50+00:00"
+    "news": "2026-08-02T06:47:55+00:00",
+    "market": "2026-08-02T06:48:05+00:00"
   }
 }

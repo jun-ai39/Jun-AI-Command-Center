@@ -1,16 +1,43 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-01T00:15:40+00:00",
+  "updated_at": "2026-08-02T06:47:55+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "トランプ氏のガザ平和評議会が「完全武装解除」で合意と発表　ハマスも近く声明発表と",
+      "title": "モロッコからスペイン領セウタへ6万人押し寄せる　スペイン首相は人身売買業者を非難",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cg4dxy56v4vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cpd7jy4yqg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "外交",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 01 Aug 2026 03:48:52 GMT"
+    },
+    {
+      "title": "トランプ米政権、リンカーン記念堂の反射池の改修「ミス」認める　器物損壊罪での起訴取り下げ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cly8r1433xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 01 Aug 2026 03:34:27 GMT"
+    },
+    {
+      "title": "FIFA、外部投資導入の計画撤回　サッカー界の強い反発受け",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq6d803gnqjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 01 Aug 2026 03:32:47 GMT"
+    },
+    {
+      "title": "イスラエル高官、イスラエル軍のガザ撤退にはハマスの「真の武装解除」が条件と",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cd9wjee1q82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Fri, 31 Jul 2026 08:07:52 GMT"
+      "published_at": "Sat, 01 Aug 2026 02:46:53 GMT"
     },
     {
       "title": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相",
@@ -31,33 +58,6 @@
       "published_at": "Fri, 31 Jul 2026 07:51:15 GMT"
     },
     {
-      "title": "「死ぬかと思った」　熊本地震の衝撃と恐怖、被災住民らが語る",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2mjx5e5y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "global",
-      "published_at": "Fri, 31 Jul 2026 08:53:45 GMT"
-    },
-    {
-      "title": "スペインの飛び地セウタにモロッコから移民押し寄せ　5万人近くと当局",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c75g4l5zq7yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 31 Jul 2026 09:40:10 GMT"
-    },
-    {
-      "title": "UEFA、FIFAが外部投資導入ならW杯ボイコットと決定　FIFAは「サッカー売らない」と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cnvn7ye1vryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 31 Jul 2026 09:57:22 GMT"
-    },
-    {
       "title": "米アンソロピック、AIモデルがテスト中に3社をハッキングと公表　オープンAIの事案受けた調査で発覚",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/c04kr96vdqeo?at_medium=RSS&at_campaign=rss",
@@ -67,22 +67,22 @@
       "published_at": "Fri, 31 Jul 2026 04:06:49 GMT"
     },
     {
-      "title": "熊本地震の死者35人に　猛暑での避難生活続く",
+      "title": "トランプ氏のガザ平和評議会が「完全武装解除」で合意と発表　ハマスも近く声明発表と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c171w78z009o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cg4dxy56v4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "middle-east",
+      "published_at": "Fri, 31 Jul 2026 08:07:52 GMT"
+    },
+    {
+      "title": "「死ぬかと思った」　熊本地震の衝撃と恐怖、被災住民らが語る",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2mjx5e5y0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "災害",
       "region": "global",
-      "published_at": "Fri, 31 Jul 2026 02:27:46 GMT"
-    },
-    {
-      "title": "アメリカ、イランに「大規模な」攻撃を開始　米軍に対するミサイル発射に報復と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq89ze9w5nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Thu, 30 Jul 2026 05:14:59 GMT"
+      "published_at": "Fri, 31 Jul 2026 08:53:45 GMT"
     }
   ]
 }

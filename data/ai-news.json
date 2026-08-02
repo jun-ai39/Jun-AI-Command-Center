@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-01",
+  "verified_at": "2026-08-02",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,17 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-e299630b866e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-01",
+      "category": "product",
+      "title_ja": "Ten advances in mathematics and theoretical computer science",
+      "original_title": "Ten advances in mathematics and theoretical computer science",
+      "summary_ja": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "url": "https://openai.com/index/ten-advances-in-mathematics"
+    },
     {
       "id": "openai-f8ec64126bda",
       "source": "openai",
@@ -209,17 +220,6 @@
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
     },
     {
-      "id": "openai-824b5ba22f1e",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-29",
-      "category": "product",
-      "title_ja": "Scientific computing in the age of agentic AI",
-      "original_title": "Scientific computing in the age of agentic AI",
-      "summary_ja": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai"
-    },
-    {
       "id": "google-7691342c0d33",
       "source": "google",
       "source_name": "Google",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-01T00:15:40+00:00",
+  "updated_at": "2026-08-02T06:47:55+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

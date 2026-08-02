@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-01T00:15:50+00:00",
+  "updated_at": "2026-08-02T06:48:05+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 9902991.29193775,
+      "price": 9984252.890207712,
       "currency": "JPY",
-      "change_percent": -3.1,
+      "change_percent": 0.6,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 293318.2115798082,
+      "price": 295203.7659587014,
       "currency": "JPY",
-      "change_percent": -3.3,
+      "change_percent": 0.4,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 167.1687006650509,
+      "price": 170.34851698391824,
       "currency": "JPY",
-      "change_percent": -2.3,
+      "change_percent": 1.6,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 11474.393631616987,
+      "price": 11564.541444938459,
       "currency": "JPY",
-      "change_percent": -2.5,
+      "change_percent": 0.6,
       "decimals": 0
     }
   ],
@@ -101,17 +101,17 @@
     {
       "symbol": "GOLD",
       "name": "金先物",
-      "price": 4098.6,
+      "price": 4107.0,
       "currency": "USD",
-      "change_percent": 0.591483617621803,
+      "change_percent": 1.7516041919579766,
       "decimals": 2
     },
     {
       "symbol": "WTI",
       "name": "WTI原油先物",
-      "price": 86.8,
+      "price": 84.67,
       "currency": "USD",
-      "change_percent": 5.07202517854981,
+      "change_percent": 6.825637143578092,
       "decimals": 2
     }
   ],
@@ -126,7 +126,7 @@
     "value": 27,
     "classification": "Fear",
     "classification_ja": "恐怖",
-    "observed_at": "2026-08-01T00:00:00+00:00",
+    "observed_at": "2026-08-02T00:00:00+00:00",
     "source": "Alternative.me"
   }
 }
