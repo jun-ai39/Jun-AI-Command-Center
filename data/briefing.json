@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T06:48:05+00:00",
+  "generated_at": "2026-08-03T08:52:43+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "モロッコからスペイン領セウタへ6万人押し寄せる　スペイン首相は人身売買業者を非難",
+      "title": "アリアナ・グランデさん、公の場から一時身を引くと　絶え間ない詮索を理由に",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 01 Aug 2026 03:48:52 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cpd7jy4yqg4o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 03 Aug 2026 08:16:46 GMT",
+      "url": "https://www.bbc.com/japanese/articles/czdmj64v5mgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "トランプ米政権、リンカーン記念堂の反射池の改修「ミス」認める　器物損壊罪での起訴取り下げ",
+      "title": "【解説】 スペインの移民危機が政治的嵐に　SNSにあおられ",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 01 Aug 2026 03:34:27 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cly8r1433xeo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 03 Aug 2026 07:18:07 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c20jevke165o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "FIFA、外部投資導入の計画撤回　サッカー界の強い反発受け",
+      "title": "著名登山家ニルマル・プルジャさん、遺体が見つかる　パキスタン高峰で雪崩",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 01 Aug 2026 03:32:47 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq6d803gnqjo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 03 Aug 2026 07:05:08 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c93505gqwq3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 3・下落 2・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 +1.59%"
+      "value": "上昇 4・下落 1・横ばい 0",
+      "detail": "最大変動：日経平均 +2.23%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +1.60%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Ethereum -1.80%"
     },
     {
       "label": "市場心理",
-      "value": "27 / 100",
+      "value": "28 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "157.400 JPY",
-      "detail": "前日比 -3.80%"
+      "value": "156.915 JPY",
+      "detail": "前日比 -4.19%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "モロッコからスペイン領セウタへ6万人押し寄せる　スペイン首相は人身売買業者を非難",
+      "detail": "アリアナ・グランデさん、公の場から一時身を引くと　絶え間ない詮索を理由に",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比+1.59%です。",
+      "detail": "日経平均が前日比+2.23%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "normal"
+      "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは27（恐怖）です。",
+      "detail": "Fear & Greed Indexは28（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-02T06:47:55+00:00",
-    "market": "2026-08-02T06:48:05+00:00"
+    "news": "2026-08-03T08:52:30+00:00",
+    "market": "2026-08-03T08:52:42+00:00"
   }
 }

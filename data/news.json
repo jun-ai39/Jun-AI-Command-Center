@@ -1,25 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-02T06:47:55+00:00",
+  "updated_at": "2026-08-03T08:52:30+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "モロッコからスペイン領セウタへ6万人押し寄せる　スペイン首相は人身売買業者を非難",
+      "title": "トランプ氏、イランとの新たな交渉は3日からと",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cpd7jy4yqg4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c75gq9q20k1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Mon, 03 Aug 2026 03:14:22 GMT"
+    },
+    {
+      "title": "【解説】 スペインの移民危機が政治的嵐に　SNSにあおられ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c20jevke165o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Sat, 01 Aug 2026 03:48:52 GMT"
+      "published_at": "Mon, 03 Aug 2026 07:18:07 GMT"
     },
     {
-      "title": "トランプ米政権、リンカーン記念堂の反射池の改修「ミス」認める　器物損壊罪での起訴取り下げ",
+      "title": "円安是正のため日米が異例の協調介入",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cly8r1433xeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqlxz1wqge4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 01 Aug 2026 03:34:27 GMT"
+      "region": "global",
+      "published_at": "Mon, 03 Aug 2026 04:08:32 GMT"
+    },
+    {
+      "title": "ゴルフ全英女子オープン、桑木志帆が優勝　プレーオフで相手選手に不運",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3r0v21vr95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 03 Aug 2026 03:54:48 GMT"
+    },
+    {
+      "title": "アリアナ・グランデさん、公の場から一時身を引くと　絶え間ない詮索を理由に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/czdmj64v5mgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 03 Aug 2026 08:16:46 GMT"
+    },
+    {
+      "title": "著名登山家ニルマル・プルジャさん、遺体が見つかる　パキスタン高峰で雪崩",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c93505gqwq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Mon, 03 Aug 2026 07:05:08 GMT"
+    },
+    {
+      "title": "ウクライナ、ロシアの主要製油所と飛行場を攻撃　8人死亡とロシア",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c1d1qyz61pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Mon, 03 Aug 2026 02:19:26 GMT"
+    },
+    {
+      "title": "ロシア首都のレストランで爆発、3人死亡と国営メディア",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c62qnq445pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 03 Aug 2026 04:32:32 GMT"
     },
     {
       "title": "FIFA、外部投資導入の計画撤回　サッカー界の強い反発受け",
@@ -29,60 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Sat, 01 Aug 2026 03:32:47 GMT"
-    },
-    {
-      "title": "イスラエル高官、イスラエル軍のガザ撤退にはハマスの「真の武装解除」が条件と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cd9wjee1q82o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Sat, 01 Aug 2026 02:46:53 GMT"
-    },
-    {
-      "title": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2kp4ng0d4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Fri, 31 Jul 2026 05:29:51 GMT"
-    },
-    {
-      "title": "ウクライナ東部で同じ家族の少なくとも5人が死亡、ロシアのミサイル攻撃で　ゼレンスキー氏が発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c62q7wlgxeyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Fri, 31 Jul 2026 07:51:15 GMT"
-    },
-    {
-      "title": "米アンソロピック、AIモデルがテスト中に3社をハッキングと公表　オープンAIの事案受けた調査で発覚",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c04kr96vdqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 31 Jul 2026 04:06:49 GMT"
-    },
-    {
-      "title": "トランプ氏のガザ平和評議会が「完全武装解除」で合意と発表　ハマスも近く声明発表と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cg4dxy56v4vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "middle-east",
-      "published_at": "Fri, 31 Jul 2026 08:07:52 GMT"
-    },
-    {
-      "title": "「死ぬかと思った」　熊本地震の衝撃と恐怖、被災住民らが語る",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2mjx5e5y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "global",
-      "published_at": "Fri, 31 Jul 2026 08:53:45 GMT"
     }
   ]
 }
