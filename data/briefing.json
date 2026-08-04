@@ -1,72 +1,72 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-03T08:52:43+00:00",
+  "generated_at": "2026-08-04T06:39:43+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "アリアナ・グランデさん、公の場から一時身を引くと　絶え間ない詮索を理由に",
+      "title": "EUが国境管理の強化呼びかけ、スペイン領セウタへの移民流入受け",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 03 Aug 2026 08:16:46 GMT",
-      "url": "https://www.bbc.com/japanese/articles/czdmj64v5mgo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 04 Aug 2026 06:16:50 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c79g7ly1p8jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】 スペインの移民危機が政治的嵐に　SNSにあおられ",
+      "title": "アメリカで流行の「急激な下痢」で初の死亡例、ミシガン州で2件",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 03 Aug 2026 07:18:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c20jevke165o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 04 Aug 2026 06:01:58 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c5yv0l3qk1ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "著名登山家ニルマル・プルジャさん、遺体が見つかる　パキスタン高峰で雪崩",
-      "category": "世界情勢",
+      "title": "イラン、オマーンと協議中だがあメリカとは交渉していないと　トランプ氏の発言を否定",
+      "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 03 Aug 2026 07:05:08 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c93505gqwq3o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 04 Aug 2026 04:20:25 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cjrv0nvwr03o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 4・下落 1・横ばい 0",
-      "detail": "最大変動：日経平均 +2.23%"
+      "detail": "最大変動：日経平均 +4.13%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Ethereum -1.80%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Bitcoin +1.50%"
     },
     {
       "label": "市場心理",
-      "value": "28 / 100",
-      "detail": "恐怖"
+      "value": "25 / 100",
+      "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "156.915 JPY",
-      "detail": "前日比 -4.19%"
+      "value": "157.646 JPY",
+      "detail": "前日比 -3.79%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "アリアナ・グランデさん、公の場から一時身を引くと　絶え間ない詮索を理由に",
+      "detail": "EUが国境管理の強化呼びかけ、スペイン領セウタへの移民流入受け",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+2.23%です。",
+      "detail": "日経平均が前日比+4.13%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは28（恐怖）です。",
+      "detail": "Fear & Greed Indexは25（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
-      "level": "normal"
+      "level": "alert"
     }
   ],
   "limitations": [
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-03T08:52:30+00:00",
-    "market": "2026-08-03T08:52:42+00:00"
+    "news": "2026-08-04T06:39:32+00:00",
+    "market": "2026-08-04T06:39:43+00:00"
   }
 }

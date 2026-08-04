@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-03",
+  "verified_at": "2026-08-04",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,61 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-4a9b73e77846",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-04",
+      "category": "business",
+      "title_ja": "Apple is getting this wrong",
+      "original_title": "Apple is getting this wrong",
+      "summary_ja": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong"
+    },
+    {
+      "id": "google-5631b64c6ecc",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-04",
+      "category": "business",
+      "title_ja": "Welcome to Sail Tower, our newest Austin office",
+      "original_title": "Welcome to Sail Tower, our newest Austin office",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/austin-office-sail-tower/"
+    },
+    {
+      "id": "google-6193ed5523d0",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-04",
+      "category": "product",
+      "title_ja": "Inside our 353,000-person vibe coding course",
+      "original_title": "Inside our 353,000-person vibe coding course",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+    },
+    {
+      "id": "openai-deec56a13e2b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-03",
+      "category": "model",
+      "title_ja": "How we built a realtime system for responsive voice AI in six months",
+      "original_title": "How we built a realtime system for responsive voice AI in six months",
+      "summary_ja": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    },
+    {
+      "id": "openai-97e92714d577",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-03",
+      "category": "product",
+      "title_ja": "Circles powers telco personalization with OpenAI technology",
+      "original_title": "Circles powers telco personalization with OpenAI technology",
+      "summary_ja": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "url": "https://openai.com/index/circles"
+    },
     {
       "id": "openai-e299630b866e",
       "source": "openai",
@@ -154,17 +209,6 @@
       "url": "https://openai.com/index/avatarin"
     },
     {
-      "id": "openai-265c6a0134ab",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-30",
-      "category": "model",
-      "title_ja": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "original_title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "summary_ja": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
-    },
-    {
       "id": "google-80a79506bd7d",
       "source": "google",
       "source_name": "Google",
@@ -196,50 +240,6 @@
       "original_title": "Gemini for macOS adds new natural language capabilities",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/"
-    },
-    {
-      "id": "openai-47da73cdc4f7",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-29",
-      "category": "business",
-      "title_ja": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "original_title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "summary_ja": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers"
-    },
-    {
-      "id": "openai-eb71f165025c",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-07-29",
-      "category": "model",
-      "title_ja": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "original_title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "summary_ja": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
-    },
-    {
-      "id": "google-7691342c0d33",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-29",
-      "category": "model",
-      "title_ja": "How Gemini Flash agents are helping a Michigan dairy farmer",
-      "original_title": "How Gemini Flash agents are helping a Michigan dairy farmer",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/"
-    },
-    {
-      "id": "google-7fd8522a2c7e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-29",
-      "category": "product",
-      "title_ja": "3 new ways nonprofits can put AI to work",
-      "original_title": "3 new ways nonprofits can put AI to work",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-03T08:52:31+00:00",
+  "updated_at": "2026-08-04T06:39:33+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
