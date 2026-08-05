@@ -1,8 +1,35 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-04T06:39:32+00:00",
+  "updated_at": "2026-08-05T06:41:23+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckgekv0z0zeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 05 Aug 2026 03:11:04 GMT"
+    },
+    {
+      "title": "EU、セウタ移民危機受け内相会合　スペインの「迅速な対応」を称賛",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3w09gndep2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Wed, 05 Aug 2026 04:51:24 GMT"
+    },
+    {
+      "title": "ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cd9wk95y3nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 05 Aug 2026 04:56:55 GMT"
+    },
     {
       "title": "ライン川が記録的な低水位、水運や発電に影響　欧州で干ばつ広がる",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -22,7 +49,7 @@
       "published_at": "Tue, 04 Aug 2026 02:06:11 GMT"
     },
     {
-      "title": "イラン、オマーンと協議中だがあメリカとは交渉していないと　トランプ氏の発言を否定",
+      "title": "イラン、オマーンと協議中だがアメリカとは交渉していないと　トランプ氏の発言を否定",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cjrv0nvwr03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
@@ -49,40 +76,13 @@
       "published_at": "Tue, 04 Aug 2026 06:01:58 GMT"
     },
     {
-      "title": "EUが国境管理の強化呼びかけ、スペイン領セウタへの移民流入受け",
+      "title": "ロシアのビーチ、ウクライナの民家……双方で民間人の死傷続く",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c79g7ly1p8jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c9d86087gxjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Tue, 04 Aug 2026 06:16:50 GMT"
-    },
-    {
-      "title": "円安是正のため日米が異例の協調介入",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqlxz1wqge4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 03 Aug 2026 04:08:32 GMT"
-    },
-    {
-      "title": "ゴルフ全英女子オープン、桑木志帆が優勝　プレーオフで相手選手に不運",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3r0v21vr95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 03 Aug 2026 03:54:48 GMT"
-    },
-    {
-      "title": "アリアナ・グランデさん、公の場から一時身を引くと　絶え間ない詮索を理由に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/czdmj64v5mgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 03 Aug 2026 08:16:46 GMT"
+      "published_at": "Tue, 04 Aug 2026 06:42:46 GMT"
     }
   ]
 }
