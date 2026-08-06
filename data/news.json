@@ -1,8 +1,17 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-05T06:41:23+00:00",
+  "updated_at": "2026-08-06T00:14:17+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ロシアの攻撃で少なくとも17人死亡、迎撃ミサイルあれば「救えたはず」とゼレンスキー氏",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c0qv5z4w57no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 05 Aug 2026 08:36:38 GMT"
+    },
     {
       "title": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -22,6 +31,33 @@
       "published_at": "Wed, 05 Aug 2026 04:51:24 GMT"
     },
     {
+      "title": "ウクライナ、ロシア通販大手の倉庫をさらに攻撃　モスクワ近郊で5人死亡",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c4g37gmj6v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 05 Aug 2026 07:07:09 GMT"
+    },
+    {
+      "title": "ガザでパレスチナ人112人の集団葬儀、2023年にイスラエル軍の攻撃で殺害",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cpvwdymg04do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Wed, 05 Aug 2026 07:38:45 GMT"
+    },
+    {
+      "title": "トランプ氏所有のゴルフ場で銃器所持の男性逮捕、訪問の数日前に　米カリフォルニア州",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cz7dp714133o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 05 Aug 2026 07:02:32 GMT"
+    },
+    {
       "title": "ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cd9wk95y3nxo?at_medium=RSS&at_campaign=rss",
@@ -31,6 +67,15 @@
       "published_at": "Wed, 05 Aug 2026 04:56:55 GMT"
     },
     {
+      "title": "猛暑のなかライオン3頭死ぬ　東京・多摩動物公園",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2m78pm2mno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Wed, 05 Aug 2026 07:09:50 GMT"
+    },
+    {
       "title": "ライン川が記録的な低水位、水運や発電に影響　欧州で干ばつ広がる",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cp8xyj136p7o?at_medium=RSS&at_campaign=rss",
@@ -38,51 +83,6 @@
       "category": "世界情勢",
       "region": "europe",
       "published_at": "Tue, 04 Aug 2026 02:24:28 GMT"
-    },
-    {
-      "title": "ロシアの混雑したビーチにウクライナのドローン、7人死亡40人負傷と当局",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8rn0gv4zego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 04 Aug 2026 02:06:11 GMT"
-    },
-    {
-      "title": "イラン、オマーンと協議中だがアメリカとは交渉していないと　トランプ氏の発言を否定",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjrv0nvwr03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "middle-east",
-      "published_at": "Tue, 04 Aug 2026 04:20:25 GMT"
-    },
-    {
-      "title": "アウンサンスーチー氏、2年半ぶりに外部と接触、健康状態は良好か　ミャンマー軍事政権が写真を公開",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce856zdz17zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "asia",
-      "published_at": "Tue, 04 Aug 2026 04:03:26 GMT"
-    },
-    {
-      "title": "アメリカで流行の「急激な下痢」で初の死亡例、ミシガン州で2件",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5yv0l3qk1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 04 Aug 2026 06:01:58 GMT"
-    },
-    {
-      "title": "ロシアのビーチ、ウクライナの民家……双方で民間人の死傷続く",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9d86087gxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 04 Aug 2026 06:42:46 GMT"
     }
   ]
 }

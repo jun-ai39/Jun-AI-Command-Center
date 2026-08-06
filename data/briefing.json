@@ -1,72 +1,72 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-05T06:41:33+00:00",
+  "generated_at": "2026-08-06T00:14:28+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像",
+      "title": "ロシアの攻撃で少なくとも17人死亡、迎撃ミサイルあれば「救えたはず」とゼレンスキー氏",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 05 Aug 2026 04:56:55 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cd9wk95y3nxo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 05 Aug 2026 08:36:38 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c0qv5z4w57no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "EU、セウタ移民危機受け内相会合　スペインの「迅速な対応」を称賛",
+      "title": "ガザでパレスチナ人112人の集団葬儀、2023年にイスラエル軍の攻撃で殺害",
+      "category": "紛争",
+      "source": "BBC News 日本語",
+      "published_at": "Wed, 05 Aug 2026 07:38:45 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cpvwdymg04do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "猛暑のなかライオン3頭死ぬ　東京・多摩動物公園",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 05 Aug 2026 04:51:24 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c3w09gndep2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Wed, 05 Aug 2026 03:11:04 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ckgekv0z0zeo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 05 Aug 2026 07:09:50 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cx2m78pm2mno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 5・下落 0・横ばい 0",
-      "detail": "最大変動：日経平均 +7.15%"
+      "detail": "最大変動：NASDAQ総合 +7.86%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：XRP -0.80%"
+      "value": "上昇 2・下落 1・横ばい 1",
+      "detail": "最大変動：Ethereum +1.80%"
     },
     {
       "label": "市場心理",
-      "value": "27 / 100",
-      "detail": "恐怖"
+      "value": "25 / 100",
+      "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "157.609 JPY",
-      "detail": "前日比 -3.48%"
+      "value": "157.682 JPY",
+      "detail": "前日比 -1.56%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像",
+      "detail": "ロシアの攻撃で少なくとも17人死亡、迎撃ミサイルあれば「救えたはず」とゼレンスキー氏",
       "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+7.15%です。",
+      "detail": "NASDAQ総合が前日比+7.86%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは27（恐怖）です。",
+      "detail": "Fear & Greed Indexは25（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
-      "level": "normal"
+      "level": "alert"
     }
   ],
   "limitations": [
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-05T06:41:23+00:00",
-    "market": "2026-08-05T06:41:33+00:00"
+    "news": "2026-08-06T00:14:17+00:00",
+    "market": "2026-08-06T00:14:28+00:00"
   }
 }
