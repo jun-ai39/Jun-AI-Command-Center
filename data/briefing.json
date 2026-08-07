@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-07T04:38:06+00:00",
+  "generated_at": "2026-08-07T23:08:37+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "【検証】 AI生成か本物か……中国で災害描いた偽動画が問題に",
-      "category": "災害",
-      "source": "BBC News 日本語",
-      "published_at": "Fri, 07 Aug 2026 04:22:52 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwylwg4xd7go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "AI使い全く新しいウイルスの設計に成功　米大学が発表",
+      "title": "タイ・バンコク近郊の学校で銃撃、教員5人死亡と当局　容疑者の男子生徒は自宅で祖父母も殺害か",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 07 Aug 2026 03:26:48 GMT",
-      "url": "https://www.bbc.com/japanese/articles/clyeg2q66p1o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 07 Aug 2026 08:31:23 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c0jlvg71lqlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "迎撃ミサイル不足で人命救えず……キーウ攻撃で見えたウクライナの苦境",
-      "category": "紛争",
+      "title": "米スペースXのロケット残骸が月面に衝突、韓国航空宇宙庁が画像公開",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 06 Aug 2026 08:53:32 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cvgv8k3llmko?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 07 Aug 2026 08:05:55 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c0jlvgp1ylno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "米メタ、児童の安全に関する判決で5億6700万ドルの罰金　大気汚染に匹敵する「公共の迷惑」と判事",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 07 Aug 2026 07:44:38 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq894kzep0no?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 5・下落 0・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 +4.88%"
+      "detail": "最大変動：NASDAQ総合 +5.19%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 3・横ばい 1",
-      "detail": "最大変動：XRP -2.30%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：XRP -1.40%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "158.399 JPY",
-      "detail": "前日比 +0.52%"
+      "value": "157.745 JPY",
+      "detail": "前日比 +0.10%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "【検証】 AI生成か本物か……中国で災害描いた偽動画が問題に",
-      "meta": "災害・BBC News 日本語",
+      "detail": "タイ・バンコク近郊の学校で銃撃、教員5人死亡と当局　容疑者の男子生徒は自宅で祖父母も殺害か",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比+4.88%です。",
+      "detail": "NASDAQ総合が前日比+5.19%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-07T04:37:55+00:00",
-    "market": "2026-08-07T04:38:06+00:00"
+    "news": "2026-08-07T23:08:27+00:00",
+    "market": "2026-08-07T23:08:37+00:00"
   }
 }

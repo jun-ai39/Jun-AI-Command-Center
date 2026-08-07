@@ -1,8 +1,26 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-07T04:37:55+00:00",
+  "updated_at": "2026-08-07T23:08:27+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "トランプ氏、アメリカの兵器不足を否定　情報「漏えい者」を「追い詰める」と宣言",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c86nvwgz8zno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 07 Aug 2026 04:57:26 GMT"
+    },
+    {
+      "title": "タイ・バンコク近郊の学校で銃撃、教員5人死亡と当局　容疑者の男子生徒は自宅で祖父母も殺害か",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c0jlvg71lqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 07 Aug 2026 08:31:23 GMT"
+    },
     {
       "title": "AI使い全く新しいウイルスの設計に成功　米大学が発表",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,6 +29,24 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Fri, 07 Aug 2026 03:26:48 GMT"
+    },
+    {
+      "title": "トランプ氏、「出生地主義」を再び制限　新たな大統領令に署名",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgxjm7vzy8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 07 Aug 2026 07:11:34 GMT"
+    },
+    {
+      "title": "米メタ、児童の安全に関する判決で5億6700万ドルの罰金　大気汚染に匹敵する「公共の迷惑」と判事",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq894kzep0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 07 Aug 2026 07:44:38 GMT"
     },
     {
       "title": "【検証】 AI生成か本物か……中国で災害描いた偽動画が問題に",
@@ -22,6 +58,24 @@
       "published_at": "Fri, 07 Aug 2026 04:22:52 GMT"
     },
     {
+      "title": "ライブ配信で人気のハクトウワシ、ジャッキーが「重体」に　米カリフォルニア",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn5n64g70q5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 07 Aug 2026 06:47:37 GMT"
+    },
+    {
+      "title": "米スペースXのロケット残骸が月面に衝突、韓国航空宇宙庁が画像公開",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c0jlvgp1ylno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 07 Aug 2026 08:05:55 GMT"
+    },
+    {
       "title": "迎撃ミサイル不足で人命救えず……キーウ攻撃で見えたウクライナの苦境",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cvgv8k3llmko?at_medium=RSS&at_campaign=rss",
@@ -29,60 +83,6 @@
       "category": "紛争",
       "region": "europe",
       "published_at": "Thu, 06 Aug 2026 08:53:32 GMT"
-    },
-    {
-      "title": "イラン、ホルムズ海峡での新航路設定でオマーンと合意　調整の「最終段階」にあると",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cglj665533zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "middle-east",
-      "published_at": "Thu, 06 Aug 2026 04:20:49 GMT"
-    },
-    {
-      "title": "パキスタン、国際メディアによる報道を規制　取材協力の国民も対象",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2dp0jnjyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 06 Aug 2026 07:33:45 GMT"
-    },
-    {
-      "title": "ドイツの空港で爆発物搭載のドローン発見、ウクライナ貨物機付近　警察が発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cgmkn4edvwxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 06 Aug 2026 06:44:05 GMT"
-    },
-    {
-      "title": "トランプ米政権、「解放の日」関税1000億ドルを企業に還付",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce85qq4v075o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Thu, 06 Aug 2026 03:50:53 GMT"
-    },
-    {
-      "title": "米ミシガン州の民主党予備選、左派の政界の異端が勝利　党内の対立あらわに",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/clyxdd5egy5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 06 Aug 2026 07:11:42 GMT"
-    },
-    {
-      "title": "ナイジェリア治安部隊、拉致被害者300人超を救出　1日で過去最多",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn9n8eql5j9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "africa",
-      "published_at": "Thu, 06 Aug 2026 07:58:51 GMT"
     }
   ]
 }
