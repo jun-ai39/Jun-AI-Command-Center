@@ -1,8 +1,53 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-07T23:08:27+00:00",
+  "updated_at": "2026-08-08T22:03:40+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "タイ首相、銃規制強化を表明　バンコク近郊の銃撃で8人死亡",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cz05pe00jr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Sat, 08 Aug 2026 02:57:12 GMT"
+    },
+    {
+      "title": "ホワイトハウスの「宴会場」建設計画、控訴裁も差し止め　トランプ氏は最高裁へ上告方針",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c4gw0y236e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 08 Aug 2026 05:05:46 GMT"
+    },
+    {
+      "title": "サウジアラビア、トルコ、パキスタンが防衛協定に署名",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/clyxm2p2k35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Sat, 08 Aug 2026 04:55:35 GMT"
+    },
+    {
+      "title": "スペインが対イタリアの国境管理を強化、飛び地セウタへの移民めぐる対立深まる",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cy74m1ykv2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 08 Aug 2026 05:17:10 GMT"
+    },
+    {
+      "title": "【解説】熱波でイギリスのエアコン論争はどう変化しているのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn8n25vvpweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 08 Aug 2026 03:59:46 GMT"
+    },
     {
       "title": "トランプ氏、アメリカの兵器不足を否定　情報「漏えい者」を「追い詰める」と宣言",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -13,15 +58,6 @@
       "published_at": "Fri, 07 Aug 2026 04:57:26 GMT"
     },
     {
-      "title": "タイ・バンコク近郊の学校で銃撃、教員5人死亡と当局　容疑者の男子生徒は自宅で祖父母も殺害か",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c0jlvg71lqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 07 Aug 2026 08:31:23 GMT"
-    },
-    {
       "title": "AI使い全く新しいウイルスの設計に成功　米大学が発表",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/clyeg2q66p1o?at_medium=RSS&at_campaign=rss",
@@ -29,15 +65,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Fri, 07 Aug 2026 03:26:48 GMT"
-    },
-    {
-      "title": "トランプ氏、「出生地主義」を再び制限　新たな大統領令に署名",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgxjm7vzy8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 07 Aug 2026 07:11:34 GMT"
     },
     {
       "title": "米メタ、児童の安全に関する判決で5億6700万ドルの罰金　大気汚染に匹敵する「公共の迷惑」と判事",
@@ -56,33 +83,6 @@
       "category": "災害",
       "region": "asia",
       "published_at": "Fri, 07 Aug 2026 04:22:52 GMT"
-    },
-    {
-      "title": "ライブ配信で人気のハクトウワシ、ジャッキーが「重体」に　米カリフォルニア",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn5n64g70q5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 07 Aug 2026 06:47:37 GMT"
-    },
-    {
-      "title": "米スペースXのロケット残骸が月面に衝突、韓国航空宇宙庁が画像公開",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c0jlvgp1ylno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 07 Aug 2026 08:05:55 GMT"
-    },
-    {
-      "title": "迎撃ミサイル不足で人命救えず……キーウ攻撃で見えたウクライナの苦境",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgv8k3llmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Thu, 06 Aug 2026 08:53:32 GMT"
     }
   ]
 }
