@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-08T22:03:51+00:00",
+  "generated_at": "2026-08-09T22:15:04+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
@@ -36,17 +36,17 @@
     {
       "label": "暗号資産",
       "value": "上昇 3・下落 0・横ばい 1",
-      "detail": "最大変動：Solana +3.10%"
+      "detail": "最大変動：Solana +1.40%"
     },
     {
       "label": "市場心理",
-      "value": "30 / 100",
+      "value": "31 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "157.745 JPY",
-      "detail": "前日比 +0.10%"
+      "value": "157.837 JPY",
+      "detail": "前日比 +0.16%"
     }
   ],
   "watch_points": [
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは30（恐怖）です。",
+      "detail": "Fear & Greed Indexは31（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-08T22:03:40+00:00",
-    "market": "2026-08-08T22:03:51+00:00"
+    "news": "2026-08-09T22:14:52+00:00",
+    "market": "2026-08-09T22:15:04+00:00"
   }
 }

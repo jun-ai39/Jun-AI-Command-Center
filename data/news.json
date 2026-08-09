@@ -1,16 +1,16 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-08T22:03:40+00:00",
+  "updated_at": "2026-08-09T22:14:52+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "タイ首相、銃規制強化を表明　バンコク近郊の銃撃で8人死亡",
+      "title": "サウジアラビア、トルコ、パキスタンが防衛協定に署名",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cz05pe00jr0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/clyxm2p2k35o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Sat, 08 Aug 2026 02:57:12 GMT"
+      "region": "middle-east",
+      "published_at": "Sat, 08 Aug 2026 04:55:35 GMT"
     },
     {
       "title": "ホワイトハウスの「宴会場」建設計画、控訴裁も差し止め　トランプ氏は最高裁へ上告方針",
@@ -22,13 +22,22 @@
       "published_at": "Sat, 08 Aug 2026 05:05:46 GMT"
     },
     {
-      "title": "サウジアラビア、トルコ、パキスタンが防衛協定に署名",
+      "title": "【解説】熱波でイギリスのエアコン論争はどう変化しているのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/clyxm2p2k35o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cn8n25vvpweo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Sat, 08 Aug 2026 04:55:35 GMT"
+      "region": "europe",
+      "published_at": "Sat, 08 Aug 2026 03:59:46 GMT"
+    },
+    {
+      "title": "タイ首相、銃規制強化を表明　バンコク近郊の銃撃で8人死亡",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cz05pe00jr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Sat, 08 Aug 2026 02:57:12 GMT"
     },
     {
       "title": "スペインが対イタリアの国境管理を強化、飛び地セウタへの移民めぐる対立深まる",
@@ -38,15 +47,6 @@
       "category": "世界情勢",
       "region": "europe",
       "published_at": "Sat, 08 Aug 2026 05:17:10 GMT"
-    },
-    {
-      "title": "【解説】熱波でイギリスのエアコン論争はどう変化しているのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn8n25vvpweo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 08 Aug 2026 03:59:46 GMT"
     },
     {
       "title": "トランプ氏、アメリカの兵器不足を否定　情報「漏えい者」を「追い詰める」と宣言",
