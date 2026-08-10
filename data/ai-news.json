@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-10",
+  "verified_at": "2026-08-11",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,116 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-5367cc95a8fd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-11",
+      "category": "business",
+      "title_ja": "What building an AI-native finance function taught me",
+      "original_title": "What building an AI-native finance function taught me",
+      "summary_ja": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function"
+    },
+    {
+      "id": "google-b2ade2099549",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-11",
+      "category": "model",
+      "title_ja": "Have more fun at the state fair with these Google tools",
+      "original_title": "Have more fun at the state fair with these Google tools",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/"
+    },
+    {
+      "id": "openai-3d196224ab27",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-10",
+      "category": "safety",
+      "title_ja": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "original_title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary_ja": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
+    },
+    {
+      "id": "openai-95f74aeac90a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-10",
+      "category": "model",
+      "title_ja": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "original_title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "summary_ja": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+      "url": "https://openai.com/index/model-ml"
+    },
+    {
+      "id": "openai-081601c279be",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-10",
+      "category": "safety",
+      "title_ja": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "original_title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary_ja": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+    },
+    {
+      "id": "openai-29b0e61ec6cd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-10",
+      "category": "safety",
+      "title_ja": "Putting frontier cyber models in more trusted hands",
+      "original_title": "Putting frontier cyber models in more trusted hands",
+      "summary_ja": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
+    },
+    {
+      "id": "openai-2a5c0cad5d8b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-10",
+      "category": "business",
+      "title_ja": "Premium seats are coming to ChatGPT Business",
+      "original_title": "Premium seats are coming to ChatGPT Business",
+      "summary_ja": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business"
+    },
+    {
+      "id": "openai-6476741ad7bd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-10",
+      "category": "business",
+      "title_ja": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "original_title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary_ja": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "url": "https://openai.com/index/zapier"
+    },
+    {
+      "id": "openai-0e82d8998833",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-10",
+      "category": "model",
+      "title_ja": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "original_title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary_ja": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work"
+    },
+    {
+      "id": "google-6b59545a1676",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-10",
+      "category": "product",
+      "title_ja": "Evolve your marketing with new AI tools",
+      "original_title": "Evolve your marketing with new AI tools",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+    },
     {
       "id": "openai-e66cc71d0943",
       "source": "openai",
@@ -66,39 +176,6 @@
       "url": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/"
     },
     {
-      "id": "openai-b1c9322e571f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-06",
-      "category": "model",
-      "title_ja": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "original_title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "summary_ja": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
-    },
-    {
-      "id": "openai-0c4923a8268d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-06",
-      "category": "safety",
-      "title_ja": "Working with the American Psychological Association on youth mental health and AI",
-      "original_title": "Working with the American Psychological Association on youth mental health and AI",
-      "summary_ja": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
-    },
-    {
-      "id": "openai-3763c3e63f84",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-06",
-      "category": "business",
-      "title_ja": "From asking to doing: How the world is putting ChatGPT to work",
-      "original_title": "From asking to doing: How the world is putting ChatGPT to work",
-      "summary_ja": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
-    },
-    {
       "id": "google-57be00a8fb4b",
       "source": "google",
       "source_name": "Google",
@@ -119,39 +196,6 @@
       "original_title": "The next chapter of our AI momentum",
       "summary_ja": "Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams.",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
-    },
-    {
-      "id": "openai-c99ec862b4e7",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-05",
-      "category": "safety",
-      "title_ja": "Third-party cyber evaluations involving OpenAI models",
-      "original_title": "Third-party cyber evaluations involving OpenAI models",
-      "summary_ja": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
-    },
-    {
-      "id": "openai-129511f54188",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-04",
-      "category": "education",
-      "title_ja": "New ways to learn and teach with ChatGPT Work and Codex",
-      "original_title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "summary_ja": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
-    },
-    {
-      "id": "openai-4a9b73e77846",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-04",
-      "category": "business",
-      "title_ja": "Apple is getting this wrong",
-      "original_title": "Apple is getting this wrong",
-      "summary_ja": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong"
     },
     {
       "id": "google-58ba351a2139",
@@ -187,28 +231,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
     },
     {
-      "id": "openai-deec56a13e2b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-03",
-      "category": "model",
-      "title_ja": "How we built a realtime system for responsive voice AI in six months",
-      "original_title": "How we built a realtime system for responsive voice AI in six months",
-      "summary_ja": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
-    },
-    {
-      "id": "openai-97e92714d577",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-03",
-      "category": "product",
-      "title_ja": "Circles powers telco personalization with OpenAI technology",
-      "original_title": "Circles powers telco personalization with OpenAI technology",
-      "summary_ja": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-      "url": "https://openai.com/index/circles"
-    },
-    {
       "id": "google-5566bf3bec36",
       "source": "google",
       "source_name": "Google",
@@ -218,28 +240,6 @@
       "original_title": "Simplify your morning with this vibe-coded schedule app.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/"
-    },
-    {
-      "id": "google-04e5894ab585",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-01",
-      "category": "model",
-      "title_ja": "Find out what’s new in the Gemini app in July's Gemini Drop.",
-      "original_title": "Find out what’s new in the Gemini app in July's Gemini Drop.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/"
-    },
-    {
-      "id": "google-5a01c69735c0",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-07-31",
-      "category": "model",
-      "title_ja": "Gemini Spark now integrates with Chrome",
-      "original_title": "Gemini Spark now integrates with Chrome",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-09T22:14:53+00:00",
+  "updated_at": "2026-08-10T23:08:42+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

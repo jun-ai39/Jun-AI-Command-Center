@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-09T22:15:04+00:00",
+  "generated_at": "2026-08-10T23:08:52+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "スペインが対イタリアの国境管理を強化、飛び地セウタへの移民めぐる対立深まる",
+      "title": "タイで元下院議員が地方高官を銃撃　ユーチューブ番組に電話報告、警察署で会見",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 08 Aug 2026 05:17:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cy74m1ykv2do?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 10 Aug 2026 09:52:39 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj03d0vr0q3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ホワイトハウスの「宴会場」建設計画、控訴裁も差し止め　トランプ氏は最高裁へ上告方針",
+      "title": "イランがアメリカの水道システムをハッキング？　少なくとも7州で",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 08 Aug 2026 05:05:46 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c4gw0y236e5o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 10 Aug 2026 06:42:44 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq567nq8pxxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "サウジアラビア、トルコ、パキスタンが防衛協定に署名",
+      "title": "オカシオ＝コルテス米下院議員、卵子凍結を公表　大統領選出馬の可能性否定せず",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 08 Aug 2026 04:55:35 GMT",
-      "url": "https://www.bbc.com/japanese/articles/clyxm2p2k35o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 10 Aug 2026 06:37:59 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c80nj0e97zzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 5・下落 0・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 +5.19%"
+      "detail": "最大変動：日経平均 +4.71%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 0・横ばい 1",
-      "detail": "最大変動：Solana +1.40%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -3.00%"
     },
     {
       "label": "市場心理",
-      "value": "31 / 100",
+      "value": "30 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "157.837 JPY",
-      "detail": "前日比 +0.16%"
+      "value": "159.252 JPY",
+      "detail": "前日比 +0.99%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "スペインが対イタリアの国境管理を強化、飛び地セウタへの移民めぐる対立深まる",
+      "detail": "タイで元下院議員が地方高官を銃撃　ユーチューブ番組に電話報告、警察署で会見",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比+5.19%です。",
+      "detail": "日経平均が前日比+4.71%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは31（恐怖）です。",
+      "detail": "Fear & Greed Indexは30（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-09T22:14:52+00:00",
-    "market": "2026-08-09T22:15:04+00:00"
+    "news": "2026-08-10T23:08:42+00:00",
+    "market": "2026-08-10T23:08:52+00:00"
   }
 }

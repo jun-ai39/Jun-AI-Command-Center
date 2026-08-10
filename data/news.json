@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-09T22:14:52+00:00",
+  "updated_at": "2026-08-10T23:08:42+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "サウジアラビア、トルコ、パキスタンが防衛協定に署名",
+      "title": "イスラエル首相、トランプ氏提示の15項目の「ガザ和平計画」を拒否　ハマス武装解除が撤退条件と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/clyxm2p2k35o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c07rjlyp042o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Sat, 08 Aug 2026 04:55:35 GMT"
+      "published_at": "Mon, 10 Aug 2026 02:45:26 GMT"
     },
     {
-      "title": "ホワイトハウスの「宴会場」建設計画、控訴裁も差し止め　トランプ氏は最高裁へ上告方針",
+      "title": "タイで元下院議員が地方高官を銃撃　ユーチューブ番組に電話報告、警察署で会見",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c4gw0y236e5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 08 Aug 2026 05:05:46 GMT"
-    },
-    {
-      "title": "【解説】熱波でイギリスのエアコン論争はどう変化しているのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn8n25vvpweo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 08 Aug 2026 03:59:46 GMT"
-    },
-    {
-      "title": "タイ首相、銃規制強化を表明　バンコク近郊の銃撃で8人死亡",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cz05pe00jr0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cj03d0vr0q3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "asia",
-      "published_at": "Sat, 08 Aug 2026 02:57:12 GMT"
+      "published_at": "Mon, 10 Aug 2026 09:52:39 GMT"
     },
     {
-      "title": "スペインが対イタリアの国境管理を強化、飛び地セウタへの移民めぐる対立深まる",
+      "title": "イランがアメリカの水道システムをハッキング？　少なくとも7州で",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy74m1ykv2do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cq567nq8pxxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 08 Aug 2026 05:17:10 GMT"
+      "region": "middle-east",
+      "published_at": "Mon, 10 Aug 2026 06:42:44 GMT"
     },
     {
-      "title": "トランプ氏、アメリカの兵器不足を否定　情報「漏えい者」を「追い詰める」と宣言",
+      "title": "カナダ西部の山火事、制御不能な状況に　当局は「最悪の事態への備え」を住民に呼びかけ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c86nvwgz8zno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ckg635e73zxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Fri, 07 Aug 2026 04:57:26 GMT"
+      "published_at": "Mon, 10 Aug 2026 05:43:20 GMT"
     },
     {
-      "title": "AI使い全く新しいウイルスの設計に成功　米大学が発表",
+      "title": "ドイツ西部の基地上空でドローン目撃、東部空港でのドローン発見から数日後",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/clyeg2q66p1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cevm7wlz1lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 10 Aug 2026 03:25:47 GMT"
+    },
+    {
+      "title": "バンクシー作品の清掃や整備費用、公費から15万ポンド近く　BBCの情報開示請求で明らかに",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr495y2en1eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 07 Aug 2026 03:26:48 GMT"
+      "published_at": "Mon, 10 Aug 2026 04:52:52 GMT"
     },
     {
-      "title": "米メタ、児童の安全に関する判決で5億6700万ドルの罰金　大気汚染に匹敵する「公共の迷惑」と判事",
+      "title": "オカシオ＝コルテス米下院議員、卵子凍結を公表　大統領選出馬の可能性否定せず",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq894kzep0no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c80nj0e97zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 07 Aug 2026 07:44:38 GMT"
+      "published_at": "Mon, 10 Aug 2026 06:37:59 GMT"
     },
     {
-      "title": "【検証】 AI生成か本物か……中国で災害描いた偽動画が問題に",
+      "title": "南米エクアドル、大統領候補暗殺事件で元閣僚や麻薬カルテルのボスなどを起訴",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwylwg4xd7go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c0qv3j44yy1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "asia",
-      "published_at": "Fri, 07 Aug 2026 04:22:52 GMT"
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 10 Aug 2026 06:31:58 GMT"
+    },
+    {
+      "title": "米上院、司法長官にブランチ氏を僅差で承認　トランプ氏の元顧問弁護士",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cly81m7v7z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Mon, 10 Aug 2026 03:10:58 GMT"
     }
   ]
 }
