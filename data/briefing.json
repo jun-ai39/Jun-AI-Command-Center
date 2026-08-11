@@ -1,58 +1,58 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T23:08:52+00:00",
+  "generated_at": "2026-08-11T23:23:43+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "タイで元下院議員が地方高官を銃撃　ユーチューブ番組に電話報告、警察署で会見",
+      "title": "米カリフォルニアの有名なハクトウワシ「ジャッキー」が死亡",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 10 Aug 2026 09:52:39 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cj03d0vr0q3o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 11 Aug 2026 05:37:13 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cy9w1pp1z31o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "イランがアメリカの水道システムをハッキング？　少なくとも7州で",
-      "category": "世界情勢",
+      "title": "大聖堂の塔も倒れ……各地で建物が倒壊、コロンビア地震",
+      "category": "災害",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 10 Aug 2026 06:42:44 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq567nq8pxxo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 11 Aug 2026 05:18:22 GMT",
+      "url": "https://www.bbc.com/japanese/articles/czrje1127r5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "オカシオ＝コルテス米下院議員、卵子凍結を公表　大統領選出馬の可能性否定せず",
+      "title": "世界の海、7月の最高水温を記録",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 10 Aug 2026 06:37:59 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c80nj0e97zzo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 11 Aug 2026 03:33:29 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c4gj8l10kpxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 5・下落 0・横ばい 0",
+      "value": "上昇 2・下落 3・横ばい 0",
       "detail": "最大変動：日経平均 +4.71%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -3.00%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：Bitcoin -0.50%"
     },
     {
       "label": "市場心理",
-      "value": "30 / 100",
+      "value": "29 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.252 JPY",
-      "detail": "前日比 +0.99%"
+      "value": "159.283 JPY",
+      "detail": "前日比 +1.07%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "タイで元下院議員が地方高官を銃撃　ユーチューブ番組に電話報告、警察署で会見",
+      "detail": "米カリフォルニアの有名なハクトウワシ「ジャッキー」が死亡",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは30（恐怖）です。",
+      "detail": "Fear & Greed Indexは29（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-10T23:08:42+00:00",
-    "market": "2026-08-10T23:08:52+00:00"
+    "news": "2026-08-11T23:23:33+00:00",
+    "market": "2026-08-11T23:23:43+00:00"
   }
 }
