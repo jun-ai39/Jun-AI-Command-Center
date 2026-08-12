@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-11T23:23:33+00:00",
+  "updated_at": "2026-08-12T23:23:06+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "コロンビアでM7.4の地震、近年で最大級　130人以上死亡",
+      "title": "コロンビア地震、死者180人超える　生存者救出は時間との闘い",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce8lj4gwje3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cdx7p9279l0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "災害",
       "region": "latin-america",
-      "published_at": "Tue, 11 Aug 2026 03:27:49 GMT"
+      "published_at": "Wed, 12 Aug 2026 04:42:13 GMT"
     },
     {
-      "title": "大聖堂の塔も倒れ……各地で建物が倒壊、コロンビア地震",
+      "title": "トランプ氏、7月に専用機からひそかに別機に乗り換えと報道認める　安全上の懸念と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/czrje1127r5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "latin-america",
-      "published_at": "Tue, 11 Aug 2026 05:18:22 GMT"
-    },
-    {
-      "title": "世界の海、7月の最高水温を記録",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c4gj8l10kpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 11 Aug 2026 03:33:29 GMT"
-    },
-    {
-      "title": "ウクライナのドローン、ロシア領内深く攻撃　少なくとも13人殺害",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy741ygv2e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 11 Aug 2026 03:16:33 GMT"
-    },
-    {
-      "title": "米カリフォルニアの有名なハクトウワシ「ジャッキー」が死亡",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy9w1pp1z31o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 11 Aug 2026 05:37:13 GMT"
-    },
-    {
-      "title": "イスラエル首相、トランプ氏提示の15項目の「ガザ和平計画」を拒否　ハマス武装解除が撤退条件と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c07rjlyp042o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Mon, 10 Aug 2026 02:45:26 GMT"
-    },
-    {
-      "title": "タイで元下院議員が地方高官を銃撃　ユーチューブ番組に電話報告、警察署で会見",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj03d0vr0q3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Mon, 10 Aug 2026 09:52:39 GMT"
-    },
-    {
-      "title": "イランがアメリカの水道システムをハッキング？　少なくとも7州で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq567nq8pxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Mon, 10 Aug 2026 06:42:44 GMT"
-    },
-    {
-      "title": "カナダ西部の山火事、制御不能な状況に　当局は「最悪の事態への備え」を住民に呼びかけ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckg635e73zxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c9q9dq0xlzro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Mon, 10 Aug 2026 05:43:20 GMT"
+      "published_at": "Wed, 12 Aug 2026 02:32:26 GMT"
+    },
+    {
+      "title": "シリアのアサド前大統領、欠席裁判で死刑判決",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr7kp5mr7dmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 12 Aug 2026 05:02:29 GMT"
+    },
+    {
+      "title": "ハンガリー、オルバン政権に解任された元判事を新大統領に選出　改革を監督へ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn9npgxqryyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 12 Aug 2026 08:15:32 GMT"
+    },
+    {
+      "title": "ロシアが北朝鮮製ミサイルを使用とゼレンスキー大統領　南部で7人殺害される",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq89p2ve8xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 12 Aug 2026 03:21:10 GMT"
+    },
+    {
+      "title": "【検証】トランプ米政権、一部ワクチンの推奨撤回　発言に多くの誤情報",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqlxpvllp59o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 12 Aug 2026 06:22:30 GMT"
+    },
+    {
+      "title": "大掃除中に1991年のチョコ菓子発見、現在のものより20グラム大きかった",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c935ex7xlpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 12 Aug 2026 08:00:40 GMT"
+    },
+    {
+      "title": "子どもがシートベルト着用拒む、フライトは欠航に　カナダ・ポーター航空",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cy9w2q2dzwlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 12 Aug 2026 08:24:33 GMT"
+    },
+    {
+      "title": "高市氏が贈呈したメロンめぐるオーストラリア首相の発言に批判",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj9dpjl4nzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "oceania",
+      "published_at": "Wed, 12 Aug 2026 04:02:56 GMT"
     }
   ]
 }

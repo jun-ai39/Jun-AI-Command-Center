@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T23:23:43+00:00",
+  "generated_at": "2026-08-12T23:23:16+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "米カリフォルニアの有名なハクトウワシ「ジャッキー」が死亡",
+      "title": "子どもがシートベルト着用拒む、フライトは欠航に　カナダ・ポーター航空",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 11 Aug 2026 05:37:13 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cy9w1pp1z31o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 12 Aug 2026 08:24:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cy9w2q2dzwlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "大聖堂の塔も倒れ……各地で建物が倒壊、コロンビア地震",
-      "category": "災害",
-      "source": "BBC News 日本語",
-      "published_at": "Tue, 11 Aug 2026 05:18:22 GMT",
-      "url": "https://www.bbc.com/japanese/articles/czrje1127r5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "世界の海、7月の最高水温を記録",
+      "title": "ハンガリー、オルバン政権に解任された元判事を新大統領に選出　改革を監督へ",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 11 Aug 2026 03:33:29 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c4gj8l10kpxo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 12 Aug 2026 08:15:32 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cn9npgxqryyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "大掃除中に1991年のチョコ菓子発見、現在のものより20グラム大きかった",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Wed, 12 Aug 2026 08:00:40 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c935ex7xlpwo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：日経平均 +4.71%"
+      "value": "上昇 4・下落 1・横ばい 0",
+      "detail": "最大変動：TOPIX連動ETF（参考値） +2.38%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：Bitcoin -0.50%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -2.00%"
     },
     {
       "label": "市場心理",
-      "value": "29 / 100",
+      "value": "27 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.283 JPY",
-      "detail": "前日比 +1.07%"
+      "value": "159.325 JPY",
+      "detail": "前日比 +0.58%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "米カリフォルニアの有名なハクトウワシ「ジャッキー」が死亡",
+      "detail": "子どもがシートベルト着用拒む、フライトは欠航に　カナダ・ポーター航空",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+4.71%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比+2.38%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは29（恐怖）です。",
+      "detail": "Fear & Greed Indexは27（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-11T23:23:33+00:00",
-    "market": "2026-08-11T23:23:43+00:00"
+    "news": "2026-08-12T23:23:06+00:00",
+    "market": "2026-08-12T23:23:16+00:00"
   }
 }

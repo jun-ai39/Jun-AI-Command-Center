@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-12",
+  "verified_at": "2026-08-13",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,39 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-e063daae6225",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-12",
+      "category": "business",
+      "title_ja": "From assistance to execution: How enterprises put AI to work",
+      "original_title": "From assistance to execution: How enterprises put AI to work",
+      "summary_ja": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    {
+      "id": "openai-9bafa93fe08b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-12",
+      "category": "model",
+      "title_ja": "How RingCentral builds AI-native work from engineering to ops",
+      "original_title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary_ja": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "url": "https://openai.com/index/ringcentral"
+    },
+    {
+      "id": "google-0f3aae81898f",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-12",
+      "category": "model",
+      "title_ja": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "original_title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/"
+    },
     {
       "id": "google-012e30e2c241",
       "source": "google",
@@ -88,17 +121,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/vibe-coding-course/"
     },
     {
-      "id": "google-b2ade2099549",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-11",
-      "category": "model",
-      "title_ja": "Have more fun at the state fair with these Google tools",
-      "original_title": "Have more fun at the state fair with these Google tools",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/"
-    },
-    {
       "id": "openai-3d196224ab27",
       "source": "openai",
       "source_name": "OpenAI",
@@ -121,17 +143,6 @@
       "url": "https://openai.com/index/model-ml"
     },
     {
-      "id": "openai-081601c279be",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-10",
-      "category": "safety",
-      "title_ja": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "original_title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary_ja": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
-    },
-    {
       "id": "openai-29b0e61ec6cd",
       "source": "openai",
       "source_name": "OpenAI",
@@ -143,15 +154,15 @@
       "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
     },
     {
-      "id": "openai-2a5c0cad5d8b",
+      "id": "openai-081601c279be",
       "source": "openai",
       "source_name": "OpenAI",
       "published_at": "2026-08-10",
-      "category": "business",
-      "title_ja": "Premium seats are coming to ChatGPT Business",
-      "original_title": "Premium seats are coming to ChatGPT Business",
-      "summary_ja": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business"
+      "category": "safety",
+      "title_ja": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "original_title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary_ja": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
     },
     {
       "id": "openai-6476741ad7bd",
@@ -163,83 +174,6 @@
       "original_title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "summary_ja": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "url": "https://openai.com/index/zapier"
-    },
-    {
-      "id": "openai-0e82d8998833",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-10",
-      "category": "model",
-      "title_ja": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "original_title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "summary_ja": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work"
-    },
-    {
-      "id": "google-6b59545a1676",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-10",
-      "category": "product",
-      "title_ja": "Evolve your marketing with new AI tools",
-      "original_title": "Evolve your marketing with new AI tools",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
-    },
-    {
-      "id": "google-3a0d04875556",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-07",
-      "category": "model",
-      "title_ja": "See what 5 builders are making with Gemini Omni",
-      "original_title": "See what 5 builders are making with Gemini Omni",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/"
-    },
-    {
-      "id": "google-bc81276b19b8",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-07",
-      "category": "model",
-      "title_ja": "How Gemini plans such detailed vacation itineraries for you",
-      "original_title": "How Gemini plans such detailed vacation itineraries for you",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/"
-    },
-    {
-      "id": "google-57be00a8fb4b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-06",
-      "category": "model",
-      "title_ja": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
-      "original_title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/"
-    },
-    {
-      "id": "google-543b898b1d1b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-06",
-      "category": "product",
-      "title_ja": "The next chapter of our AI momentum",
-      "original_title": "The next chapter of our AI momentum",
-      "summary_ja": "Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
-    },
-    {
-      "id": "google-58ba351a2139",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-04",
-      "category": "product",
-      "title_ja": "The latest AI news we announced in July 2026",
-      "original_title": "The latest AI news we announced in July 2026",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +209,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-11T23:23:33+00:00",
+  "updated_at": "2026-08-12T23:23:06+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
