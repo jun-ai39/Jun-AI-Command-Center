@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-13",
+  "verified_at": "2026-08-14",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,61 @@
     }
   ],
   "items": [
+    {
+      "id": "google-69cbe3169a5b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-14",
+      "category": "model",
+      "title_ja": "Introducing Gemini 3.7 Flash",
+      "original_title": "Introducing Gemini 3.7 Flash",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+    },
+    {
+      "id": "openai-6f8368ac763b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-13",
+      "category": "education",
+      "title_ja": "The builder’s guide to GPT‑5.6",
+      "original_title": "The builder’s guide to GPT‑5.6",
+      "summary_ja": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    },
+    {
+      "id": "openai-c0986f6628d1",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-13",
+      "category": "model",
+      "title_ja": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "original_title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary_ja": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "url": "https://openai.com/index/previewing-ultrafast"
+    },
+    {
+      "id": "openai-6eaab463a55d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-13",
+      "category": "business",
+      "title_ja": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "original_title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary_ja": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    {
+      "id": "google-21c812e92ccb",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-13",
+      "category": "model",
+      "title_ja": "Omni experts share what excites them most about the model.",
+      "original_title": "Omni experts share what excites them most about the model.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/"
+    },
     {
       "id": "openai-e063daae6225",
       "source": "openai",
@@ -53,28 +108,6 @@
       "original_title": "Now you can connect even more of your favorite apps and services to Gemini.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/"
-    },
-    {
-      "id": "google-012e30e2c241",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-12",
-      "category": "education",
-      "title_ja": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "original_title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
-    },
-    {
-      "id": "google-19face5b8e89",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-12",
-      "category": "model",
-      "title_ja": "More than 1 billion people are using the Gemini app every month.",
-      "original_title": "More than 1 billion people are using the Gemini app every month.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/"
     },
     {
       "id": "openai-b19ec562c455",
@@ -110,17 +143,6 @@
       "url": "https://openai.com/index/building-an-ai-native-finance-function"
     },
     {
-      "id": "google-ac9e3b2d2f35",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-11",
-      "category": "product",
-      "title_ja": "Expanding the Google AI Professional Certificate with vibe coding",
-      "original_title": "Expanding the Google AI Professional Certificate with vibe coding",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/vibe-coding-course/"
-    },
-    {
       "id": "openai-3d196224ab27",
       "source": "openai",
       "source_name": "OpenAI",
@@ -141,39 +163,6 @@
       "original_title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "summary_ja": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "url": "https://openai.com/index/model-ml"
-    },
-    {
-      "id": "openai-29b0e61ec6cd",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-10",
-      "category": "safety",
-      "title_ja": "Putting frontier cyber models in more trusted hands",
-      "original_title": "Putting frontier cyber models in more trusted hands",
-      "summary_ja": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
-    },
-    {
-      "id": "openai-081601c279be",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-10",
-      "category": "safety",
-      "title_ja": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "original_title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "summary_ja": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
-    },
-    {
-      "id": "openai-6476741ad7bd",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-10",
-      "category": "business",
-      "title_ja": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "original_title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "summary_ja": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-      "url": "https://openai.com/index/zapier"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -209,7 +198,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-12T23:23:06+00:00",
+  "updated_at": "2026-08-13T23:25:02+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

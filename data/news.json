@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-12T23:23:06+00:00",
+  "updated_at": "2026-08-13T23:25:02+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "コロンビア地震、死者180人超える　生存者救出は時間との闘い",
+      "title": "プーチン大統領、択捉島を初訪問　日本政府「強く抗議」",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cdx7p9279l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "latin-america",
-      "published_at": "Wed, 12 Aug 2026 04:42:13 GMT"
-    },
-    {
-      "title": "トランプ氏、7月に専用機からひそかに別機に乗り換えと報道認める　安全上の懸念と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9q9dq0xlzro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c20e23gvgqxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 12 Aug 2026 02:32:26 GMT"
+      "region": "japan",
+      "published_at": "Thu, 13 Aug 2026 06:50:59 GMT"
     },
     {
-      "title": "シリアのアサド前大統領、欠席裁判で死刑判決",
+      "title": "イギリスとヨーロッパで珍しい日食、スペインなどでは皆既日食",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr7kp5mr7dmo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c07r2x744yzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 13 Aug 2026 03:32:35 GMT"
+    },
+    {
+      "title": "イスラエル人入植者がパレスチナ人家族を包囲、ヨルダン川西岸地区",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c0rd22qleejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Wed, 12 Aug 2026 05:02:29 GMT"
+      "published_at": "Thu, 13 Aug 2026 07:51:43 GMT"
     },
     {
-      "title": "ハンガリー、オルバン政権に解任された元判事を新大統領に選出　改革を監督へ",
+      "title": "ウクライナが黒海沿岸の港湾攻撃、ロシアの穀物輸出ターミナルや海軍基地など",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn9npgxqryyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 12 Aug 2026 08:15:32 GMT"
-    },
-    {
-      "title": "ロシアが北朝鮮製ミサイルを使用とゼレンスキー大統領　南部で7人殺害される",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq89p2ve8xdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cj9dprw0x8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Wed, 12 Aug 2026 03:21:10 GMT"
+      "published_at": "Thu, 13 Aug 2026 03:03:30 GMT"
     },
     {
-      "title": "【検証】トランプ米政権、一部ワクチンの推奨撤回　発言に多くの誤情報",
+      "title": "エボラ出血熱の流行、過去最悪の死者数に達する恐れ　WHOトップが警告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqlxpvllp59o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 12 Aug 2026 06:22:30 GMT"
-    },
-    {
-      "title": "大掃除中に1991年のチョコ菓子発見、現在のものより20グラム大きかった",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c935ex7xlpwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/clyxppmpde4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 12 Aug 2026 08:00:40 GMT"
+      "published_at": "Thu, 13 Aug 2026 07:10:27 GMT"
     },
     {
-      "title": "子どもがシートベルト着用拒む、フライトは欠航に　カナダ・ポーター航空",
+      "title": "トランプ政権の一部閣僚、大統領がひそかに降機後も「おとり」の大統領専用機に残っていた　万一に備えと米報道",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy9w2q2dzwlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c3r02zx9rzeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Wed, 12 Aug 2026 08:24:33 GMT"
+      "published_at": "Thu, 13 Aug 2026 05:11:13 GMT"
     },
     {
-      "title": "高市氏が贈呈したメロンめぐるオーストラリア首相の発言に批判",
+      "title": "トランプ氏SNSの有料サービス、米メディア2社が提訴　「違憲で腐敗」だと",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj9dpjl4nzeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cdx7pk6qd7do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "oceania",
-      "published_at": "Wed, 12 Aug 2026 04:02:56 GMT"
+      "region": "north-america",
+      "published_at": "Thu, 13 Aug 2026 05:36:14 GMT"
+    },
+    {
+      "title": "パレスチナ人の住宅を包囲、飢えさせて追い出す……イスラエル人入植者の新しい手法",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyl2dr5kgwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 13 Aug 2026 08:28:09 GMT"
+    },
+    {
+      "title": "スペインやアイスランドで皆既日食、各地で目撃した人々は",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgjzvmlq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 13 Aug 2026 04:27:17 GMT"
     }
   ]
 }

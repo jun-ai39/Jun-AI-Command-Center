@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-12T23:23:16+00:00",
+  "generated_at": "2026-08-13T23:25:12+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "子どもがシートベルト着用拒む、フライトは欠航に　カナダ・ポーター航空",
+      "title": "パレスチナ人の住宅を包囲、飢えさせて追い出す……イスラエル人入植者の新しい手法",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 12 Aug 2026 08:24:33 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cy9w2q2dzwlo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 13 Aug 2026 08:28:09 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwyl2dr5kgwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ハンガリー、オルバン政権に解任された元判事を新大統領に選出　改革を監督へ",
+      "title": "イスラエル人入植者がパレスチナ人家族を包囲、ヨルダン川西岸地区",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 12 Aug 2026 08:15:32 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cn9npgxqryyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 13 Aug 2026 07:51:43 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c0rd22qleejo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "大掃除中に1991年のチョコ菓子発見、現在のものより20グラム大きかった",
+      "title": "エボラ出血熱の流行、過去最悪の死者数に達する恐れ　WHOトップが警告",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 12 Aug 2026 08:00:40 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c935ex7xlpwo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 13 Aug 2026 07:10:27 GMT",
+      "url": "https://www.bbc.com/japanese/articles/clyxppmpde4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 4・下落 1・横ばい 0",
-      "detail": "最大変動：TOPIX連動ETF（参考値） +2.38%"
+      "detail": "最大変動：日経平均 +4.00%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -2.00%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Solana +1.00%"
     },
     {
       "label": "市場心理",
-      "value": "27 / 100",
+      "value": "29 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.325 JPY",
-      "detail": "前日比 +0.58%"
+      "value": "159.475 JPY",
+      "detail": "前日比 +1.00%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "子どもがシートベルト着用拒む、フライトは欠航に　カナダ・ポーター航空",
+      "detail": "パレスチナ人の住宅を包囲、飢えさせて追い出す……イスラエル人入植者の新しい手法",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "TOPIX連動ETF（参考値）が前日比+2.38%です。",
+      "detail": "日経平均が前日比+4.00%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは27（恐怖）です。",
+      "detail": "Fear & Greed Indexは29（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-12T23:23:06+00:00",
-    "market": "2026-08-12T23:23:16+00:00"
+    "news": "2026-08-13T23:25:02+00:00",
+    "market": "2026-08-13T23:25:12+00:00"
   }
 }
