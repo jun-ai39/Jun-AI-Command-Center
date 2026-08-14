@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T23:25:12+00:00",
+  "generated_at": "2026-08-14T21:56:40+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "パレスチナ人の住宅を包囲、飢えさせて追い出す……イスラエル人入植者の新しい手法",
+      "title": "千葉に大雨特別警報、複数が死亡　大勢が帰宅困難に",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 13 Aug 2026 08:28:09 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwyl2dr5kgwo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 14 Aug 2026 08:32:58 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c151yq9qx1po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "イスラエル人入植者がパレスチナ人家族を包囲、ヨルダン川西岸地区",
+      "title": "米ケネディ・センターの建物にトランプ氏の名前再掲示へ、理事会が決定",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 13 Aug 2026 07:51:43 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c0rd22qleejo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 14 Aug 2026 08:19:27 GMT",
+      "url": "https://www.bbc.com/japanese/articles/crk5vxr2yy2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "エボラ出血熱の流行、過去最悪の死者数に達する恐れ　WHOトップが警告",
+      "title": "プーチン大統領にウクライナでの「勝利などない」、ノーベル平和賞受賞のジャーナリストがBBCに語る",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 13 Aug 2026 07:10:27 GMT",
-      "url": "https://www.bbc.com/japanese/articles/clyxppmpde4o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 14 Aug 2026 08:13:04 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c5ydzl3g034o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 4・下落 1・横ばい 0",
-      "detail": "最大変動：日経平均 +4.00%"
+      "detail": "最大変動：日経平均 +4.74%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +1.00%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Solana -1.30%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "159.475 JPY",
-      "detail": "前日比 +1.00%"
+      "value": "159.305 JPY",
+      "detail": "前日比 +0.90%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "パレスチナ人の住宅を包囲、飢えさせて追い出す……イスラエル人入植者の新しい手法",
+      "detail": "千葉に大雨特別警報、複数が死亡　大勢が帰宅困難に",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+4.00%です。",
+      "detail": "日経平均が前日比+4.74%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-13T23:25:02+00:00",
-    "market": "2026-08-13T23:25:12+00:00"
+    "news": "2026-08-14T21:56:29+00:00",
+    "market": "2026-08-14T21:56:40+00:00"
   }
 }
