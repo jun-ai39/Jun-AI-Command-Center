@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-15T21:51:59+00:00",
+  "updated_at": "2026-08-16T21:51:18+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 10052361.818105612,
+      "price": 10019986.60355968,
       "currency": "JPY",
-      "change_percent": 0.2,
+      "change_percent": -0.1,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 300030.94884740293,
+      "price": 298484.29253976914,
       "currency": "JPY",
-      "change_percent": 0.2,
+      "change_percent": -0.1,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 159.85687083842603,
+      "price": 158.54489907481374,
       "currency": "JPY",
-      "change_percent": 0.6,
+      "change_percent": -0.4,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 12046.614383120706,
+      "price": 11844.06036928681,
       "currency": "JPY",
-      "change_percent": 0.6,
+      "change_percent": -0.7,
       "decimals": 0
     }
   ],
@@ -83,17 +83,17 @@
     {
       "symbol": "USD/JPY",
       "name": "ドル円",
-      "price": 159.305,
+      "price": 159.286,
       "currency": "JPY",
-      "change_percent": 0.8955545281238422,
+      "change_percent": 0.8835209099948764,
       "decimals": 3
     },
     {
       "symbol": "EUR/JPY",
       "name": "ユーロ円",
-      "price": 184.365,
+      "price": 184.218,
       "currency": "JPY",
-      "change_percent": 1.0390806109531017,
+      "change_percent": 0.9585189813064112,
       "decimals": 3
     }
   ],
@@ -103,7 +103,7 @@
       "name": "金先物",
       "price": 4437.3,
       "currency": "USD",
-      "change_percent": 1.7309367692237148,
+      "change_percent": 1.23887748117728,
       "decimals": 2
     },
     {
@@ -111,7 +111,7 @@
       "name": "WTI原油先物",
       "price": 82.4,
       "currency": "USD",
-      "change_percent": 0.3287471082430418,
+      "change_percent": -0.9615384615384581,
       "decimals": 2
     }
   ],
@@ -126,7 +126,7 @@
     "value": 34,
     "classification": "Fear",
     "classification_ja": "恐怖",
-    "observed_at": "2026-08-15T00:00:00+00:00",
+    "observed_at": "2026-08-16T00:00:00+00:00",
     "source": "Alternative.me"
   }
 }
