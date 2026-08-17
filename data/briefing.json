@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T21:51:18+00:00",
+  "generated_at": "2026-08-17T21:58:20+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "インドネシアでM7.7の地震、死傷者多数",
+      "title": "10年行方不明の猫が帰還、飼い主の30歳の誕生日に　英ウェールズ",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Mon, 17 Aug 2026 07:44:41 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c9d8wyyyq39o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "韓国南東部で記録的豪雨、土砂崩れで1人死亡",
       "category": "災害",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 15 Aug 2026 13:57:04 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm2gj2yexxeo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 17 Aug 2026 06:13:48 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c74gkj7zn18o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "千葉に大雨特別警報、複数が死亡　大勢が帰宅困難に",
+      "title": "米軍の中東トップ、空母リンカーン乗組員のメンタルヘルスは「最優先事項」",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 15 Aug 2026 10:50:42 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c151yq9qx1po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "英ケンブリッジ大の元教授を遺体で発見、盗作疑惑の渦中に",
-      "category": "世界情勢",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 15 Aug 2026 02:25:11 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c5y4zzvnj10o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 17 Aug 2026 05:53:16 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cp3rr3v1y94o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 4・下落 1・横ばい 0",
-      "detail": "最大変動：日経平均 +4.74%"
+      "value": "上昇 3・下落 2・横ばい 0",
+      "detail": "最大変動：日経平均 +3.36%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -0.70%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Bitcoin +2.00%"
     },
     {
       "label": "市場心理",
-      "value": "34 / 100",
+      "value": "31 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.286 JPY",
-      "detail": "前日比 +0.88%"
+      "value": "159.372 JPY",
+      "detail": "前日比 +0.14%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "インドネシアでM7.7の地震、死傷者多数",
-      "meta": "災害・BBC News 日本語",
+      "detail": "10年行方不明の猫が帰還、飼い主の30歳の誕生日に　英ウェールズ",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+4.74%です。",
+      "detail": "日経平均が前日比+3.36%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは34（恐怖）です。",
+      "detail": "Fear & Greed Indexは31（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-16T21:51:07+00:00",
-    "market": "2026-08-16T21:51:18+00:00"
+    "news": "2026-08-17T21:58:09+00:00",
+    "market": "2026-08-17T21:58:20+00:00"
   }
 }

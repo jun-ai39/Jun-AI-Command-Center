@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-16T21:51:18+00:00",
+  "updated_at": "2026-08-17T21:58:20+00:00",
   "stocks": [
     {
       "symbol": "^N225",
       "name": "日経平均",
-      "price": 68713.8,
+      "price": 69220.25,
       "currency": "JPY",
-      "change_percent": 4.735933260485088,
+      "change_percent": 3.359747063694876,
       "decimals": 2
     },
     {
       "symbol": "1308",
       "name": "TOPIX連動ETF（参考値）",
-      "price": 4317.0,
+      "price": 4311.0,
       "currency": "JPY",
-      "change_percent": 3.0310262529832936,
+      "change_percent": 1.98722498225692,
       "decimals": 1,
       "instrument_type": "proxy_etf",
       "proxy_for": "TOPIX"
@@ -23,25 +23,25 @@
     {
       "symbol": "^DJI",
       "name": "NYダウ",
-      "price": 53732.41,
+      "price": 53459.78,
       "currency": "USD",
-      "change_percent": -0.5635405268211884,
+      "change_percent": -0.9563513251635345,
       "decimals": 2
     },
     {
       "symbol": "^IXIC",
       "name": "NASDAQ総合",
-      "price": 26729.164,
+      "price": 26644.91,
       "currency": "USD",
-      "change_percent": 0.1444102834628858,
+      "change_percent": 0.1486542561348513,
       "decimals": 2
     },
     {
       "symbol": "^GSPC",
       "name": "S&P 500",
-      "price": 7785.76,
+      "price": 7745.06,
       "currency": "USD",
-      "change_percent": 0.3624813732011268,
+      "change_percent": -0.103829302047814,
       "decimals": 2
     }
   ],
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 10019986.60355968,
+      "price": 10253055.181196798,
       "currency": "JPY",
-      "change_percent": -0.1,
+      "change_percent": 2.0,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 298484.29253976914,
+      "price": 303667.47121967,
       "currency": "JPY",
-      "change_percent": -0.1,
+      "change_percent": 1.1,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 158.54489907481374,
+      "price": 159.61575071183873,
       "currency": "JPY",
-      "change_percent": -0.4,
+      "change_percent": 0.2,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 11844.06036928681,
+      "price": 12096.480927012948,
       "currency": "JPY",
-      "change_percent": -0.7,
+      "change_percent": 1.0,
       "decimals": 0
     }
   ],
@@ -83,17 +83,17 @@
     {
       "symbol": "USD/JPY",
       "name": "ドル円",
-      "price": 159.286,
+      "price": 159.372,
       "currency": "JPY",
-      "change_percent": 0.8835209099948764,
+      "change_percent": 0.13571590137978348,
       "decimals": 3
     },
     {
       "symbol": "EUR/JPY",
       "name": "ユーロ円",
-      "price": 184.218,
+      "price": 184.498,
       "currency": "JPY",
-      "change_percent": 0.9585189813064112,
+      "change_percent": 0.4005180614055083,
       "decimals": 3
     }
   ],
@@ -101,17 +101,17 @@
     {
       "symbol": "GOLD",
       "name": "金先物",
-      "price": 4437.3,
+      "price": 4473.1,
       "currency": "USD",
-      "change_percent": 1.23887748117728,
+      "change_percent": 1.4561455238268215,
       "decimals": 2
     },
     {
       "symbol": "WTI",
       "name": "WTI原油先物",
-      "price": 82.4,
+      "price": 84.95,
       "currency": "USD",
-      "change_percent": -0.9615384615384581,
+      "change_percent": 2.017533325327257,
       "decimals": 2
     }
   ],
@@ -123,10 +123,10 @@
   "sentiment": {
     "name": "Crypto Fear & Greed Index",
     "scope": "Bitcoin market sentiment",
-    "value": 34,
+    "value": 31,
     "classification": "Fear",
     "classification_ja": "恐怖",
-    "observed_at": "2026-08-16T00:00:00+00:00",
+    "observed_at": "2026-08-17T00:00:00+00:00",
     "source": "Alternative.me"
   }
 }
