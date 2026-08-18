@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-18",
+  "verified_at": "2026-08-19",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,105 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-f0aa91974e0a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-19",
+      "category": "safety",
+      "title_ja": "Strengthening democratic oversight in national security",
+      "original_title": "Strengthening democratic oversight in national security",
+      "summary_ja": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+    },
+    {
+      "id": "google-1c13ad3f7b63",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-19",
+      "category": "model",
+      "title_ja": "Tap into the power of Gemini in Chrome on Android.",
+      "original_title": "Tap into the power of Gemini in Chrome on Android.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/"
+    },
+    {
+      "id": "google-b7f6163aebb9",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-19",
+      "category": "education",
+      "title_ja": "Keep your SAT prep on track with practice tests in Gemini.",
+      "original_title": "Keep your SAT prep on track with practice tests in Gemini.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/"
+    },
+    {
+      "id": "google-8d758d2d699a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-19",
+      "category": "product",
+      "title_ja": "Ask a Scientist: How can researchers use AI to predict a flood?",
+      "original_title": "Ask a Scientist: How can researchers use AI to predict a flood?",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/"
+    },
+    {
+      "id": "openai-6d4ec902c728",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-18",
+      "category": "education",
+      "title_ja": "Partnering with CodeAI to prepare the first AI generation",
+      "original_title": "Partnering with CodeAI to prepare the first AI generation",
+      "summary_ja": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+      "url": "https://openai.com/index/partnering-with-codeai"
+    },
+    {
+      "id": "openai-9c25f4ae7a18",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-18",
+      "category": "safety",
+      "title_ja": "Pacing model development in an era of cyber-critical capabilities",
+      "original_title": "Pacing model development in an era of cyber-critical capabilities",
+      "summary_ja": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+    },
+    {
+      "id": "openai-c3b0ed374d41",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-18",
+      "category": "education",
+      "title_ja": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "original_title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary_ja": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "url": "https://openai.com/index/chatgpt-for-teens"
+    },
+    {
+      "id": "openai-6023038a8912",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-18",
+      "category": "product",
+      "title_ja": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "original_title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary_ja": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "url": "https://openai.com/index/asana"
+    },
+    {
+      "id": "google-82cb4061484a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-18",
+      "category": "product",
+      "title_ja": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "original_title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/"
+    },
     {
       "id": "openai-1380f7766171",
       "source": "openai",
@@ -99,17 +198,6 @@
       "url": "https://openai.com/index/previewing-ultrafast"
     },
     {
-      "id": "openai-6eaab463a55d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-13",
-      "category": "business",
-      "title_ja": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "original_title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "summary_ja": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
-    },
-    {
       "id": "google-21c812e92ccb",
       "source": "google",
       "source_name": "Google",
@@ -121,28 +209,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/"
     },
     {
-      "id": "openai-e063daae6225",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-12",
-      "category": "business",
-      "title_ja": "From assistance to execution: How enterprises put AI to work",
-      "original_title": "From assistance to execution: How enterprises put AI to work",
-      "summary_ja": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
-    },
-    {
-      "id": "openai-9bafa93fe08b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-12",
-      "category": "model",
-      "title_ja": "How RingCentral builds AI-native work from engineering to ops",
-      "original_title": "How RingCentral builds AI-native work from engineering to ops",
-      "summary_ja": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "url": "https://openai.com/index/ringcentral"
-    },
-    {
       "id": "google-0f3aae81898f",
       "source": "google",
       "source_name": "Google",
@@ -152,28 +218,6 @@
       "original_title": "Now you can connect even more of your favorite apps and services to Gemini.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/"
-    },
-    {
-      "id": "openai-b19ec562c455",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-11",
-      "category": "business",
-      "title_ja": "Testing ads in ChatGPT",
-      "original_title": "Testing ads in ChatGPT",
-      "summary_ja": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt"
-    },
-    {
-      "id": "openai-5d3aff0aba5d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-11",
-      "category": "safety",
-      "title_ja": "Daybreak models are now available on AWS",
-      "original_title": "Daybreak models are now available on AWS",
-      "summary_ja": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -209,7 +253,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-17T21:58:10+00:00",
+  "updated_at": "2026-08-18T21:36:00+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

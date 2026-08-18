@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-17T21:58:09+00:00",
+  "updated_at": "2026-08-18T21:36:00+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "トランプ氏、米韓合同軍事演習の縮小を表明　対イラン戦争に韓国が不関与で",
+      "title": "トランプ氏、オマーンに脅し　イランとの協議を「邪魔するなら爆撃」",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyrrv9v0j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Mon, 17 Aug 2026 02:29:54 GMT"
-    },
-    {
-      "title": "韓国、北朝鮮との戦争を正式に終結させるための協議を提案",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c78gg28jrj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "asia",
-      "published_at": "Mon, 17 Aug 2026 03:16:42 GMT"
-    },
-    {
-      "title": "ウクライナ、イギリス製ドローンをロシア領内への攻撃に使用",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c86nn6xx4pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Mon, 17 Aug 2026 05:15:06 GMT"
-    },
-    {
-      "title": "韓国南東部で記録的豪雨、土砂崩れで1人死亡",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c74gkj7zn18o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "asia",
-      "published_at": "Mon, 17 Aug 2026 06:13:48 GMT"
-    },
-    {
-      "title": "10年行方不明の猫が帰還、飼い主の30歳の誕生日に　英ウェールズ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9d8wyyyq39o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 17 Aug 2026 07:44:41 GMT"
-    },
-    {
-      "title": "米軍の中東トップ、空母リンカーン乗組員のメンタルヘルスは「最優先事項」",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp3rr3v1y94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Mon, 17 Aug 2026 05:53:16 GMT"
-    },
-    {
-      "title": "クシュナー氏がハマス指導者と会談、トランプ米大統領のガザ和平案を推進と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy5ddxn4lp1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cn0njgdlnk9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "外交",
       "region": "middle-east",
-      "published_at": "Mon, 17 Aug 2026 03:29:11 GMT"
+      "published_at": "Tue, 18 Aug 2026 02:35:15 GMT"
     },
     {
-      "title": "インドネシア地震、救助活動続く　5000人以上が避難",
+      "title": "ロシア、イギリスに警告　ウクライナへのドローン供給で「テロ攻撃の共犯」",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cly55yql0ljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "asia",
-      "published_at": "Mon, 17 Aug 2026 04:53:06 GMT"
-    },
-    {
-      "title": "﻿ウクライナとロシアが大規模攻撃、互いに少なくとも7人殺害",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8rnnz7rn6zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm2g7x98v2ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Mon, 17 Aug 2026 03:48:02 GMT"
+      "published_at": "Tue, 18 Aug 2026 07:04:28 GMT"
+    },
+    {
+      "title": "ロシアとウクライナ、連夜の激しい攻撃　双方に多数の死傷者",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c204938z807o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Tue, 18 Aug 2026 01:24:29 GMT"
+    },
+    {
+      "title": "ロシアの著名な反戦政治家に拘禁11年1カ月、所属政党は選挙参加禁止に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cewr941gv1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 18 Aug 2026 01:54:08 GMT"
+    },
+    {
+      "title": "フィリピンのカトリック校で生徒が銃乱射　生徒1人が撃たれ死亡、容疑者も自殺",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjej8420zdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Tue, 18 Aug 2026 07:51:17 GMT"
+    },
+    {
+      "title": "フェラーリ初の電気自動車、約64億円で落札　新車オークションの最高額",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjrvxq8w20zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 18 Aug 2026 08:00:27 GMT"
+    },
+    {
+      "title": "ロシア唯一の反戦政党、来月の議会選挙から除外　最高裁前で支持者ら数十人拘束",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj0361m4el5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 18 Aug 2026 03:22:16 GMT"
+    },
+    {
+      "title": "スリランカで男性の膀胱から重さ3.1キロの結石摘出　記録的大きさの可能性",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cgk450rjymyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 18 Aug 2026 08:49:21 GMT"
+    },
+    {
+      "title": "米移民当局が電気ショック手袋を導入へ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm2gm44pdk6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 18 Aug 2026 07:15:44 GMT"
     }
   ]
 }
