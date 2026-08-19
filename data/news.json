@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-18T21:36:00+00:00",
+  "updated_at": "2026-08-19T21:38:02+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "トランプ氏、オマーンに脅し　イランとの協議を「邪魔するなら爆撃」",
+      "title": "トランプ米政権、国際刑事裁判所の幹部を制裁対象に　赤根所長も",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn0njgdlnk9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cn9nrlwv4yno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "middle-east",
-      "published_at": "Tue, 18 Aug 2026 02:35:15 GMT"
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 19 Aug 2026 00:21:26 GMT"
     },
     {
-      "title": "ロシア、イギリスに警告　ウクライナへのドローン供給で「テロ攻撃の共犯」",
+      "title": "韓国、米国との合同軍事演習を短縮　米政府の要請で",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm2g7x98v2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 18 Aug 2026 07:04:28 GMT"
-    },
-    {
-      "title": "ロシアとウクライナ、連夜の激しい攻撃　双方に多数の死傷者",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c204938z807o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crk5y0180e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 18 Aug 2026 01:24:29 GMT"
+      "region": "north-america",
+      "published_at": "Wed, 19 Aug 2026 05:39:51 GMT"
     },
     {
-      "title": "ロシアの著名な反戦政治家に拘禁11年1カ月、所属政党は選挙参加禁止に",
+      "title": "解任されたウクライナ前国防相、大統領選挙の実施を要求",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cewr941gv1do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cy07e5rxvejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Tue, 18 Aug 2026 01:54:08 GMT"
+      "published_at": "Wed, 19 Aug 2026 07:53:52 GMT"
     },
     {
-      "title": "フィリピンのカトリック校で生徒が銃乱射　生徒1人が撃たれ死亡、容疑者も自殺",
+      "title": "トランプ氏の韓国・北朝鮮政策、現在の方針は",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjej8420zdwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c20e73957wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 19 Aug 2026 15:33:30 GMT"
+    },
+    {
+      "title": "【解説】 中国で朱鎔基元首相の告別式、国民の追悼を検閲　政府の思惑は",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c36d9pl04g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "asia",
-      "published_at": "Tue, 18 Aug 2026 07:51:17 GMT"
+      "published_at": "Wed, 19 Aug 2026 06:22:01 GMT"
     },
     {
-      "title": "フェラーリ初の電気自動車、約64億円で落札　新車オークションの最高額",
+      "title": "米ディズニーとABC、放送規制当局を提訴　トランプ政権の意向で不当に標的にされたと",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjrvxq8w20zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c4g31424rqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 19 Aug 2026 01:39:47 GMT"
+    },
+    {
+      "title": "米メタに対する最大規模の訴訟、審理開始　子どもを依存させたと州側が主張",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj4k7dq1evgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 18 Aug 2026 08:00:27 GMT"
+      "published_at": "Wed, 19 Aug 2026 03:38:46 GMT"
     },
     {
-      "title": "ロシア唯一の反戦政党、来月の議会選挙から除外　最高裁前で支持者ら数十人拘束",
+      "title": "チャットGPTに子ども向け安全策、より「人間らしくない」仕様に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj0361m4el5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 18 Aug 2026 03:22:16 GMT"
-    },
-    {
-      "title": "スリランカで男性の膀胱から重さ3.1キロの結石摘出　記録的大きさの可能性",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cgk450rjymyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ce8klv56nkxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 18 Aug 2026 08:49:21 GMT"
+      "published_at": "Wed, 19 Aug 2026 04:07:51 GMT"
     },
     {
-      "title": "米移民当局が電気ショック手袋を導入へ",
+      "title": "バーナム氏、米補佐官のふりをした人物とのやり取りを恥じてはいないと",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm2gm44pdk6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cd0x9j195vxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 18 Aug 2026 07:15:44 GMT"
+      "published_at": "Wed, 19 Aug 2026 08:34:47 GMT"
     }
   ]
 }

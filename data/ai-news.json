@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-19",
+  "verified_at": "2026-08-20",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,61 @@
   ],
   "items": [
     {
+      "id": "openai-df8f12302a5b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-20",
+      "category": "safety",
+      "title_ja": "Offering Zero Data Retention for frontier models",
+      "original_title": "Offering Zero Data Retention for frontier models",
+      "summary_ja": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+    },
+    {
+      "id": "google-0c146b69c0dd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-20",
+      "category": "education",
+      "title_ja": "Start the semester with one year of Gemini, on us",
+      "original_title": "Start the semester with one year of Gemini, on us",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/"
+    },
+    {
+      "id": "google-a7f60de41ca8",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-20",
+      "category": "model",
+      "title_ja": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+      "original_title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/"
+    },
+    {
+      "id": "openai-2f00013902a2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-19",
+      "category": "model",
+      "title_ja": "Replit expands access to software creation with GPT-5.6 Luna",
+      "original_title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary_ja": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "url": "https://openai.com/index/replit"
+    },
+    {
+      "id": "openai-8393c843a171",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-19",
+      "category": "education",
+      "title_ja": "ChatGPT Ads expands across Europe",
+      "original_title": "ChatGPT Ads expands across Europe",
+      "summary_ja": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+    },
+    {
       "id": "openai-f0aa91974e0a",
       "source": "openai",
       "source_name": "OpenAI",
@@ -42,6 +97,17 @@
       "original_title": "Tap into the power of Gemini in Chrome on Android.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/"
+    },
+    {
+      "id": "google-8a27388b3fc5",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-19",
+      "category": "model",
+      "title_ja": "Try 4 new interactive BTS experiences inside the Gemini app",
+      "original_title": "Try 4 new interactive BTS experiences inside the Gemini app",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/"
     },
     {
       "id": "google-b7f6163aebb9",
@@ -99,6 +165,17 @@
       "url": "https://openai.com/index/chatgpt-for-teens"
     },
     {
+      "id": "openai-baf07daff59f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-18",
+      "category": "model",
+      "title_ja": "How NVIDIA scales expertise with ChatGPT Work",
+      "original_title": "How NVIDIA scales expertise with ChatGPT Work",
+      "summary_ja": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "url": "https://openai.com/index/nvidia/chatgpt-work"
+    },
+    {
       "id": "openai-6023038a8912",
       "source": "openai",
       "source_name": "OpenAI",
@@ -132,28 +209,6 @@
       "url": "https://openai.com/index/the-defenders-window"
     },
     {
-      "id": "openai-22405ea1e27b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-17",
-      "category": "business",
-      "title_ja": "OpenAI joins PORTS-Pike project",
-      "original_title": "OpenAI joins PORTS-Pike project",
-      "summary_ja": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project"
-    },
-    {
-      "id": "openai-3ff02964da6b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-17",
-      "category": "business",
-      "title_ja": "New policy ideas for the Intelligence Age",
-      "original_title": "New policy ideas for the Intelligence Age",
-      "summary_ja": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
-    },
-    {
       "id": "google-4001c007c7b5",
       "source": "google",
       "source_name": "Google",
@@ -176,28 +231,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
     },
     {
-      "id": "openai-6f8368ac763b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-13",
-      "category": "education",
-      "title_ja": "The builder’s guide to GPT‑5.6",
-      "original_title": "The builder’s guide to GPT‑5.6",
-      "summary_ja": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
-    },
-    {
-      "id": "openai-c0986f6628d1",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-13",
-      "category": "model",
-      "title_ja": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "original_title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "summary_ja": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "url": "https://openai.com/index/previewing-ultrafast"
-    },
-    {
       "id": "google-21c812e92ccb",
       "source": "google",
       "source_name": "Google",
@@ -207,17 +240,6 @@
       "original_title": "Omni experts share what excites them most about the model.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/"
-    },
-    {
-      "id": "google-0f3aae81898f",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-12",
-      "category": "model",
-      "title_ja": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "original_title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -253,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-18T21:36:00+00:00",
+  "updated_at": "2026-08-19T21:38:03+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
