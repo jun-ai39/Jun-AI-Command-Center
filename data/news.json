@@ -1,8 +1,80 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-19T21:38:02+00:00",
+  "updated_at": "2026-08-20T21:41:38+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "イスラエル軍、ガザ市の5歳少女殺害で乗っていた車への発砲認める　刑事捜査を開始",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ce85rlmd158o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 20 Aug 2026 04:29:31 GMT"
+    },
+    {
+      "title": "ロシアがキーウ空爆、少なくとも13人死亡　ウクライナは防空ミサイル不足で苦慮",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c78gpgpdnwno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Thu, 20 Aug 2026 08:21:20 GMT"
+    },
+    {
+      "title": "イスラエル、ガザ支援職員の殺害めぐり軍関係者を訴追せず　豪政府は「憤慨」",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cnvn0pmq5qzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 20 Aug 2026 07:28:00 GMT"
+    },
+    {
+      "title": "ハリー英王子とメガン妃、イギリスに帰国へ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cg4d7pp2qnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 20 Aug 2026 06:33:40 GMT"
+    },
+    {
+      "title": "破綻した中国恒大の創業者に無期懲役、　不動産市場を「深刻な混乱」に陥れたと",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgvrvk6xgko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "asia",
+      "published_at": "Thu, 20 Aug 2026 08:58:06 GMT"
+    },
+    {
+      "title": "皮膚がんの一種「メラノーマ」再発を抑制、アメリカで開発のワクチン　臨床試験で画期的効果",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c4g313pp03go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Thu, 20 Aug 2026 06:52:21 GMT"
+    },
+    {
+      "title": "【解説】 ロシアはなぜイギリスを脅すのか、今後どうなるのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjwxexd1xw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 20 Aug 2026 07:45:40 GMT"
+    },
+    {
+      "title": "ノルド・ストリーム爆破、ウクライナ人容疑者をクロアチアで逮捕",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c629ygk0k25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 20 Aug 2026 03:31:07 GMT"
+    },
     {
       "title": "トランプ米政権、国際刑事裁判所の幹部を制裁対象に　赤根所長も",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,78 +83,6 @@
       "category": "世界情勢",
       "region": "north-america",
       "published_at": "Wed, 19 Aug 2026 00:21:26 GMT"
-    },
-    {
-      "title": "韓国、米国との合同軍事演習を短縮　米政府の要請で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crk5y0180e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Wed, 19 Aug 2026 05:39:51 GMT"
-    },
-    {
-      "title": "解任されたウクライナ前国防相、大統領選挙の実施を要求",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy07e5rxvejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 19 Aug 2026 07:53:52 GMT"
-    },
-    {
-      "title": "トランプ氏の韓国・北朝鮮政策、現在の方針は",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c20e73957wvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 19 Aug 2026 15:33:30 GMT"
-    },
-    {
-      "title": "【解説】 中国で朱鎔基元首相の告別式、国民の追悼を検閲　政府の思惑は",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c36d9pl04g2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Wed, 19 Aug 2026 06:22:01 GMT"
-    },
-    {
-      "title": "米ディズニーとABC、放送規制当局を提訴　トランプ政権の意向で不当に標的にされたと",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c4g31424rqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 19 Aug 2026 01:39:47 GMT"
-    },
-    {
-      "title": "米メタに対する最大規模の訴訟、審理開始　子どもを依存させたと州側が主張",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj4k7dq1evgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 19 Aug 2026 03:38:46 GMT"
-    },
-    {
-      "title": "チャットGPTに子ども向け安全策、より「人間らしくない」仕様に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce8klv56nkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 19 Aug 2026 04:07:51 GMT"
-    },
-    {
-      "title": "バーナム氏、米補佐官のふりをした人物とのやり取りを恥じてはいないと",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cd0x9j195vxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 19 Aug 2026 08:34:47 GMT"
     }
   ]
 }

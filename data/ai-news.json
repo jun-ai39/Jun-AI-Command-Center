@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-20",
+  "verified_at": "2026-08-21",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,39 @@
   ],
   "items": [
     {
+      "id": "google-d05a2bc7d8f3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-21",
+      "category": "model",
+      "title_ja": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
+      "original_title": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/"
+    },
+    {
+      "id": "openai-fc1a9abd82b3",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-20",
+      "category": "product",
+      "title_ja": "Introducing AI Futures",
+      "original_title": "Introducing AI Futures",
+      "summary_ja": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "url": "https://openai.com/index/introducing-ai-futures"
+    },
+    {
+      "id": "openai-ad89fb510e3c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-20",
+      "category": "model",
+      "title_ja": "How ChatGPT Work helps Stampli move ideas to market",
+      "original_title": "How ChatGPT Work helps Stampli move ideas to market",
+      "summary_ja": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "url": "https://openai.com/index/stampli"
+    },
+    {
       "id": "openai-df8f12302a5b",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +64,17 @@
       "original_title": "Offering Zero Data Retention for frontier models",
       "summary_ja": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+    },
+    {
+      "id": "google-074ff483b482",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-20",
+      "category": "business",
+      "title_ja": "Make AI Max work for your business with new testing and planning tools.",
+      "original_title": "Make AI Max work for your business with new testing and planning tools.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/"
     },
     {
       "id": "google-0c146b69c0dd",
@@ -176,17 +220,6 @@
       "url": "https://openai.com/index/nvidia/chatgpt-work"
     },
     {
-      "id": "openai-6023038a8912",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-18",
-      "category": "product",
-      "title_ja": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "original_title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "summary_ja": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-      "url": "https://openai.com/index/asana"
-    },
-    {
       "id": "google-82cb4061484a",
       "source": "google",
       "source_name": "Google",
@@ -198,17 +231,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/"
     },
     {
-      "id": "openai-1380f7766171",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-17",
-      "category": "safety",
-      "title_ja": "The Defender’s Window",
-      "original_title": "The Defender’s Window",
-      "summary_ja": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "url": "https://openai.com/index/the-defenders-window"
-    },
-    {
       "id": "google-4001c007c7b5",
       "source": "google",
       "source_name": "Google",
@@ -218,28 +240,6 @@
       "original_title": "Get closer to the game with Gemini and Pixel",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
-    },
-    {
-      "id": "google-69cbe3169a5b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-14",
-      "category": "model",
-      "title_ja": "Introducing Gemini 3.7 Flash",
-      "original_title": "Introducing Gemini 3.7 Flash",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
-    },
-    {
-      "id": "google-21c812e92ccb",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-13",
-      "category": "model",
-      "title_ja": "Omni experts share what excites them most about the model.",
-      "original_title": "Omni experts share what excites them most about the model.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-19T21:38:03+00:00",
+  "updated_at": "2026-08-20T21:41:38+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
