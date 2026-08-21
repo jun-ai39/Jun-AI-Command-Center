@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-21",
+  "verified_at": "2026-08-22",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,17 @@
     }
   ],
   "items": [
+    {
+      "id": "google-fe45f51de9f6",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-22",
+      "category": "model",
+      "title_ja": "What does “full-stack” AI actually mean?",
+      "original_title": "What does “full-stack” AI actually mean?",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/"
+    },
     {
       "id": "google-d05a2bc7d8f3",
       "source": "google",
@@ -50,7 +61,7 @@
       "published_at": "2026-08-20",
       "category": "model",
       "title_ja": "How ChatGPT Work helps Stampli move ideas to market",
-      "original_title": "How ChatGPT Work helps Stampli move ideas to market",
+      "original_title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "summary_ja": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "url": "https://openai.com/index/stampli"
     },
@@ -154,17 +165,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/"
     },
     {
-      "id": "google-b7f6163aebb9",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-19",
-      "category": "education",
-      "title_ja": "Keep your SAT prep on track with practice tests in Gemini.",
-      "original_title": "Keep your SAT prep on track with practice tests in Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/"
-    },
-    {
       "id": "google-8d758d2d699a",
       "source": "google",
       "source_name": "Google",
@@ -174,6 +174,17 @@
       "original_title": "Ask a Scientist: How can researchers use AI to predict a flood?",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/"
+    },
+    {
+      "id": "google-b7f6163aebb9",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-19",
+      "category": "education",
+      "title_ja": "Keep your SAT prep on track with practice tests in Gemini.",
+      "original_title": "Keep your SAT prep on track with practice tests in Gemini.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/"
     },
     {
       "id": "openai-6d4ec902c728",
@@ -231,17 +242,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/"
     },
     {
-      "id": "google-4001c007c7b5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-17",
-      "category": "model",
-      "title_ja": "Get closer to the game with Gemini and Pixel",
-      "original_title": "Get closer to the game with Gemini and Pixel",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-20T21:41:38+00:00",
+  "updated_at": "2026-08-21T21:36:23+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

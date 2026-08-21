@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T21:41:48+00:00",
+  "generated_at": "2026-08-21T21:36:35+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "破綻した中国恒大の創業者に無期懲役、　不動産市場を「深刻な混乱」に陥れたと",
-      "category": "経済",
-      "source": "BBC News 日本語",
-      "published_at": "Thu, 20 Aug 2026 08:58:06 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cvgvrvk6xgko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "ロシアがキーウ空爆、少なくとも13人死亡　ウクライナは防空ミサイル不足で苦慮",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Thu, 20 Aug 2026 08:21:20 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c78gpgpdnwno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【解説】 ロシアはなぜイギリスを脅すのか、今後どうなるのか",
+      "title": "香港の裁判所、天安門事件追悼団体の元幹部らに有罪判決　国安法違反で",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 20 Aug 2026 07:45:40 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cjwxexd1xw6o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 21 Aug 2026 08:47:14 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c70g2x1nnk9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "ハリー英王子とメガン妃の帰国、ロンドン市民の反応は",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 21 Aug 2026 08:13:39 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwyj857v8nvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "大阪市のパチンコ店放火で5人殺害、死刑囚の刑を執行",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 21 Aug 2026 07:47:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/clyelr192p7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -3.63%"
+      "detail": "最大変動：日経平均 -4.63%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +16.20%"
+      "detail": "最大変動：XRP +11.40%"
     },
     {
       "label": "市場心理",
-      "value": "62 / 100",
+      "value": "72 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "159.018 JPY",
-      "detail": "前日比 -0.26%"
+      "value": "158.862 JPY",
+      "detail": "前日比 -0.23%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "破綻した中国恒大の創業者に無期懲役、　不動産市場を「深刻な混乱」に陥れたと",
-      "meta": "経済・BBC News 日本語",
+      "detail": "香港の裁判所、天安門事件追悼団体の元幹部らに有罪判決　国安法違反で",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.63%です。",
+      "detail": "日経平均が前日比-4.63%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは62（強欲）です。",
+      "detail": "Fear & Greed Indexは72（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-20T21:41:38+00:00",
-    "market": "2026-08-20T21:41:48+00:00"
+    "news": "2026-08-21T21:36:23+00:00",
+    "market": "2026-08-21T21:36:35+00:00"
   }
 }

@@ -1,8 +1,80 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-20T21:41:38+00:00",
+  "updated_at": "2026-08-21T21:36:23+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "香港の裁判所、天安門事件追悼団体の元幹部らに有罪判決　国安法違反で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c70g2x1nnk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 21 Aug 2026 08:47:14 GMT"
+    },
+    {
+      "title": "イスラエル、ヨルダン川西岸で入植地建設を推進　英仏独伊とカナダが非難",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crk5gne0lg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Fri, 21 Aug 2026 02:21:24 GMT"
+    },
+    {
+      "title": "ロシアのキーウ空爆、重要インフラが「意図的に」攻撃されたとクリチコ市長",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c629pjp5g54o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Fri, 21 Aug 2026 04:05:04 GMT"
+    },
+    {
+      "title": "英ケンブリッジ大教授の盗用疑惑を告発した学者、ベルギーの大学で停職に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c1k1948nkrko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 21 Aug 2026 04:20:15 GMT"
+    },
+    {
+      "title": "大阪市のパチンコ店放火で5人殺害、死刑囚の刑を執行",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/clyelr192p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 21 Aug 2026 07:47:33 GMT"
+    },
+    {
+      "title": "ハリー英王子とメガン妃、なぜイギリスに戻るのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c62xpd40e3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 21 Aug 2026 07:00:38 GMT"
+    },
+    {
+      "title": "ハリー英王子とメガン妃の帰国、ロンドン市民の反応は",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyj857v8nvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 21 Aug 2026 08:13:39 GMT"
+    },
+    {
+      "title": "クーラーボックスで5日間漂流　漁師2人をメキシコ沖で救助",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c151eqd9jgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Fri, 21 Aug 2026 02:49:22 GMT"
+    },
     {
       "title": "イスラエル軍、ガザ市の5歳少女殺害で乗っていた車への発砲認める　刑事捜査を開始",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,78 +83,6 @@
       "category": "世界情勢",
       "region": "middle-east",
       "published_at": "Thu, 20 Aug 2026 04:29:31 GMT"
-    },
-    {
-      "title": "ロシアがキーウ空爆、少なくとも13人死亡　ウクライナは防空ミサイル不足で苦慮",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c78gpgpdnwno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Thu, 20 Aug 2026 08:21:20 GMT"
-    },
-    {
-      "title": "イスラエル、ガザ支援職員の殺害めぐり軍関係者を訴追せず　豪政府は「憤慨」",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cnvn0pmq5qzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 20 Aug 2026 07:28:00 GMT"
-    },
-    {
-      "title": "ハリー英王子とメガン妃、イギリスに帰国へ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cg4d7pp2qnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 20 Aug 2026 06:33:40 GMT"
-    },
-    {
-      "title": "破綻した中国恒大の創業者に無期懲役、　不動産市場を「深刻な混乱」に陥れたと",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgvrvk6xgko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "asia",
-      "published_at": "Thu, 20 Aug 2026 08:58:06 GMT"
-    },
-    {
-      "title": "皮膚がんの一種「メラノーマ」再発を抑制、アメリカで開発のワクチン　臨床試験で画期的効果",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c4g313pp03go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 20 Aug 2026 06:52:21 GMT"
-    },
-    {
-      "title": "【解説】 ロシアはなぜイギリスを脅すのか、今後どうなるのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjwxexd1xw6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 20 Aug 2026 07:45:40 GMT"
-    },
-    {
-      "title": "ノルド・ストリーム爆破、ウクライナ人容疑者をクロアチアで逮捕",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c629ygk0k25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 20 Aug 2026 03:31:07 GMT"
-    },
-    {
-      "title": "トランプ米政権、国際刑事裁判所の幹部を制裁対象に　赤根所長も",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn9nrlwv4yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 19 Aug 2026 00:21:26 GMT"
     }
   ]
 }
