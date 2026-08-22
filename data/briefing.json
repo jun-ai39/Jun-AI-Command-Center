@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-21T21:36:35+00:00",
+  "generated_at": "2026-08-22T21:34:16+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "香港の裁判所、天安門事件追悼団体の元幹部らに有罪判決　国安法違反で",
-      "category": "世界情勢",
+      "title": "カナダは米関税に「同額」で対抗とカーニー首相　貿易交渉が決裂",
+      "category": "経済",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 21 Aug 2026 08:47:14 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c70g2x1nnk9o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 22 Aug 2026 06:07:45 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c2el88gxkxxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ハリー英王子とメガン妃の帰国、ロンドン市民の反応は",
+      "title": "ロンドンの大気汚染対策で子どもの肺機能が回復、研究チームも驚く",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 21 Aug 2026 08:13:39 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwyj857v8nvo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 22 Aug 2026 04:50:05 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c75g2p7715ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "大阪市のパチンコ店放火で5人殺害、死刑囚の刑を執行",
+      "title": "ガザでの援助活動家ら殺害をイスラエルは刑事捜査せず　英豪カナダが非難",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 21 Aug 2026 07:47:33 GMT",
-      "url": "https://www.bbc.com/japanese/articles/clyelr192p7o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 22 Aug 2026 04:33:15 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwyr0zvelqro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -36,24 +36,24 @@
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +11.40%"
+      "detail": "最大変動：XRP +9.40%"
     },
     {
       "label": "市場心理",
-      "value": "72 / 100",
+      "value": "71 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "158.862 JPY",
-      "detail": "前日比 -0.23%"
+      "value": "158.940 JPY",
+      "detail": "前日比 -0.18%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "香港の裁判所、天安門事件追悼団体の元幹部らに有罪判決　国安法違反で",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "カナダは米関税に「同額」で対抗とカーニー首相　貿易交渉が決裂",
+      "meta": "経済・BBC News 日本語",
       "level": "normal"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは72（強欲）です。",
+      "detail": "Fear & Greed Indexは71（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-21T21:36:23+00:00",
-    "market": "2026-08-21T21:36:35+00:00"
+    "news": "2026-08-22T21:34:05+00:00",
+    "market": "2026-08-22T21:34:16+00:00"
   }
 }
