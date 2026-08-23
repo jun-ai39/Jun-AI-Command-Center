@@ -1,8 +1,17 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-22T21:34:05+00:00",
+  "updated_at": "2026-08-23T21:33:48+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ロンドンの大気汚染対策で子どもの肺機能が回復、研究チームも驚く",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c75g2p7715ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 22 Aug 2026 04:50:05 GMT"
+    },
     {
       "title": "カナダは米関税に「同額」で対抗とカーニー首相　貿易交渉が決裂",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,15 +20,6 @@
       "category": "経済",
       "region": "north-america",
       "published_at": "Sat, 22 Aug 2026 06:07:45 GMT"
-    },
-    {
-      "title": "ロシアがショッピングセンターに「ダブルタップ攻撃」　16人殺害とウクライナ当局",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c2lq58knejjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 22 Aug 2026 02:51:40 GMT"
     },
     {
       "title": "ガザでの援助活動家ら殺害をイスラエルは刑事捜査せず　英豪カナダが非難",
@@ -31,6 +31,15 @@
       "published_at": "Sat, 22 Aug 2026 04:33:15 GMT"
     },
     {
+      "title": "ロシアがショッピングセンターに「ダブルタップ攻撃」　16人殺害とウクライナ当局",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c2lq58knejjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Sat, 22 Aug 2026 02:51:40 GMT"
+    },
+    {
       "title": "プライバシー侵害訴訟で敗訴のハリー英王子やエルトン・ジョンさんら7人、最大75億円の費用負担の可能性",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/c62qpe3g9lpo?at_medium=RSS&at_campaign=rss",
@@ -38,15 +47,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Sat, 22 Aug 2026 02:56:23 GMT"
-    },
-    {
-      "title": "ロンドンの大気汚染対策で子どもの肺機能が回復、研究チームも驚く",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c75g2p7715ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 22 Aug 2026 04:50:05 GMT"
     },
     {
       "title": "香港の裁判所、天安門事件追悼団体の元幹部らに有罪判決　国安法違反で",
