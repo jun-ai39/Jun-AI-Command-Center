@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-24",
+  "verified_at": "2026-08-25",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,39 @@
     }
   ],
   "items": [
+    {
+      "id": "google-a541634a268d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-25",
+      "category": "model",
+      "title_ja": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
+      "original_title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/"
+    },
+    {
+      "id": "google-0ff3b4d9d82a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-25",
+      "category": "model",
+      "title_ja": "How developers build AI for good with Gemma 4",
+      "original_title": "How developers build AI for good with Gemma 4",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/"
+    },
+    {
+      "id": "openai-abd52c9f1dde",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-24",
+      "category": "model",
+      "title_ja": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "original_title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary_ja": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro"
+    },
     {
       "id": "google-fe45f51de9f6",
       "source": "google",
@@ -165,17 +198,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/"
     },
     {
-      "id": "google-8d758d2d699a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-19",
-      "category": "product",
-      "title_ja": "Ask a Scientist: How can researchers use AI to predict a flood?",
-      "original_title": "Ask a Scientist: How can researchers use AI to predict a flood?",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/"
-    },
-    {
       "id": "google-b7f6163aebb9",
       "source": "google",
       "source_name": "Google",
@@ -220,28 +242,6 @@
       "url": "https://openai.com/index/chatgpt-for-teens"
     },
     {
-      "id": "openai-baf07daff59f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-18",
-      "category": "model",
-      "title_ja": "How NVIDIA scales expertise with ChatGPT Work",
-      "original_title": "How NVIDIA scales expertise with ChatGPT Work",
-      "summary_ja": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-      "url": "https://openai.com/index/nvidia/chatgpt-work"
-    },
-    {
-      "id": "google-82cb4061484a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-18",
-      "category": "product",
-      "title_ja": "Operation Blue Skies: Reducing aviation climate impact with AI",
-      "original_title": "Operation Blue Skies: Reducing aviation climate impact with AI",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-23T21:33:49+00:00",
+  "updated_at": "2026-08-24T21:42:08+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-23T21:33:48+00:00",
+  "updated_at": "2026-08-24T21:42:08+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ロンドンの大気汚染対策で子どもの肺機能が回復、研究チームも驚く",
+      "title": "バーナム英首相が初外訪でキーウ到着、ウクライナ支持を再確認へ　欧州委は追加支援を発表",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c75g2p7715ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/czrjrrzk7x3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 22 Aug 2026 04:50:05 GMT"
+      "region": "europe",
+      "published_at": "Mon, 24 Aug 2026 09:18:07 GMT"
     },
     {
-      "title": "カナダは米関税に「同額」で対抗とカーニー首相　貿易交渉が決裂",
+      "title": "イスラエル、シリア首都近郊の村を攻撃　国際法違反だとシリアは非難",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c2el88gxkxxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crr4lld158wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Mon, 24 Aug 2026 02:55:04 GMT"
+    },
+    {
+      "title": "トランプ氏、カナダはアメリカの州となる「恩恵」だけ求めていると批判　貿易交渉決裂で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn0n00xkveeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "経済",
       "region": "north-america",
-      "published_at": "Sat, 22 Aug 2026 06:07:45 GMT"
+      "published_at": "Mon, 24 Aug 2026 03:19:42 GMT"
     },
     {
-      "title": "ガザでの援助活動家ら殺害をイスラエルは刑事捜査せず　英豪カナダが非難",
+      "title": "タイ南部、組織的な放火や爆発が50件以上相次ぐ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyr0zvelqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Sat, 22 Aug 2026 04:33:15 GMT"
-    },
-    {
-      "title": "ロシアがショッピングセンターに「ダブルタップ攻撃」　16人殺害とウクライナ当局",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c2lq58knejjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 22 Aug 2026 02:51:40 GMT"
-    },
-    {
-      "title": "プライバシー侵害訴訟で敗訴のハリー英王子やエルトン・ジョンさんら7人、最大75億円の費用負担の可能性",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c62qpe3g9lpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 22 Aug 2026 02:56:23 GMT"
-    },
-    {
-      "title": "香港の裁判所、天安門事件追悼団体の元幹部らに有罪判決　国安法違反で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c70g2x1nnk9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c783l1gyj50o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "asia",
-      "published_at": "Fri, 21 Aug 2026 08:47:14 GMT"
+      "published_at": "Mon, 24 Aug 2026 06:04:35 GMT"
     },
     {
-      "title": "イスラエル、ヨルダン川西岸で入植地建設を推進　英仏独伊とカナダが非難",
+      "title": "「新シーズン、新しい髪型」　サッカーのノルウェー代表ハーランド選手、長髪をばっさり",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crk5gne0lg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Fri, 21 Aug 2026 02:21:24 GMT"
-    },
-    {
-      "title": "ロシアのキーウ空爆、重要インフラが「意図的に」攻撃されたとクリチコ市長",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c629pjp5g54o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Fri, 21 Aug 2026 04:05:04 GMT"
-    },
-    {
-      "title": "英ケンブリッジ大教授の盗用疑惑を告発した学者、ベルギーの大学で停職に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c1k1948nkrko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c2kwjj7lvqpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 21 Aug 2026 04:20:15 GMT"
+      "published_at": "Mon, 24 Aug 2026 04:10:22 GMT"
+    },
+    {
+      "title": "ゼレンスキー氏は汚職について何を知っていたのか問われるべき……解任された前国防相がBBCに語る",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn072ewxj82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 24 Aug 2026 06:44:48 GMT"
+    },
+    {
+      "title": "中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgyerv55j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Mon, 24 Aug 2026 08:38:54 GMT"
+    },
+    {
+      "title": "マラドーナ選手「神の手」ゴールのボール、5億円超で落札",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ce8e0xzjn2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 24 Aug 2026 08:06:43 GMT"
+    },
+    {
+      "title": "「静かに、静かに！」　トランプ氏が記者の質問を遮るのはどんな時か",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/clyell2xpd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Mon, 24 Aug 2026 03:57:42 GMT"
     }
   ]
 }

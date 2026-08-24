@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T21:34:00+00:00",
+  "generated_at": "2026-08-24T21:42:19+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "カナダは米関税に「同額」で対抗とカーニー首相　貿易交渉が決裂",
-      "category": "経済",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 22 Aug 2026 06:07:45 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c2el88gxkxxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "ロンドンの大気汚染対策で子どもの肺機能が回復、研究チームも驚く",
+      "title": "バーナム英首相が初外訪でキーウ到着、ウクライナ支持を再確認へ　欧州委は追加支援を発表",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 22 Aug 2026 04:50:05 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c75g2p7715ro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 24 Aug 2026 09:18:07 GMT",
+      "url": "https://www.bbc.com/japanese/articles/czrjrrzk7x3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ガザでの援助活動家ら殺害をイスラエルは刑事捜査せず　英豪カナダが非難",
+      "title": "中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 22 Aug 2026 04:33:15 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwyr0zvelqro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 24 Aug 2026 08:38:54 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cvgyerv55j2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "マラドーナ選手「神の手」ゴールのボール、5億円超で落札",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Mon, 24 Aug 2026 08:06:43 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ce8e0xzjn2go?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -4.63%"
+      "detail": "最大変動：日経平均 -2.86%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 0・横ばい 2",
-      "detail": "最大変動：Solana +0.70%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：XRP -2.77%"
     },
     {
       "label": "市場心理",
-      "value": "66 / 100",
+      "value": "73 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "158.700 JPY",
-      "detail": "前日比 -0.33%"
+      "value": "159.054 JPY",
+      "detail": "前日比 -0.18%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "カナダは米関税に「同額」で対抗とカーニー首相　貿易交渉が決裂",
-      "meta": "経済・BBC News 日本語",
+      "detail": "バーナム英首相が初外訪でキーウ到着、ウクライナ支持を再確認へ　欧州委は追加支援を発表",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-4.63%です。",
+      "detail": "日経平均が前日比-2.86%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは66（強欲）です。",
+      "detail": "Fear & Greed Indexは73（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-23T21:33:48+00:00",
-    "market": "2026-08-23T21:34:00+00:00"
+    "news": "2026-08-24T21:42:08+00:00",
+    "market": "2026-08-24T21:42:19+00:00"
   }
 }
