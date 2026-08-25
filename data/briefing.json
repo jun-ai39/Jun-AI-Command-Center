@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T21:42:19+00:00",
+  "generated_at": "2026-08-25T21:42:16+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "バーナム英首相が初外訪でキーウ到着、ウクライナ支持を再確認へ　欧州委は追加支援を発表",
+      "title": "英デパート「ハロッズ」元オーナーの性的暴行疑惑、関係者を書類送検　BBCの調査報道で発覚",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 24 Aug 2026 09:18:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/czrjrrzk7x3o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 25 Aug 2026 08:33:20 GMT",
+      "url": "https://www.bbc.com/japanese/articles/crk3mvdrxrlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査",
-      "category": "世界情勢",
+      "title": "仏パリ近郊に漫画のテーマパーク建設へ、サウジアラビアと合意",
+      "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 24 Aug 2026 08:38:54 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cvgyerv55j2o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 25 Aug 2026 08:27:36 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwyzx07q6lzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "マラドーナ選手「神の手」ゴールのボール、5億円超で落札",
+      "title": "ニュージーランド、16歳未満のSNS利用禁止法案を提出",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 24 Aug 2026 08:06:43 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ce8e0xzjn2go?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 25 Aug 2026 07:36:07 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwyzw2n4zqvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -2.86%"
+      "value": "上昇 3・下落 2・横ばい 0",
+      "detail": "最大変動：TOPIX連動ETF（参考値） +1.94%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：XRP -2.77%"
+      "value": "上昇 1・下落 3・横ばい 0",
+      "detail": "最大変動：XRP -2.43%"
     },
     {
       "label": "市場心理",
-      "value": "73 / 100",
+      "value": "74 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "159.054 JPY",
-      "detail": "前日比 -0.18%"
+      "value": "159.192 JPY",
+      "detail": "前日比 -0.22%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "バーナム英首相が初外訪でキーウ到着、ウクライナ支持を再確認へ　欧州委は追加支援を発表",
+      "detail": "英デパート「ハロッズ」元オーナーの性的暴行疑惑、関係者を書類送検　BBCの調査報道で発覚",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-2.86%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比+1.94%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "alert"
+      "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは73（強欲）です。",
+      "detail": "Fear & Greed Indexは74（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-24T21:42:08+00:00",
-    "market": "2026-08-24T21:42:19+00:00"
+    "news": "2026-08-25T21:42:06+00:00",
+    "market": "2026-08-25T21:42:16+00:00"
   }
 }

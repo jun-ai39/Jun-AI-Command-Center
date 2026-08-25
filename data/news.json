@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-24T21:42:08+00:00",
+  "updated_at": "2026-08-25T21:42:06+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "バーナム英首相が初外訪でキーウ到着、ウクライナ支持を再確認へ　欧州委は追加支援を発表",
+      "title": "アメリカ、「史上最大の金融攻勢」を発表　イランは準備万全と強調",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/czrjrrzk7x3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cn74l1708j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Tue, 25 Aug 2026 07:28:53 GMT"
+    },
+    {
+      "title": "バーナム英首相、ウクライナ支援継続を現地で誓う　ロシアの「言語道断の脅迫」にひるまない姿勢強調",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cd94dzjqv5wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Mon, 24 Aug 2026 09:18:07 GMT"
+      "published_at": "Tue, 25 Aug 2026 01:39:38 GMT"
     },
     {
-      "title": "イスラエル、シリア首都近郊の村を攻撃　国際法違反だとシリアは非難",
+      "title": "アメリカ、シリアの「テロ支援国家」指定を解除",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crr4lld158wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crl6r1r4pd4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Tue, 25 Aug 2026 04:44:18 GMT"
+    },
+    {
+      "title": "英デパート「ハロッズ」元オーナーの性的暴行疑惑、関係者を書類送検　BBCの調査報道で発覚",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crk3mvdrxrlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 25 Aug 2026 08:33:20 GMT"
+    },
+    {
+      "title": "世界の海面水温が観測史上最高　エルニーニョ発達",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn5dr6rel9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 25 Aug 2026 03:40:34 GMT"
+    },
+    {
+      "title": "ニュージーランド、16歳未満のSNS利用禁止法案を提出",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyzw2n4zqvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "oceania",
+      "published_at": "Tue, 25 Aug 2026 07:36:07 GMT"
+    },
+    {
+      "title": "ウクライナ、ロシア通販2位オゾンの施設を攻撃",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c7v45jeqgr0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
+      "region": "europe",
+      "published_at": "Tue, 25 Aug 2026 03:01:30 GMT"
+    },
+    {
+      "title": "【解説】 イギリスがウクライナに巡航ミサイル製造許可、戦況は変わるのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c5y45de86jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Tue, 25 Aug 2026 04:49:43 GMT"
+    },
+    {
+      "title": "仏パリ近郊に漫画のテーマパーク建設へ、サウジアラビアと合意",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyzx07q6lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
       "region": "middle-east",
-      "published_at": "Mon, 24 Aug 2026 02:55:04 GMT"
-    },
-    {
-      "title": "トランプ氏、カナダはアメリカの州となる「恩恵」だけ求めていると批判　貿易交渉決裂で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn0n00xkveeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Mon, 24 Aug 2026 03:19:42 GMT"
-    },
-    {
-      "title": "タイ南部、組織的な放火や爆発が50件以上相次ぐ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c783l1gyj50o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Mon, 24 Aug 2026 06:04:35 GMT"
-    },
-    {
-      "title": "「新シーズン、新しい髪型」　サッカーのノルウェー代表ハーランド選手、長髪をばっさり",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c2kwjj7lvqpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 24 Aug 2026 04:10:22 GMT"
-    },
-    {
-      "title": "ゼレンスキー氏は汚職について何を知っていたのか問われるべき……解任された前国防相がBBCに語る",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn072ewxj82o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 24 Aug 2026 06:44:48 GMT"
-    },
-    {
-      "title": "中国で白菜類の鮮度保持にホルムアルデヒド使用か　当局が調査",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgyerv55j2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Mon, 24 Aug 2026 08:38:54 GMT"
-    },
-    {
-      "title": "マラドーナ選手「神の手」ゴールのボール、5億円超で落札",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce8e0xzjn2go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 24 Aug 2026 08:06:43 GMT"
-    },
-    {
-      "title": "「静かに、静かに！」　トランプ氏が記者の質問を遮るのはどんな時か",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/clyell2xpd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Mon, 24 Aug 2026 03:57:42 GMT"
+      "published_at": "Tue, 25 Aug 2026 08:27:36 GMT"
     }
   ]
 }

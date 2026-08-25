@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-25",
+  "verified_at": "2026-08-26",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "google-1ba284820fae",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-26",
+      "category": "model",
+      "title_ja": "Here’s how to use intelligent dictation in Gemini for macOS.",
+      "original_title": "Here’s how to use intelligent dictation in Gemini for macOS.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/"
+    },
+    {
+      "id": "openai-51cfe3db04ed",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-25",
+      "category": "business",
+      "title_ja": "The full stack behind abundant intelligence",
+      "original_title": "The full stack behind abundant intelligence",
+      "summary_ja": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+    },
+    {
+      "id": "openai-b9406ae170bd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-25",
+      "category": "model",
+      "title_ja": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "original_title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary_ja": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "url": "https://openai.com/index/jalapeno-first-results"
+    },
+    {
+      "id": "openai-62003111f3b5",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-25",
+      "category": "product",
+      "title_ja": "Disrupting a new covert influence campaign from Russia",
+      "original_title": "Disrupting a new covert influence campaign from Russia",
+      "summary_ja": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    {
+      "id": "openai-33eae878317d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-25",
+      "category": "model",
+      "title_ja": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "original_title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary_ja": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "url": "https://openai.com/index/introducing-admin-plugin"
+    },
+    {
+      "id": "google-54e712174f33",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-25",
+      "category": "product",
+      "title_ja": "We’re partnering with the State of Delaware to provide free AI and career training.",
+      "original_title": "We’re partnering with the State of Delaware to provide free AI and career training.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/"
+    },
     {
       "id": "google-a541634a268d",
       "source": "google",
@@ -165,83 +231,6 @@
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
     },
     {
-      "id": "openai-f0aa91974e0a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-19",
-      "category": "safety",
-      "title_ja": "Strengthening democratic oversight in national security",
-      "original_title": "Strengthening democratic oversight in national security",
-      "summary_ja": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
-    },
-    {
-      "id": "google-1c13ad3f7b63",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-19",
-      "category": "model",
-      "title_ja": "Tap into the power of Gemini in Chrome on Android.",
-      "original_title": "Tap into the power of Gemini in Chrome on Android.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/"
-    },
-    {
-      "id": "google-8a27388b3fc5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-19",
-      "category": "model",
-      "title_ja": "Try 4 new interactive BTS experiences inside the Gemini app",
-      "original_title": "Try 4 new interactive BTS experiences inside the Gemini app",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/"
-    },
-    {
-      "id": "google-b7f6163aebb9",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-19",
-      "category": "education",
-      "title_ja": "Keep your SAT prep on track with practice tests in Gemini.",
-      "original_title": "Keep your SAT prep on track with practice tests in Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/"
-    },
-    {
-      "id": "openai-6d4ec902c728",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-18",
-      "category": "education",
-      "title_ja": "Partnering with CodeAI to prepare the first AI generation",
-      "original_title": "Partnering with CodeAI to prepare the first AI generation",
-      "summary_ja": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-      "url": "https://openai.com/index/partnering-with-codeai"
-    },
-    {
-      "id": "openai-9c25f4ae7a18",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-18",
-      "category": "safety",
-      "title_ja": "Pacing model development in an era of cyber-critical capabilities",
-      "original_title": "Pacing model development in an era of cyber-critical capabilities",
-      "summary_ja": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-    },
-    {
-      "id": "openai-c3b0ed374d41",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-18",
-      "category": "education",
-      "title_ja": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "original_title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "summary_ja": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "url": "https://openai.com/index/chatgpt-for-teens"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +264,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-24T21:42:08+00:00",
+  "updated_at": "2026-08-25T21:42:07+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
