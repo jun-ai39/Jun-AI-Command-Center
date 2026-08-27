@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T21:42:16+00:00",
+  "generated_at": "2026-08-27T00:46:36+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "英デパート「ハロッズ」元オーナーの性的暴行疑惑、関係者を書類送検　BBCの調査報道で発覚",
+      "title": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 25 Aug 2026 08:33:20 GMT",
-      "url": "https://www.bbc.com/japanese/articles/crk3mvdrxrlo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 26 Aug 2026 10:46:28 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cvgyxq710evo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "仏パリ近郊に漫画のテーマパーク建設へ、サウジアラビアと合意",
-      "category": "外交",
-      "source": "BBC News 日本語",
-      "published_at": "Tue, 25 Aug 2026 08:27:36 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwyzx07q6lzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "ニュージーランド、16歳未満のSNS利用禁止法案を提出",
+      "title": "病院で火災、少なくとも14人の新生児が死亡　パキスタン首都",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 25 Aug 2026 07:36:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwyzw2n4zqvo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 26 Aug 2026 09:56:49 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c89jlpj3gk2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "【解説】 トランプ政権は制裁で体制転換を期待、そうはならないとイラン指導部",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Wed, 26 Aug 2026 07:34:36 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c17jlq41r8ko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 3・下落 2・横ばい 0",
-      "detail": "最大変動：TOPIX連動ETF（参考値） +1.94%"
+      "value": "上昇 2・下落 2・横ばい 1",
+      "detail": "最大変動：TOPIX連動ETF（参考値） +1.36%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 1・下落 3・横ばい 0",
-      "detail": "最大変動：XRP -2.43%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：Solana +4.69%"
     },
     {
       "label": "市場心理",
-      "value": "74 / 100",
+      "value": "71 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "159.192 JPY",
-      "detail": "前日比 -0.22%"
+      "value": "159.145 JPY",
+      "detail": "前日比 +0.16%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "英デパート「ハロッズ」元オーナーの性的暴行疑惑、関係者を書類送検　BBCの調査報道で発覚",
+      "detail": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "TOPIX連動ETF（参考値）が前日比+1.94%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比+1.36%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは74（強欲）です。",
+      "detail": "Fear & Greed Indexは71（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-25T21:42:06+00:00",
-    "market": "2026-08-25T21:42:16+00:00"
+    "news": "2026-08-27T00:46:25+00:00",
+    "market": "2026-08-27T00:46:36+00:00"
   }
 }

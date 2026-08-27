@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-26",
+  "verified_at": "2026-08-27",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,105 @@
     }
   ],
   "items": [
+    {
+      "id": "google-b43a1d3ce3c9",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-27",
+      "category": "education",
+      "title_ja": "7 ways to kick-start back to school using Gemini in Workspace",
+      "original_title": "7 ways to kick-start back to school using Gemini in Workspace",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/"
+    },
+    {
+      "id": "google-584c12716aad",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-27",
+      "category": "model",
+      "title_ja": "Turn your voice into action with new productivity features in Gemini Live",
+      "original_title": "Turn your voice into action with new productivity features in Gemini Live",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/"
+    },
+    {
+      "id": "google-95b7ebc1937a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-27",
+      "category": "model",
+      "title_ja": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "original_title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
+    },
+    {
+      "id": "google-7bb04b5fa0ce",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-27",
+      "category": "product",
+      "title_ja": "28 startups using AI to transform the energy sector",
+      "original_title": "28 startups using AI to transform the energy sector",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/"
+    },
+    {
+      "id": "openai-fa2791fbc9af",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-26",
+      "category": "education",
+      "title_ja": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "original_title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary_ja": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+    },
+    {
+      "id": "openai-832a12c8f33a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-26",
+      "category": "education",
+      "title_ja": "Learning never stops: How AI makes learning continuous",
+      "original_title": "Learning never stops: How AI makes learning continuous",
+      "summary_ja": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops"
+    },
+    {
+      "id": "openai-34e62ff4c7cf",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-26",
+      "category": "safety",
+      "title_ja": "The Hugging Face incident and the road ahead",
+      "original_title": "The Hugging Face incident and the road ahead",
+      "summary_ja": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+    },
+    {
+      "id": "openai-76c95cd85298",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-26",
+      "category": "business",
+      "title_ja": "How loveholidays is making everyone a builder with Codex",
+      "original_title": "How loveholidays is making everyone a builder with Codex",
+      "summary_ja": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "url": "https://openai.com/index/loveholidays"
+    },
+    {
+      "id": "google-08f95232fa3d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-26",
+      "category": "product",
+      "title_ja": "Google at the Global Forum on Intellectual Property",
+      "original_title": "Google at the Global Forum on Intellectual Property",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/"
+    },
     {
       "id": "google-1ba284820fae",
       "source": "google",
@@ -132,103 +231,15 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/"
     },
     {
-      "id": "google-d05a2bc7d8f3",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-21",
-      "category": "model",
-      "title_ja": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
-      "original_title": "Inside the Gemmaverse: Celebrating one billion Gemma downloads",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/"
-    },
-    {
       "id": "openai-fc1a9abd82b3",
       "source": "openai",
       "source_name": "OpenAI",
       "published_at": "2026-08-20",
       "category": "product",
       "title_ja": "Introducing AI Futures",
-      "original_title": "Introducing AI Futures",
+      "original_title": "Introducing Intelligence Age",
       "summary_ja": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "url": "https://openai.com/index/introducing-ai-futures"
-    },
-    {
-      "id": "openai-ad89fb510e3c",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-20",
-      "category": "model",
-      "title_ja": "How ChatGPT Work helps Stampli move ideas to market",
-      "original_title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "summary_ja": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "url": "https://openai.com/index/stampli"
-    },
-    {
-      "id": "openai-df8f12302a5b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-20",
-      "category": "safety",
-      "title_ja": "Offering Zero Data Retention for frontier models",
-      "original_title": "Offering Zero Data Retention for frontier models",
-      "summary_ja": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
-    },
-    {
-      "id": "google-074ff483b482",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-20",
-      "category": "business",
-      "title_ja": "Make AI Max work for your business with new testing and planning tools.",
-      "original_title": "Make AI Max work for your business with new testing and planning tools.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/"
-    },
-    {
-      "id": "google-0c146b69c0dd",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-20",
-      "category": "education",
-      "title_ja": "Start the semester with one year of Gemini, on us",
-      "original_title": "Start the semester with one year of Gemini, on us",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/"
-    },
-    {
-      "id": "google-a7f60de41ca8",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-20",
-      "category": "model",
-      "title_ja": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-      "original_title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/"
-    },
-    {
-      "id": "openai-2f00013902a2",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-19",
-      "category": "model",
-      "title_ja": "Replit expands access to software creation with GPT-5.6 Luna",
-      "original_title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary_ja": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "url": "https://openai.com/index/replit"
-    },
-    {
-      "id": "openai-8393c843a171",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-19",
-      "category": "education",
-      "title_ja": "ChatGPT Ads expands across Europe",
-      "original_title": "ChatGPT Ads expands across Europe",
-      "summary_ja": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -264,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-25T21:42:07+00:00",
+  "updated_at": "2026-08-27T00:46:25+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

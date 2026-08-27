@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-25T21:42:06+00:00",
+  "updated_at": "2026-08-27T00:46:25+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "アメリカ、「史上最大の金融攻勢」を発表　イランは準備万全と強調",
+      "title": "【解説】 トランプ政権は制裁で体制転換を期待、そうはならないとイラン指導部",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn74l1708j3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c17jlq41r8ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Tue, 25 Aug 2026 07:28:53 GMT"
+      "published_at": "Wed, 26 Aug 2026 07:34:36 GMT"
     },
     {
-      "title": "バーナム英首相、ウクライナ支援継続を現地で誓う　ロシアの「言語道断の脅迫」にひるまない姿勢強調",
+      "title": "中国、アメリカの対イラン制裁は「違法」　貿易相手国に「対象拡大」で反発",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cd94dzjqv5wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cx2zkqzdj4do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 25 Aug 2026 01:39:38 GMT"
+      "category": "経済",
+      "region": "middle-east",
+      "published_at": "Wed, 26 Aug 2026 03:16:27 GMT"
     },
     {
-      "title": "アメリカ、シリアの「テロ支援国家」指定を解除",
+      "title": "アメリカの新たな対イラン制裁、どういうもので誰が影響を受けるのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crl6r1r4pd4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c3wjpx4281go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Tue, 25 Aug 2026 04:44:18 GMT"
+      "published_at": "Wed, 26 Aug 2026 07:18:04 GMT"
     },
     {
-      "title": "英デパート「ハロッズ」元オーナーの性的暴行疑惑、関係者を書類送検　BBCの調査報道で発覚",
+      "title": "スウェーデン軍、海軍基地に近いロシア人所有の土地の収用を要請",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crk3mvdrxrlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ckg70dkrg03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 25 Aug 2026 08:33:20 GMT"
-    },
-    {
-      "title": "世界の海面水温が観測史上最高　エルニーニョ発達",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn5dr6rel9qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 25 Aug 2026 03:40:34 GMT"
-    },
-    {
-      "title": "ニュージーランド、16歳未満のSNS利用禁止法案を提出",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyzw2n4zqvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "oceania",
-      "published_at": "Tue, 25 Aug 2026 07:36:07 GMT"
-    },
-    {
-      "title": "ウクライナ、ロシア通販2位オゾンの施設を攻撃",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c7v45jeqgr0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
       "region": "europe",
-      "published_at": "Tue, 25 Aug 2026 03:01:30 GMT"
+      "published_at": "Wed, 26 Aug 2026 07:16:12 GMT"
     },
     {
-      "title": "【解説】 イギリスがウクライナに巡航ミサイル製造許可、戦況は変わるのか",
+      "title": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5y45de86jko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cvgyxq710evo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 25 Aug 2026 04:49:43 GMT"
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 26 Aug 2026 10:46:28 GMT"
     },
     {
-      "title": "仏パリ近郊に漫画のテーマパーク建設へ、サウジアラビアと合意",
+      "title": "米CIA長官がモスクワ訪問、予定発表なしの会談で　米報道",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyzx07q6lzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqlwv5exq03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "外交",
-      "region": "middle-east",
-      "published_at": "Tue, 25 Aug 2026 08:27:36 GMT"
+      "region": "global",
+      "published_at": "Wed, 26 Aug 2026 03:18:53 GMT"
+    },
+    {
+      "title": "カナダがアメリカへの報復関税を発表、最大50％で「同額」",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c20lj33jr5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "north-america",
+      "published_at": "Wed, 26 Aug 2026 04:03:32 GMT"
+    },
+    {
+      "title": "トランプ氏、ホルムズ海峡で機雷を全て除去と投稿",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c0j3wnq8jqqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 26 Aug 2026 04:59:49 GMT"
+    },
+    {
+      "title": "病院で火災、少なくとも14人の新生児が死亡　パキスタン首都",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c89jlpj3gk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Wed, 26 Aug 2026 09:56:49 GMT"
     }
   ]
 }
