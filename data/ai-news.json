@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-27",
+  "verified_at": "2026-08-28",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,94 @@
     }
   ],
   "items": [
+    {
+      "id": "google-fbdfc2d343a8",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-28",
+      "category": "product",
+      "title_ja": "Expert Intelligence: a new way for you to engage with trusted content",
+      "original_title": "Expert Intelligence: a new way for you to engage with trusted content",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/"
+    },
+    {
+      "id": "google-a1c9c66d7311",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-28",
+      "category": "product",
+      "title_ja": "3 new ways to plan and book travel in Search",
+      "original_title": "3 new ways to plan and book travel in Search",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+    },
+    {
+      "id": "google-7d8f7d49cd6d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-28",
+      "category": "model",
+      "title_ja": "Gemini Omni 1.1 Flash lets you build with more control",
+      "original_title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
+    },
+    {
+      "id": "google-134ef96bcea1",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-28",
+      "category": "education",
+      "title_ja": "Partnering with Khan Academy on building AI tools for classrooms",
+      "original_title": "Partnering with Khan Academy on building AI tools for classrooms",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/"
+    },
+    {
+      "id": "google-7da178756c06",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-28",
+      "category": "product",
+      "title_ja": "Google Flow brings new creative control features to enhance video editing.",
+      "original_title": "Google Flow brings new creative control features to enhance video editing.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/"
+    },
+    {
+      "id": "openai-5c8d75ef9c12",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-27",
+      "category": "education",
+      "title_ja": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "original_title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "summary_ja": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+    },
+    {
+      "id": "openai-fe23f369e01d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-27",
+      "category": "business",
+      "title_ja": "Expanding OpenAI’s presence in Brazil",
+      "original_title": "Expanding OpenAI’s presence in Brazil",
+      "summary_ja": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil"
+    },
+    {
+      "id": "google-37fd02de775b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-27",
+      "category": "product",
+      "title_ja": "Our Fitbit Air Special Edition Pokémon Sleep is here",
+      "original_title": "Our Fitbit Air Special Edition Pokémon Sleep is here",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/"
+    },
     {
       "id": "google-b43a1d3ce3c9",
       "source": "google",
@@ -110,28 +198,6 @@
       "url": "https://openai.com/index/loveholidays"
     },
     {
-      "id": "google-08f95232fa3d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-26",
-      "category": "product",
-      "title_ja": "Google at the Global Forum on Intellectual Property",
-      "original_title": "Google at the Global Forum on Intellectual Property",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/"
-    },
-    {
-      "id": "google-1ba284820fae",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-26",
-      "category": "model",
-      "title_ja": "Here’s how to use intelligent dictation in Gemini for macOS.",
-      "original_title": "Here’s how to use intelligent dictation in Gemini for macOS.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/"
-    },
-    {
       "id": "openai-51cfe3db04ed",
       "source": "openai",
       "source_name": "OpenAI",
@@ -176,72 +242,6 @@
       "url": "https://openai.com/index/introducing-admin-plugin"
     },
     {
-      "id": "google-54e712174f33",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-25",
-      "category": "product",
-      "title_ja": "We’re partnering with the State of Delaware to provide free AI and career training.",
-      "original_title": "We’re partnering with the State of Delaware to provide free AI and career training.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/"
-    },
-    {
-      "id": "google-a541634a268d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-25",
-      "category": "model",
-      "title_ja": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
-      "original_title": "Celebrate 110 years of national parks with Maps, Search, and Gemini",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/"
-    },
-    {
-      "id": "google-0ff3b4d9d82a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-25",
-      "category": "model",
-      "title_ja": "How developers build AI for good with Gemma 4",
-      "original_title": "How developers build AI for good with Gemma 4",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/"
-    },
-    {
-      "id": "openai-abd52c9f1dde",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-24",
-      "category": "model",
-      "title_ja": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "original_title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary_ja": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro"
-    },
-    {
-      "id": "google-fe45f51de9f6",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-22",
-      "category": "model",
-      "title_ja": "What does “full-stack” AI actually mean?",
-      "original_title": "What does “full-stack” AI actually mean?",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/"
-    },
-    {
-      "id": "openai-fc1a9abd82b3",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-20",
-      "category": "product",
-      "title_ja": "Introducing AI Futures",
-      "original_title": "Introducing Intelligence Age",
-      "summary_ja": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-ai-futures"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-27T00:46:25+00:00",
+  "updated_at": "2026-08-28T05:21:46+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

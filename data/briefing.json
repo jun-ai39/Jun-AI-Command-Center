@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-27T00:46:36+00:00",
+  "generated_at": "2026-08-28T05:21:56+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
-      "category": "世界情勢",
+      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者数470人超、行方不明者は計1450人以上に",
+      "category": "災害",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 26 Aug 2026 10:46:28 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cvgyxq710evo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 28 Aug 2026 03:27:06 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "病院で火災、少なくとも14人の新生児が死亡　パキスタン首都",
+      "title": "泥の中から救出される人々……ネパール北部の土石流被災地",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 26 Aug 2026 09:56:49 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c89jlpj3gk2o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 28 Aug 2026 03:15:58 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cx2zd72le3no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】 トランプ政権は制裁で体制転換を期待、そうはならないとイラン指導部",
+      "title": "AIのリアルタイム支援による世界初の脳外科手術、腫瘍摘出に成功　ロンドンの病院で",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 26 Aug 2026 07:34:36 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c17jlq41r8ko?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 28 Aug 2026 02:11:44 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cx2zmev8pg1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 2・横ばい 1",
-      "detail": "最大変動：TOPIX連動ETF（参考値） +1.36%"
+      "value": "上昇 5・下落 0・横ばい 0",
+      "detail": "最大変動：TOPIX連動ETF（参考値） +2.15%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：Solana +4.69%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Solana +6.05%"
     },
     {
       "label": "市場心理",
-      "value": "71 / 100",
+      "value": "73 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "159.145 JPY",
-      "detail": "前日比 +0.16%"
+      "value": "159.529 JPY",
+      "detail": "前日比 +0.39%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者数470人超、行方不明者は計1450人以上に",
+      "meta": "災害・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "TOPIX連動ETF（参考値）が前日比+1.36%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比+2.15%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "normal"
+      "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは71（強欲）です。",
+      "detail": "Fear & Greed Indexは73（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-27T00:46:25+00:00",
-    "market": "2026-08-27T00:46:36+00:00"
+    "news": "2026-08-28T05:21:46+00:00",
+    "market": "2026-08-28T05:21:56+00:00"
   }
 }

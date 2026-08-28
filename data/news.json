@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-27T00:46:25+00:00",
+  "updated_at": "2026-08-28T05:21:46+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "【解説】 トランプ政権は制裁で体制転換を期待、そうはならないとイラン指導部",
+      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者数470人超、行方不明者は計1450人以上に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c17jlq41r8ko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "災害",
+      "region": "asia",
+      "published_at": "Fri, 28 Aug 2026 03:27:06 GMT"
+    },
+    {
+      "title": "泥の中から救出される人々……ネパール北部の土石流被災地",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2zd72le3no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Wed, 26 Aug 2026 07:34:36 GMT"
-    },
-    {
-      "title": "中国、アメリカの対イラン制裁は「違法」　貿易相手国に「対象拡大」で反発",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2zkqzdj4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "middle-east",
-      "published_at": "Wed, 26 Aug 2026 03:16:27 GMT"
-    },
-    {
-      "title": "アメリカの新たな対イラン制裁、どういうもので誰が影響を受けるのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3wjpx4281go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Wed, 26 Aug 2026 07:18:04 GMT"
-    },
-    {
-      "title": "スウェーデン軍、海軍基地に近いロシア人所有の土地の収用を要請",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckg70dkrg03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 26 Aug 2026 07:16:12 GMT"
-    },
-    {
-      "title": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgyxq710evo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 26 Aug 2026 10:46:28 GMT"
-    },
-    {
-      "title": "米CIA長官がモスクワ訪問、予定発表なしの会談で　米報道",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqlwv5exq03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
       "region": "global",
-      "published_at": "Wed, 26 Aug 2026 03:18:53 GMT"
+      "published_at": "Fri, 28 Aug 2026 03:15:58 GMT"
     },
     {
-      "title": "カナダがアメリカへの報復関税を発表、最大50％で「同額」",
+      "title": "AIのリアルタイム支援による世界初の脳外科手術、腫瘍摘出に成功　ロンドンの病院で",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c20lj33jr5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Wed, 26 Aug 2026 04:03:32 GMT"
-    },
-    {
-      "title": "トランプ氏、ホルムズ海峡で機雷を全て除去と投稿",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c0j3wnq8jqqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 26 Aug 2026 04:59:49 GMT"
-    },
-    {
-      "title": "病院で火災、少なくとも14人の新生児が死亡　パキスタン首都",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c89jlpj3gk2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cx2zmev8pg1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "asia",
-      "published_at": "Wed, 26 Aug 2026 09:56:49 GMT"
+      "published_at": "Fri, 28 Aug 2026 02:11:44 GMT"
+    },
+    {
+      "title": "子どものSNS利用めぐる米訴訟、メタが2.8兆円支払いで和解",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c14d8y428kgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 27 Aug 2026 04:59:32 GMT"
+    },
+    {
+      "title": "草間彌生さん死去、97歳　水玉模様で有名な世界的前衛芸術家",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cge4ylrlvpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 27 Aug 2026 09:17:20 GMT"
+    },
+    {
+      "title": "英俳優ティム・カリーさん死去、80歳　「ロッキー・ホラー・ショー」や「IT」で人気",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2z4kkeq9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 27 Aug 2026 06:36:06 GMT"
+    },
+    {
+      "title": "ネパール・中国国境付近の土石流、発生時の映像　建物や橋が流失",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c8d3j28lrpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Thu, 27 Aug 2026 03:25:25 GMT"
+    },
+    {
+      "title": "トランプ氏、予告なしのCIA長官の訪ロで「何かが生まれるかも」",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cp80memdp4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Thu, 27 Aug 2026 05:24:18 GMT"
+    },
+    {
+      "title": "米オープンAIのAI暴走、エージェント同士が予期せぬ通信の末にハッキング＝調査報告書",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cy7z8zp7m3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 27 Aug 2026 05:34:31 GMT"
     }
   ]
 }
