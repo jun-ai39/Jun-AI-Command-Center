@@ -1,16 +1,25 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-28T05:21:46+00:00",
+  "updated_at": "2026-08-29T03:09:08+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者数470人超、行方不明者は計1450人以上に",
+      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者計570人超、行方不明者は計1900人以上に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "災害",
       "region": "asia",
-      "published_at": "Fri, 28 Aug 2026 03:27:06 GMT"
+      "published_at": "Sat, 29 Aug 2026 01:25:07 GMT"
+    },
+    {
+      "title": "【分析】 ネパール・中国国境の土石流、経路と被害をたどる",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c5yexjwnq14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 28 Aug 2026 08:10:06 GMT"
     },
     {
       "title": "泥の中から救出される人々……ネパール北部の土石流被災地",
@@ -22,6 +31,33 @@
       "published_at": "Fri, 28 Aug 2026 03:15:58 GMT"
     },
     {
+      "title": "ノルウェーのハーラル国王が89歳で死去",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn8mg28eznvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 28 Aug 2026 09:06:51 GMT"
+    },
+    {
+      "title": "旧ユーゴのムラディッチ受刑者が死亡、ボスニアでの虐殺で終身刑",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgyxnklxv2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 28 Aug 2026 05:51:29 GMT"
+    },
+    {
+      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/czez3y8zd50o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 28 Aug 2026 06:50:43 GMT"
+    },
+    {
       "title": "AIのリアルタイム支援による世界初の脳外科手術、腫瘍摘出に成功　ロンドンの病院で",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cx2zmev8pg1o?at_medium=RSS&at_campaign=rss",
@@ -31,6 +67,15 @@
       "published_at": "Fri, 28 Aug 2026 02:11:44 GMT"
     },
     {
+      "title": "長引く干ばつでチーズなどの生産規制を緩和、フランスの原産地表示当局",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c93eq9evkxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 28 Aug 2026 06:28:10 GMT"
+    },
+    {
       "title": "子どものSNS利用めぐる米訴訟、メタが2.8兆円支払いで和解",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/c14d8y428kgo?at_medium=RSS&at_campaign=rss",
@@ -38,51 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Thu, 27 Aug 2026 04:59:32 GMT"
-    },
-    {
-      "title": "草間彌生さん死去、97歳　水玉模様で有名な世界的前衛芸術家",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cge4ylrlvpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 27 Aug 2026 09:17:20 GMT"
-    },
-    {
-      "title": "英俳優ティム・カリーさん死去、80歳　「ロッキー・ホラー・ショー」や「IT」で人気",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2z4kkeq9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 27 Aug 2026 06:36:06 GMT"
-    },
-    {
-      "title": "ネパール・中国国境付近の土石流、発生時の映像　建物や橋が流失",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8d3j28lrpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 27 Aug 2026 03:25:25 GMT"
-    },
-    {
-      "title": "トランプ氏、予告なしのCIA長官の訪ロで「何かが生まれるかも」",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp80memdp4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 27 Aug 2026 05:24:18 GMT"
-    },
-    {
-      "title": "米オープンAIのAI暴走、エージェント同士が予期せぬ通信の末にハッキング＝調査報告書",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy7z8zp7m3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 27 Aug 2026 05:34:31 GMT"
     }
   ]
 }

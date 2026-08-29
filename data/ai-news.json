@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-28",
+  "verified_at": "2026-08-29",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,39 @@
     }
   ],
   "items": [
+    {
+      "id": "google-9415753715d7",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-08-29",
+      "category": "model",
+      "title_ja": "We’re introducing flexible usage limits for Gemini Notebook.",
+      "original_title": "We’re introducing flexible usage limits for Gemini Notebook.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/"
+    },
+    {
+      "id": "openai-b42ac281ecaf",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-28",
+      "category": "business",
+      "title_ja": "Our decision on Cursor following its acquisition by SpaceX",
+      "original_title": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary_ja": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    },
+    {
+      "id": "openai-cb1db0d5c74b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-28",
+      "category": "education",
+      "title_ja": "Supporting Thailand’s next generation of AI startups",
+      "original_title": "Supporting Thailand’s next generation of AI startups",
+      "summary_ja": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+    },
     {
       "id": "google-fbdfc2d343a8",
       "source": "google",
@@ -143,15 +176,15 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
     },
     {
-      "id": "google-7bb04b5fa0ce",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-27",
-      "category": "product",
-      "title_ja": "28 startups using AI to transform the energy sector",
-      "original_title": "28 startups using AI to transform the energy sector",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/"
+      "id": "openai-832a12c8f33a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-26",
+      "category": "education",
+      "title_ja": "Learning never stops: How AI makes learning continuous",
+      "original_title": "Learning never stops: How AI makes learning continuous",
+      "summary_ja": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "url": "https://openai.com/index/learning-never-stops"
     },
     {
       "id": "openai-fa2791fbc9af",
@@ -163,17 +196,6 @@
       "original_title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "summary_ja": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "id": "openai-832a12c8f33a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-26",
-      "category": "education",
-      "title_ja": "Learning never stops: How AI makes learning continuous",
-      "original_title": "Learning never stops: How AI makes learning continuous",
-      "summary_ja": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops"
     },
     {
       "id": "openai-34e62ff4c7cf",
@@ -220,28 +242,6 @@
       "url": "https://openai.com/index/jalapeno-first-results"
     },
     {
-      "id": "openai-62003111f3b5",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-25",
-      "category": "product",
-      "title_ja": "Disrupting a new covert influence campaign from Russia",
-      "original_title": "Disrupting a new covert influence campaign from Russia",
-      "summary_ja": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
-    },
-    {
-      "id": "openai-33eae878317d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-25",
-      "category": "model",
-      "title_ja": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "original_title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary_ja": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "url": "https://openai.com/index/introducing-admin-plugin"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-28T05:21:46+00:00",
+  "updated_at": "2026-08-29T03:09:08+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
