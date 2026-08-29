@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-29T03:09:21+00:00",
+  "updated_at": "2026-08-29T23:16:48+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -23,9 +23,9 @@
     {
       "symbol": "^DJI",
       "name": "NYダウ",
-      "price": 53559.99,
+      "price": 53560.0,
       "currency": "USD",
-      "change_percent": 0.5311484259345559,
+      "change_percent": 0.5311671957566649,
       "decimals": 2
     },
     {
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 12436664.83004636,
+      "price": 12523983.080170065,
       "currency": "JPY",
-      "change_percent": -2.31937,
+      "change_percent": 0.69021,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 390427.3340119144,
+      "price": 393061.785743687,
       "currency": "JPY",
-      "change_percent": -1.6066,
+      "change_percent": 0.67032,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 221.44363074662806,
+      "price": 223.21916993730656,
       "currency": "JPY",
-      "change_percent": -2.92995,
+      "change_percent": 0.92173,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 16641.77874711973,
+      "price": 16908.333380879565,
       "currency": "JPY",
-      "change_percent": -1.54848,
+      "change_percent": 1.36324,
       "decimals": 0
     }
   ],
@@ -91,9 +91,9 @@
     {
       "symbol": "EUR/JPY",
       "name": "ユーロ円",
-      "price": 185.434,
+      "price": 185.244,
       "currency": "JPY",
-      "change_percent": -0.10289562289562423,
+      "change_percent": -0.20525252525252535,
       "decimals": 3
     }
   ],
@@ -101,17 +101,17 @@
     {
       "symbol": "GOLD",
       "name": "金先物",
-      "price": 4504.1,
+      "price": 4529.9,
       "currency": "USD",
-      "change_percent": -2.9456128253749316,
+      "change_percent": -2.3896741941044763,
       "decimals": 2
     },
     {
       "symbol": "WTI",
       "name": "WTI原油先物",
-      "price": 83.44,
+      "price": 83.4,
       "currency": "USD",
-      "change_percent": -1.8468415480531786,
+      "change_percent": -1.8938948359016576,
       "decimals": 2
     }
   ],

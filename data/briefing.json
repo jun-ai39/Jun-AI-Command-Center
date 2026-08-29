@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T03:09:21+00:00",
+  "generated_at": "2026-08-29T23:16:48+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者計570人超、行方不明者は計1900人以上に",
-      "category": "災害",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 29 Aug 2026 01:25:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "ノルウェーのハーラル国王が89歳で死去",
+      "title": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 28 Aug 2026 09:06:51 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cn8mg28eznvo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 29 Aug 2026 05:11:12 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c07l97y7vpko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【分析】 ネパール・中国国境の土石流、経路と被害をたどる",
+      "title": "ノルウェーでホーコン8世が即位、前国王ハーラル5世の死去を悼むなか",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 28 Aug 2026 08:10:06 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c5yexjwnq14o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 29 Aug 2026 03:45:27 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c5ywx17zgyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 29 Aug 2026 03:29:54 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cevw9rj3kd8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,8 +35,8 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -2.93%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Solana +1.36%"
     },
     {
       "label": "市場心理",
@@ -52,8 +52,8 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者計570人超、行方不明者は計1900人以上に",
-      "meta": "災害・BBC News 日本語",
+      "detail": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-29T03:09:08+00:00",
-    "market": "2026-08-29T03:09:21+00:00"
+    "news": "2026-08-29T23:16:38+00:00",
+    "market": "2026-08-29T23:16:48+00:00"
   }
 }

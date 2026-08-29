@@ -1,8 +1,35 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-29T03:09:08+00:00",
+  "updated_at": "2026-08-29T23:16:38+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ノルウェーでホーコン8世が即位、前国王ハーラル5世の死去を悼むなか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c5ywx17zgyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 29 Aug 2026 03:45:27 GMT"
+    },
+    {
+      "title": "【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cevw9rj3kd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Sat, 29 Aug 2026 03:29:54 GMT"
+    },
+    {
+      "title": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c07l97y7vpko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 29 Aug 2026 05:11:12 GMT"
+    },
     {
       "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者計570人超、行方不明者は計1900人以上に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -31,15 +58,6 @@
       "published_at": "Fri, 28 Aug 2026 03:15:58 GMT"
     },
     {
-      "title": "ノルウェーのハーラル国王が89歳で死去",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn8mg28eznvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 28 Aug 2026 09:06:51 GMT"
-    },
-    {
       "title": "旧ユーゴのムラディッチ受刑者が死亡、ボスニアでの虐殺で終身刑",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cvgyxnklxv2o?at_medium=RSS&at_campaign=rss",
@@ -65,24 +83,6 @@
       "category": "世界情勢",
       "region": "asia",
       "published_at": "Fri, 28 Aug 2026 02:11:44 GMT"
-    },
-    {
-      "title": "長引く干ばつでチーズなどの生産規制を緩和、フランスの原産地表示当局",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c93eq9evkxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 28 Aug 2026 06:28:10 GMT"
-    },
-    {
-      "title": "子どものSNS利用めぐる米訴訟、メタが2.8兆円支払いで和解",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c14d8y428kgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 27 Aug 2026 04:59:32 GMT"
     }
   ]
 }
