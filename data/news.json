@@ -1,8 +1,17 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-29T23:16:38+00:00",
+  "updated_at": "2026-08-30T23:28:02+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ネパール・中国国境の土石流、死者少なくとも計690人超に　行方不明者は計3000人超",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Sun, 30 Aug 2026 02:04:37 GMT"
+    },
     {
       "title": "ノルウェーでホーコン8世が即位、前国王ハーラル5世の死去を悼むなか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -29,15 +38,6 @@
       "category": "世界情勢",
       "region": "europe",
       "published_at": "Sat, 29 Aug 2026 05:11:12 GMT"
-    },
-    {
-      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者計570人超、行方不明者は計1900人以上に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "asia",
-      "published_at": "Sat, 29 Aug 2026 01:25:07 GMT"
     },
     {
       "title": "【分析】 ネパール・中国国境の土石流、経路と被害をたどる",

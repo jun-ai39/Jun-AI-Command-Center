@@ -1,10 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T23:16:48+00:00",
+  "generated_at": "2026-08-30T23:28:13+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
+    {
+      "title": "ネパール・中国国境の土石流、死者少なくとも計690人超に　行方不明者は計3000人超",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Sun, 30 Aug 2026 02:04:37 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
       "category": "世界情勢",
@@ -18,13 +25,6 @@
       "source": "BBC News 日本語",
       "published_at": "Sat, 29 Aug 2026 03:45:27 GMT",
       "url": "https://www.bbc.com/japanese/articles/c5ywx17zgyyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員",
-      "category": "世界情勢",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 29 Aug 2026 03:29:54 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cevw9rj3kd8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,24 +35,24 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +1.36%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Solana -2.79%"
     },
     {
       "label": "市場心理",
-      "value": "68 / 100",
+      "value": "69 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "160.038 JPY",
-      "detail": "前日比 +0.71%"
+      "value": "160.147 JPY",
+      "detail": "前日比 +0.63%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
+      "detail": "ネパール・中国国境の土石流、死者少なくとも計690人超に　行方不明者は計3000人超",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは68（強欲）です。",
+      "detail": "Fear & Greed Indexは69（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-08-29T23:16:38+00:00",
-    "market": "2026-08-29T23:16:48+00:00"
+    "news": "2026-08-30T23:28:02+00:00",
+    "market": "2026-08-30T23:28:13+00:00"
   }
 }

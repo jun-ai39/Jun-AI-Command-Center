@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-29T23:16:48+00:00",
+  "updated_at": "2026-08-30T23:28:13+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -23,9 +23,9 @@
     {
       "symbol": "^DJI",
       "name": "NYダウ",
-      "price": 53560.0,
+      "price": 53559.99,
       "currency": "USD",
-      "change_percent": 0.5311671957566649,
+      "change_percent": 0.5311484259345559,
       "decimals": 2
     },
     {
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 12523983.080170065,
+      "price": 12497205.286754569,
       "currency": "JPY",
-      "change_percent": 0.69021,
+      "change_percent": -0.19908,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 393061.785743687,
+      "price": 390828.7588887685,
       "currency": "JPY",
-      "change_percent": 0.67032,
+      "change_percent": -0.5424,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 223.21916993730656,
+      "price": 219.69154181307948,
       "currency": "JPY",
-      "change_percent": 0.92173,
+      "change_percent": -1.61122,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 16908.333380879565,
+      "price": 16438.180714774917,
       "currency": "JPY",
-      "change_percent": 1.36324,
+      "change_percent": -2.78898,
       "decimals": 0
     }
   ],
@@ -83,17 +83,17 @@
     {
       "symbol": "USD/JPY",
       "name": "ドル円",
-      "price": 160.038,
+      "price": 160.147,
       "currency": "JPY",
-      "change_percent": 0.7136384231989217,
+      "change_percent": 0.6334085296501684,
       "decimals": 3
     },
     {
       "symbol": "EUR/JPY",
       "name": "ユーロ円",
-      "price": 185.244,
+      "price": 185.549,
       "currency": "JPY",
-      "change_percent": -0.20525252525252535,
+      "change_percent": -0.06732229606730075,
       "decimals": 3
     }
   ],
@@ -101,17 +101,17 @@
     {
       "symbol": "GOLD",
       "name": "金先物",
-      "price": 4529.9,
+      "price": 4513.0,
       "currency": "USD",
-      "change_percent": -2.3896741941044763,
+      "change_percent": -2.6972251568530297,
       "decimals": 2
     },
     {
       "symbol": "WTI",
       "name": "WTI原油先物",
-      "price": 83.4,
+      "price": 84.81,
       "currency": "USD",
-      "change_percent": -1.8938948359016576,
+      "change_percent": 2.974745021855273,
       "decimals": 2
     }
   ],
@@ -123,10 +123,10 @@
   "sentiment": {
     "name": "Crypto Fear & Greed Index",
     "scope": "Bitcoin market sentiment",
-    "value": 68,
+    "value": 69,
     "classification": "Greed",
     "classification_ja": "強欲",
-    "observed_at": "2026-08-29T00:00:00+00:00",
+    "observed_at": "2026-08-30T00:00:00+00:00",
     "source": "Alternative.me"
   }
 }
