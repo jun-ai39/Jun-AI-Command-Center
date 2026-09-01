@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-01",
+  "verified_at": "2026-09-02",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,72 @@
   ],
   "items": [
     {
+      "id": "openai-b0cbef382238",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-02",
+      "category": "business",
+      "title_ja": "How AI-native companies turn workflows into operating capability",
+      "original_title": "How AI-native companies turn workflows into operating capability",
+      "summary_ja": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "url": "https://openai.com/index/ai-native-company-workflows"
+    },
+    {
+      "id": "google-c97fc0583795",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-02",
+      "category": "product",
+      "title_ja": "The latest AI news we announced in August 2026",
+      "original_title": "The latest AI news we announced in August 2026",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
+    },
+    {
+      "id": "google-5a222bc71ad3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-02",
+      "category": "model",
+      "title_ja": "Introducing agentic video understanding with Gemini",
+      "original_title": "Introducing agentic video understanding with Gemini",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/"
+    },
+    {
+      "id": "google-75804842c440",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-02",
+      "category": "product",
+      "title_ja": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "original_title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/"
+    },
+    {
+      "id": "openai-f2694bfa96c4",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-01",
+      "category": "safety",
+      "title_ja": "Path to Astra: critical capabilities and frontier safeguards",
+      "original_title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary_ja": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "url": "https://openai.com/index/path-to-astra"
+    },
+    {
+      "id": "openai-c0364833b410",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-01",
+      "category": "model",
+      "title_ja": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "original_title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary_ja": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+    },
+    {
       "id": "google-5c8787f86ace",
       "source": "google",
       "source_name": "Google",
@@ -31,6 +97,17 @@
       "original_title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/"
+    },
+    {
+      "id": "openai-4862f3d2c68f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-31",
+      "category": "safety",
+      "title_ja": "OpenAI supports California’s bill to advance youth AI safety",
+      "original_title": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary_ja": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
     },
     {
       "id": "openai-0b5a688ac445",
@@ -165,83 +242,6 @@
       "url": "https://openai.com/index/expanding-our-presence-in-brazil"
     },
     {
-      "id": "google-37fd02de775b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-27",
-      "category": "product",
-      "title_ja": "Our Fitbit Air Special Edition Pokémon Sleep is here",
-      "original_title": "Our Fitbit Air Special Edition Pokémon Sleep is here",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/"
-    },
-    {
-      "id": "google-b43a1d3ce3c9",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-27",
-      "category": "education",
-      "title_ja": "7 ways to kick-start back to school using Gemini in Workspace",
-      "original_title": "7 ways to kick-start back to school using Gemini in Workspace",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/"
-    },
-    {
-      "id": "google-584c12716aad",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-27",
-      "category": "model",
-      "title_ja": "Turn your voice into action with new productivity features in Gemini Live",
-      "original_title": "Turn your voice into action with new productivity features in Gemini Live",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/"
-    },
-    {
-      "id": "openai-832a12c8f33a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-26",
-      "category": "education",
-      "title_ja": "Learning never stops: How AI makes learning continuous",
-      "original_title": "Learning never stops: How AI makes learning continuous",
-      "summary_ja": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops"
-    },
-    {
-      "id": "openai-fa2791fbc9af",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-26",
-      "category": "education",
-      "title_ja": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "original_title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "summary_ja": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
-    },
-    {
-      "id": "openai-34e62ff4c7cf",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-26",
-      "category": "safety",
-      "title_ja": "The Hugging Face incident and the road ahead",
-      "original_title": "The Hugging Face incident and the road ahead",
-      "summary_ja": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-    },
-    {
-      "id": "openai-76c95cd85298",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-26",
-      "category": "business",
-      "title_ja": "How loveholidays is making everyone a builder with Codex",
-      "original_title": "How loveholidays is making everyone a builder with Codex",
-      "summary_ja": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "url": "https://openai.com/index/loveholidays"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-01T00:36:03+00:00",
+  "updated_at": "2026-09-01T23:16:54+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

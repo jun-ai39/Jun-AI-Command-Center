@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T00:36:13+00:00",
+  "generated_at": "2026-09-01T23:17:05+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "新学年の開始前に1200万冊の本を破壊、ウクライナの文化を攻撃するロシア",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Mon, 31 Aug 2026 09:08:35 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwyzjgz9d1wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "旧統一教会トップに懲役2年の実刑判決、前大統領妻に金品供与などの罪　韓国裁判所",
+      "title": "「仕事を増やしたくない」と失踪事件を捜査せず……韓国で警官を訴追、大統領は警察改革を約束",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 31 Aug 2026 08:39:02 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c0m31w8kdy8o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 01 Sep 2026 12:56:10 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c1e5z5641nqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】米・カナダの貿易戦争を五つの図表から見る",
-      "category": "経済",
+      "title": "【解説】インドに巨額投資する日本企業、中国関連リスクが深まるなか",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 31 Aug 2026 08:12:15 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cjdvengp5n0o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 01 Sep 2026 12:27:12 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cnvlq98gqeyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "土石流の死者、計1000人を超す　ネパールで水力発電所に閉じ込められた600人以上の救助活動続く",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Tue, 01 Sep 2026 07:56:42 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c1j4gkx6rnyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 3・下落 2・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 +1.50%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：TOPIX連動ETF（参考値） +1.75%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Ethereum +1.34%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Solana -2.99%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "159.706 JPY",
-      "detail": "前日比 +0.30%"
+      "value": "160.211 JPY",
+      "detail": "前日比 +0.60%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "新学年の開始前に1200万冊の本を破壊、ウクライナの文化を攻撃するロシア",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "「仕事を増やしたくない」と失踪事件を捜査せず……韓国で警官を訴追、大統領は警察改革を約束",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比+1.50%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比+1.75%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "normal"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-01T00:36:03+00:00",
-    "market": "2026-09-01T00:36:13+00:00"
+    "news": "2026-09-01T23:16:53+00:00",
+    "market": "2026-09-01T23:17:04+00:00"
   }
 }

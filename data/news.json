@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-01T00:36:03+00:00",
+  "updated_at": "2026-09-01T23:16:53+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "アメリカが数週間ぶりにイランを攻撃、ホルムズ海峡・ララク島のミサイル発射装置が標的と",
+      "title": "土石流の死者、計1000人を超す　ネパールで水力発電所に閉じ込められた600人以上の救助活動続く",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgye44vyjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Mon, 31 Aug 2026 03:22:43 GMT"
-    },
-    {
-      "title": "旧統一教会トップに懲役2年の実刑判決、前大統領妻に金品供与などの罪　韓国裁判所",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c0m31w8kdy8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c1j4gkx6rnyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Mon, 31 Aug 2026 08:39:02 GMT"
+      "region": "global",
+      "published_at": "Tue, 01 Sep 2026 07:56:42 GMT"
     },
     {
-      "title": "ネパール・中国国境の土石流で死者計900人超、行方不明者計約4800人に　ネパールの学校では洪水直前に900人が無事避難",
+      "title": "【解説】インドに巨額投資する日本企業、中国関連リスクが深まるなか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c7v4d6j360jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cnvlq98gqeyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "asia",
-      "published_at": "Mon, 31 Aug 2026 06:38:23 GMT"
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Tue, 01 Sep 2026 12:27:12 GMT"
     },
     {
-      "title": "イランとの戦争開始から6カ月、トランプ米大統領は何を成し遂げたのか",
+      "title": "トランプ氏、米アップルに圧力　地図の「オンタリオ湖」を「アメリカ湖」に変更するよう求める",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8r65jv283do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/clye4p012wvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Mon, 31 Aug 2026 05:00:35 GMT"
-    },
-    {
-      "title": "新学年の開始前に1200万冊の本を破壊、ウクライナの文化を攻撃するロシア",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyzjgz9d1wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Mon, 31 Aug 2026 09:08:35 GMT"
-    },
-    {
-      "title": "【解説】米・カナダの貿易戦争を五つの図表から見る",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjdvengp5n0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
+      "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Mon, 31 Aug 2026 08:12:15 GMT"
+      "published_at": "Tue, 01 Sep 2026 04:57:45 GMT"
     },
     {
-      "title": "ネパールの山道、大雨で救援車両が立ち往生　BBC現地取材",
+      "title": "メッシさん、アルゼンチン代表引退を表明　「ささげられるものは何も残っていない」",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cde0995g197o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cwyz728q150o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Tue, 01 Sep 2026 04:52:48 GMT"
+    },
+    {
+      "title": "【解説】米・ヴェネズエラの石油取引、なぜ問題になっているのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c2dw38n0l6xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Mon, 31 Aug 2026 07:01:03 GMT"
+      "published_at": "Tue, 01 Sep 2026 05:05:33 GMT"
     },
     {
-      "title": "キーウ近郊の住宅地付近で弾薬庫が攻撃され少なくとも37人死亡　ウクライナ当局は規則違反を捜査",
+      "title": "「仕事を増やしたくない」と失踪事件を捜査せず……韓国で警官を訴追、大統領は警察改革を約束",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2zy7n4qp6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c1e5z5641nqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Mon, 31 Aug 2026 04:04:14 GMT"
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Tue, 01 Sep 2026 12:56:10 GMT"
     },
     {
-      "title": "NASA、強力な宇宙望遠鏡を打ち上げ　宇宙を知るうえで「大きな飛躍」",
+      "title": "米最高裁、トランプ氏によるホワイトハウス「宴会場」建設続行を認める",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp84q3r97y8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ce87jl31j10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 01 Sep 2026 02:17:17 GMT"
+    },
+    {
+      "title": "米著名ラッパー2パックさん殺害、30年越しに元ギャングリーダーに有罪評決",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crm970l3vp3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Mon, 31 Aug 2026 07:45:42 GMT"
+      "published_at": "Tue, 01 Sep 2026 07:05:13 GMT"
+    },
+    {
+      "title": "米メトロポリタン美術館のガリアーノ展、批判され中止に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c39m12x07nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 01 Sep 2026 04:56:16 GMT"
     }
   ]
 }
