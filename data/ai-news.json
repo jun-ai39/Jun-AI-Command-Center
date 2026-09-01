@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-08-31",
+  "verified_at": "2026-09-01",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,39 @@
     }
   ],
   "items": [
+    {
+      "id": "google-5c8787f86ace",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-01",
+      "category": "model",
+      "title_ja": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+      "original_title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/"
+    },
+    {
+      "id": "openai-0b5a688ac445",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-31",
+      "category": "model",
+      "title_ja": "Polimill builds Japan's next-generation public AI infrastructure",
+      "original_title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary_ja": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "url": "https://openai.com/index/polimill"
+    },
+    {
+      "id": "openai-8a7cdd78fd48",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-08-31",
+      "category": "model",
+      "title_ja": "A milestone in expanding access to AI",
+      "original_title": "A milestone in expanding access to AI",
+      "summary_ja": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    },
     {
       "id": "google-9415753715d7",
       "source": "google",
@@ -165,17 +198,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/"
     },
     {
-      "id": "google-95b7ebc1937a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-27",
-      "category": "model",
-      "title_ja": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "original_title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/"
-    },
-    {
       "id": "openai-832a12c8f33a",
       "source": "openai",
       "source_name": "OpenAI",
@@ -220,28 +242,6 @@
       "url": "https://openai.com/index/loveholidays"
     },
     {
-      "id": "openai-51cfe3db04ed",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-25",
-      "category": "business",
-      "title_ja": "The full stack behind abundant intelligence",
-      "original_title": "The full stack behind abundant intelligence",
-      "summary_ja": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
-    },
-    {
-      "id": "openai-b9406ae170bd",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-25",
-      "category": "model",
-      "title_ja": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "original_title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "summary_ja": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "url": "https://openai.com/index/jalapeno-first-results"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-08-30T23:28:03+00:00",
+  "updated_at": "2026-09-01T00:36:03+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

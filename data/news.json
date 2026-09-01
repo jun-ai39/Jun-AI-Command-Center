@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-08-30T23:28:02+00:00",
+  "updated_at": "2026-09-01T00:36:03+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ネパール・中国国境の土石流、死者少なくとも計690人超に　行方不明者は計3000人超",
+      "title": "アメリカが数週間ぶりにイランを攻撃、ホルムズ海峡・ララク島のミサイル発射装置が標的と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cvgye44vyjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Mon, 31 Aug 2026 03:22:43 GMT"
+    },
+    {
+      "title": "旧統一教会トップに懲役2年の実刑判決、前大統領妻に金品供与などの罪　韓国裁判所",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c0m31w8kdy8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "asia",
-      "published_at": "Sun, 30 Aug 2026 02:04:37 GMT"
+      "published_at": "Mon, 31 Aug 2026 08:39:02 GMT"
     },
     {
-      "title": "ノルウェーでホーコン8世が即位、前国王ハーラル5世の死去を悼むなか",
+      "title": "ネパール・中国国境の土石流で死者計900人超、行方不明者計約4800人に　ネパールの学校では洪水直前に900人が無事避難",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5ywx17zgyyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c7v4d6j360jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 29 Aug 2026 03:45:27 GMT"
-    },
-    {
-      "title": "【解説】チベット土石流の映像、中国で放送されず　被災者情報も乏しく……BBC中国特派員",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cevw9rj3kd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "災害",
       "region": "asia",
-      "published_at": "Sat, 29 Aug 2026 03:29:54 GMT"
+      "published_at": "Mon, 31 Aug 2026 06:38:23 GMT"
     },
     {
-      "title": "スペイン飛び地セウタで移民危機続く、反移民デモや暴力が増加",
+      "title": "イランとの戦争開始から6カ月、トランプ米大統領は何を成し遂げたのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c07l97y7vpko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c8r65jv283do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Mon, 31 Aug 2026 05:00:35 GMT"
+    },
+    {
+      "title": "新学年の開始前に1200万冊の本を破壊、ウクライナの文化を攻撃するロシア",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyzjgz9d1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
       "region": "europe",
-      "published_at": "Sat, 29 Aug 2026 05:11:12 GMT"
+      "published_at": "Mon, 31 Aug 2026 09:08:35 GMT"
     },
     {
-      "title": "【分析】 ネパール・中国国境の土石流、経路と被害をたどる",
+      "title": "【解説】米・カナダの貿易戦争を五つの図表から見る",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5yexjwnq14o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cjdvengp5n0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 28 Aug 2026 08:10:06 GMT"
-    },
-    {
-      "title": "泥の中から救出される人々……ネパール北部の土石流被災地",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2zd72le3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 28 Aug 2026 03:15:58 GMT"
-    },
-    {
-      "title": "旧ユーゴのムラディッチ受刑者が死亡、ボスニアでの虐殺で終身刑",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgyxnklxv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 28 Aug 2026 05:51:29 GMT"
-    },
-    {
-      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/czez3y8zd50o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "経済",
       "region": "north-america",
-      "published_at": "Fri, 28 Aug 2026 06:50:43 GMT"
+      "published_at": "Mon, 31 Aug 2026 08:12:15 GMT"
     },
     {
-      "title": "AIのリアルタイム支援による世界初の脳外科手術、腫瘍摘出に成功　ロンドンの病院で",
+      "title": "ネパールの山道、大雨で救援車両が立ち往生　BBC現地取材",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2zmev8pg1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cde0995g197o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 28 Aug 2026 02:11:44 GMT"
+      "region": "global",
+      "published_at": "Mon, 31 Aug 2026 07:01:03 GMT"
+    },
+    {
+      "title": "キーウ近郊の住宅地付近で弾薬庫が攻撃され少なくとも37人死亡　ウクライナ当局は規則違反を捜査",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2zy7n4qp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Mon, 31 Aug 2026 04:04:14 GMT"
+    },
+    {
+      "title": "NASA、強力な宇宙望遠鏡を打ち上げ　宇宙を知るうえで「大きな飛躍」",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cp84q3r97y8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 31 Aug 2026 07:45:42 GMT"
     }
   ]
 }
