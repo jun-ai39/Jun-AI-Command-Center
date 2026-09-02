@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-02",
+  "verified_at": "2026-09-03",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,61 @@
   ],
   "items": [
     {
+      "id": "google-b263b9cf94a6",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-03",
+      "category": "product",
+      "title_ja": "Build a measurement stack you can rely on to steer your campaigns.",
+      "original_title": "Build a measurement stack you can rely on to steer your campaigns.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/"
+    },
+    {
+      "id": "google-0805b852647b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-03",
+      "category": "product",
+      "title_ja": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "original_title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/"
+    },
+    {
+      "id": "google-5eb2aa71a90a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-03",
+      "category": "business",
+      "title_ja": "Proactive cyber defense for governments and enterprises",
+      "original_title": "Proactive cyber defense for governments and enterprises",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+    },
+    {
+      "id": "google-1e5b8618d900",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-03",
+      "category": "model",
+      "title_ja": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "original_title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+    },
+    {
+      "id": "openai-3bda12e16fd3",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-02",
+      "category": "model",
+      "title_ja": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "original_title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary_ja": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "url": "https://openai.com/index/atv-big-air-tour"
+    },
+    {
       "id": "openai-b0cbef382238",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +86,28 @@
       "original_title": "How AI-native companies turn workflows into operating capability",
       "summary_ja": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "url": "https://openai.com/index/ai-native-company-workflows"
+    },
+    {
+      "id": "google-60536199b249",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-02",
+      "category": "model",
+      "title_ja": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
+      "original_title": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/"
+    },
+    {
+      "id": "google-51ee4d1d7448",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-02",
+      "category": "product",
+      "title_ja": "Our new partnership brings long-duration energy storage to West Virginia.",
+      "original_title": "Our new partnership brings long-duration energy storage to West Virginia.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-virginia-long-duration-energy-storage/"
     },
     {
       "id": "google-c97fc0583795",
@@ -88,6 +165,17 @@
       "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
     },
     {
+      "id": "openai-330fba64551d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-01",
+      "category": "business",
+      "title_ja": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "original_title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary_ja": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "url": "https://openai.com/index/gilbert-tobin"
+    },
+    {
       "id": "google-5c8787f86ace",
       "source": "google",
       "source_name": "Google",
@@ -132,17 +220,6 @@
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
     },
     {
-      "id": "google-9415753715d7",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-29",
-      "category": "model",
-      "title_ja": "We’re introducing flexible usage limits for Gemini Notebook.",
-      "original_title": "We’re introducing flexible usage limits for Gemini Notebook.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/"
-    },
-    {
       "id": "openai-b42ac281ecaf",
       "source": "openai",
       "source_name": "OpenAI",
@@ -163,83 +240,6 @@
       "original_title": "Supporting Thailand’s next generation of AI startups",
       "summary_ja": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
-    },
-    {
-      "id": "google-fbdfc2d343a8",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-28",
-      "category": "product",
-      "title_ja": "Expert Intelligence: a new way for you to engage with trusted content",
-      "original_title": "Expert Intelligence: a new way for you to engage with trusted content",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/"
-    },
-    {
-      "id": "google-a1c9c66d7311",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-28",
-      "category": "product",
-      "title_ja": "3 new ways to plan and book travel in Search",
-      "original_title": "3 new ways to plan and book travel in Search",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
-    },
-    {
-      "id": "google-7d8f7d49cd6d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-28",
-      "category": "model",
-      "title_ja": "Gemini Omni 1.1 Flash lets you build with more control",
-      "original_title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
-    },
-    {
-      "id": "google-134ef96bcea1",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-28",
-      "category": "education",
-      "title_ja": "Partnering with Khan Academy on building AI tools for classrooms",
-      "original_title": "Partnering with Khan Academy on building AI tools for classrooms",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/"
-    },
-    {
-      "id": "google-7da178756c06",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-08-28",
-      "category": "product",
-      "title_ja": "Google Flow brings new creative control features to enhance video editing.",
-      "original_title": "Google Flow brings new creative control features to enhance video editing.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/"
-    },
-    {
-      "id": "openai-5c8d75ef9c12",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-27",
-      "category": "education",
-      "title_ja": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "original_title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "summary_ja": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
-    },
-    {
-      "id": "openai-fe23f369e01d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-27",
-      "category": "business",
-      "title_ja": "Expanding OpenAI’s presence in Brazil",
-      "original_title": "Expanding OpenAI’s presence in Brazil",
-      "summary_ja": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-01T23:16:54+00:00",
+  "updated_at": "2026-09-02T23:17:42+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

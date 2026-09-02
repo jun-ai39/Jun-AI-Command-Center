@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T23:17:05+00:00",
+  "generated_at": "2026-09-02T23:17:53+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "「仕事を増やしたくない」と失踪事件を捜査せず……韓国で警官を訴追、大統領は警察改革を約束",
+      "title": "移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生　検察当局",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 01 Sep 2026 12:56:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c1e5z5641nqo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 02 Sep 2026 08:22:38 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cvgy5vqyg8zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】インドに巨額投資する日本企業、中国関連リスクが深まるなか",
+      "title": "【解説】なぜ日本企業はAIの活用に消極的なのか",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 01 Sep 2026 12:27:12 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cnvlq98gqeyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 02 Sep 2026 08:17:21 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cgjepx08396o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "土石流の死者、計1000人を超す　ネパールで水力発電所に閉じ込められた600人以上の救助活動続く",
+      "title": "フランス、ファストファッション製品に課金　中国「SHEIN」や「Temu」を標的に",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 01 Sep 2026 07:56:42 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c1j4gkx6rnyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 02 Sep 2026 07:28:37 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cjrxyl0wwzeo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：TOPIX連動ETF（参考値） +1.75%"
+      "detail": "最大変動：日経平均 -2.73%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -2.99%"
+      "detail": "最大変動：Ethereum -2.02%"
     },
     {
       "label": "市場心理",
-      "value": "69 / 100",
+      "value": "63 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "160.211 JPY",
-      "detail": "前日比 +0.60%"
+      "value": "158.848 JPY",
+      "detail": "前日比 -0.30%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "「仕事を増やしたくない」と失踪事件を捜査せず……韓国で警官を訴追、大統領は警察改革を約束",
+      "detail": "移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生　検察当局",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "TOPIX連動ETF（参考値）が前日比+1.75%です。",
+      "detail": "日経平均が前日比-2.73%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "normal"
+      "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは69（強欲）です。",
+      "detail": "Fear & Greed Indexは63（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-01T23:16:53+00:00",
-    "market": "2026-09-01T23:17:04+00:00"
+    "news": "2026-09-02T23:17:41+00:00",
+    "market": "2026-09-02T23:17:53+00:00"
   }
 }
