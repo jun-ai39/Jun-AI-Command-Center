@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-02T23:17:41+00:00",
+  "updated_at": "2026-09-03T23:15:31+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "米軍が空爆、結婚披露宴の4人死亡との報道　イランは報復攻撃",
+      "title": "ネパールと中国の国境検問所、土石流に飲まれる直前はどんな様子だったのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr4v22wqndqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Wed, 02 Sep 2026 02:40:45 GMT"
-    },
-    {
-      "title": "イスラエル外相、イギリスへの報復を警告　入植地めぐり制裁科した場合",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c4glp3p694go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Wed, 02 Sep 2026 05:09:08 GMT"
-    },
-    {
-      "title": "収監中の香港民主活動家、外国勢力との結託認める",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c62j5n43xzko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cwyzj0g2e3wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "asia",
-      "published_at": "Wed, 02 Sep 2026 05:47:39 GMT"
+      "published_at": "Thu, 03 Sep 2026 00:59:10 GMT"
     },
     {
-      "title": "ドイツの空港で見つかった爆発物搭載のドローン、「背後にロシア」と独政府",
+      "title": "「泥しか残っていない」　土石流に飲み込まれたネパールの村をBBCが現地取材",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce8em105dx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 02 Sep 2026 03:55:01 GMT"
-    },
-    {
-      "title": "スターマー前英首相が下院議員辞任を発表、国際問題などに専念と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c98611xj4ldo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cn4ky9ydx2no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 02 Sep 2026 04:15:53 GMT"
+      "published_at": "Thu, 03 Sep 2026 03:56:34 GMT"
     },
     {
-      "title": "【解説】なぜ日本企業はAIの活用に消極的なのか",
+      "title": "【解説】 プーチン氏がイギリスに暗黙の脅し……ウクライナを支援する西側への作戦を拡大",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cgjepx08396o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c750707000zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Wed, 02 Sep 2026 08:17:21 GMT"
+      "region": "europe",
+      "published_at": "Thu, 03 Sep 2026 04:04:51 GMT"
     },
     {
-      "title": "米アップル、地図でオンタリオ湖の表記を「アメリカ湖」に変更",
+      "title": "オランダ、大量の金準備を北米からイギリスに移す　地政学的不安を理由に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3wj1x1l3eeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c5yw0ryg4e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Wed, 02 Sep 2026 03:30:55 GMT"
+      "published_at": "Thu, 03 Sep 2026 03:14:02 GMT"
     },
     {
-      "title": "移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生　検察当局",
+      "title": "航空各社はロシア領空を避けるべきとゼレンスキー氏　ウクライナがドローン作戦を強化",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgy5vqyg8zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cy4zlx0jkv4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Wed, 02 Sep 2026 08:22:38 GMT"
+      "published_at": "Thu, 03 Sep 2026 06:38:48 GMT"
     },
     {
-      "title": "フランス、ファストファッション製品に課金　中国「SHEIN」や「Temu」を標的に",
+      "title": "ハリー英王子夫妻が帰国して「うれしい」　トランプ米大統領、記者の質問に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjrxyl0wwzeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c8d34zzezldo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 02 Sep 2026 07:28:37 GMT"
+      "region": "north-america",
+      "published_at": "Thu, 03 Sep 2026 04:38:04 GMT"
+    },
+    {
+      "title": "サウジアラビア、タンカーがイランに攻撃されたと非難　フィリピン人船員2人死亡か",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr7d27dkn15o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Thu, 03 Sep 2026 08:55:22 GMT"
+    },
+    {
+      "title": "冷水で作るカップめん？　日本で話題の軽食をBBC東京特派員が試食",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c0j3gjxjdp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Thu, 03 Sep 2026 08:47:39 GMT"
+    },
+    {
+      "title": "浮島が出現、消滅、そして再出現……カナダの淡水湖",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cyvzenm13dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Thu, 03 Sep 2026 02:54:06 GMT"
     }
   ]
 }

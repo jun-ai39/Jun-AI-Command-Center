@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T23:17:53+00:00",
+  "generated_at": "2026-09-03T23:15:43+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生　検察当局",
-      "category": "世界情勢",
+      "title": "サウジアラビア、タンカーがイランに攻撃されたと非難　フィリピン人船員2人死亡か",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 02 Sep 2026 08:22:38 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cvgy5vqyg8zo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 03 Sep 2026 08:55:22 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cr7d27dkn15o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】なぜ日本企業はAIの活用に消極的なのか",
+      "title": "冷水で作るカップめん？　日本で話題の軽食をBBC東京特派員が試食",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 02 Sep 2026 08:17:21 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cgjepx08396o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 03 Sep 2026 08:47:39 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c0j3gjxjdp6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "フランス、ファストファッション製品に課金　中国「SHEIN」や「Temu」を標的に",
+      "title": "航空各社はロシア領空を避けるべきとゼレンスキー氏　ウクライナがドローン作戦を強化",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 02 Sep 2026 07:28:37 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cjrxyl0wwzeo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 03 Sep 2026 06:38:48 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cy4zlx0jkv4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -2.73%"
+      "value": "上昇 3・下落 2・横ばい 0",
+      "detail": "最大変動：日経平均 -3.30%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Ethereum -2.02%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：XRP +5.74%"
     },
     {
       "label": "市場心理",
-      "value": "63 / 100",
+      "value": "65 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "158.848 JPY",
-      "detail": "前日比 -0.30%"
+      "value": "156.060 JPY",
+      "detail": "前日比 -2.54%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "移民が大規模流入のスペイン飛び地セウタ、性的暴行が「ほぼ毎日」発生　検察当局",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "サウジアラビア、タンカーがイランに攻撃されたと非難　フィリピン人船員2人死亡か",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-2.73%です。",
+      "detail": "日経平均が前日比-3.30%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは63（強欲）です。",
+      "detail": "Fear & Greed Indexは65（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-02T23:17:41+00:00",
-    "market": "2026-09-02T23:17:53+00:00"
+    "news": "2026-09-03T23:15:31+00:00",
+    "market": "2026-09-03T23:15:43+00:00"
   }
 }
