@@ -1,25 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-03T23:15:31+00:00",
+  "updated_at": "2026-09-04T23:02:06+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ネパールと中国の国境検問所、土石流に飲まれる直前はどんな様子だったのか",
+      "title": "ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyzj0g2e3wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 03 Sep 2026 00:59:10 GMT"
-    },
-    {
-      "title": "「泥しか残っていない」　土石流に飲み込まれたネパールの村をBBCが現地取材",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn4ky9ydx2no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c3re878ypd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Thu, 03 Sep 2026 03:56:34 GMT"
+      "published_at": "Fri, 04 Sep 2026 14:14:06 GMT"
+    },
+    {
+      "title": "ネパールの地下トンネルから作業員が救出される瞬間",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm2741zv9wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 04 Sep 2026 06:45:58 GMT"
+    },
+    {
+      "title": "英仏首脳、小型ボートや国際情勢での関係強化を確認　大英博物館ではチャールズ国王と「バイユーのタペストリー」を観覧",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c1dlrq4er1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "europe",
+      "published_at": "Fri, 04 Sep 2026 04:09:36 GMT"
+    },
+    {
+      "title": "EUとNATO、ロシアへの圧力強化を誓う　ドイツでの「新たなエスカレーション」受け",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckgxzr93v08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 04 Sep 2026 01:38:23 GMT"
+    },
+    {
+      "title": "英ファラージ氏の側近、外国から献金確保のため法回避の方法提案　潜入取材映像を英チャンネル4が報道",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cgmr8z88n1no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 04 Sep 2026 07:52:51 GMT"
+    },
+    {
+      "title": "イスラエル人入植者がヨルダン川西岸の村を襲撃、10代のパレスチナ人2人死亡と地元当局",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cz0z1yx9zjzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Fri, 04 Sep 2026 01:53:44 GMT"
+    },
+    {
+      "title": "イランの主張を調査中とヴァンス氏、米軍のミサイルが結婚披露宴を直撃か",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c4gq2ep8ldyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Fri, 04 Sep 2026 01:55:20 GMT"
+    },
+    {
+      "title": "アメリカ国籍の「出生地主義」制限するトランプ氏の命令、連邦地裁が差し止め",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c87vp4x9q4ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 04 Sep 2026 04:19:27 GMT"
     },
     {
       "title": "【解説】 プーチン氏がイギリスに暗黙の脅し……ウクライナを支援する西側への作戦を拡大",
@@ -29,60 +83,6 @@
       "category": "世界情勢",
       "region": "europe",
       "published_at": "Thu, 03 Sep 2026 04:04:51 GMT"
-    },
-    {
-      "title": "オランダ、大量の金準備を北米からイギリスに移す　地政学的不安を理由に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5yw0ryg4e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 03 Sep 2026 03:14:02 GMT"
-    },
-    {
-      "title": "航空各社はロシア領空を避けるべきとゼレンスキー氏　ウクライナがドローン作戦を強化",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy4zlx0jkv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 03 Sep 2026 06:38:48 GMT"
-    },
-    {
-      "title": "ハリー英王子夫妻が帰国して「うれしい」　トランプ米大統領、記者の質問に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8d34zzezldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 03 Sep 2026 04:38:04 GMT"
-    },
-    {
-      "title": "サウジアラビア、タンカーがイランに攻撃されたと非難　フィリピン人船員2人死亡か",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr7d27dkn15o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Thu, 03 Sep 2026 08:55:22 GMT"
-    },
-    {
-      "title": "冷水で作るカップめん？　日本で話題の軽食をBBC東京特派員が試食",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c0j3gjxjdp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Thu, 03 Sep 2026 08:47:39 GMT"
-    },
-    {
-      "title": "浮島が出現、消滅、そして再出現……カナダの淡水湖",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cyvzenm13dlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 03 Sep 2026 02:54:06 GMT"
     }
   ]
 }

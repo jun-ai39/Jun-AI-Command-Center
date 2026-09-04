@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-04",
+  "verified_at": "2026-09-05",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,17 @@
     }
   ],
   "items": [
+    {
+      "id": "google-d0b16425fcb6",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-05",
+      "category": "model",
+      "title_ja": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+      "original_title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/"
+    },
     {
       "id": "google-a5536cd7efe5",
       "source": "google",
@@ -77,17 +88,6 @@
       "url": "https://openai.com/index/daybreak-for-frontline-defenders"
     },
     {
-      "id": "openai-9281d6906e83",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-03",
-      "category": "model",
-      "title_ja": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "original_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary_ja": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
       "id": "openai-325e9dcd840a",
       "source": "openai",
       "source_name": "OpenAI",
@@ -97,6 +97,17 @@
       "original_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "summary_ja": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "id": "openai-9281d6906e83",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-03",
+      "category": "model",
+      "title_ja": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "original_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary_ja": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
     },
     {
       "id": "openai-39210f987919",
@@ -187,17 +198,6 @@
       "url": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/"
     },
     {
-      "id": "google-51ee4d1d7448",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-02",
-      "category": "product",
-      "title_ja": "Our new partnership brings long-duration energy storage to West Virginia.",
-      "original_title": "Our new partnership brings long-duration energy storage to West Virginia.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-virginia-long-duration-energy-storage/"
-    },
-    {
       "id": "openai-f2694bfa96c4",
       "source": "openai",
       "source_name": "OpenAI",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-03T23:15:32+00:00",
+  "updated_at": "2026-09-04T23:02:07+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

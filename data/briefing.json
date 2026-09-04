@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T23:15:43+00:00",
+  "generated_at": "2026-09-04T23:02:17+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "サウジアラビア、タンカーがイランに攻撃されたと非難　フィリピン人船員2人死亡か",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Thu, 03 Sep 2026 08:55:22 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cr7d27dkn15o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "冷水で作るカップめん？　日本で話題の軽食をBBC東京特派員が試食",
+      "title": "ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 03 Sep 2026 08:47:39 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c0j3gjxjdp6o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 04 Sep 2026 14:14:06 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c3re878ypd3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "航空各社はロシア領空を避けるべきとゼレンスキー氏　ウクライナがドローン作戦を強化",
+      "title": "英ファラージ氏の側近、外国から献金確保のため法回避の方法提案　潜入取材映像を英チャンネル4が報道",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 03 Sep 2026 06:38:48 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cy4zlx0jkv4o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 04 Sep 2026 07:52:51 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cgmr8z88n1no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "ネパールの地下トンネルから作業員が救出される瞬間",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 04 Sep 2026 06:45:58 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm2741zv9wyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 3・下落 2・横ばい 0",
-      "detail": "最大変動：日経平均 -3.30%"
+      "value": "上昇 2・下落 3・横ばい 0",
+      "detail": "最大変動：日経平均 -1.95%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +5.74%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -4.09%"
     },
     {
       "label": "市場心理",
-      "value": "65 / 100",
+      "value": "74 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "156.060 JPY",
-      "detail": "前日比 -2.54%"
+      "value": "156.221 JPY",
+      "detail": "前日比 -2.44%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "サウジアラビア、タンカーがイランに攻撃されたと非難　フィリピン人船員2人死亡か",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.30%です。",
+      "detail": "日経平均が前日比-1.95%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "alert"
+      "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは65（強欲）です。",
+      "detail": "Fear & Greed Indexは74（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-03T23:15:31+00:00",
-    "market": "2026-09-03T23:15:43+00:00"
+    "news": "2026-09-04T23:02:06+00:00",
+    "market": "2026-09-04T23:02:17+00:00"
   }
 }
