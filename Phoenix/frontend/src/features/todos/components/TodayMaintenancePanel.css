@@ -1,0 +1,360 @@
+.today-maintenance-section {
+  margin-top: 96px;
+}
+
+.today-maintenance-section-heading {
+  margin-bottom: 24px;
+}
+
+.today-maintenance-panel {
+  padding: 24px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background:
+    linear-gradient(145deg, var(--accent-soft), transparent 58%), var(--surface);
+}
+
+.today-maintenance-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.today-maintenance-heading > div {
+  min-width: 0;
+}
+
+.today-maintenance-heading span,
+.maintenance-schedule-group-heading span {
+  color: var(--accent);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+
+.today-maintenance-heading h3 {
+  margin: 7px 0 0;
+  color: var(--text-strong);
+  font-size: 1.15rem;
+}
+
+.today-maintenance-heading > strong {
+  flex: 0 0 auto;
+  padding: 7px 10px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+}
+
+.today-maintenance-heading > strong.has-work {
+  color: var(--warning);
+  background: var(--warning-soft);
+}
+
+.today-maintenance-heading > strong.is-clear {
+  color: var(--success);
+  background: var(--success-soft);
+}
+
+.today-maintenance-intro {
+  margin: 12px 0 22px;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  line-height: 1.7;
+}
+
+.today-maintenance-state {
+  min-height: 150px;
+  margin: 0;
+  padding: 22px;
+  display: grid;
+  place-items: center;
+  border: 1px dashed var(--border);
+  border-radius: 14px;
+  color: var(--text-muted);
+  text-align: center;
+  font-size: 0.8rem;
+  line-height: 1.7;
+}
+
+.today-maintenance-state.is-error {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.today-maintenance-state.is-error p {
+  margin-bottom: 12px;
+}
+
+.today-maintenance-state button {
+  min-height: 46px;
+  padding: 0 16px;
+  border: 1px solid var(--accent-border);
+  border-radius: 11px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font: inherit;
+  font-size: 0.76rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.maintenance-schedule-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.maintenance-schedule-group {
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: rgba(4, 13, 22, 0.62);
+}
+
+.maintenance-schedule-group.is-overdue {
+  border-color: rgba(255, 123, 139, 0.34);
+}
+
+.maintenance-schedule-group.is-today {
+  border-color: rgba(78, 215, 255, 0.3);
+}
+
+.maintenance-schedule-group-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.maintenance-schedule-group-heading h4 {
+  margin: 5px 0 0;
+  color: var(--text-strong);
+  font-size: 0.95rem;
+}
+
+.maintenance-schedule-group-heading > strong {
+  flex: 0 0 auto;
+  padding: 5px 8px;
+  border-radius: 999px;
+  color: var(--text-muted);
+  background: var(--surface-muted);
+  font-size: 0.65rem;
+}
+
+.maintenance-schedule-group.is-overdue
+  .maintenance-schedule-group-heading
+  > strong {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.maintenance-schedule-group.is-today
+  .maintenance-schedule-group-heading
+  > strong {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.maintenance-schedule-group ul {
+  margin: 14px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+  list-style: none;
+}
+
+.maintenance-schedule-group li {
+  min-width: 0;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: #07111c;
+}
+
+.maintenance-schedule-item-copy {
+  min-width: 0;
+}
+
+.maintenance-schedule-item-copy > span,
+.maintenance-schedule-item-copy > strong,
+.maintenance-schedule-item-copy > small {
+  display: block;
+  overflow-wrap: anywhere;
+}
+
+.maintenance-schedule-item-copy > .maintenance-schedule-equipment {
+  width: fit-content;
+  max-width: 100%;
+  margin-top: 7px;
+  padding: 5px 7px;
+  border: 1px solid rgba(78, 215, 255, 0.24);
+  border-radius: 8px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-weight: 800;
+}
+
+.maintenance-schedule-item-copy > .maintenance-schedule-equipment.is-loading,
+.maintenance-schedule-item-copy
+  > .maintenance-schedule-equipment.is-unavailable {
+  border-color: var(--border);
+  color: var(--text-muted);
+  background: var(--surface-muted);
+}
+
+.maintenance-schedule-due {
+  width: fit-content;
+  padding: 4px 7px;
+  border-radius: 999px;
+  font-size: 0.58rem;
+  font-weight: 800;
+}
+
+.maintenance-schedule-due.is-overdue {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.maintenance-schedule-due.is-today {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.maintenance-schedule-item-copy > strong {
+  margin-top: 7px;
+  color: var(--text-strong);
+  font-size: 0.8rem;
+}
+
+.maintenance-schedule-item-copy > small {
+  margin-top: 5px;
+  color: var(--text-muted);
+  font-size: 0.64rem;
+  line-height: 1.5;
+}
+
+.maintenance-schedule-group li > button {
+  min-width: 66px;
+  min-height: 44px;
+  flex: 0 0 auto;
+  padding: 0 12px;
+  border: 1px solid var(--accent-border);
+  border-radius: 10px;
+  color: #041018;
+  background: linear-gradient(135deg, #67e8f9, #62e6aa);
+  font-size: 0.72rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.maintenance-schedule-group li > button:disabled {
+  cursor: wait;
+  opacity: 0.62;
+}
+
+.maintenance-schedule-group-empty {
+  min-height: 90px;
+  margin: 14px 0 0;
+  padding: 14px;
+  display: grid;
+  place-items: center;
+  border: 1px dashed var(--border);
+  border-radius: 11px;
+  color: var(--text-muted);
+  text-align: center;
+  font-size: 0.7rem;
+}
+
+.today-maintenance-clear-message {
+  margin: 14px 0 0;
+  color: var(--success);
+  text-align: center;
+  font-size: 0.74rem;
+}
+
+.today-maintenance-mutation-error {
+  margin: 14px 0 0;
+  padding: 12px;
+  border: 1px solid rgba(255, 123, 139, 0.28);
+  border-radius: 11px;
+  color: var(--error);
+  background: var(--error-soft);
+  font-size: 0.74rem;
+  line-height: 1.6;
+}
+
+.today-maintenance-manage-link {
+  width: 100%;
+  min-height: 48px;
+  margin-top: 16px;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--accent-border);
+  border-radius: 12px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-size: 0.78rem;
+  font-family: inherit;
+  font-weight: 800;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.today-maintenance-manage-link:hover {
+  border-color: var(--accent);
+}
+
+.today-maintenance-manage-link:focus-visible {
+  outline: 3px solid var(--accent-soft);
+  outline-offset: 3px;
+}
+
+@media (max-width: 760px) {
+  .maintenance-schedule-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 520px) {
+  .today-maintenance-section {
+    margin-top: 64px;
+  }
+
+  .today-maintenance-section-heading,
+  .today-maintenance-heading,
+  .maintenance-schedule-group-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .today-maintenance-panel {
+    padding: 20px 14px;
+  }
+
+  .today-maintenance-heading > strong,
+  .maintenance-schedule-group-heading > strong {
+    align-self: flex-start;
+  }
+
+  .maintenance-schedule-group {
+    padding: 14px;
+  }
+
+  .maintenance-schedule-group li {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .maintenance-schedule-group li > button {
+    width: 100%;
+  }
+}

@@ -1,0 +1,95 @@
+:root {
+  font-family:
+    Inter, 'Noto Sans JP', 'Yu Gothic UI', Meiryo, system-ui, sans-serif;
+  font-size: 16px;
+  color: #d7e2ee;
+  background: var(--page-background);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --page-background: #050b12;
+  --page-glow: rgba(40, 105, 151, 0.2);
+  --surface: rgba(13, 26, 40, 0.84);
+  --surface-muted: rgba(10, 21, 33, 0.68);
+  --border: rgba(137, 170, 201, 0.16);
+  --accent: #4ed7ff;
+  --accent-border: rgba(78, 215, 255, 0.3);
+  --accent-soft: rgba(78, 215, 255, 0.09);
+  --text-strong: #f4f9fd;
+  --text-muted: #8499ad;
+  --success: #62e6aa;
+  --success-soft: rgba(98, 230, 170, 0.1);
+  --warning: #ffd166;
+  --warning-soft: rgba(255, 209, 102, 0.1);
+  --error: #ff7b8b;
+  --error-soft: rgba(255, 123, 139, 0.1);
+}
+
+:root[data-phoenix-font-size='large'] {
+  font-size: 18px;
+}
+
+:root[data-phoenix-font-size='extra-large'] {
+  font-size: 20px;
+}
+
+:root[data-phoenix-background='soft-navy'] {
+  --page-background: #0b1826;
+  --page-glow: rgba(63, 137, 188, 0.2);
+  --surface: rgba(17, 38, 57, 0.9);
+  --surface-muted: rgba(13, 31, 48, 0.78);
+  --border: rgba(147, 186, 218, 0.2);
+}
+
+:root[data-phoenix-background='charcoal'] {
+  --page-background: #13171b;
+  --page-glow: rgba(112, 145, 164, 0.14);
+  --surface: rgba(28, 34, 40, 0.9);
+  --surface-muted: rgba(23, 28, 33, 0.8);
+  --border: rgba(180, 195, 207, 0.18);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+  scroll-behavior: smooth;
+  background:
+    radial-gradient(circle at 20% 0%, var(--page-glow), transparent 32%),
+    var(--page-background);
+}
+
+body {
+  min-width: 320px;
+  min-height: 100svh;
+  margin: 0;
+}
+
+button,
+a,
+input,
+textarea {
+  font: inherit;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+}
+
+::selection {
+  color: #041018;
+  background: var(--accent);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

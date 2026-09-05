@@ -1,0 +1,135 @@
+.equipment-change-history-form {
+  margin-top: 14px;
+  border: 1px solid var(--accent-border);
+  border-radius: 12px;
+  background: rgba(4, 13, 22, 0.4);
+}
+
+.equipment-change-history-form > summary {
+  min-height: 46px;
+  padding: 11px 14px;
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  font-size: 0.76rem;
+  font-weight: 850;
+  cursor: pointer;
+}
+
+.equipment-change-history-form > form {
+  padding: 0 14px 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.equipment-change-history-form-intro,
+.equipment-change-history-form-disabled {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  line-height: 1.7;
+}
+
+.equipment-change-history-form-disabled {
+  padding: 0 14px 14px;
+}
+
+.equipment-change-history-form label {
+  min-width: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.equipment-change-history-form label > span {
+  color: var(--text-strong);
+  font-size: 0.7rem;
+  font-weight: 800;
+}
+
+.equipment-change-history-form input,
+.equipment-change-history-form textarea,
+.equipment-change-history-form select {
+  width: 100%;
+  min-height: 44px;
+  padding: 10px 11px;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  color: var(--text-strong);
+  background: #07111c;
+  font: inherit;
+  font-size: 0.76rem;
+}
+
+.equipment-change-history-form textarea {
+  min-height: 96px;
+  resize: vertical;
+  line-height: 1.6;
+}
+
+.equipment-change-history-form input:focus-visible,
+.equipment-change-history-form textarea:focus-visible,
+.equipment-change-history-form select:focus-visible,
+.equipment-change-history-form button:focus-visible,
+.equipment-change-history-form > summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.equipment-change-history-form label > small {
+  color: var(--text-muted);
+  font-size: 0.62rem;
+  line-height: 1.6;
+}
+
+.equipment-change-history-form-errors,
+.equipment-change-history-form-error,
+.equipment-change-history-form-saved {
+  margin: 0;
+  padding: 11px 12px;
+  border-radius: 10px;
+  font-size: 0.7rem;
+  line-height: 1.65;
+}
+
+.equipment-change-history-form-errors,
+.equipment-change-history-form-error {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.equipment-change-history-form-errors ul {
+  margin: 6px 0 0;
+  padding-left: 18px;
+}
+
+.equipment-change-history-form-saved {
+  color: var(--success);
+  background: var(--success-soft);
+}
+
+.equipment-change-history-form button[type='submit'] {
+  min-height: 46px;
+  padding: 11px 15px;
+  border: 1px solid var(--accent);
+  border-radius: 10px;
+  color: #03121b;
+  background: var(--accent);
+  font: inherit;
+  font-size: 0.76rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.equipment-change-history-form button[type='submit']:disabled {
+  cursor: wait;
+  opacity: 0.58;
+}
+
+@media (max-width: 420px) {
+  .equipment-change-history-form > summary,
+  .equipment-change-history-form > form,
+  .equipment-change-history-form-disabled {
+    padding-right: 11px;
+    padding-left: 11px;
+  }
+}

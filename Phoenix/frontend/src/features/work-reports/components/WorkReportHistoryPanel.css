@@ -1,0 +1,413 @@
+.work-report-history-section {
+  margin-top: 32px;
+}
+
+.work-report-history-search {
+  margin-bottom: 14px;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface-muted);
+}
+
+.work-report-history-search-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.work-report-history-search-heading > div {
+  min-width: 0;
+}
+
+.work-report-history-search-heading span {
+  color: var(--accent);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+
+.work-report-history-search-heading h3 {
+  margin: 7px 0 0;
+  color: var(--text-strong);
+  font-size: 1.05rem;
+}
+
+.work-report-history-search-heading > strong {
+  flex: 0 0 auto;
+  padding: 6px 9px;
+  border-radius: 999px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-size: 0.66rem;
+}
+
+.work-report-history-search-intro {
+  margin: 10px 0 16px;
+  color: var(--text-muted);
+  font-size: 0.74rem;
+  line-height: 1.7;
+}
+
+.work-report-history-search-grid {
+  display: grid;
+  grid-template-columns: minmax(150px, 0.8fr) minmax(160px, 1fr) minmax(
+      220px,
+      1.4fr
+    );
+  gap: 12px;
+}
+
+.work-report-history-search label {
+  min-width: 0;
+}
+
+.work-report-history-search label > span {
+  margin-bottom: 8px;
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.work-report-history-search input,
+.work-report-history-search select {
+  width: 100%;
+  min-width: 0;
+  min-height: 48px;
+  padding: 11px 13px;
+  border: 1px solid var(--border);
+  border-radius: 11px;
+  outline: none;
+  color: var(--text-strong);
+  background: rgba(4, 13, 22, 0.72);
+  font: inherit;
+}
+
+.work-report-history-search input:focus-visible,
+.work-report-history-search select:focus-visible {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.work-report-history-advanced-search {
+  margin-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+.work-report-history-advanced-search summary {
+  min-height: 46px;
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.work-report-history-advanced-search label {
+  max-width: 320px;
+  padding: 0 0 12px;
+  display: block;
+}
+
+.work-report-history-search-error {
+  margin: 12px 0 0;
+  padding: 11px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  border: 1px solid rgba(255, 123, 139, 0.3);
+  border-radius: 11px;
+  color: var(--error);
+  background: var(--error-soft);
+  font-size: 0.7rem;
+  line-height: 1.6;
+}
+
+.work-report-history-search-actions {
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 9px;
+}
+
+.work-report-history-search button {
+  min-height: 48px;
+  padding: 10px 15px;
+  border: 1px solid var(--accent-border);
+  border-radius: 11px;
+  color: #041018;
+  background: var(--accent);
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.work-report-history-search button.is-secondary {
+  color: var(--accent);
+  background: transparent;
+}
+
+.work-report-history-search button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.work-report-history-surface {
+  min-width: 0;
+  scroll-margin-top: 18px;
+  padding: 24px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: var(--surface);
+}
+
+.work-report-history-surface:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.work-report-history-summary {
+  margin: 0 0 18px;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+}
+
+.work-report-history-summary strong {
+  color: var(--text-strong);
+}
+
+.work-report-history-list {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  list-style: none;
+}
+
+.work-report-history-list > li {
+  min-width: 0;
+}
+
+.work-report-history-card {
+  height: 100%;
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface-muted);
+}
+
+.work-report-history-card-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.work-report-history-card-heading > div {
+  min-width: 0;
+}
+
+.work-report-history-card time {
+  color: var(--accent);
+  font-size: 0.68rem;
+  font-weight: 800;
+}
+
+.work-report-history-card h3 {
+  margin: 8px 0 0;
+  color: var(--text-strong);
+  font-size: 0.94rem;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.work-report-history-card-heading > span {
+  flex: 0 0 auto;
+  padding: 5px 8px;
+  border-radius: 999px;
+  color: var(--success);
+  background: var(--success-soft);
+  font-size: 0.64rem;
+  font-weight: 800;
+}
+
+.work-report-history-card dl {
+  margin: 16px 0 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.work-report-history-card dl > div {
+  min-width: 0;
+  padding: 9px 10px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.work-report-history-card dt {
+  color: var(--text-muted);
+  font-size: 0.62rem;
+  font-weight: 800;
+}
+
+.work-report-history-card dd {
+  margin: 5px 0 0;
+  color: var(--text-strong);
+  font-size: 0.75rem;
+  overflow-wrap: anywhere;
+}
+
+.work-report-history-card details {
+  margin-top: 12px;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+}
+
+.work-report-history-card summary {
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.work-report-history-card details p {
+  margin: 3px 0 0;
+  color: var(--text-muted);
+  line-height: 1.7;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.work-report-history-edit-button {
+  width: 100%;
+  min-height: 44px;
+  margin-top: 14px;
+  padding: 9px 12px;
+  border: 1px solid var(--accent-border);
+  border-radius: 10px;
+  color: var(--accent);
+  background: transparent;
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.work-report-history-edit-button:focus-visible {
+  outline: 2px solid var(--text-strong);
+  outline-offset: 3px;
+}
+
+.work-report-history-update-success {
+  margin: 0 0 14px;
+  padding: 13px 15px;
+  border: 1px solid rgba(98, 230, 170, 0.4);
+  border-radius: 12px;
+  color: var(--success);
+  background: var(--success-soft);
+  font-size: 0.76rem;
+  font-weight: 800;
+  line-height: 1.7;
+}
+
+.work-report-history-limit-note {
+  margin: 16px 0 0;
+  color: var(--warning);
+  font-size: 0.68rem;
+}
+
+.work-report-history-state {
+  min-height: 120px;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  line-height: 1.8;
+  text-align: center;
+}
+
+.work-report-history-state.is-error {
+  color: var(--error);
+}
+
+.work-report-history-state.is-error p {
+  margin: 0;
+}
+
+.work-report-history-state button {
+  min-height: 44px;
+  margin-top: 14px;
+  padding: 9px 14px;
+  border: 1px solid var(--accent-border);
+  border-radius: 10px;
+  color: #041018;
+  background: var(--accent);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+@media (max-width: 680px) {
+  .work-report-history-search-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .work-report-history-search-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .work-report-history-surface {
+    padding: 18px;
+  }
+
+  .work-report-history-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 360px) {
+  .work-report-history-search-actions {
+    grid-template-columns: 1fr;
+  }
+
+  .work-report-history-search {
+    padding: 14px;
+  }
+
+  .work-report-history-search-heading,
+  .work-report-history-search-error {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .work-report-history-search-heading > strong {
+    align-self: flex-start;
+  }
+
+  .work-report-history-card {
+    padding: 14px;
+  }
+
+  .work-report-history-card-heading {
+    display: grid;
+  }
+
+  .work-report-history-card-heading > span {
+    justify-self: start;
+  }
+
+  .work-report-history-card dl {
+    grid-template-columns: 1fr;
+  }
+}

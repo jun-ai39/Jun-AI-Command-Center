@@ -1,0 +1,480 @@
+.app-shell {
+  width: min(1180px, calc(100% - 32px));
+  min-height: 100svh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.session-preserved-operations {
+  display: contents;
+}
+
+.topbar {
+  min-height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--text-strong);
+  text-decoration: none;
+}
+
+.brand-mark {
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--accent-border);
+  border-radius: 14px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-weight: 800;
+}
+
+.brand strong,
+.brand small {
+  display: block;
+}
+
+.brand strong {
+  font-size: 0.9rem;
+  letter-spacing: 0.16em;
+}
+
+.brand small {
+  margin-top: 3px;
+  color: var(--text-muted);
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+}
+
+.system-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.topbar-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 18px;
+}
+
+.signed-in-user {
+  min-height: 48px;
+  padding: 6px 7px 6px 8px;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface-muted);
+}
+
+.signed-in-user-mark {
+  width: 32px;
+  height: 32px;
+  display: grid;
+  place-items: center;
+  border-radius: 10px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.signed-in-user-detail {
+  min-width: 84px;
+}
+
+.signed-in-user-detail small,
+.signed-in-user-detail strong {
+  display: block;
+}
+
+.signed-in-user-detail small {
+  color: var(--accent);
+  font-size: 0.6rem;
+}
+
+.signed-in-user-detail strong {
+  max-width: 150px;
+  margin-top: 2px;
+  overflow: hidden;
+  color: var(--text-strong);
+  font-size: 0.74rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.signed-in-user button {
+  min-height: 44px;
+  padding: 0 10px;
+  border: 1px solid var(--accent-border);
+  border-radius: 9px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-size: 0.7rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.signed-in-user button:disabled {
+  cursor: wait;
+  opacity: 0.55;
+}
+
+.session-operation-error {
+  margin: 14px 0 0;
+  padding: 12px 14px;
+  border: 1px solid rgba(255, 123, 139, 0.28);
+  border-radius: 12px;
+  color: var(--error);
+  background: var(--error-soft);
+  font-size: 0.76rem;
+}
+
+.system-status .status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.system-loading .status-dot {
+  background: var(--warning);
+  box-shadow: 0 0 16px var(--warning);
+  animation: status-pulse 1.4s ease-in-out infinite;
+}
+
+.system-online .status-dot {
+  background: var(--success);
+  box-shadow: 0 0 16px var(--success);
+}
+
+.system-offline .status-dot {
+  background: var(--error);
+  box-shadow: 0 0 16px var(--error);
+}
+
+main {
+  flex: 1;
+  padding: 72px 0 48px;
+}
+
+.operations-screen {
+  scroll-margin-top: 12px;
+  outline: none;
+}
+
+.operations-screen:focus-visible {
+  border-radius: 28px;
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.operations-screen-navigation {
+  position: sticky;
+  top: 12px;
+  z-index: 10;
+  margin-bottom: 24px;
+  padding: 12px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  box-shadow: 0 12px 32px rgb(0 0 0 / 18%);
+  backdrop-filter: blur(16px);
+}
+
+.operations-screen-navigation button {
+  min-height: 44px;
+  padding: 0 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--accent-border);
+  border-radius: 12px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.operations-screen-navigation strong {
+  color: var(--text-strong);
+  font-size: 0.82rem;
+}
+
+#inspection-record-section,
+#work-report-section,
+#equipment-finder-profile,
+#maintenance-schedule-management {
+  scroll-margin-top: 92px;
+}
+
+.eyebrow {
+  margin: 0 0 14px;
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+.section-heading {
+  margin-bottom: 24px;
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.section-heading h2 {
+  margin-bottom: 0;
+  color: var(--text-strong);
+  font-size: 1.7rem;
+}
+
+.section-heading > p {
+  margin-bottom: 0;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+}
+
+.admin-settings {
+  margin-top: 24px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: var(--surface-muted);
+  overflow: hidden;
+}
+
+.admin-settings > summary {
+  min-height: 88px;
+  padding: 20px 26px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  color: var(--text-strong);
+  cursor: pointer;
+  list-style-position: inside;
+}
+
+.admin-settings > summary::marker {
+  color: var(--accent);
+}
+
+.admin-settings > summary > span:first-child {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.admin-settings > summary small {
+  color: var(--accent);
+  font-size: 0.65rem;
+  letter-spacing: 0.14em;
+}
+
+.admin-settings > summary strong {
+  font-size: 1.05rem;
+}
+
+.admin-settings-summary-detail {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+}
+
+.admin-settings-content {
+  padding: 0 20px 20px;
+}
+
+.admin-settings-tool {
+  padding-top: 24px;
+  scroll-margin-top: 24px;
+  outline: none;
+}
+
+.admin-settings-tool:focus-visible {
+  border-radius: 16px;
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.admin-settings-tool-heading {
+  margin-bottom: 24px;
+  padding: 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  border: 1px solid var(--accent-border);
+  border-radius: 16px;
+  background: var(--accent-soft);
+}
+
+.admin-settings-tool-heading small {
+  color: var(--accent);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+}
+
+.admin-settings-tool-heading h2 {
+  margin: 6px 0 0;
+  color: var(--text-strong);
+  font-size: 1.3rem;
+}
+
+.admin-settings-tool-heading p {
+  max-width: 520px;
+  margin-bottom: 0;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+}
+
+.admin-settings-tool .todo-section {
+  margin-top: 0;
+}
+
+footer {
+  min-height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.78rem;
+}
+
+footer p {
+  margin-bottom: 0;
+}
+
+footer small {
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+@keyframes status-pulse {
+  0%,
+  100% {
+    opacity: 0.45;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .system-loading .status-dot {
+    animation: none;
+  }
+}
+
+@media (max-width: 760px) {
+  .app-shell {
+    width: min(100% - 24px, 1180px);
+  }
+
+  .topbar {
+    min-height: 76px;
+    flex-wrap: wrap;
+    padding: 12px 0;
+  }
+
+  .system-status {
+    font-size: 0;
+  }
+
+  .topbar-actions {
+    gap: 9px;
+  }
+
+  .signed-in-user-detail {
+    display: none;
+  }
+
+  main {
+    padding-top: 48px;
+  }
+
+  .operations-screen-navigation {
+    top: 8px;
+    padding: 10px;
+  }
+
+  .operations-screen-navigation button {
+    padding: 0 12px;
+  }
+
+  .operations-screen-navigation strong {
+    font-size: 0.74rem;
+  }
+
+  .admin-settings > summary {
+    min-height: 76px;
+    padding: 18px;
+  }
+
+  .admin-settings-summary-detail {
+    display: none;
+  }
+
+  .admin-settings-content {
+    padding: 0 12px 12px;
+  }
+
+  .admin-settings-tool-heading {
+    padding: 16px;
+    flex-direction: column;
+  }
+
+  footer {
+    padding: 20px 0;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 430px) {
+  .brand small {
+    display: none;
+  }
+
+  .signed-in-user-mark {
+    display: none;
+  }
+
+  .signed-in-user {
+    min-height: 44px;
+    padding-left: 7px;
+  }
+}

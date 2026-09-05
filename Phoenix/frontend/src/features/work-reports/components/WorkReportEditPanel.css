@@ -1,0 +1,218 @@
+.work-report-edit-panel {
+  min-width: 0;
+  margin-bottom: 16px;
+  padding: 22px;
+  border: 1px solid var(--accent-border);
+  border-radius: 18px;
+  background:
+    linear-gradient(145deg, var(--accent-soft), transparent 64%), var(--surface);
+}
+
+.work-report-edit-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.work-report-edit-heading > div {
+  min-width: 0;
+}
+
+.work-report-edit-heading p {
+  margin: 0;
+  color: var(--accent);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+.work-report-edit-heading h3 {
+  margin: 7px 0 0;
+  color: var(--text-strong);
+  font-size: 1.08rem;
+  overflow-wrap: anywhere;
+}
+
+.work-report-edit-heading > span {
+  flex: 0 0 auto;
+  padding: 6px 9px;
+  border: 1px solid var(--accent-border);
+  border-radius: 999px;
+  color: var(--accent);
+  background: rgba(4, 13, 22, 0.5);
+  font-size: 0.66rem;
+  font-weight: 800;
+}
+
+.work-report-edit-guidance {
+  margin: 13px 0 18px;
+  color: var(--text-muted);
+  font-size: 0.74rem;
+  line-height: 1.7;
+}
+
+.work-report-edit-field-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 13px;
+}
+
+.work-report-edit-panel label {
+  min-width: 0;
+  margin-top: 16px;
+  display: block;
+}
+
+.work-report-edit-field-grid:first-of-type label {
+  margin-top: 0;
+}
+
+.work-report-edit-panel label > span {
+  margin-bottom: 7px;
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  font-weight: 800;
+}
+
+.work-report-edit-panel input,
+.work-report-edit-panel select,
+.work-report-edit-panel textarea {
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  min-height: 48px;
+  padding: 11px 13px;
+  border: 1px solid var(--border);
+  border-radius: 11px;
+  outline: none;
+  color: var(--text-strong);
+  background: rgba(4, 13, 22, 0.78);
+  font: inherit;
+  line-height: 1.5;
+}
+
+.work-report-edit-panel textarea {
+  min-height: 118px;
+  resize: vertical;
+}
+
+.work-report-edit-panel textarea.is-notes {
+  min-height: 84px;
+}
+
+.work-report-edit-panel input:focus-visible,
+.work-report-edit-panel select:focus-visible,
+.work-report-edit-panel textarea:focus-visible {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+
+.work-report-edit-review dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.work-report-edit-review dl > div {
+  min-width: 0;
+  padding: 11px;
+  border: 1px solid var(--border);
+  border-radius: 11px;
+  background: rgba(4, 13, 22, 0.56);
+}
+
+.work-report-edit-review dl > div.is-wide {
+  grid-column: 1 / -1;
+}
+
+.work-report-edit-review dt {
+  color: var(--text-muted);
+  font-size: 0.64rem;
+  font-weight: 800;
+}
+
+.work-report-edit-review dd {
+  margin: 5px 0 0;
+  color: var(--text-strong);
+  font-size: 0.76rem;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.work-report-edit-actions {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) repeat(2, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.work-report-edit-actions button {
+  min-width: 0;
+  min-height: 48px;
+  padding: 10px 12px;
+  border: 1px solid var(--accent-border);
+  border-radius: 11px;
+  color: #041018;
+  background: var(--accent);
+  font: inherit;
+  font-size: 0.74rem;
+  font-weight: 800;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+
+.work-report-edit-actions button.is-secondary {
+  color: var(--accent);
+  background: transparent;
+}
+
+.work-report-edit-actions button:disabled {
+  cursor: wait;
+  opacity: 0.5;
+}
+
+.work-report-edit-actions button:focus-visible {
+  outline: 2px solid var(--text-strong);
+  outline-offset: 3px;
+}
+
+.work-report-edit-error {
+  margin: 16px 0 0;
+  padding: 12px 13px;
+  border: 1px solid rgba(255, 123, 139, 0.32);
+  border-radius: 11px;
+  color: var(--error);
+  background: var(--error-soft);
+  font-size: 0.72rem;
+  line-height: 1.7;
+}
+
+.work-report-edit-error ul {
+  margin: 6px 0 0;
+  padding-left: 18px;
+}
+
+@media (max-width: 560px) {
+  .work-report-edit-actions {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 420px) {
+  .work-report-edit-panel {
+    padding: 16px;
+  }
+
+  .work-report-edit-field-grid,
+  .work-report-edit-review dl {
+    grid-template-columns: 1fr;
+  }
+
+  .work-report-edit-review dl > div.is-wide {
+    grid-column: auto;
+  }
+}

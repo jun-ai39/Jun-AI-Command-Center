@@ -1,0 +1,386 @@
+.inspection-status-section {
+  margin-top: 96px;
+}
+
+.inspection-status-section-heading {
+  margin-bottom: 24px;
+}
+
+.inspection-status-panel {
+  padding: 24px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background:
+    linear-gradient(145deg, var(--accent-soft), transparent 58%), var(--surface);
+}
+
+.inspection-status-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.inspection-status-heading > div {
+  min-width: 0;
+}
+
+.inspection-status-heading span {
+  color: var(--accent);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+
+.inspection-status-heading h3 {
+  margin: 7px 0 0;
+  color: var(--text-strong);
+  font-size: 1.15rem;
+}
+
+.inspection-status-heading > strong {
+  flex: 0 0 auto;
+  padding: 7px 10px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+}
+
+.inspection-status-heading > strong.has-pending {
+  color: var(--warning);
+  background: var(--warning-soft);
+}
+
+.inspection-status-heading > strong.is-clear {
+  color: var(--success);
+  background: var(--success-soft);
+}
+
+.inspection-status-intro {
+  margin: 12px 0 22px;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  line-height: 1.7;
+}
+
+.inspection-status-state {
+  min-height: 150px;
+  margin: 0;
+  padding: 22px;
+  display: grid;
+  place-items: center;
+  border: 1px dashed var(--border);
+  border-radius: 14px;
+  color: var(--text-muted);
+  text-align: center;
+  font-size: 0.8rem;
+  line-height: 1.7;
+}
+
+.inspection-status-state.is-error {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.inspection-status-state.is-error p {
+  margin-bottom: 12px;
+}
+
+.inspection-status-state button {
+  min-height: 46px;
+  padding: 0 16px;
+  border: 1px solid var(--accent-border);
+  border-radius: 11px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font: inherit;
+  font-size: 0.76rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.inspection-status-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.inspection-status-card {
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: rgba(4, 13, 22, 0.62);
+}
+
+.inspection-status-card.has-pending {
+  border-color: rgba(246, 201, 112, 0.34);
+}
+
+.inspection-status-card.is-complete {
+  border-color: rgba(98, 230, 170, 0.34);
+}
+
+.inspection-status-card-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.inspection-status-card-heading span {
+  color: var(--text-muted);
+  font-size: 0.65rem;
+  font-weight: 800;
+}
+
+.inspection-status-card-heading h4 {
+  margin: 5px 0 0;
+  color: var(--text-strong);
+  font-size: 0.95rem;
+}
+
+.inspection-status-card-heading > strong {
+  flex: 0 0 auto;
+  padding: 5px 7px;
+  border-radius: 999px;
+  color: var(--text-muted);
+  background: var(--surface-muted);
+  font-size: 0.62rem;
+  text-align: center;
+}
+
+.inspection-status-card.has-pending .inspection-status-card-heading > strong {
+  color: var(--warning);
+  background: var(--warning-soft);
+}
+
+.inspection-status-card.is-complete .inspection-status-card-heading > strong {
+  color: var(--success);
+  background: var(--success-soft);
+}
+
+.inspection-status-counts {
+  margin-top: 15px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 7px;
+}
+
+.inspection-status-counts > div {
+  min-width: 0;
+  padding: 9px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface-muted);
+}
+
+.inspection-status-counts span,
+.inspection-status-counts strong {
+  display: block;
+}
+
+.inspection-status-counts span {
+  color: var(--text-muted);
+  font-size: 0.58rem;
+}
+
+.inspection-status-counts strong {
+  margin-top: 5px;
+  color: var(--text-strong);
+  font-size: 1rem;
+}
+
+.inspection-status-progress {
+  height: 7px;
+  margin-top: 11px;
+  border-radius: 999px;
+  background: var(--surface-muted);
+  overflow: hidden;
+}
+
+.inspection-status-progress span {
+  height: 100%;
+  display: block;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--accent), var(--success));
+}
+
+.inspection-status-card details {
+  margin-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.inspection-status-card summary {
+  min-height: 44px;
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.68rem;
+  font-weight: 800;
+}
+
+.inspection-status-card ul {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 7px;
+  list-style: none;
+}
+
+.inspection-status-card li {
+  min-width: 0;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 9px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: #07111c;
+}
+
+.inspection-status-card li > div {
+  min-width: 0;
+}
+
+.inspection-status-card li span,
+.inspection-status-card li strong,
+.inspection-status-card li small {
+  display: block;
+  overflow-wrap: anywhere;
+}
+
+.inspection-status-card li span,
+.inspection-status-card li small {
+  color: var(--text-muted);
+  font-size: 0.6rem;
+}
+
+.inspection-status-card li strong {
+  margin-top: 3px;
+  color: var(--text-strong);
+  font-size: 0.74rem;
+}
+
+.inspection-status-card li small {
+  margin-top: 4px;
+}
+
+.inspection-status-card li .inspection-status-item-badge {
+  flex: 0 0 auto;
+  margin: 0;
+  padding: 6px 7px;
+  border-radius: 999px;
+  font-size: 0.58rem;
+  text-align: center;
+}
+
+.inspection-status-item-actions {
+  flex: 0 0 auto;
+  display: grid;
+  justify-items: end;
+  gap: 7px;
+}
+
+.inspection-status-item-actions button {
+  min-height: 38px;
+  padding: 7px 10px;
+  border: 1px solid var(--accent-border);
+  border-radius: 9px;
+  color: #041018;
+  background: linear-gradient(135deg, #67e8f9, #62e6aa);
+  font: inherit;
+  font-size: 0.64rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.inspection-status-item-actions button:focus-visible {
+  outline: 2px solid var(--text-strong);
+  outline-offset: 3px;
+}
+
+.inspection-status-item-badge.is-pending {
+  color: var(--warning);
+  background: var(--warning-soft);
+}
+
+.inspection-status-item-badge.is-normal {
+  color: var(--success);
+  background: var(--success-soft);
+}
+
+.inspection-status-item-badge.is-abnormal {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.inspection-status-card-empty {
+  margin: 12px 0 0;
+  padding: 13px;
+  border: 1px dashed var(--border);
+  border-radius: 10px;
+  color: var(--text-muted);
+  text-align: center;
+  font-size: 0.68rem;
+}
+
+.inspection-status-empty-note {
+  margin: 14px 0 0;
+  color: var(--text-muted);
+  text-align: center;
+  font-size: 0.74rem;
+}
+
+@media (max-width: 900px) {
+  .inspection-status-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 520px) {
+  .inspection-status-section {
+    margin-top: 64px;
+  }
+
+  .inspection-status-section-heading,
+  .inspection-status-heading,
+  .inspection-status-card-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .inspection-status-panel {
+    padding: 20px 14px;
+  }
+
+  .inspection-status-heading > strong,
+  .inspection-status-card-heading > strong {
+    align-self: flex-start;
+  }
+
+  .inspection-status-card {
+    padding: 14px;
+  }
+
+  .inspection-status-card li {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .inspection-status-item-actions,
+  .inspection-status-card li .inspection-status-item-badge {
+    align-self: flex-start;
+  }
+
+  .inspection-status-item-actions {
+    width: 100%;
+    justify-items: stretch;
+  }
+
+  .inspection-status-item-actions button {
+    width: 100%;
+  }
+}

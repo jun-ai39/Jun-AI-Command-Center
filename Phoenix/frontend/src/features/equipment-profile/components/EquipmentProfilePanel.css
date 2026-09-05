@@ -1,0 +1,654 @@
+.equipment-profile-panel {
+  margin-top: 18px;
+  padding: 24px;
+  border: 1px solid var(--accent-border);
+  border-radius: 20px;
+  background:
+    linear-gradient(145deg, var(--accent-soft), transparent 52%), var(--surface);
+  scroll-margin-top: 18px;
+}
+
+.equipment-profile-heading,
+.equipment-profile-title-row,
+.equipment-profile-history-heading,
+.equipment-profile-change-heading,
+.equipment-profile-report-heading,
+.equipment-profile-inspection-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.equipment-profile-heading h3,
+.equipment-profile-summary h4,
+.equipment-profile-history-heading h4,
+.equipment-profile-change-card h5,
+.equipment-profile-report-card h5,
+.equipment-profile-inspection-card h5,
+.equipment-profile-guide-card h5 {
+  color: var(--text-strong);
+  overflow-wrap: anywhere;
+}
+
+.equipment-profile-heading h3 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.equipment-profile-heading .eyebrow {
+  margin-bottom: 7px;
+}
+
+.equipment-profile-heading button,
+.equipment-profile-state button {
+  min-height: 44px;
+  padding: 9px 14px;
+  border: 1px solid var(--accent-border);
+  border-radius: 10px;
+  color: var(--accent);
+  background: rgba(4, 13, 22, 0.54);
+  font: inherit;
+  font-size: 0.74rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.equipment-profile-overview {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: minmax(220px, 0.7fr) minmax(0, 1.3fr);
+  gap: 16px;
+}
+
+.equipment-profile-photo,
+.equipment-profile-summary,
+.equipment-profile-changes,
+.equipment-profile-history,
+.equipment-profile-inspections,
+.equipment-profile-guides {
+  min-width: 0;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface-muted);
+}
+
+.equipment-profile-photo {
+  min-height: 260px;
+  overflow: hidden;
+}
+
+.equipment-profile-photo img {
+  width: 100%;
+  height: 100%;
+  min-height: 260px;
+  display: block;
+  object-fit: cover;
+}
+
+.equipment-profile-photo-placeholder {
+  min-height: 260px;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 7px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.equipment-profile-photo-placeholder > span {
+  width: 52px;
+  height: 52px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--accent-border);
+  border-radius: 16px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-size: 1.25rem;
+  font-weight: 900;
+}
+
+.equipment-profile-photo-placeholder strong {
+  color: var(--text-strong);
+  font-size: 0.86rem;
+}
+
+.equipment-profile-photo-placeholder small {
+  font-size: 0.7rem;
+}
+
+.equipment-profile-summary {
+  padding: 20px;
+}
+
+.equipment-profile-title-row span,
+.equipment-profile-history-heading span,
+.equipment-profile-history-heading small {
+  color: var(--text-muted);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+}
+
+.equipment-profile-title-row h4 {
+  margin: 5px 0 0;
+  font-size: 1.25rem;
+}
+
+.equipment-profile-title-row > strong {
+  flex: 0 0 auto;
+  padding: 6px 9px;
+  border-radius: 999px;
+  font-size: 0.66rem;
+}
+
+.equipment-profile-title-row > strong.is-active {
+  color: var(--success);
+  background: var(--success-soft);
+}
+
+.equipment-profile-title-row > strong.is-inactive {
+  color: var(--text-muted);
+  background: rgba(125, 145, 158, 0.12);
+}
+
+.equipment-profile-summary dl {
+  margin: 18px 0 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.equipment-profile-summary dl > div,
+.equipment-profile-report-card dl > div {
+  min-width: 0;
+  padding: 10px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: rgba(4, 13, 22, 0.46);
+}
+
+.equipment-profile-summary dt,
+.equipment-profile-report-card dt {
+  color: var(--text-muted);
+  font-size: 0.63rem;
+  font-weight: 800;
+}
+
+.equipment-profile-summary dd,
+.equipment-profile-report-card dd {
+  margin: 5px 0 0;
+  color: var(--text-strong);
+  font-size: 0.76rem;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.equipment-profile-id {
+  color: var(--text-muted) !important;
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+  font-size: 0.66rem !important;
+}
+
+.equipment-profile-changes,
+.equipment-profile-history,
+.equipment-profile-inspections,
+.equipment-profile-guides {
+  margin-top: 16px;
+  padding: 20px;
+}
+
+.equipment-profile-history-heading {
+  align-items: flex-end;
+}
+
+.equipment-profile-history-heading h4 {
+  margin: 5px 0 0;
+  font-size: 1rem;
+}
+
+.equipment-profile-state {
+  min-height: 120px;
+  margin: 16px 0 0;
+  padding: 18px;
+  display: grid;
+  place-items: center;
+  border: 1px dashed var(--border);
+  border-radius: 12px;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+  text-align: center;
+}
+
+.equipment-profile-state.is-error {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.equipment-profile-state p {
+  margin: 0;
+}
+
+.equipment-profile-guide-intro {
+  margin: 12px 0 0;
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  line-height: 1.7;
+}
+
+.equipment-profile-guide-cycles {
+  margin-top: 15px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.equipment-profile-guide-cycles > details {
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: rgba(4, 13, 22, 0.46);
+}
+
+.equipment-profile-guide-cycles > details > summary {
+  min-height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 9px;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 850;
+  cursor: pointer;
+}
+
+.equipment-profile-guide-cycles > details > summary small {
+  flex: 0 0 auto;
+  padding: 4px 7px;
+  border-radius: 999px;
+  color: var(--text-muted);
+  background: var(--surface-muted);
+  font-size: 0.6rem;
+}
+
+.equipment-profile-guide-cycles > details > p {
+  margin: 9px 0 0;
+  color: var(--text-muted);
+  font-size: 0.68rem;
+  line-height: 1.6;
+}
+
+.equipment-profile-guide-cycles ol {
+  margin: 10px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+  list-style: none;
+}
+
+.equipment-profile-guide-cycles ol > li {
+  min-width: 0;
+}
+
+.equipment-profile-guide-card {
+  min-width: 0;
+  padding: 11px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: #07111c;
+}
+
+.equipment-profile-guide-item-heading {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: start;
+  gap: 9px;
+}
+
+.equipment-profile-guide-item-heading > span {
+  width: 24px;
+  height: 24px;
+  display: grid;
+  place-items: center;
+  border-radius: 7px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-size: 0.6rem;
+  font-weight: 900;
+}
+
+.equipment-profile-guide-card h5 {
+  margin: 1px 0 0;
+  font-size: 0.76rem;
+  line-height: 1.5;
+}
+
+.equipment-profile-guide-item-heading small {
+  display: block;
+  margin-top: 3px;
+  color: var(--text-muted);
+  font-size: 0.6rem;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.equipment-profile-guide-card dl {
+  margin: 10px 0 0;
+  display: grid;
+  gap: 7px;
+}
+
+.equipment-profile-guide-card dl > div {
+  min-width: 0;
+  padding: 9px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: rgba(4, 13, 22, 0.52);
+}
+
+.equipment-profile-guide-card dl > div.has-caution {
+  border-color: rgba(246, 201, 112, 0.32);
+  background: rgba(246, 201, 112, 0.07);
+}
+
+.equipment-profile-guide-card dt {
+  color: var(--accent);
+  font-size: 0.58rem;
+  font-weight: 900;
+  letter-spacing: 0.04em;
+}
+
+.equipment-profile-guide-card dl > div.has-caution dt {
+  color: var(--warning);
+}
+
+.equipment-profile-guide-card dd {
+  margin: 4px 0 0;
+  color: var(--text-strong);
+  font-size: 0.68rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.equipment-profile-change-list,
+.equipment-profile-report-list {
+  margin: 16px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  list-style: none;
+}
+
+.equipment-profile-inspection-list {
+  margin: 16px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  list-style: none;
+}
+
+.equipment-profile-inspection-list > li {
+  min-width: 0;
+}
+
+.equipment-profile-inspection-card {
+  height: 100%;
+  min-width: 0;
+  padding: 15px;
+  border: 1px solid var(--border);
+  border-radius: 13px;
+  background: rgba(4, 13, 22, 0.46);
+}
+
+.equipment-profile-inspection-card time {
+  color: var(--accent);
+  font-size: 0.65rem;
+  font-weight: 800;
+}
+
+.equipment-profile-inspection-card h5 {
+  margin: 6px 0 0;
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.equipment-profile-inspection-heading > span {
+  flex: 0 0 auto;
+  padding: 5px 8px;
+  border-radius: 999px;
+  font-size: 0.62rem;
+  font-weight: 800;
+}
+
+.equipment-profile-inspection-heading > span.is-normal,
+.equipment-profile-inspection-card details li span.is-normal {
+  color: var(--success);
+  background: var(--success-soft);
+}
+
+.equipment-profile-inspection-heading > span.is-abnormal,
+.equipment-profile-inspection-card details li span.is-abnormal {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.equipment-profile-inspection-card details {
+  margin-top: 10px;
+  color: var(--text-muted);
+  font-size: 0.7rem;
+}
+
+.equipment-profile-inspection-card summary {
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.equipment-profile-inspection-card details ul {
+  margin: 5px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 7px;
+  list-style: none;
+}
+
+.equipment-profile-inspection-card details li {
+  min-width: 0;
+  padding: 10px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: rgba(4, 13, 22, 0.5);
+}
+
+.equipment-profile-inspection-card details li > div {
+  min-width: 0;
+}
+
+.equipment-profile-inspection-card details li > div:last-child {
+  display: grid;
+  justify-items: end;
+  gap: 5px;
+}
+
+.equipment-profile-inspection-card details li strong,
+.equipment-profile-inspection-card details li small {
+  display: block;
+  overflow-wrap: anywhere;
+}
+
+.equipment-profile-inspection-card details li strong {
+  color: var(--text-strong);
+  font-size: 0.72rem;
+}
+
+.equipment-profile-inspection-card details li small {
+  margin-top: 4px;
+  color: var(--text-muted);
+  font-size: 0.62rem;
+  line-height: 1.55;
+}
+
+.equipment-profile-inspection-card details li span {
+  padding: 4px 7px;
+  border-radius: 999px;
+  font-size: 0.58rem;
+  font-weight: 800;
+}
+
+.equipment-profile-change-list > li,
+.equipment-profile-report-list > li {
+  min-width: 0;
+}
+
+.equipment-profile-change-card,
+.equipment-profile-report-card {
+  height: 100%;
+  min-width: 0;
+  padding: 15px;
+  border: 1px solid var(--border);
+  border-radius: 13px;
+  background: rgba(4, 13, 22, 0.46);
+}
+
+.equipment-profile-change-card time,
+.equipment-profile-report-card time {
+  color: var(--accent);
+  font-size: 0.65rem;
+  font-weight: 800;
+}
+
+.equipment-profile-change-card h5,
+.equipment-profile-report-card h5 {
+  margin: 6px 0 0;
+  font-size: 0.86rem;
+  line-height: 1.55;
+}
+
+.equipment-profile-change-heading > span,
+.equipment-profile-report-heading > span {
+  flex: 0 0 auto;
+  padding: 5px 8px;
+  border-radius: 999px;
+  color: var(--success);
+  background: var(--success-soft);
+  font-size: 0.62rem;
+  font-weight: 800;
+}
+
+.equipment-profile-change-heading > span {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.equipment-profile-change-card > p {
+  margin: 13px 0 0;
+  padding: 10px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text-strong);
+  background: rgba(4, 13, 22, 0.46);
+  font-size: 0.76rem;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.equipment-profile-report-card dl {
+  margin: 13px 0 0;
+  display: grid;
+  gap: 7px;
+}
+
+.equipment-profile-report-card details {
+  margin-top: 9px;
+  color: var(--text-muted);
+  font-size: 0.7rem;
+}
+
+.equipment-profile-report-card summary {
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.equipment-profile-report-card details p {
+  margin: 2px 0 0;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 760px) {
+  .equipment-profile-overview,
+  .equipment-profile-change-list,
+  .equipment-profile-report-list,
+  .equipment-profile-inspection-list,
+  .equipment-profile-guide-cycles {
+    grid-template-columns: 1fr;
+  }
+
+  .equipment-profile-photo,
+  .equipment-profile-photo img,
+  .equipment-profile-photo-placeholder {
+    min-height: 210px;
+  }
+}
+
+@media (max-width: 420px) {
+  .equipment-profile-panel {
+    padding: 15px;
+  }
+
+  .equipment-profile-heading,
+  .equipment-profile-title-row,
+  .equipment-profile-history-heading,
+  .equipment-profile-change-heading,
+  .equipment-profile-report-heading,
+  .equipment-profile-inspection-heading {
+    display: grid;
+  }
+
+  .equipment-profile-heading button,
+  .equipment-profile-title-row > strong,
+  .equipment-profile-change-heading > span,
+  .equipment-profile-report-heading > span,
+  .equipment-profile-inspection-heading > span {
+    justify-self: start;
+  }
+
+  .equipment-profile-summary,
+  .equipment-profile-changes,
+  .equipment-profile-history,
+  .equipment-profile-inspections,
+  .equipment-profile-guides {
+    padding: 15px;
+  }
+
+  .equipment-profile-summary dl {
+    grid-template-columns: 1fr;
+  }
+
+  .equipment-profile-inspection-card details li {
+    grid-template-columns: 1fr;
+  }
+
+  .equipment-profile-inspection-card details li > div:last-child {
+    justify-items: start;
+  }
+}

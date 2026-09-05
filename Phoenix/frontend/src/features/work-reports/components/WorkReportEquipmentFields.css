@@ -1,0 +1,49 @@
+.work-report-equipment-fields {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.work-report-equipment-error,
+.work-report-equipment-empty {
+  grid-column: 1 / -1;
+  margin: 0;
+  border-radius: 12px;
+  padding: 0.85rem 1rem;
+}
+
+.work-report-equipment-error {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  border: 1px solid rgb(248 113 113 / 35%);
+  background: rgb(127 29 29 / 18%);
+  color: #fecaca;
+}
+
+.work-report-equipment-error p {
+  margin: 0;
+}
+
+.work-report-equipment-error button {
+  flex: 0 0 auto;
+}
+
+.work-report-equipment-empty {
+  border: 1px solid rgb(250 204 21 / 28%);
+  background: rgb(113 63 18 / 16%);
+  color: #fde68a;
+  line-height: 1.65;
+}
+
+@media (max-width: 620px) {
+  .work-report-equipment-fields {
+    grid-template-columns: 1fr;
+  }
+
+  .work-report-equipment-error {
+    align-items: stretch;
+    flex-direction: column;
+  }
+}
