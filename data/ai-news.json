@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-05",
+  "verified_at": "2026-09-06",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -108,6 +108,17 @@
       "original_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "summary_ja": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "id": "openai-039a4975e102",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-03",
+      "category": "safety",
+      "title_ja": "GPT-6 Astra: A new generation of intelligence",
+      "original_title": "GPT-6 Astra: A new generation of intelligence",
+      "summary_ja": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "url": "https://openai.com/index/gpt-6-astra"
     },
     {
       "id": "openai-39210f987919",
@@ -231,17 +242,6 @@
       "url": "https://openai.com/index/gilbert-tobin"
     },
     {
-      "id": "openai-4862f3d2c68f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-08-31",
-      "category": "safety",
-      "title_ja": "OpenAI supports California’s bill to advance youth AI safety",
-      "original_title": "OpenAI supports California’s bill to advance youth AI safety",
-      "summary_ja": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-04T23:02:07+00:00",
+  "updated_at": "2026-09-05T22:52:40+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T23:02:17+00:00",
+  "generated_at": "2026-09-05T22:52:50+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり",
+      "title": "アルゼンチン大統領、フォークランド諸島の領有権を改めて主張　石油会社への制裁ちらつかせる",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 04 Sep 2026 14:14:06 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c3re878ypd3o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 05 Sep 2026 04:26:21 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c0465vwnnwzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "英ファラージ氏の側近、外国から献金確保のため法回避の方法提案　潜入取材映像を英チャンネル4が報道",
+      "title": "ナチスが略奪した絵画、正当な所有者に返還へ　アルゼンチンの不動産広告で発見",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 04 Sep 2026 07:52:51 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cgmr8z88n1no?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 05 Sep 2026 03:50:08 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cp30133k7lwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ネパールの地下トンネルから作業員が救出される瞬間",
+      "title": "子ども3人を殺害した母親の米裁判、「審理無効」に　産後の精神疾患で無罪主張",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 04 Sep 2026 06:45:58 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm2741zv9wyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 05 Sep 2026 03:43:49 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cy0zkn8k32wo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,12 +35,12 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -4.09%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Solana +1.78%"
     },
     {
       "label": "市場心理",
-      "value": "74 / 100",
+      "value": "73 / 100",
       "detail": "強欲"
     },
     {
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり",
+      "detail": "アルゼンチン大統領、フォークランド諸島の領有権を改めて主張　石油会社への制裁ちらつかせる",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは74（強欲）です。",
+      "detail": "Fear & Greed Indexは73（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-04T23:02:06+00:00",
-    "market": "2026-09-04T23:02:17+00:00"
+    "news": "2026-09-05T22:52:40+00:00",
+    "market": "2026-09-05T22:52:50+00:00"
   }
 }

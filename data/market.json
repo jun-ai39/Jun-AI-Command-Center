@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-04T23:02:17+00:00",
+  "updated_at": "2026-09-05T22:52:50+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 12444974.820035698,
+      "price": 12493223.380957913,
       "currency": "JPY",
-      "change_percent": -1.78071,
+      "change_percent": 0.35927,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 383016.36885478086,
+      "price": 388359.3269446312,
       "currency": "JPY",
-      "change_percent": -1.73356,
+      "change_percent": 1.34974,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 218.05651029574122,
+      "price": 221.56773692640934,
       "currency": "JPY",
-      "change_percent": -4.09357,
+      "change_percent": 1.66337,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 15892.140478409989,
+      "price": 16177.101389205578,
       "currency": "JPY",
-      "change_percent": -2.2307,
+      "change_percent": 1.78345,
       "decimals": 0
     }
   ],
@@ -101,17 +101,17 @@
     {
       "symbol": "GOLD",
       "name": "金先物",
-      "price": 4477.2,
+      "price": 4476.6,
       "currency": "USD",
-      "change_percent": 1.0403737221005946,
+      "change_percent": 1.0268330662815102,
       "decimals": 2
     },
     {
       "symbol": "WTI",
       "name": "WTI原油先物",
-      "price": 91.22,
+      "price": 91.48,
       "currency": "USD",
-      "change_percent": 6.366604477611933,
+      "change_percent": 6.669776119402983,
       "decimals": 2
     }
   ],
@@ -123,10 +123,10 @@
   "sentiment": {
     "name": "Crypto Fear & Greed Index",
     "scope": "Bitcoin market sentiment",
-    "value": 74,
+    "value": 73,
     "classification": "Greed",
     "classification_ja": "強欲",
-    "observed_at": "2026-09-04T00:00:00+00:00",
+    "observed_at": "2026-09-05T00:00:00+00:00",
     "source": "Alternative.me"
   }
 }
