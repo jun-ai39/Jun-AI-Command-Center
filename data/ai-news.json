@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-06",
+  "verified_at": "2026-09-07",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,28 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-e0f75446731d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-06",
+      "category": "safety",
+      "title_ja": "An Alien Mind",
+      "original_title": "An Alien Mind",
+      "summary_ja": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "url": "https://openai.com/index/an-alien-mind"
+    },
+    {
+      "id": "openai-3784d7aba971",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-06",
+      "category": "product",
+      "title_ja": "Research acceleration: The view inside OpenAI",
+      "original_title": "Research acceleration: The view inside OpenAI",
+      "summary_ja": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+    },
     {
       "id": "google-d0b16425fcb6",
       "source": "google",
@@ -88,17 +110,6 @@
       "url": "https://openai.com/index/daybreak-for-frontline-defenders"
     },
     {
-      "id": "openai-325e9dcd840a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-03",
-      "category": "model",
-      "title_ja": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "original_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary_ja": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
-    },
-    {
       "id": "openai-9281d6906e83",
       "source": "openai",
       "source_name": "OpenAI",
@@ -108,6 +119,17 @@
       "original_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "summary_ja": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "id": "openai-325e9dcd840a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-03",
+      "category": "model",
+      "title_ja": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "original_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary_ja": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
     },
     {
       "id": "openai-039a4975e102",
@@ -220,28 +242,6 @@
       "url": "https://openai.com/index/path-to-astra"
     },
     {
-      "id": "openai-c0364833b410",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-01",
-      "category": "model",
-      "title_ja": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "original_title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "summary_ja": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
-    },
-    {
-      "id": "openai-330fba64551d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-01",
-      "category": "business",
-      "title_ja": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "original_title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "summary_ja": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "url": "https://openai.com/index/gilbert-tobin"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-05T22:52:40+00:00",
+  "updated_at": "2026-09-06T22:53:06+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-05T22:52:40+00:00",
+  "updated_at": "2026-09-06T22:53:05+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
@@ -22,15 +22,6 @@
       "published_at": "Sat, 05 Sep 2026 01:14:33 GMT"
     },
     {
-      "title": "ナチスが略奪した絵画、正当な所有者に返還へ　アルゼンチンの不動産広告で発見",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp30133k7lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Sat, 05 Sep 2026 03:50:08 GMT"
-    },
-    {
       "title": "子ども3人を殺害した母親の米裁判、「審理無効」に　産後の精神疾患で無罪主張",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cy0zkn8k32wo?at_medium=RSS&at_campaign=rss",
@@ -38,6 +29,15 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Sat, 05 Sep 2026 03:43:49 GMT"
+    },
+    {
+      "title": "ナチスが略奪した絵画、正当な所有者に返還へ　アルゼンチンの不動産広告で発見",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cp30133k7lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Sat, 05 Sep 2026 03:50:08 GMT"
     },
     {
       "title": "アルゼンチン大統領、フォークランド諸島の領有権を改めて主張　石油会社への制裁ちらつかせる",

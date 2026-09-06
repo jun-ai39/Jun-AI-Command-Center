@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-05T22:52:50+00:00",
+  "updated_at": "2026-09-06T22:53:16+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 12493223.380957913,
+      "price": 12495934.423589118,
       "currency": "JPY",
-      "change_percent": 0.35927,
+      "change_percent": 0.03382,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 388359.3269446312,
+      "price": 391514.66580549616,
       "currency": "JPY",
-      "change_percent": 1.34974,
+      "change_percent": 0.80367,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 221.56773692640934,
+      "price": 221.63460459826325,
       "currency": "JPY",
-      "change_percent": 1.66337,
+      "change_percent": 0.03887,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 16177.101389205578,
+      "price": 16524.094220665564,
       "currency": "JPY",
-      "change_percent": 1.78345,
+      "change_percent": 2.15284,
       "decimals": 0
     }
   ],
@@ -83,17 +83,17 @@
     {
       "symbol": "USD/JPY",
       "name": "ドル円",
-      "price": 156.221,
+      "price": 156.23,
       "currency": "JPY",
-      "change_percent": -2.436267346148568,
+      "change_percent": -2.4306466319431586,
       "decimals": 3
     },
     {
       "symbol": "EUR/JPY",
       "name": "ユーロ円",
-      "price": 181.462,
+      "price": 181.423,
       "currency": "JPY",
-      "change_percent": -2.2068690483247733,
+      "change_percent": -2.227886848785002,
       "decimals": 3
     }
   ],
@@ -103,7 +103,7 @@
       "name": "金先物",
       "price": 4476.6,
       "currency": "USD",
-      "change_percent": 1.0268330662815102,
+      "change_percent": 2.957681692732299,
       "decimals": 2
     },
     {
@@ -111,7 +111,7 @@
       "name": "WTI原油先物",
       "price": 91.48,
       "currency": "USD",
-      "change_percent": 6.669776119402983,
+      "change_percent": 1.3965861228109122,
       "decimals": 2
     }
   ],
@@ -126,7 +126,7 @@
     "value": 73,
     "classification": "Greed",
     "classification_ja": "強欲",
-    "observed_at": "2026-09-05T00:00:00+00:00",
+    "observed_at": "2026-09-06T00:00:00+00:00",
     "source": "Alternative.me"
   }
 }
