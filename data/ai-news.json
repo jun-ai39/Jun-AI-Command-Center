@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-07",
+  "verified_at": "2026-09-08",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,39 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-073b13b14ae0",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-07",
+      "category": "product",
+      "title_ja": "Supporting independent journalism in Ukraine",
+      "original_title": "Supporting independent journalism in Ukraine",
+      "summary_ja": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+    },
+    {
+      "id": "google-ba1e5d53f269",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-07",
+      "category": "product",
+      "title_ja": "Our new contrail avoidance trial in Asia-Pacific",
+      "original_title": "Our new contrail avoidance trial in Asia-Pacific",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/"
+    },
+    {
+      "id": "google-93b63b754f26",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-07",
+      "category": "product",
+      "title_ja": "Backing 16 green AI projects in Asia-Pacific",
+      "original_title": "Backing 16 green AI projects in Asia-Pacific",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/"
+    },
     {
       "id": "openai-e0f75446731d",
       "source": "openai",
@@ -187,17 +220,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
     },
     {
-      "id": "google-1e5b8618d900",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-03",
-      "category": "model",
-      "title_ja": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "original_title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
-    },
-    {
       "id": "openai-3bda12e16fd3",
       "source": "openai",
       "source_name": "OpenAI",
@@ -218,28 +240,6 @@
       "original_title": "How AI-native companies turn workflows into operating capability",
       "summary_ja": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "url": "https://openai.com/index/ai-native-company-workflows"
-    },
-    {
-      "id": "google-60536199b249",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-02",
-      "category": "model",
-      "title_ja": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
-      "original_title": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/"
-    },
-    {
-      "id": "openai-f2694bfa96c4",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-01",
-      "category": "safety",
-      "title_ja": "Path to Astra: critical capabilities and frontier safeguards",
-      "original_title": "Path to Astra: critical capabilities and frontier safeguards",
-      "summary_ja": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "url": "https://openai.com/index/path-to-astra"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-06T22:53:06+00:00",
+  "updated_at": "2026-09-07T23:28:41+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

@@ -1,8 +1,80 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-06T22:53:05+00:00",
+  "updated_at": "2026-09-07T23:28:41+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ドイツ極右AfDが大勝、東部州議会選　過半数にはわずかに届かず",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyzrn1ernpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 07 Sep 2026 06:09:40 GMT"
+    },
+    {
+      "title": "イラン、米の攻撃に「より迅速で、より激しく、より痛みを伴う対応」を行うと警告",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cn8e6977172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Mon, 07 Sep 2026 05:23:24 GMT"
+    },
+    {
+      "title": "ファラージ氏、潜入取材で撮影された会話では「話を聞いていなかった」と　外国献金めぐり圧力高まる",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqxv249pj9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 07 Sep 2026 14:53:15 GMT"
+    },
+    {
+      "title": "学校でヘッドスカーフ着用禁止に、14歳未満の女子生徒　オーストリア",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgy675d6jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 07 Sep 2026 07:17:42 GMT"
+    },
+    {
+      "title": "米アマゾンの貨物機が滑走路をオーバーランし炎上、5人死亡　マイアミ国際空港",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cp84mq1gz8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 07 Sep 2026 03:44:44 GMT"
+    },
+    {
+      "title": "米特使、モスクワとキーウを連日訪問　戦争は冬になっても続くとゼレンスキー氏",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c1e50ljl83po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "global",
+      "published_at": "Mon, 07 Sep 2026 02:17:27 GMT"
+    },
+    {
+      "title": "インドネシアで火山噴火、8空港で17万人が足止め",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3v4d92w3vko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "災害",
+      "region": "asia",
+      "published_at": "Mon, 07 Sep 2026 06:33:55 GMT"
+    },
+    {
+      "title": "【解説】象徴性あふれる和平協議、しかしロシアとウクライナの基本的立場の違いは残る……BBC外交担当編集委員",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyzqep9632o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "europe",
+      "published_at": "Mon, 07 Sep 2026 03:21:06 GMT"
+    },
     {
       "title": "国連総会、アフリカの実際の面積を反映した世界地図への置き換えを決議",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,78 +83,6 @@
       "category": "世界情勢",
       "region": "africa",
       "published_at": "Sat, 05 Sep 2026 01:30:35 GMT"
-    },
-    {
-      "title": "ウクライナ保安庁本部をロシアがドローン攻撃、ゼレンスキー氏が発表　米特使の訪ロ予定を前に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckgw2vvv5zdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 05 Sep 2026 01:14:33 GMT"
-    },
-    {
-      "title": "子ども3人を殺害した母親の米裁判、「審理無効」に　産後の精神疾患で無罪主張",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cy0zkn8k32wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 05 Sep 2026 03:43:49 GMT"
-    },
-    {
-      "title": "ナチスが略奪した絵画、正当な所有者に返還へ　アルゼンチンの不動産広告で発見",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp30133k7lwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Sat, 05 Sep 2026 03:50:08 GMT"
-    },
-    {
-      "title": "アルゼンチン大統領、フォークランド諸島の領有権を改めて主張　石油会社への制裁ちらつかせる",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c0465vwnnwzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Sat, 05 Sep 2026 04:26:21 GMT"
-    },
-    {
-      "title": "ネパール水力発電所のトンネルから複数の作業員を救出　土石流発生から9日ぶり",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3re878ypd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 04 Sep 2026 14:14:06 GMT"
-    },
-    {
-      "title": "ネパールの地下トンネルから作業員が救出される瞬間",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm2741zv9wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 04 Sep 2026 06:45:58 GMT"
-    },
-    {
-      "title": "英仏首脳、小型ボートや国際情勢での関係強化を確認　大英博物館ではチャールズ国王と「バイユーのタペストリー」を観覧",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c1dlrq4er1vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "europe",
-      "published_at": "Fri, 04 Sep 2026 04:09:36 GMT"
-    },
-    {
-      "title": "EUとNATO、ロシアへの圧力強化を誓う　ドイツでの「新たなエスカレーション」受け",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckgxzr93v08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 04 Sep 2026 01:38:23 GMT"
     }
   ]
 }

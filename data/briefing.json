@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T22:53:16+00:00",
+  "generated_at": "2026-09-07T23:28:52+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "アルゼンチン大統領、フォークランド諸島の領有権を改めて主張　石油会社への制裁ちらつかせる",
+      "title": "ファラージ氏、潜入取材で撮影された会話では「話を聞いていなかった」と　外国献金めぐり圧力高まる",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 05 Sep 2026 04:26:21 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c0465vwnnwzo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 07 Sep 2026 14:53:15 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cqxv249pj9jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ナチスが略奪した絵画、正当な所有者に返還へ　アルゼンチンの不動産広告で発見",
+      "title": "学校でヘッドスカーフ着用禁止に、14歳未満の女子生徒　オーストリア",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 05 Sep 2026 03:50:08 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cp30133k7lwo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 07 Sep 2026 07:17:42 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cvgy675d6jjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "子ども3人を殺害した母親の米裁判、「審理無効」に　産後の精神疾患で無罪主張",
-      "category": "世界情勢",
+      "title": "インドネシアで火山噴火、8空港で17万人が足止め",
+      "category": "災害",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 05 Sep 2026 03:43:49 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cy0zkn8k32wo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 07 Sep 2026 06:33:55 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c3v4d92w3vko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：日経平均 -1.95%"
+      "value": "上昇 3・下落 2・横ばい 0",
+      "detail": "最大変動：TOPIX連動ETF（参考値） -1.51%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +2.15%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Solana -3.97%"
     },
     {
       "label": "市場心理",
-      "value": "73 / 100",
+      "value": "71 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "156.230 JPY",
-      "detail": "前日比 -2.43%"
+      "value": "154.020 JPY",
+      "detail": "前日比 -3.86%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "アルゼンチン大統領、フォークランド諸島の領有権を改めて主張　石油会社への制裁ちらつかせる",
+      "detail": "ファラージ氏、潜入取材で撮影された会話では「話を聞いていなかった」と　外国献金めぐり圧力高まる",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-1.95%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比-1.51%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは73（強欲）です。",
+      "detail": "Fear & Greed Indexは71（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-06T22:53:05+00:00",
-    "market": "2026-09-06T22:53:16+00:00"
+    "news": "2026-09-07T23:28:41+00:00",
+    "market": "2026-09-07T23:28:52+00:00"
   }
 }
