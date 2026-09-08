@@ -1,8 +1,71 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-07T23:28:41+00:00",
+  "updated_at": "2026-09-08T23:21:58+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "AIがもたらす結果に誰も備えていないと警告、オープンAIの主任サイエンティストがブログで",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ce8xzllk9xjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 08 Sep 2026 07:01:35 GMT"
+    },
+    {
+      "title": "北朝鮮とロシア結ぶ初の道路橋が開通、ウクライナの団体は軍事調達に利用されると指摘",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c39mzmyxxgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Tue, 08 Sep 2026 08:03:06 GMT"
+    },
+    {
+      "title": "イスラエル、レバノン南部の村を空爆　少なくとも12人が殺害されたとレバノン発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c5yegwvq218o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Tue, 08 Sep 2026 04:27:32 GMT"
+    },
+    {
+      "title": "インドネシア、主要空港が再開　火山灰の影響で34万人が足止め",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ceq87dyy0jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Tue, 08 Sep 2026 03:37:49 GMT"
+    },
+    {
+      "title": "エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cly7zm28k5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 08 Sep 2026 09:07:08 GMT"
+    },
+    {
+      "title": "【解説】 極右AfDの歴史的躍進、ドイツと欧州全体にとっての重要性は　ドイツ東部州議会選",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c624g1xqp98o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 08 Sep 2026 02:32:07 GMT"
+    },
+    {
+      "title": "【解説】ヨーロッパを標的とした破壊工作が急増、疑われているのはロシア",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqjkqyp2ryno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 08 Sep 2026 06:03:42 GMT"
+    },
     {
       "title": "ドイツ極右AfDが大勝、東部州議会選　過半数にはわずかに届かず",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -20,69 +83,6 @@
       "category": "紛争",
       "region": "middle-east",
       "published_at": "Mon, 07 Sep 2026 05:23:24 GMT"
-    },
-    {
-      "title": "ファラージ氏、潜入取材で撮影された会話では「話を聞いていなかった」と　外国献金めぐり圧力高まる",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqxv249pj9jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 07 Sep 2026 14:53:15 GMT"
-    },
-    {
-      "title": "学校でヘッドスカーフ着用禁止に、14歳未満の女子生徒　オーストリア",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgy675d6jjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 07 Sep 2026 07:17:42 GMT"
-    },
-    {
-      "title": "米アマゾンの貨物機が滑走路をオーバーランし炎上、5人死亡　マイアミ国際空港",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp84mq1gz8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 07 Sep 2026 03:44:44 GMT"
-    },
-    {
-      "title": "米特使、モスクワとキーウを連日訪問　戦争は冬になっても続くとゼレンスキー氏",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c1e50ljl83po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "global",
-      "published_at": "Mon, 07 Sep 2026 02:17:27 GMT"
-    },
-    {
-      "title": "インドネシアで火山噴火、8空港で17万人が足止め",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3v4d92w3vko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "asia",
-      "published_at": "Mon, 07 Sep 2026 06:33:55 GMT"
-    },
-    {
-      "title": "【解説】象徴性あふれる和平協議、しかしロシアとウクライナの基本的立場の違いは残る……BBC外交担当編集委員",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyzqep9632o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "europe",
-      "published_at": "Mon, 07 Sep 2026 03:21:06 GMT"
-    },
-    {
-      "title": "国連総会、アフリカの実際の面積を反映した世界地図への置き換えを決議",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgy7g9wlw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "africa",
-      "published_at": "Sat, 05 Sep 2026 01:30:35 GMT"
     }
   ]
 }

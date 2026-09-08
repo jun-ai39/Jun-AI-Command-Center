@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-08",
+  "verified_at": "2026-09-09",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,127 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-503e9c2326e7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-09",
+      "category": "model",
+      "title_ja": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "original_title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary_ja": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments"
+    },
+    {
+      "id": "google-fa6db35c0b9b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-09",
+      "category": "education",
+      "title_ja": "Missouri and Google partner on AI and career training",
+      "original_title": "Missouri and Google partner on AI and career training",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/"
+    },
+    {
+      "id": "google-9311d1ae660a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-09",
+      "category": "product",
+      "title_ja": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+      "original_title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/"
+    },
+    {
+      "id": "openai-a00fc889a2dd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-08",
+      "category": "business",
+      "title_ja": "The Work Now Within Reach",
+      "original_title": "The Work Now Within Reach",
+      "summary_ja": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "url": "https://openai.com/index/the-work-now-within-reach"
+    },
+    {
+      "id": "openai-1dcea8b0f8ac",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-08",
+      "category": "model",
+      "title_ja": "Introducing ChatGPT Images 2.5",
+      "original_title": "Introducing ChatGPT Images 2.5",
+      "summary_ja": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+    },
+    {
+      "id": "openai-2c827cba158d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-08",
+      "category": "product",
+      "title_ja": "On the Navier–Stokes Millennium Prize Problem",
+      "original_title": "On the Navier–Stokes Millennium Prize Problem",
+      "summary_ja": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "url": "https://openai.com/index/navier-stokes-solution"
+    },
+    {
+      "id": "openai-7948c39493cb",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-08",
+      "category": "safety",
+      "title_ja": "Funding grants for new research into AI and teen development",
+      "original_title": "Funding grants for new research into AI and teen development",
+      "summary_ja": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "url": "https://openai.com/index/teen-development-research-grants"
+    },
+    {
+      "id": "openai-4a36ea7ba6bb",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-08",
+      "category": "education",
+      "title_ja": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "original_title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary_ja": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+    },
+    {
+      "id": "openai-a1b72811dd25",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-08",
+      "category": "safety",
+      "title_ja": "1Password increases engineering productivity 21% with Codex",
+      "original_title": "1Password increases engineering productivity 21% with Codex",
+      "summary_ja": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "url": "https://openai.com/index/1password"
+    },
+    {
+      "id": "google-2ce01404d80f",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-08",
+      "category": "product",
+      "title_ja": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "original_title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
+    },
+    {
+      "id": "google-5e12b9068ccd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-08",
+      "category": "business",
+      "title_ja": "Helping small businesses win with AI",
+      "original_title": "Helping small businesses win with AI",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/"
+    },
     {
       "id": "openai-073b13b14ae0",
       "source": "openai",
@@ -121,127 +242,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/"
     },
     {
-      "id": "google-20c169671e86",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-04",
-      "category": "model",
-      "title_ja": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "original_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/"
-    },
-    {
-      "id": "openai-fc40ddafdd41",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-03",
-      "category": "safety",
-      "title_ja": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "original_title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "summary_ja": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders"
-    },
-    {
-      "id": "openai-9281d6906e83",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-03",
-      "category": "model",
-      "title_ja": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "original_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "summary_ja": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-    },
-    {
-      "id": "openai-325e9dcd840a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-03",
-      "category": "model",
-      "title_ja": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "original_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "summary_ja": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
-    },
-    {
-      "id": "openai-039a4975e102",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-03",
-      "category": "safety",
-      "title_ja": "GPT-6 Astra: A new generation of intelligence",
-      "original_title": "GPT-6 Astra: A new generation of intelligence",
-      "summary_ja": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "url": "https://openai.com/index/gpt-6-astra"
-    },
-    {
-      "id": "openai-39210f987919",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-03",
-      "category": "safety",
-      "title_ja": "Safety overview: GPT-6 Astra",
-      "original_title": "Safety overview: GPT-6 Astra",
-      "summary_ja": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra"
-    },
-    {
-      "id": "google-b263b9cf94a6",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-03",
-      "category": "product",
-      "title_ja": "Build a measurement stack you can rely on to steer your campaigns.",
-      "original_title": "Build a measurement stack you can rely on to steer your campaigns.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/"
-    },
-    {
-      "id": "google-0805b852647b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-03",
-      "category": "product",
-      "title_ja": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
-      "original_title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/"
-    },
-    {
-      "id": "google-5eb2aa71a90a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-03",
-      "category": "business",
-      "title_ja": "Proactive cyber defense for governments and enterprises",
-      "original_title": "Proactive cyber defense for governments and enterprises",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
-    },
-    {
-      "id": "openai-3bda12e16fd3",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-02",
-      "category": "model",
-      "title_ja": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "original_title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "summary_ja": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "url": "https://openai.com/index/atv-big-air-tour"
-    },
-    {
-      "id": "openai-b0cbef382238",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-02",
-      "category": "business",
-      "title_ja": "How AI-native companies turn workflows into operating capability",
-      "original_title": "How AI-native companies turn workflows into operating capability",
-      "summary_ja": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "url": "https://openai.com/index/ai-native-company-workflows"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-07T23:28:41+00:00",
+  "updated_at": "2026-09-08T23:21:58+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T23:28:52+00:00",
+  "generated_at": "2026-09-08T23:22:08+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ファラージ氏、潜入取材で撮影された会話では「話を聞いていなかった」と　外国献金めぐり圧力高まる",
+      "title": "エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 07 Sep 2026 14:53:15 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqxv249pj9jo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 08 Sep 2026 09:07:08 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cly7zm28k5zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "学校でヘッドスカーフ着用禁止に、14歳未満の女子生徒　オーストリア",
+      "title": "北朝鮮とロシア結ぶ初の道路橋が開通、ウクライナの団体は軍事調達に利用されると指摘",
+      "category": "紛争",
+      "source": "BBC News 日本語",
+      "published_at": "Tue, 08 Sep 2026 08:03:06 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c39mzmyxxgeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "AIがもたらす結果に誰も備えていないと警告、オープンAIの主任サイエンティストがブログで",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 07 Sep 2026 07:17:42 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cvgy675d6jjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "インドネシアで火山噴火、8空港で17万人が足止め",
-      "category": "災害",
-      "source": "BBC News 日本語",
-      "published_at": "Mon, 07 Sep 2026 06:33:55 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c3v4d92w3vko?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 08 Sep 2026 07:01:35 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ce8xzllk9xjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 3・下落 2・横ばい 0",
-      "detail": "最大変動：TOPIX連動ETF（参考値） -1.51%"
+      "value": "上昇 2・下落 3・横ばい 0",
+      "detail": "最大変動：日経平均 +1.47%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -3.97%"
+      "value": "上昇 1・下落 3・横ばい 0",
+      "detail": "最大変動：XRP +1.47%"
     },
     {
       "label": "市場心理",
-      "value": "71 / 100",
+      "value": "69 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "154.020 JPY",
-      "detail": "前日比 -3.86%"
+      "value": "153.585 JPY",
+      "detail": "前日比 -3.36%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ファラージ氏、潜入取材で撮影された会話では「話を聞いていなかった」と　外国献金めぐり圧力高まる",
+      "detail": "エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "TOPIX連動ETF（参考値）が前日比-1.51%です。",
+      "detail": "日経平均が前日比+1.47%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは71（強欲）です。",
+      "detail": "Fear & Greed Indexは69（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-07T23:28:41+00:00",
-    "market": "2026-09-07T23:28:52+00:00"
+    "news": "2026-09-08T23:21:58+00:00",
+    "market": "2026-09-08T23:22:08+00:00"
   }
 }
