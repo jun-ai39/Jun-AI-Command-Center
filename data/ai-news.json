@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-09",
+  "verified_at": "2026-09-10",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,72 @@
   ],
   "items": [
     {
+      "id": "openai-3eb3e9557eb7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-10",
+      "category": "safety",
+      "title_ja": "Paul Christiano joins OpenAI Foundation Board",
+      "original_title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary_ja": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+    },
+    {
+      "id": "google-da64721081ca",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-10",
+      "category": "education",
+      "title_ja": "A new deep learning model maps global methane emissions from space.",
+      "original_title": "A new deep learning model maps global methane emissions from space.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/"
+    },
+    {
+      "id": "google-a622f43ee197",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-10",
+      "category": "product",
+      "title_ja": "Tackle your to-do list with new features in our Google AI plans.",
+      "original_title": "Tackle your to-do list with new features in our Google AI plans.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/"
+    },
+    {
+      "id": "google-c9b388b08480",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-10",
+      "category": "model",
+      "title_ja": "4 ways Gemini makes administrative chores quick and easy",
+      "original_title": "4 ways Gemini makes administrative chores quick and easy",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/"
+    },
+    {
+      "id": "google-82b8bf7db8ec",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-10",
+      "category": "product",
+      "title_ja": "Recreating a 70-year love story frame by frame",
+      "original_title": "Recreating a 70-year love story frame by frame",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
+    },
+    {
+      "id": "openai-333ccaae8148",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-09",
+      "category": "business",
+      "title_ja": "GPT-6 Astra: The next generation in intelligence for work",
+      "original_title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary_ja": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
+    },
+    {
       "id": "openai-503e9c2326e7",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +97,28 @@
       "original_title": "How GPT-5.6 Sol helps run quantum computing experiments",
       "summary_ja": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "url": "https://openai.com/index/codex-quantum-computing-experiments"
+    },
+    {
+      "id": "google-660d0278eadc",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-09",
+      "category": "business",
+      "title_ja": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+      "original_title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/"
+    },
+    {
+      "id": "google-ff0e50f02373",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-09",
+      "category": "safety",
+      "title_ja": "Our blueprint for responsible clean energy growth in Finland",
+      "original_title": "Our blueprint for responsible clean energy growth in Finland",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/"
     },
     {
       "id": "google-fa6db35c0b9b",
@@ -154,94 +242,6 @@
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
     },
     {
-      "id": "google-ba1e5d53f269",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-07",
-      "category": "product",
-      "title_ja": "Our new contrail avoidance trial in Asia-Pacific",
-      "original_title": "Our new contrail avoidance trial in Asia-Pacific",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/"
-    },
-    {
-      "id": "google-93b63b754f26",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-07",
-      "category": "product",
-      "title_ja": "Backing 16 green AI projects in Asia-Pacific",
-      "original_title": "Backing 16 green AI projects in Asia-Pacific",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/"
-    },
-    {
-      "id": "openai-e0f75446731d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-06",
-      "category": "safety",
-      "title_ja": "An Alien Mind",
-      "original_title": "An Alien Mind",
-      "summary_ja": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "url": "https://openai.com/index/an-alien-mind"
-    },
-    {
-      "id": "openai-3784d7aba971",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-06",
-      "category": "product",
-      "title_ja": "Research acceleration: The view inside OpenAI",
-      "original_title": "Research acceleration: The view inside OpenAI",
-      "summary_ja": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai"
-    },
-    {
-      "id": "google-d0b16425fcb6",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-05",
-      "category": "model",
-      "title_ja": "Create your best tracks yet with Lyria 3.5 in Gemini.",
-      "original_title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/"
-    },
-    {
-      "id": "google-a5536cd7efe5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-04",
-      "category": "education",
-      "title_ja": "Start the year AI-ready with the Google AI Educator Series",
-      "original_title": "Start the year AI-ready with the Google AI Educator Series",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/"
-    },
-    {
-      "id": "google-6054f10fecad",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-04",
-      "category": "product",
-      "title_ja": "Use your voice to get more done in Gmail, Docs, and Keep",
-      "original_title": "Use your voice to get more done in Gmail, Docs, and Keep",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/"
-    },
-    {
-      "id": "google-8064cb09f527",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-04",
-      "category": "product",
-      "title_ja": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
-      "original_title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-08T23:21:58+00:00",
+  "updated_at": "2026-09-09T23:12:55+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

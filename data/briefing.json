@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08T23:22:08+00:00",
+  "generated_at": "2026-09-09T23:13:05+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議",
-      "category": "世界情勢",
-      "source": "BBC News 日本語",
-      "published_at": "Tue, 08 Sep 2026 09:07:08 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cly7zm28k5zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "北朝鮮とロシア結ぶ初の道路橋が開通、ウクライナの団体は軍事調達に利用されると指摘",
+      "title": "9/11攻撃直後の大気汚染、ニューヨーク市民は「うそをつかれていた」　マムダニ市長が文書公開",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 08 Sep 2026 08:03:06 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c39mzmyxxgeo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 09 Sep 2026 08:54:25 GMT",
+      "url": "https://www.bbc.com/japanese/articles/crm94ek72l8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "AIがもたらす結果に誰も備えていないと警告、オープンAIの主任サイエンティストがブログで",
+      "title": "【解説】イギリスとイスラエルの関係、数十年来で最低レベルに……BBC外交担当編集委員",
+      "category": "外交",
+      "source": "BBC News 日本語",
+      "published_at": "Wed, 09 Sep 2026 08:13:54 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c780zzx39x6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "インスタやフェイスブック、児童性的虐待コンテンツを含む広告をなお掲載　インドでは削除命令後も",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 08 Sep 2026 07:01:35 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ce8xzllk9xjo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 09 Sep 2026 07:48:37 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj4jwye2lljo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：日経平均 +1.47%"
+      "value": "上昇 3・下落 2・横ばい 0",
+      "detail": "最大変動：日経平均 +1.45%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 1・下落 3・横ばい 0",
-      "detail": "最大変動：XRP +1.47%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -2.19%"
     },
     {
       "label": "市場心理",
-      "value": "69 / 100",
+      "value": "66 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "153.585 JPY",
-      "detail": "前日比 -3.36%"
+      "value": "153.335 JPY",
+      "detail": "前日比 -1.49%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "9/11攻撃直後の大気汚染、ニューヨーク市民は「うそをつかれていた」　マムダニ市長が文書公開",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+1.47%です。",
+      "detail": "日経平均が前日比+1.45%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは69（強欲）です。",
+      "detail": "Fear & Greed Indexは66（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-08T23:21:58+00:00",
-    "market": "2026-09-08T23:22:08+00:00"
+    "news": "2026-09-09T23:12:54+00:00",
+    "market": "2026-09-09T23:13:05+00:00"
   }
 }

@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-08T23:21:58+00:00",
+  "updated_at": "2026-09-09T23:12:54+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "AIがもたらす結果に誰も備えていないと警告、オープンAIの主任サイエンティストがブログで",
+      "title": "米軍がイランのタンカー5隻を攻撃、イランはヨルダンの米軍基地を攻撃",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce8xzllk9xjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 08 Sep 2026 07:01:35 GMT"
-    },
-    {
-      "title": "北朝鮮とロシア結ぶ初の道路橋が開通、ウクライナの団体は軍事調達に利用されると指摘",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c39mzmyxxgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 08 Sep 2026 08:03:06 GMT"
-    },
-    {
-      "title": "イスラエル、レバノン南部の村を空爆　少なくとも12人が殺害されたとレバノン発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5yegwvq218o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm27vklxpm1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "middle-east",
-      "published_at": "Tue, 08 Sep 2026 04:27:32 GMT"
+      "published_at": "Wed, 09 Sep 2026 02:03:15 GMT"
     },
     {
-      "title": "インドネシア、主要空港が再開　火山灰の影響で34万人が足止め",
+      "title": "イギリス、ヨルダン川西岸の入植地に対する制裁を発表　イスラエルが猛反発",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ceq87dyy0jgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c8d3e14ppmdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 09 Sep 2026 04:16:33 GMT"
+    },
+    {
+      "title": "9/11攻撃直後の大気汚染、ニューヨーク市民は「うそをつかれていた」　マムダニ市長が文書公開",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crm94ek72l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "north-america",
+      "published_at": "Wed, 09 Sep 2026 08:54:25 GMT"
+    },
+    {
+      "title": "アメリカがカナダ製品の禁輸措置を発表、報復関税への対応　アルコール飲料など",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgy31y3lg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "north-america",
+      "published_at": "Wed, 09 Sep 2026 05:26:10 GMT"
+    },
+    {
+      "title": "ルノワールの絵画が盗まれる、フランス南部の美術館",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c62e79zpvw6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Wed, 09 Sep 2026 01:57:08 GMT"
+    },
+    {
+      "title": "【解説】イギリスとイスラエルの関係、数十年来で最低レベルに……BBC外交担当編集委員",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c780zzx39x6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "middle-east",
+      "published_at": "Wed, 09 Sep 2026 08:13:54 GMT"
+    },
+    {
+      "title": "ハンガリー、ロシア外交官10人を国外追放　両国関係が悪化するなか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqxvggw57p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "europe",
+      "published_at": "Wed, 09 Sep 2026 05:44:23 GMT"
+    },
+    {
+      "title": "インスタやフェイスブック、児童性的虐待コンテンツを含む広告をなお掲載　インドでは削除命令後も",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj4jwye2lljo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "asia",
-      "published_at": "Tue, 08 Sep 2026 03:37:49 GMT"
+      "published_at": "Wed, 09 Sep 2026 07:48:37 GMT"
     },
     {
-      "title": "エッフェル塔がストライキで閉鎖、宗教団体の訪問時に女性従業員が持ち場から移動させられ抗議",
+      "title": "仏ルノワール美術館の盗難事件、今わかっていること",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cly7zm28k5zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c8jdp1r899zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 08 Sep 2026 09:07:08 GMT"
-    },
-    {
-      "title": "【解説】 極右AfDの歴史的躍進、ドイツと欧州全体にとっての重要性は　ドイツ東部州議会選",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c624g1xqp98o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 08 Sep 2026 02:32:07 GMT"
-    },
-    {
-      "title": "【解説】ヨーロッパを標的とした破壊工作が急増、疑われているのはロシア",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqjkqyp2ryno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 08 Sep 2026 06:03:42 GMT"
-    },
-    {
-      "title": "ドイツ極右AfDが大勝、東部州議会選　過半数にはわずかに届かず",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyzrn1ernpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 07 Sep 2026 06:09:40 GMT"
-    },
-    {
-      "title": "イラン、米の攻撃に「より迅速で、より激しく、より痛みを伴う対応」を行うと警告",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cn8e6977172o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Mon, 07 Sep 2026 05:23:24 GMT"
+      "published_at": "Wed, 09 Sep 2026 03:47:49 GMT"
     }
   ]
 }
