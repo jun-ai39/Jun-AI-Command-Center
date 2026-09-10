@@ -8,6 +8,9 @@ PHOENIX_ROOT: Final[Path] = Path(__file__).resolve().parents[3]
 DEFAULT_DATABASE_PATH: Final[Path] = PHOENIX_ROOT / "database" / "phoenix.sqlite3"
 DEFAULT_DATABASE_URL: Final[str] = f"sqlite:///{DEFAULT_DATABASE_PATH.as_posix()}"
 DEFAULT_BACKUP_DIRECTORY: Final[Path] = PHOENIX_ROOT / "backups"
+DEFAULT_EQUIPMENT_PHOTO_DIRECTORY: Final[Path] = (
+    PHOENIX_ROOT / "database" / "equipment_photos"
+)
 
 APP_NAME: Final[str] = "Phoenix OS API"
 APP_VERSION: Final[str] = "0.1.0"
@@ -34,3 +37,11 @@ def get_backup_directory() -> Path:
     if configured_path:
         return Path(configured_path).expanduser().resolve()
     return DEFAULT_BACKUP_DIRECTORY
+
+
+def get_equipment_photo_directory() -> Path:
+    """Return the private local directory used for equipment photos."""
+    configured_path = os.environ.get("PHOENIX_EQUIPMENT_PHOTO_DIRECTORY")
+    if configured_path:
+        return Path(configured_path).expanduser().resolve()
+    return DEFAULT_EQUIPMENT_PHOTO_DIRECTORY

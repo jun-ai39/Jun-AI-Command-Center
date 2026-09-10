@@ -3,12 +3,23 @@
 from typing import Annotated
 from uuid import UUID
 
-from fastapi import APIRouter, Depends, HTTPException, Query, status
+from fastapi import (
+    APIRouter,
+    Depends,
+    File,
+    HTTPException,
+    Query,
+    Response,
+    UploadFile,
+    status,
+)
+from fastapi.responses import FileResponse
 from sqlalchemy import func, select
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.orm import Session
 
 from app.api.dependencies import AdminUser
+from app.core.config import get_equipment_photo_directory
 from app.db.session import get_db_session
 from app.models.equipment_master import Department, Equipment, Manufacturer
 from app.schemas.equipment_master import (
@@ -21,6 +32,15 @@ from app.schemas.equipment_master import (
     ManufacturerCreate,
     ManufacturerListResponse,
     ManufacturerResponse,
+)
+from app.services.equipment_photo import (
+    MAX_UPLOAD_BYTES,
+    EquipmentPhotoError,
+    EquipmentPhotoTooLargeError,
+    UnsupportedEquipmentPhotoError,
+    delete_equipment_photo,
+    resolve_equipment_photo,
+    store_equipment_photo,
 )
 
 router = APIRouter(tags=["equipment-master"])
@@ -216,6 +236,125 @@ def get_equipment(
             detail="Equipment not found.",
         )
     return EquipmentResponse.model_validate(equipment_item)
+
+
+@router.get(
+    "/equipment/{equipment_id}/photo",
+    response_class=FileResponse,
+    summary="設備の代表写真を取得する",
+)
+def get_equipment_photo(
+    equipment_id: UUID,
+    database_session: DatabaseSession,
+) -> FileResponse:
+    """Serve one managed photo through the authenticated business API."""
+    equipment_item = database_session.get(Equipment, equipment_id)
+    if equipment_item is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Equipment not found.",
+        )
+    identifier = equipment_item.photo_path
+    photo_path = (
+        resolve_equipment_photo(get_equipment_photo_directory(), identifier)
+        if identifier is not None
+        else None
+    )
+    if photo_path is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Equipment photo not found.",
+        )
+    return FileResponse(
+        photo_path,
+        media_type="image/jpeg",
+        headers={
+            "Cache-Control": "private, max-age=3600",
+            "X-Content-Type-Options": "nosniff",
+        },
+    )
+
+
+@router.post(
+    "/equipment/{equipment_id}/photo",
+    response_model=EquipmentResponse,
+    summary="設備の代表写真を登録または差し替える",
+)
+async def upload_equipment_photo(
+    equipment_id: UUID,
+    database_session: DatabaseSession,
+    _admin_user: AdminUser,
+    photo: Annotated[UploadFile, File(description="JPEG, PNG, or WebP; max 10 MB")],
+) -> EquipmentResponse:
+    """Normalize and replace one photo without exposing its local path."""
+    equipment_item = database_session.get(Equipment, equipment_id)
+    if equipment_item is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Equipment not found.",
+        )
+
+    content = await photo.read(MAX_UPLOAD_BYTES + 1)
+    await photo.close()
+    photo_directory = get_equipment_photo_directory()
+    try:
+        identifier = store_equipment_photo(content, photo_directory)
+    except EquipmentPhotoTooLargeError as error:
+        raise HTTPException(
+            status_code=status.HTTP_413_CONTENT_TOO_LARGE,
+            detail=str(error),
+        ) from error
+    except UnsupportedEquipmentPhotoError as error:
+        raise HTTPException(
+            status_code=status.HTTP_415_UNSUPPORTED_MEDIA_TYPE,
+            detail=str(error),
+        ) from error
+    except EquipmentPhotoError as error:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="Equipment photo storage failed.",
+        ) from error
+
+    previous_identifier = equipment_item.photo_path
+    equipment_item.photo_path = identifier
+    try:
+        commit_master_record(
+            database_session,
+            "Equipment photo violates a storage constraint.",
+        )
+    except HTTPException:
+        delete_equipment_photo(photo_directory, identifier)
+        raise
+    database_session.refresh(equipment_item)
+    delete_equipment_photo(photo_directory, previous_identifier)
+    return EquipmentResponse.model_validate(equipment_item)
+
+
+@router.delete(
+    "/equipment/{equipment_id}/photo",
+    status_code=status.HTTP_204_NO_CONTENT,
+    summary="設備の代表写真を削除する",
+)
+def remove_equipment_photo(
+    equipment_id: UUID,
+    database_session: DatabaseSession,
+    _admin_user: AdminUser,
+) -> Response:
+    """Clear the database identifier before removing its managed file."""
+    equipment_item = database_session.get(Equipment, equipment_id)
+    if equipment_item is None:
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Equipment not found.",
+        )
+    previous_identifier = equipment_item.photo_path
+    equipment_item.photo_path = None
+    commit_master_record(
+        database_session,
+        "Equipment photo could not be removed.",
+    )
+    delete_equipment_photo(get_equipment_photo_directory(), previous_identifier)
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
 
 
 @router.post(

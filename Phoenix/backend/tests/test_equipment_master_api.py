@@ -2,11 +2,13 @@
 
 from collections.abc import Iterator
 from datetime import datetime
+from io import BytesIO
 from pathlib import Path
 from uuid import UUID, uuid4
 
 import pytest
 from fastapi.testclient import TestClient
+from PIL import Image
 from sqlalchemy import select
 from sqlalchemy.orm import Session, sessionmaker
 
@@ -25,6 +27,7 @@ pytestmark = pytest.mark.usefixtures("authenticated_business_api")
 @pytest.fixture
 def equipment_master_client(
     tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
 ) -> Iterator[tuple[TestClient, sessionmaker[Session]]]:
     """Provide an API client backed by an isolated SQLite database."""
     database_engine = create_database_engine(
@@ -32,6 +35,10 @@ def equipment_master_client(
     )
     session_factory = create_session_factory(database_engine)
     Base.metadata.create_all(database_engine)
+    monkeypatch.setenv(
+        "PHOENIX_EQUIPMENT_PHOTO_DIRECTORY",
+        str(tmp_path / "equipment-photos"),
+    )
 
     def override_db_session() -> Iterator[Session]:
         with session_factory() as session:
@@ -286,3 +293,120 @@ def test_get_equipment_returns_not_found(
 
     assert response.status_code == 404
     assert response.json() == {"detail": "Equipment not found."}
+
+
+def create_test_image(
+    image_format: str,
+    size: tuple[int, int],
+    *,
+    orientation: int | None = None,
+) -> bytes:
+    """Return an in-memory fictional image with optional private metadata."""
+    image = Image.new("RGB", size, "#2f80ed")
+    output = BytesIO()
+    exif = Image.Exif()
+    exif[315] = "Fictional operator"
+    if orientation is not None:
+        exif[274] = orientation
+    image.save(output, format=image_format, exif=exif)
+    image.close()
+    return output.getvalue()
+
+
+def test_equipment_photo_upload_get_replace_and_delete(
+    equipment_master_client: tuple[TestClient, sessionmaker[Session]],
+    tmp_path: Path,
+) -> None:
+    """One photo should be normalized, private, replaceable, and removable."""
+    client, session_factory = equipment_master_client
+    department = create_department(client)
+    manufacturer = create_manufacturer(client)
+    created = client.post(
+        "/equipment",
+        json=equipment_payload(str(department["id"]), str(manufacturer["id"])),
+    ).json()
+    equipment_id = created["equipment_id"]
+
+    first_response = client.post(
+        f"/equipment/{equipment_id}/photo",
+        files={
+            "photo": (
+                "machine.jpg",
+                create_test_image("JPEG", (2000, 1000), orientation=6),
+                "image/jpeg",
+            )
+        },
+    )
+
+    assert first_response.status_code == 200
+    first_identifier = first_response.json()["photo_path"]
+    assert isinstance(first_identifier, str)
+    assert "/" not in first_identifier and "\\" not in first_identifier
+    first_path = tmp_path / "equipment-photos" / first_identifier
+    assert first_path.is_file()
+
+    get_response = client.get(f"/equipment/{equipment_id}/photo")
+    assert get_response.status_code == 200
+    assert get_response.headers["content-type"] == "image/jpeg"
+    with Image.open(BytesIO(get_response.content)) as normalized:
+        assert normalized.size == (800, 1600)
+        assert len(normalized.getexif()) == 0
+
+    replacement_response = client.post(
+        f"/equipment/{equipment_id}/photo",
+        files={
+            "photo": (
+                "replacement.webp",
+                create_test_image("WEBP", (400, 300)),
+                "image/webp",
+            )
+        },
+    )
+    assert replacement_response.status_code == 200
+    replacement_identifier = replacement_response.json()["photo_path"]
+    assert replacement_identifier != first_identifier
+    assert not first_path.exists()
+    assert (tmp_path / "equipment-photos" / replacement_identifier).is_file()
+
+    delete_response = client.delete(f"/equipment/{equipment_id}/photo")
+    assert delete_response.status_code == 204
+    assert list((tmp_path / "equipment-photos").iterdir()) == []
+    assert client.get(f"/equipment/{equipment_id}/photo").status_code == 404
+    with session_factory() as session:
+        persisted = session.get(Equipment, UUID(equipment_id))
+        assert persisted is not None
+        assert persisted.photo_path is None
+
+
+@pytest.mark.parametrize(
+    ("content", "expected_status"),
+    [
+        (b"not-an-image", 415),
+        (b"x" * (10 * 1024 * 1024 + 1), 413),
+    ],
+    ids=("invalid-image", "oversized-image"),
+)
+def test_equipment_photo_rejects_unsafe_uploads(
+    equipment_master_client: tuple[TestClient, sessionmaker[Session]],
+    content: bytes,
+    expected_status: int,
+) -> None:
+    """Invalid or oversized uploads must not update the equipment record."""
+    client, session_factory = equipment_master_client
+    department = create_department(client)
+    manufacturer = create_manufacturer(client)
+    equipment_id = client.post(
+        "/equipment",
+        json=equipment_payload(str(department["id"]), str(manufacturer["id"])),
+    ).json()["equipment_id"]
+
+    response = client.post(
+        f"/equipment/{equipment_id}/photo",
+        files={"photo": ("unsafe.bin", content, "application/octet-stream")},
+    )
+
+    assert response.status_code == expected_status
+    with session_factory() as session:
+        persisted = session.get(Equipment, UUID(equipment_id))
+        assert persisted is not None
+        assert persisted.photo_path is None
