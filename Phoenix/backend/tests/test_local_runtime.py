@@ -63,16 +63,17 @@ def test_command_resolution_wraps_fixed_windows_batch_arguments(monkeypatch) -> 
     def fake_which(command: str) -> str:
         if command == "cmd.exe":
             return "C:/Windows/System32/cmd.exe"
-        return f"C:/tools/{command}.cmd"
+        return f"C:/Program Files/nodejs/{command}.cmd"
 
     monkeypatch.setattr(launcher.shutil, "which", fake_which)
+
+    batch_command = ["call", "C:/Program Files/nodejs/npm.cmd", "run", "build"]
 
     assert launcher.resolve_command(["npm", "run", "build"]) == [
         "C:/Windows/System32/cmd.exe",
         "/d",
-        "/s",
         "/c",
-        "C:/tools/npm.cmd run build",
+        *batch_command,
     ]
 
 

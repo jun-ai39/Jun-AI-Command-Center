@@ -4,6 +4,7 @@ import json
 import os
 import re
 import sqlite3
+from contextlib import closing
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
@@ -90,7 +91,7 @@ def resolve_sqlite_database_path(database_url: str) -> Path:
 def _read_database_revision(database_path: Path) -> str:
     """Read the single Alembic revision required for a compatible restore."""
     try:
-        with sqlite3.connect(database_path) as connection:
+        with closing(sqlite3.connect(database_path)) as connection:
             row = connection.execute(
                 "SELECT version_num FROM alembic_version"
             ).fetchone()
@@ -106,7 +107,7 @@ def _has_valid_integrity(database_path: Path) -> bool:
     if not database_path.is_file():
         return False
     try:
-        with sqlite3.connect(database_path) as connection:
+        with closing(sqlite3.connect(database_path)) as connection:
             connection.execute("PRAGMA query_only=ON")
             return connection.execute("PRAGMA integrity_check").fetchone() == ("ok",)
     except sqlite3.Error:
@@ -152,8 +153,8 @@ def create_sqlite_backup(
     temporary_path = destination_directory / f".{filename}.pending"
     try:
         with (
-            sqlite3.connect(source_path) as source_connection,
-            sqlite3.connect(temporary_path) as backup_connection,
+            closing(sqlite3.connect(source_path)) as source_connection,
+            closing(sqlite3.connect(temporary_path)) as backup_connection,
         ):
             source_connection.backup(backup_connection)
             integrity_row = backup_connection.execute(
@@ -221,8 +222,8 @@ def _copy_verified_database(source_path: Path, destination_path: Path) -> None:
     temporary_path = destination_path.with_suffix(f"{destination_path.suffix}.tmp")
     try:
         with (
-            sqlite3.connect(source_path) as source_connection,
-            sqlite3.connect(temporary_path) as destination_connection,
+            closing(sqlite3.connect(source_path)) as source_connection,
+            closing(sqlite3.connect(temporary_path)) as destination_connection,
         ):
             source_connection.backup(destination_connection)
         if not _has_valid_integrity(temporary_path):
@@ -319,7 +320,7 @@ def apply_pending_sqlite_restore(database_url: str) -> RestoreStatus:
             database_path
         ):
             raise BackupRevisionError("The staged revision no longer matches.")
-        with sqlite3.connect(staging_path) as connection:
+        with closing(sqlite3.connect(staging_path)) as connection:
             connection.execute("DELETE FROM user_sessions")
             connection.commit()
         if not _has_valid_integrity(staging_path):

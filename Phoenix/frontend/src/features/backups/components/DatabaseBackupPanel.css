@@ -1,0 +1,284 @@
+.database-backup-card {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+}
+
+.database-backup-card h3 {
+  margin-bottom: 8px;
+  color: var(--text-strong);
+  font-size: 1rem;
+}
+
+.database-backup-card p {
+  max-width: 680px;
+  margin-bottom: 0;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+}
+
+.database-backup-card button {
+  min-height: 46px;
+  padding: 0 20px;
+  flex: 0 0 auto;
+  border: 1px solid var(--accent-border);
+  border-radius: 12px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.database-backup-card button:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+
+.database-backup-result {
+  margin-top: 14px;
+  padding: 18px 20px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+}
+
+.database-backup-result > strong {
+  color: var(--text-strong);
+  font-size: 0.88rem;
+}
+
+.database-backup-result.is-success {
+  border-color: color-mix(in srgb, var(--success) 42%, transparent);
+  background: var(--success-soft);
+}
+
+.database-backup-result.is-error {
+  border-color: color-mix(in srgb, var(--error) 42%, transparent);
+  background: var(--error-soft);
+}
+
+.database-backup-result p {
+  margin: 8px 0 0;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+}
+
+.database-backup-result dl {
+  margin: 14px 0 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.database-backup-result dl div {
+  min-width: 0;
+}
+
+.database-backup-result dt {
+  color: var(--text-muted);
+  font-size: 0.68rem;
+}
+
+.database-backup-result dd {
+  margin: 5px 0 0;
+  overflow-wrap: anywhere;
+  color: var(--text-strong);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.database-backup-catalog-heading {
+  margin-top: 24px;
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  border-top: 1px solid var(--border);
+}
+
+.database-backup-catalog-heading h3,
+.database-restore-confirmation h3 {
+  margin-bottom: 7px;
+  color: var(--text-strong);
+  font-size: 1rem;
+}
+
+.database-backup-catalog-heading p,
+.database-restore-confirmation p,
+.database-restore-restart p {
+  margin-bottom: 0;
+  color: var(--text-muted);
+  font-size: 0.76rem;
+  line-height: 1.7;
+}
+
+.database-backup-catalog-heading button,
+.database-restore-confirmation button {
+  min-height: 42px;
+  padding: 0 16px;
+  flex: 0 0 auto;
+  border: 1px solid var(--accent-border);
+  border-radius: 11px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.database-backup-catalog-heading button:disabled,
+.database-restore-confirmation button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.database-backup-catalog-error,
+.database-backup-empty {
+  margin: 14px 0 0;
+  padding: 15px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  color: var(--text-muted);
+  background: var(--surface);
+  font-size: 0.78rem;
+}
+
+.database-backup-catalog-error {
+  color: var(--error);
+  border-color: color-mix(in srgb, var(--error) 42%, transparent);
+  background: var(--error-soft);
+}
+
+.database-restore-restart {
+  margin-top: 14px;
+  padding: 16px;
+  border: 1px solid color-mix(in srgb, var(--warning) 45%, transparent);
+  border-radius: 13px;
+  background: var(--warning-soft);
+}
+
+.database-restore-restart strong {
+  color: var(--warning);
+  font-size: 0.82rem;
+}
+
+.database-backup-list {
+  margin: 14px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 9px;
+  list-style: none;
+}
+
+.database-backup-list label {
+  padding: 13px 14px;
+  display: flex;
+  align-items: flex-start;
+  gap: 11px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+  cursor: pointer;
+}
+
+.database-backup-list input {
+  margin-top: 3px;
+  accent-color: var(--accent);
+}
+
+.database-backup-list span,
+.database-backup-list strong,
+.database-backup-list small {
+  min-width: 0;
+  display: block;
+}
+
+.database-backup-list strong {
+  overflow-wrap: anywhere;
+  color: var(--text-strong);
+  font-size: 0.77rem;
+}
+
+.database-backup-list small {
+  margin-top: 5px;
+  color: var(--text-muted);
+  font-size: 0.68rem;
+}
+
+.database-restore-confirmation {
+  margin-top: 14px;
+  padding: 18px;
+  border: 1px solid var(--accent-border);
+  border-radius: 14px;
+  background: var(--surface);
+}
+
+.database-restore-confirmation code {
+  margin-top: 12px;
+  padding: 9px 10px;
+  display: block;
+  overflow-wrap: anywhere;
+  border-radius: 8px;
+  color: var(--text-strong);
+  background: var(--surface-muted);
+  font-size: 0.72rem;
+}
+
+.database-restore-confirmation input {
+  width: 100%;
+  min-height: 44px;
+  margin-top: 9px;
+  padding: 0 11px;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  color: var(--text-strong);
+  background: var(--surface-muted);
+  font: inherit;
+  font-size: 0.76rem;
+}
+
+.database-restore-confirmation button {
+  margin-top: 10px;
+}
+
+@media (max-width: 760px) {
+  .database-backup-card {
+    padding: 16px;
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .database-backup-catalog-heading {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .database-backup-catalog-heading button,
+  .database-restore-confirmation button {
+    width: 100%;
+  }
+
+  .database-backup-card button {
+    width: 100%;
+  }
+
+  .database-backup-result dl {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 430px) {
+  .database-backup-result dl {
+    grid-template-columns: 1fr;
+  }
+}

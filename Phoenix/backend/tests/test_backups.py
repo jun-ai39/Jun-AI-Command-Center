@@ -1,6 +1,7 @@
 """Tests for verified administrator-only SQLite backups."""
 
 import sqlite3
+from contextlib import closing
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -38,7 +39,7 @@ def create_source_database(
     session_count: int = 1,
 ) -> None:
     """Create one fictional SQLite database for an isolated backup test."""
-    with sqlite3.connect(path) as connection:
+    with closing(sqlite3.connect(path)) as connection:
         connection.execute("CREATE TABLE work_reports (content TEXT NOT NULL)")
         connection.execute("CREATE TABLE alembic_version (version_num TEXT NOT NULL)")
         connection.execute("CREATE TABLE user_sessions (token_hash TEXT NOT NULL)")
@@ -79,7 +80,7 @@ def test_backup_service_creates_verified_snapshot_without_changing_source(
     assert result.filename.startswith("phoenix-backup-20260829T010203456789Z-")
     assert source_path.stat().st_size == source_size
     assert not list((tmp_path / "backups").glob("*.pending"))
-    with sqlite3.connect(backup_path) as connection:
+    with closing(sqlite3.connect(backup_path)) as connection:
         assert connection.execute("PRAGMA integrity_check").fetchone() == ("ok",)
         assert connection.execute("SELECT content FROM work_reports").fetchone() == (
             "架空の包装機点検",
@@ -174,7 +175,7 @@ def test_restore_is_staged_then_applied_before_database_use(tmp_path: Path) -> N
     assert (tmp_path / RESTORE_MARKER_FILENAME).is_file()
     assert (tmp_path / RESTORE_STAGING_FILENAME).is_file()
     assert read_restore_status(database_url).phase == "pending"
-    with sqlite3.connect(database_path) as connection:
+    with closing(sqlite3.connect(database_path)) as connection:
         assert connection.execute("SELECT content FROM work_reports").fetchone() == (
             "現在の架空データ",
         )
@@ -188,7 +189,7 @@ def test_restore_is_staged_then_applied_before_database_use(tmp_path: Path) -> N
     assert (tmp_path / RESTORE_RECEIPT_FILENAME).is_file()
     assert read_restore_status(database_url).phase == "completed"
     assert (backup_directory / scheduled.safety_backup_filename).is_file()
-    with sqlite3.connect(database_path) as connection:
+    with closing(sqlite3.connect(database_path)) as connection:
         assert connection.execute("SELECT content FROM work_reports").fetchone() == (
             "復元対象の架空データ",
         )

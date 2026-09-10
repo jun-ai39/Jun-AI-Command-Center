@@ -310,12 +310,19 @@ def run_checked(command: list[str], working_directory: Path) -> None:
 
 
 def resolve_command(command: list[str]) -> list[str]:
-    """Resolve tools to an absolute path without adding nested shell quoting."""
+    """Resolve tools and run Windows batch shims through cmd.exe."""
     executable = shutil.which(command[0])
     if executable is None:
         raise RuntimeError(f"必要なコマンドが見つかりません: {command[0]}")
-    return [executable, *command[1:]]
 
+    resolved = [executable, *command[1:]]
+    if Path(executable).suffix.lower() not in {".bat", ".cmd"}:
+        return resolved
+
+    command_processor = shutil.which("cmd.exe")
+    if command_processor is None:
+        raise RuntimeError("必要なコマンドが見つかりません: cmd.exe")
+    return [command_processor, "/d", "/c", "call", *resolved]
 
 def setup_local(phoenix_root: Path, username: str) -> int:
     """Install locked dependencies, migrate, and create the first administrator."""
