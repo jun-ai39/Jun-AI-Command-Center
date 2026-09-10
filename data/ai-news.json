@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-10",
+  "verified_at": "2026-09-11",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,105 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-39842fa0b34b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-11",
+      "category": "model",
+      "title_ja": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "original_title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary_ja": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+    },
+    {
+      "id": "openai-6a886414536a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-11",
+      "category": "business",
+      "title_ja": "Now everyone can put data to work",
+      "original_title": "Now everyone can put data to work",
+      "summary_ja": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "url": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "id": "google-cc643436dbfc",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-11",
+      "category": "product",
+      "title_ja": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+      "original_title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/"
+    },
+    {
+      "id": "google-ceadd21f5d3a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-11",
+      "category": "product",
+      "title_ja": "3 ways to prep for your next big race with Search",
+      "original_title": "3 ways to prep for your next big race with Search",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+    },
+    {
+      "id": "google-fcbdbdad0836",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-11",
+      "category": "model",
+      "title_ja": "The Gemini app is now available for Windows",
+      "original_title": "The Gemini app is now available for Windows",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/"
+    },
+    {
+      "id": "openai-0bb946f0c421",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-10",
+      "category": "model",
+      "title_ja": "Introducing ChatGPT for Financial Services",
+      "original_title": "Introducing ChatGPT for Financial Services",
+      "summary_ja": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services"
+    },
+    {
+      "id": "openai-3802aa15c4b6",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-10",
+      "category": "product",
+      "title_ja": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "original_title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary_ja": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government"
+    },
+    {
+      "id": "openai-b32e9b847135",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-10",
+      "category": "product",
+      "title_ja": "Introducing the Agents API",
+      "original_title": "Introducing the Agents API",
+      "summary_ja": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api"
+    },
+    {
+      "id": "openai-b8a75fb67d81",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-10",
+      "category": "model",
+      "title_ja": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "original_title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary_ja": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+    },
     {
       "id": "openai-3eb3e9557eb7",
       "source": "openai",
@@ -55,6 +154,17 @@
       "url": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/"
     },
     {
+      "id": "google-82b8bf7db8ec",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-10",
+      "category": "product",
+      "title_ja": "Recreating a 70-year love story frame by frame",
+      "original_title": "Recreating a 70-year love story frame by frame",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
+    },
+    {
       "id": "google-c9b388b08480",
       "source": "google",
       "source_name": "Google",
@@ -66,15 +176,15 @@
       "url": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/"
     },
     {
-      "id": "google-82b8bf7db8ec",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-10",
-      "category": "product",
-      "title_ja": "Recreating a 70-year love story frame by frame",
-      "original_title": "Recreating a 70-year love story frame by frame",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
+      "id": "openai-a7c183de5112",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-09",
+      "category": "safety",
+      "title_ja": "The AI policy window is open. We need to act.",
+      "original_title": "The AI policy window is open. We need to act.",
+      "summary_ja": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "url": "https://openai.com/index/ai-policy-window"
     },
     {
       "id": "openai-333ccaae8148",
@@ -132,116 +242,6 @@
       "url": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/"
     },
     {
-      "id": "google-9311d1ae660a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-09",
-      "category": "product",
-      "title_ja": "We’re helping put 25 new electric semi trucks on the road in Texas.",
-      "original_title": "We’re helping put 25 new electric semi trucks on the road in Texas.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/"
-    },
-    {
-      "id": "openai-a00fc889a2dd",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-08",
-      "category": "business",
-      "title_ja": "The Work Now Within Reach",
-      "original_title": "The Work Now Within Reach",
-      "summary_ja": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "url": "https://openai.com/index/the-work-now-within-reach"
-    },
-    {
-      "id": "openai-1dcea8b0f8ac",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-08",
-      "category": "model",
-      "title_ja": "Introducing ChatGPT Images 2.5",
-      "original_title": "Introducing ChatGPT Images 2.5",
-      "summary_ja": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
-    },
-    {
-      "id": "openai-2c827cba158d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-08",
-      "category": "product",
-      "title_ja": "On the Navier–Stokes Millennium Prize Problem",
-      "original_title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary_ja": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "url": "https://openai.com/index/navier-stokes-solution"
-    },
-    {
-      "id": "openai-7948c39493cb",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-08",
-      "category": "safety",
-      "title_ja": "Funding grants for new research into AI and teen development",
-      "original_title": "Funding grants for new research into AI and teen development",
-      "summary_ja": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "url": "https://openai.com/index/teen-development-research-grants"
-    },
-    {
-      "id": "openai-4a36ea7ba6bb",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-08",
-      "category": "education",
-      "title_ja": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "original_title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "summary_ja": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
-    },
-    {
-      "id": "openai-a1b72811dd25",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-08",
-      "category": "safety",
-      "title_ja": "1Password increases engineering productivity 21% with Codex",
-      "original_title": "1Password increases engineering productivity 21% with Codex",
-      "summary_ja": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "url": "https://openai.com/index/1password"
-    },
-    {
-      "id": "google-2ce01404d80f",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-08",
-      "category": "product",
-      "title_ja": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "original_title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"
-    },
-    {
-      "id": "google-5e12b9068ccd",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-08",
-      "category": "business",
-      "title_ja": "Helping small businesses win with AI",
-      "original_title": "Helping small businesses win with AI",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/"
-    },
-    {
-      "id": "openai-073b13b14ae0",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-07",
-      "category": "product",
-      "title_ja": "Supporting independent journalism in Ukraine",
-      "original_title": "Supporting independent journalism in Ukraine",
-      "summary_ja": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-09T23:12:55+00:00",
+  "updated_at": "2026-09-10T23:08:19+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

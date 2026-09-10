@@ -1,25 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-09T23:12:54+00:00",
+  "updated_at": "2026-09-10T23:08:19+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "米軍がイランのタンカー5隻を攻撃、イランはヨルダンの米軍基地を攻撃",
+      "title": "AIが「全人類を滅ぼす」可能性は「10％以上」　米アンソロピック研究者が警告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm27vklxpm1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm27vdrp84zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 10 Sep 2026 04:25:41 GMT"
+    },
+    {
+      "title": "トランプ氏、アメリカとイランの戦争は11月の米中間選挙後まで終わらないと",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cp84984rgl8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "middle-east",
-      "published_at": "Wed, 09 Sep 2026 02:03:15 GMT"
+      "published_at": "Thu, 10 Sep 2026 05:21:06 GMT"
     },
     {
-      "title": "イギリス、ヨルダン川西岸の入植地に対する制裁を発表　イスラエルが猛反発",
+      "title": "ブレント原油、7月下旬以来の100ドル超　中東でタンカーや石油施設攻撃続く",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8d3e14ppmdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cvgynxyr2d2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Thu, 10 Sep 2026 01:56:49 GMT"
+    },
+    {
+      "title": "北朝鮮、2階建てウラン濃縮施設を新しく建設　IAEAが発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm2q847d80po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Thu, 10 Sep 2026 10:59:55 GMT"
+    },
+    {
+      "title": "【解説】 アメリカの静かさ、イスラエルへの不満を反映か　ヨルダン川西岸の入植地に対するイギリスの制裁で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjdvydzr53eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Wed, 09 Sep 2026 04:16:33 GMT"
+      "published_at": "Thu, 10 Sep 2026 06:22:28 GMT"
+    },
+    {
+      "title": "英野党リフォームUKへの外国からの献金問題、警察が捜査着手",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cp849gp3j78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 10 Sep 2026 06:06:50 GMT"
+    },
+    {
+      "title": "ウクライナとモルドヴァの国境検問所をロシアのドローンが攻撃、2人殺害",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cgmrzgjxv0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Thu, 10 Sep 2026 08:41:24 GMT"
+    },
+    {
+      "title": "スペイン飛び地セウタへ移民が大規模流入……情報機関が事前警告　政府文書で明らかに",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c93vdre5zk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 10 Sep 2026 02:14:54 GMT"
     },
     {
       "title": "9/11攻撃直後の大気汚染、ニューヨーク市民は「うそをつかれていた」　マムダニ市長が文書公開",
@@ -29,60 +83,6 @@
       "category": "紛争",
       "region": "north-america",
       "published_at": "Wed, 09 Sep 2026 08:54:25 GMT"
-    },
-    {
-      "title": "アメリカがカナダ製品の禁輸措置を発表、報復関税への対応　アルコール飲料など",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgy31y3lg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Wed, 09 Sep 2026 05:26:10 GMT"
-    },
-    {
-      "title": "ルノワールの絵画が盗まれる、フランス南部の美術館",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c62e79zpvw6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 09 Sep 2026 01:57:08 GMT"
-    },
-    {
-      "title": "【解説】イギリスとイスラエルの関係、数十年来で最低レベルに……BBC外交担当編集委員",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c780zzx39x6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "middle-east",
-      "published_at": "Wed, 09 Sep 2026 08:13:54 GMT"
-    },
-    {
-      "title": "ハンガリー、ロシア外交官10人を国外追放　両国関係が悪化するなか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqxvggw57p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "europe",
-      "published_at": "Wed, 09 Sep 2026 05:44:23 GMT"
-    },
-    {
-      "title": "インスタやフェイスブック、児童性的虐待コンテンツを含む広告をなお掲載　インドでは削除命令後も",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj4jwye2lljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Wed, 09 Sep 2026 07:48:37 GMT"
-    },
-    {
-      "title": "仏ルノワール美術館の盗難事件、今わかっていること",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8jdp1r899zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 09 Sep 2026 03:47:49 GMT"
     }
   ]
 }
