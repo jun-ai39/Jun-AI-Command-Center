@@ -12,6 +12,8 @@ from uuid import uuid4
 
 from sqlalchemy.engine import make_url
 
+from app.services.backup_photos import embed_photos, install_photos, validate_photos
+
 BACKUP_FILENAME_PATTERN = re.compile(
     r"^phoenix-backup-(?P<timestamp>\d{8}T\d{12}Z)-[0-9a-f]{8}\.sqlite3$"
 )
@@ -109,8 +111,9 @@ def _has_valid_integrity(database_path: Path) -> bool:
     try:
         with closing(sqlite3.connect(database_path)) as connection:
             connection.execute("PRAGMA query_only=ON")
+            validate_photos(connection)
             return connection.execute("PRAGMA integrity_check").fetchone() == ("ok",)
-    except sqlite3.Error:
+    except (sqlite3.Error, OSError, ValueError):
         return False
 
 
@@ -157,6 +160,7 @@ def create_sqlite_backup(
             closing(sqlite3.connect(temporary_path)) as backup_connection,
         ):
             source_connection.backup(backup_connection)
+            embed_photos(backup_connection)
             integrity_row = backup_connection.execute(
                 "PRAGMA integrity_check"
             ).fetchone()
@@ -167,7 +171,7 @@ def create_sqlite_backup(
         except OSError:
             pass
         temporary_path.replace(final_path)
-    except (OSError, sqlite3.Error, BackupError) as error:
+    except (OSError, sqlite3.Error, ValueError, BackupError) as error:
         temporary_path.unlink(missing_ok=True)
         if isinstance(error, BackupError):
             raise
@@ -310,6 +314,7 @@ def apply_pending_sqlite_restore(database_url: str) -> RestoreStatus:
 
     filename: str | None = None
     safety_filename: str | None = None
+    created_photos: list[Path] = []
     try:
         state = _load_restore_state(marker_path)
         filename = state["filename"]
@@ -321,18 +326,25 @@ def apply_pending_sqlite_restore(database_url: str) -> RestoreStatus:
         ):
             raise BackupRevisionError("The staged revision no longer matches.")
         with closing(sqlite3.connect(staging_path)) as connection:
+            install_photos(connection, created_photos)
             connection.execute("DELETE FROM user_sessions")
             connection.commit()
         if not _has_valid_integrity(staging_path):
             raise BackupError("The staged restore changed unexpectedly.")
         staging_path.replace(database_path)
-        marker_path.unlink(missing_ok=True)
+        # The DB is now committed. A marker cleanup failure must not remove photos.
+        try:
+            marker_path.unlink(missing_ok=True)
+        except OSError:
+            pass
         status = RestoreStatus(
             phase="completed",
             filename=filename,
             safety_backup_filename=safety_filename,
         )
-    except (OSError, sqlite3.Error, BackupError):
+    except (OSError, sqlite3.Error, ValueError, BackupError):
+        for photo_path in created_photos:
+            photo_path.unlink(missing_ok=True)
         staging_path.unlink(missing_ok=True)
         marker_path.unlink(missing_ok=True)
         status = RestoreStatus(

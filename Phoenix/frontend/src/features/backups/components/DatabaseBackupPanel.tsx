@@ -131,7 +131,7 @@ export function DatabaseBackupPanel() {
           <h2 id="database-backup-title">データベースのバックアップ</h2>
         </div>
         <p>
-          現在のPhoenixデータを、整合性確認済みのSQLiteファイルとしてこのPC内へ保存します。
+          現在のPhoenixデータと設備写真を、整合性確認済みのSQLiteファイルにまとめてこのPC内へ保存します。
         </p>
       </div>
 
@@ -187,7 +187,9 @@ export function DatabaseBackupPanel() {
       <div className="database-backup-catalog-heading">
         <div>
           <h3>保存済みバックアップ</h3>
-          <p>整合性が正常なファイルだけを、次回起動時の復元対象にできます。</p>
+          <p>
+            DBと写真の整合性を確認して復元します。写真を含まない旧バックアップは、参照先の写真がこのPCに残っている場合に復元できます。
+          </p>
         </div>
         <button
           type="button"
