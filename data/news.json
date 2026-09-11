@@ -1,8 +1,80 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-10T23:08:19+00:00",
+  "updated_at": "2026-09-11T23:14:54+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "【解説】 トランプ氏、米中間選挙で勝利なら全成人に5000ドル支給と表明　本当に可能なのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c5y4867y3j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 11 Sep 2026 06:44:41 GMT"
+    },
+    {
+      "title": "香港、天安門事件追悼集会の主催者らに拘禁刑　国安法違反で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cpq05yqrl43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 11 Sep 2026 07:32:08 GMT"
+    },
+    {
+      "title": "生物兵器開発につながり得るAIの「悪用」を阻止　米アンソロピックが発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqlwz7vydwlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 11 Sep 2026 08:00:52 GMT"
+    },
+    {
+      "title": "イスラエル首相、ハマス襲撃をUAEから事前警告されていたと報じられ否定　新聞社を提訴へ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/czjzvpn4mewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Fri, 11 Sep 2026 04:45:53 GMT"
+    },
+    {
+      "title": "ドローンの光でツインタワー再現、9/11攻撃から25年　米ニューヨーク",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c624le2ve90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "north-america",
+      "published_at": "Fri, 11 Sep 2026 03:14:41 GMT"
+    },
+    {
+      "title": "イエメンのフーシ派、紅海沿岸の港湾都市モカを制圧との報道",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c14d77ml7jmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Fri, 11 Sep 2026 02:24:12 GMT"
+    },
+    {
+      "title": "ロシア軍がショッピングセンターを攻撃、5人死亡とウクライナ当局発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx2zn5j9ldeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Fri, 11 Sep 2026 07:08:27 GMT"
+    },
+    {
+      "title": "米アマゾン貨物機のオーバーラン、速度が速すぎると着陸前に操縦士が警告か",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyzd1lzqdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 11 Sep 2026 06:28:13 GMT"
+    },
     {
       "title": "AIが「全人類を滅ぼす」可能性は「10％以上」　米アンソロピック研究者が警告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,78 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Thu, 10 Sep 2026 04:25:41 GMT"
-    },
-    {
-      "title": "トランプ氏、アメリカとイランの戦争は11月の米中間選挙後まで終わらないと",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp84984rgl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Thu, 10 Sep 2026 05:21:06 GMT"
-    },
-    {
-      "title": "ブレント原油、7月下旬以来の100ドル超　中東でタンカーや石油施設攻撃続く",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvgynxyr2d2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Thu, 10 Sep 2026 01:56:49 GMT"
-    },
-    {
-      "title": "北朝鮮、2階建てウラン濃縮施設を新しく建設　IAEAが発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm2q847d80po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 10 Sep 2026 10:59:55 GMT"
-    },
-    {
-      "title": "【解説】 アメリカの静かさ、イスラエルへの不満を反映か　ヨルダン川西岸の入植地に対するイギリスの制裁で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjdvydzr53eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 10 Sep 2026 06:22:28 GMT"
-    },
-    {
-      "title": "英野党リフォームUKへの外国からの献金問題、警察が捜査着手",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cp849gp3j78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 10 Sep 2026 06:06:50 GMT"
-    },
-    {
-      "title": "ウクライナとモルドヴァの国境検問所をロシアのドローンが攻撃、2人殺害",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cgmrzgjxv0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Thu, 10 Sep 2026 08:41:24 GMT"
-    },
-    {
-      "title": "スペイン飛び地セウタへ移民が大規模流入……情報機関が事前警告　政府文書で明らかに",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c93vdre5zk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 10 Sep 2026 02:14:54 GMT"
-    },
-    {
-      "title": "9/11攻撃直後の大気汚染、ニューヨーク市民は「うそをつかれていた」　マムダニ市長が文書公開",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crm94ek72l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Wed, 09 Sep 2026 08:54:25 GMT"
     }
   ]
 }

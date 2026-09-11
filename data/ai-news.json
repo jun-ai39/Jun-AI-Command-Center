@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-11",
+  "verified_at": "2026-09-12",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,17 @@
   ],
   "items": [
     {
+      "id": "openai-46fcf5bb7b99",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-11",
+      "category": "education",
+      "title_ja": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary_ja": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    },
+    {
       "id": "openai-39842fa0b34b",
       "source": "openai",
       "source_name": "OpenAI",
@@ -42,6 +53,17 @@
       "original_title": "Now everyone can put data to work",
       "summary_ja": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "url": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "id": "google-aa1d6238e82a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-11",
+      "category": "product",
+      "title_ja": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
+      "original_title": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/"
     },
     {
       "id": "google-cc643436dbfc",
@@ -154,17 +176,6 @@
       "url": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/"
     },
     {
-      "id": "google-82b8bf7db8ec",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-10",
-      "category": "product",
-      "title_ja": "Recreating a 70-year love story frame by frame",
-      "original_title": "Recreating a 70-year love story frame by frame",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
-    },
-    {
       "id": "google-c9b388b08480",
       "source": "google",
       "source_name": "Google",
@@ -174,6 +185,17 @@
       "original_title": "4 ways Gemini makes administrative chores quick and easy",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/"
+    },
+    {
+      "id": "google-82b8bf7db8ec",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-10",
+      "category": "product",
+      "title_ja": "Recreating a 70-year love story frame by frame",
+      "original_title": "Recreating a 70-year love story frame by frame",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
     },
     {
       "id": "openai-a7c183de5112",
@@ -198,17 +220,6 @@
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
     },
     {
-      "id": "openai-503e9c2326e7",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-09",
-      "category": "model",
-      "title_ja": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "original_title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "summary_ja": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments"
-    },
-    {
       "id": "google-660d0278eadc",
       "source": "google",
       "source_name": "Google",
@@ -229,17 +240,6 @@
       "original_title": "Our blueprint for responsible clean energy growth in Finland",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/"
-    },
-    {
-      "id": "google-fa6db35c0b9b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-09",
-      "category": "education",
-      "title_ja": "Missouri and Google partner on AI and career training",
-      "original_title": "Missouri and Google partner on AI and career training",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-10T23:08:19+00:00",
+  "updated_at": "2026-09-11T23:14:54+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

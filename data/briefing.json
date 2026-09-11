@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T23:08:30+00:00",
+  "generated_at": "2026-09-11T23:15:05+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "北朝鮮、2階建てウラン濃縮施設を新しく建設　IAEAが発表",
+      "title": "生物兵器開発につながり得るAIの「悪用」を阻止　米アンソロピックが発表",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 10 Sep 2026 10:59:55 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm2q847d80po?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 11 Sep 2026 08:00:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cqlwz7vydwlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ウクライナとモルドヴァの国境検問所をロシアのドローンが攻撃、2人殺害",
+      "title": "香港、天安門事件追悼集会の主催者らに拘禁刑　国安法違反で",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 11 Sep 2026 07:32:08 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cpq05yqrl43o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "ロシア軍がショッピングセンターを攻撃、5人死亡とウクライナ当局発表",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 10 Sep 2026 08:41:24 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cgmrzgjxv0no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【解説】 アメリカの静かさ、イスラエルへの不満を反映か　ヨルダン川西岸の入植地に対するイギリスの制裁で",
-      "category": "世界情勢",
-      "source": "BBC News 日本語",
-      "published_at": "Thu, 10 Sep 2026 06:22:28 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cjdvydzr53eo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 11 Sep 2026 07:08:27 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cx2zn5j9ldeo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：NYダウ -1.88%"
+      "value": "上昇 0・下落 5・横ばい 0",
+      "detail": "最大変動：日経平均 -3.60%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 1・下落 3・横ばい 0",
-      "detail": "最大変動：XRP -2.74%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Solana +2.70%"
     },
     {
       "label": "市場心理",
-      "value": "69 / 100",
+      "value": "56 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "154.418 JPY",
-      "detail": "前日比 -1.14%"
+      "value": "153.554 JPY",
+      "detail": "前日比 -1.69%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "北朝鮮、2階建てウラン濃縮施設を新しく建設　IAEAが発表",
+      "detail": "生物兵器開発につながり得るAIの「悪用」を阻止　米アンソロピックが発表",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NYダウが前日比-1.88%です。",
+      "detail": "日経平均が前日比-3.60%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "normal"
+      "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは69（強欲）です。",
+      "detail": "Fear & Greed Indexは56（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-10T23:08:19+00:00",
-    "market": "2026-09-10T23:08:29+00:00"
+    "news": "2026-09-11T23:14:54+00:00",
+    "market": "2026-09-11T23:15:05+00:00"
   }
 }
