@@ -239,6 +239,34 @@ describe('EquipmentProfileContent', () => {
     expect(markup).toContain('改良・変更履歴を保存')
   })
 
+  it('shows photo management only when the admin screen enables it', () => {
+    const adminMarkup = renderToStaticMarkup(
+      <EquipmentProfileContent
+        {...baseProps}
+        equipment={{
+          ...equipment,
+          photo_path: '0123456789abcdef0123456789abcdef.jpg',
+        }}
+        reportsState={{ phase: 'ready', items: [], total: 0 }}
+        canManagePhoto
+        onEquipmentPhotoChanged={vi.fn()}
+      />,
+    )
+    const generalMarkup = renderToStaticMarkup(
+      <EquipmentProfileContent
+        {...baseProps}
+        reportsState={{ phase: 'ready', items: [], total: 0 }}
+      />,
+    )
+
+    expect(adminMarkup).toContain('写真を差し替える')
+    expect(adminMarkup).toContain('写真を削除')
+    expect(adminMarkup).toContain('accept="image/jpeg,image/png,image/webp"')
+    expect(adminMarkup).toContain('JPEG・PNG・WebP／10MB以下')
+    expect(generalMarkup).not.toContain('写真を登録する')
+    expect(generalMarkup).not.toContain('写真を削除')
+  })
+
   it('shows saved feedback and blocks new histories for inactive equipment', () => {
     const savedMarkup = renderToStaticMarkup(
       <EquipmentProfileContent

@@ -29,6 +29,7 @@ type EquipmentMasterActions = {
   readonly saveEquipment: (
     input: EquipmentCreateInput,
   ) => Promise<Equipment | null>
+  readonly updateEquipment: (equipment: Equipment) => void
   readonly resetManufacturerSave: () => void
   readonly resetEquipmentSave: () => void
 }
@@ -198,6 +199,27 @@ export function useEquipmentMaster(): EquipmentMasterActions {
     setEquipmentSaveState({ phase: 'idle' })
   }, [])
 
+  const updateEquipment = useCallback((equipmentItem: Equipment) => {
+    setState((current) => {
+      if (current.phase !== 'ready') {
+        return current
+      }
+      return {
+        phase: 'ready',
+        data: {
+          ...current.data,
+          equipment: sortEquipment(
+            current.data.equipment.map((item) =>
+              item.equipment_id === equipmentItem.equipment_id
+                ? equipmentItem
+                : item,
+            ),
+          ),
+        },
+      }
+    })
+  }, [])
+
   return {
     state,
     manufacturerSaveState,
@@ -205,6 +227,7 @@ export function useEquipmentMaster(): EquipmentMasterActions {
     reload,
     saveManufacturer,
     saveEquipment,
+    updateEquipment,
     resetManufacturerSave,
     resetEquipmentSave,
   }

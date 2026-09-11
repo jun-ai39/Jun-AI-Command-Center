@@ -9,6 +9,7 @@ import type {
 } from '../types'
 
 const DEFAULT_API_BASE_URL = 'http://127.0.0.1:8000'
+export const MAX_EQUIPMENT_PHOTO_BYTES = 10 * 1024 * 1024
 const UUID_PATTERN =
   /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i
 
@@ -264,4 +265,91 @@ export function createEquipment(
     isEquipment,
     options,
   )
+}
+
+function getEquipmentPhotoUrl(
+  equipmentId: string,
+  options: EquipmentMasterRequestOptions,
+): string {
+  if (!isUuid(equipmentId)) {
+    throw new EquipmentMasterApiError('Equipment photo ID is invalid')
+  }
+  const baseUrl = removeTrailingSlash(options.baseUrl ?? getApiBaseUrl())
+  return `${baseUrl}/equipment/${equipmentId}/photo`
+}
+
+export async function fetchEquipmentPhoto(
+  equipmentId: string,
+  options: EquipmentMasterRequestOptions = {},
+): Promise<Blob> {
+  const response = await authenticatedFetch(
+    getEquipmentPhotoUrl(equipmentId, options),
+    {
+      headers: { Accept: 'image/jpeg' },
+      signal: options.signal,
+    },
+  )
+  if (!response.ok) {
+    throw new EquipmentMasterApiError(
+      `Equipment photo API returned HTTP ${response.status}`,
+      response.status,
+    )
+  }
+  const photo = await response.blob()
+  if (photo.size === 0 || photo.type !== 'image/jpeg') {
+    throw new EquipmentMasterApiError(
+      'Equipment photo API returned invalid image data',
+    )
+  }
+  return photo
+}
+
+export async function uploadEquipmentPhoto(
+  equipmentId: string,
+  photo: File,
+  options: EquipmentMasterRequestOptions = {},
+): Promise<Equipment> {
+  const body = new FormData()
+  body.append('photo', photo, photo.name)
+  const response = await authenticatedFetch(
+    getEquipmentPhotoUrl(equipmentId, options),
+    {
+      method: 'POST',
+      headers: { Accept: 'application/json' },
+      body,
+      signal: options.signal,
+    },
+  )
+  if (!response.ok) {
+    throw new EquipmentMasterApiError(
+      `Equipment photo API returned HTTP ${response.status}`,
+      response.status,
+    )
+  }
+  const payload: unknown = await response.json()
+  if (!isEquipment(payload) || payload.equipment_id !== equipmentId) {
+    throw new EquipmentMasterApiError(
+      'Equipment photo API returned an invalid item response',
+    )
+  }
+  return payload
+}
+
+export async function deleteEquipmentPhoto(
+  equipmentId: string,
+  options: EquipmentMasterRequestOptions = {},
+): Promise<void> {
+  const response = await authenticatedFetch(
+    getEquipmentPhotoUrl(equipmentId, options),
+    {
+      method: 'DELETE',
+      signal: options.signal,
+    },
+  )
+  if (!response.ok) {
+    throw new EquipmentMasterApiError(
+      `Equipment photo API returned HTTP ${response.status}`,
+      response.status,
+    )
+  }
 }

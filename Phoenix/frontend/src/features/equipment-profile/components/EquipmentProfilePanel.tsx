@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 import { EquipmentChangeHistoryForm } from '../../equipment-change-histories/components/EquipmentChangeHistoryForm'
 import type {
   EquipmentChangeHistory,
@@ -43,6 +41,7 @@ import type {
   EquipmentProfileInspectionsState,
   EquipmentProfileReportsState,
 } from '../types'
+import { EquipmentPhotoPanel } from './EquipmentPhotoPanel'
 import './EquipmentProfilePanel.css'
 
 type EquipmentProfilePanelProps = {
@@ -53,6 +52,8 @@ type EquipmentProfilePanelProps = {
   readonly sectionId?: string
   readonly templateRefreshToken?: number
   readonly onStartWorkReport?: (input: WorkReportGuideHandoffInput) => void
+  readonly canManagePhoto?: boolean
+  readonly onEquipmentPhotoChanged?: (equipment: Equipment) => void
 }
 
 type EquipmentProfileContentProps = EquipmentProfilePanelProps & {
@@ -118,25 +119,6 @@ function getInspectionGuideCriterion(item: InspectionTemplateItem): string {
     return `正常範囲：${item.normal_min} ～ ${item.normal_max}${item.unit ? ` ${item.unit}` : ''}`
   }
   return `正常状態：${item.normal_state ?? '未登録'}`
-}
-
-function EquipmentPhoto({ equipment }: { readonly equipment: Equipment }) {
-  const [didFail, setDidFail] = useState(false)
-  const photoPath = didFail ? null : equipment.photo_path
-
-  return photoPath ? (
-    <img
-      src={photoPath}
-      alt={`${getEquipmentDisplayName(equipment)}の設備写真`}
-      onError={() => setDidFail(true)}
-    />
-  ) : (
-    <div className="equipment-profile-photo-placeholder">
-      <span aria-hidden="true">P</span>
-      <strong>設備写真</strong>
-      <small>{didFail ? '画像を表示できません' : '未登録'}</small>
-    </div>
-  )
 }
 
 function EquipmentChangeHistoryCard({
@@ -300,6 +282,8 @@ export function EquipmentProfileContent({
   onSelectTroubleshootingGuide,
   onClearTroubleshootingGuide,
   onStartWorkReport,
+  canManagePhoto = false,
+  onEquipmentPhotoChanged,
   onClose,
   sectionId = 'equipment-profile',
 }: EquipmentProfileContentProps) {
@@ -327,9 +311,12 @@ export function EquipmentProfileContent({
       </div>
 
       <div className="equipment-profile-overview">
-        <div className="equipment-profile-photo">
-          <EquipmentPhoto equipment={equipment} />
-        </div>
+        <EquipmentPhotoPanel
+          key={equipment.equipment_id}
+          equipment={equipment}
+          canManage={canManagePhoto}
+          onEquipmentChanged={onEquipmentPhotoChanged}
+        />
         <div className="equipment-profile-summary">
           <div className="equipment-profile-title-row">
             <div>

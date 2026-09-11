@@ -78,10 +78,14 @@
   overflow: hidden;
 }
 
-.equipment-profile-photo img {
+.equipment-profile-photo-visual,
+.equipment-profile-photo-visual img {
   width: 100%;
-  height: 100%;
   min-height: 260px;
+}
+
+.equipment-profile-photo-visual img {
+  height: 260px;
   display: block;
   object-fit: cover;
 }
@@ -116,6 +120,81 @@
 
 .equipment-profile-photo-placeholder small {
   font-size: 0.7rem;
+}
+
+.equipment-profile-photo-controls {
+  padding: 13px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 9px;
+  border-top: 1px solid var(--border);
+  background: rgba(4, 13, 22, 0.72);
+}
+
+.equipment-profile-photo-input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.equipment-profile-photo-controls label,
+.equipment-profile-photo-controls button {
+  min-height: 42px;
+  padding: 8px 12px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--accent-border);
+  border-radius: 9px;
+  font: inherit;
+  font-size: 0.7rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.equipment-profile-photo-controls label {
+  color: #041018;
+  background: linear-gradient(135deg, #67e8f9, #62e6aa);
+}
+
+.equipment-profile-photo-controls button {
+  color: var(--error);
+  background: var(--error-soft);
+}
+
+.equipment-profile-photo-controls label.is-disabled,
+.equipment-profile-photo-controls button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.equipment-profile-photo-input:focus-visible + label {
+  outline: 2px solid var(--text-strong);
+  outline-offset: 2px;
+}
+
+.equipment-profile-photo-controls > small,
+.equipment-profile-photo-controls > p {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 0.66rem;
+  line-height: 1.5;
+}
+
+.equipment-profile-photo-controls > small {
+  color: var(--text-muted);
+}
+
+.equipment-profile-photo-controls > p.is-success {
+  color: var(--success);
+}
+
+.equipment-profile-photo-controls > p.is-error {
+  color: var(--error);
 }
 
 .equipment-profile-summary {
@@ -604,9 +683,14 @@
   }
 
   .equipment-profile-photo,
-  .equipment-profile-photo img,
+  .equipment-profile-photo-visual,
+  .equipment-profile-photo-visual img,
   .equipment-profile-photo-placeholder {
     min-height: 210px;
+  }
+
+  .equipment-profile-photo-visual img {
+    height: 210px;
   }
 }
 
@@ -650,5 +734,13 @@
 
   .equipment-profile-inspection-card details li > div:last-child {
     justify-items: start;
+  }
+
+  .equipment-profile-photo-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .equipment-profile-photo-controls > * {
+    grid-column: 1;
   }
 }

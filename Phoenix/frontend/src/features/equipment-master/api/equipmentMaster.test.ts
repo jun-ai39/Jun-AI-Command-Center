@@ -3,12 +3,15 @@ import { afterEach, describe, expect, it, vi } from 'vitest'
 import {
   createEquipment,
   createManufacturer,
+  deleteEquipmentPhoto,
   EquipmentMasterApiError,
   fetchActiveDepartments,
   fetchActiveEquipment,
   fetchActiveManufacturers,
   fetchDepartments,
   fetchManufacturers,
+  fetchEquipmentPhoto,
+  uploadEquipmentPhoto,
 } from './equipmentMaster'
 
 afterEach(() => {
@@ -194,5 +197,91 @@ describe('equipment master create API', () => {
         { baseUrl: 'https://api.example.test' },
       ),
     ).rejects.toMatchObject({ status: 409 })
+  })
+})
+
+describe('equipment photo API', () => {
+  it('loads, uploads, and deletes one private equipment photo', async () => {
+    const updatedEquipment = {
+      ...equipment,
+      photo_path: '0123456789abcdef0123456789abcdef.jpg',
+    }
+    const fetchMock = vi
+      .fn<typeof fetch>()
+      .mockResolvedValueOnce(
+        new Response(new Blob(['fictional-jpeg'], { type: 'image/jpeg' }), {
+          status: 200,
+          headers: { 'Content-Type': 'image/jpeg' },
+        }),
+      )
+      .mockResolvedValueOnce(
+        new Response(JSON.stringify(updatedEquipment), {
+          status: 200,
+          headers: { 'Content-Type': 'application/json' },
+        }),
+      )
+      .mockResolvedValueOnce(new Response(null, { status: 204 }))
+    vi.stubGlobal('fetch', fetchMock)
+
+    await expect(
+      fetchEquipmentPhoto(equipment.equipment_id, {
+        baseUrl: 'https://api.example.test/',
+      }),
+    ).resolves.toMatchObject({ type: 'image/jpeg' })
+    await expect(
+      uploadEquipmentPhoto(
+        equipment.equipment_id,
+        new File(['fictional-photo'], 'machine.png', { type: 'image/png' }),
+        { baseUrl: 'https://api.example.test/' },
+      ),
+    ).resolves.toEqual(updatedEquipment)
+    await expect(
+      deleteEquipmentPhoto(equipment.equipment_id, {
+        baseUrl: 'https://api.example.test/',
+      }),
+    ).resolves.toBeUndefined()
+
+    const photoUrl = `https://api.example.test/equipment/${equipment.equipment_id}/photo`
+    expect(fetchMock).toHaveBeenNthCalledWith(
+      1,
+      photoUrl,
+      expect.objectContaining({ credentials: 'include' }),
+    )
+    expect(fetchMock).toHaveBeenNthCalledWith(
+      2,
+      photoUrl,
+      expect.objectContaining({
+        method: 'POST',
+        body: expect.any(FormData),
+        credentials: 'include',
+      }),
+    )
+    expect(fetchMock).toHaveBeenNthCalledWith(
+      3,
+      photoUrl,
+      expect.objectContaining({
+        method: 'DELETE',
+        credentials: 'include',
+      }),
+    )
+  })
+
+  it('rejects invalid equipment photo requests and responses', async () => {
+    await expect(fetchEquipmentPhoto('invalid')).rejects.toThrow(
+      EquipmentMasterApiError,
+    )
+
+    vi.stubGlobal(
+      'fetch',
+      vi.fn<typeof fetch>().mockResolvedValue(
+        new Response(new Blob(['not-jpeg'], { type: 'text/plain' }), {
+          status: 200,
+          headers: { 'Content-Type': 'text/plain' },
+        }),
+      ),
+    )
+    await expect(fetchEquipmentPhoto(equipment.equipment_id)).rejects.toThrow(
+      EquipmentMasterApiError,
+    )
   })
 })

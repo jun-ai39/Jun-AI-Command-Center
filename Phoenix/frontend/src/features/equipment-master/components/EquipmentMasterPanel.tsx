@@ -24,6 +24,7 @@ export function EquipmentMasterPanel({
     reload,
     saveManufacturer,
     saveEquipment,
+    updateEquipment,
     resetManufacturerSave,
     resetEquipmentSave,
   } = useEquipmentMaster()
@@ -185,6 +186,8 @@ export function EquipmentMasterPanel({
           departmentName={selectedDepartment?.name ?? '部門未登録'}
           manufacturerName={selectedManufacturer?.name ?? 'メーカー未登録'}
           templateRefreshToken={inspectionTemplateRefreshToken}
+          canManagePhoto
+          onEquipmentPhotoChanged={updateEquipment}
           onClose={() => setSelectedEquipmentId(null)}
         />
       )}
