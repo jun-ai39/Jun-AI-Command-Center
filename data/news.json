@@ -1,8 +1,44 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-11T23:14:54+00:00",
+  "updated_at": "2026-09-12T23:01:52+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "「私たちは決して、決して忘れない」　9/11攻撃から25年、米各地で追悼",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cg493lnwxdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "global",
+      "published_at": "Sat, 12 Sep 2026 02:30:05 GMT"
+    },
+    {
+      "title": "9/11の3年前に「爆発物を積んだ航空機」の脅威を米CIAが警告　機密文書公開で明らかに",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3v4nr1z6x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 12 Sep 2026 04:53:46 GMT"
+    },
+    {
+      "title": "米南部で黒人女性、木につるされ遺体で発見　家族らの訴え経て最初の逮捕",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c74k08d3d44o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 12 Sep 2026 04:13:54 GMT"
+    },
+    {
+      "title": "フィリピン沖でフェリー火災、35人死亡50人超行方不明　40時間以上たって救助隊員が乗り込む",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ce9edgkk9mro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Sat, 12 Sep 2026 08:26:47 GMT"
+    },
     {
       "title": "【解説】 トランプ氏、米中間選挙で勝利なら全成人に5000ドル支給と表明　本当に可能なのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -47,42 +83,6 @@
       "category": "紛争",
       "region": "north-america",
       "published_at": "Fri, 11 Sep 2026 03:14:41 GMT"
-    },
-    {
-      "title": "イエメンのフーシ派、紅海沿岸の港湾都市モカを制圧との報道",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c14d77ml7jmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Fri, 11 Sep 2026 02:24:12 GMT"
-    },
-    {
-      "title": "ロシア軍がショッピングセンターを攻撃、5人死亡とウクライナ当局発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx2zn5j9ldeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Fri, 11 Sep 2026 07:08:27 GMT"
-    },
-    {
-      "title": "米アマゾン貨物機のオーバーラン、速度が速すぎると着陸前に操縦士が警告か",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwyzd1lzqdxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 11 Sep 2026 06:28:13 GMT"
-    },
-    {
-      "title": "AIが「全人類を滅ぼす」可能性は「10％以上」　米アンソロピック研究者が警告",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm27vdrp84zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 10 Sep 2026 04:25:41 GMT"
     }
   ]
 }

@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T23:15:05+00:00",
+  "generated_at": "2026-09-12T23:02:03+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "生物兵器開発につながり得るAIの「悪用」を阻止　米アンソロピックが発表",
+      "title": "フィリピン沖でフェリー火災、35人死亡50人超行方不明　40時間以上たって救助隊員が乗り込む",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 11 Sep 2026 08:00:52 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqlwz7vydwlo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 12 Sep 2026 08:26:47 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ce9edgkk9mro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "香港、天安門事件追悼集会の主催者らに拘禁刑　国安法違反で",
+      "title": "9/11の3年前に「爆発物を積んだ航空機」の脅威を米CIAが警告　機密文書公開で明らかに",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 11 Sep 2026 07:32:08 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cpq05yqrl43o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 12 Sep 2026 04:53:46 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c3v4nr1z6x2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ロシア軍がショッピングセンターを攻撃、5人死亡とウクライナ当局発表",
-      "category": "紛争",
+      "title": "米南部で黒人女性、木につるされ遺体で発見　家族らの訴え経て最初の逮捕",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 11 Sep 2026 07:08:27 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cx2zn5j9ldeo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 12 Sep 2026 04:13:54 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c74k08d3d44o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,12 +35,12 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +2.70%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：XRP +0.92%"
     },
     {
       "label": "市場心理",
-      "value": "56 / 100",
+      "value": "63 / 100",
       "detail": "強欲"
     },
     {
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "生物兵器開発につながり得るAIの「悪用」を阻止　米アンソロピックが発表",
+      "detail": "フィリピン沖でフェリー火災、35人死亡50人超行方不明　40時間以上たって救助隊員が乗り込む",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは56（強欲）です。",
+      "detail": "Fear & Greed Indexは63（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-11T23:14:54+00:00",
-    "market": "2026-09-11T23:15:05+00:00"
+    "news": "2026-09-12T23:01:52+00:00",
+    "market": "2026-09-12T23:02:03+00:00"
   }
 }

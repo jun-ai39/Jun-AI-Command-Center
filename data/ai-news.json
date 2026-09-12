@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-12",
+  "verified_at": "2026-09-13",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,28 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-968c32634dc2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-14",
+      "category": "model",
+      "title_ja": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "original_title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary_ja": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "id": "openai-4aeb82da9975",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-12",
+      "category": "model",
+      "title_ja": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "original_title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary_ja": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra"
+    },
     {
       "id": "openai-46fcf5bb7b99",
       "source": "openai",
@@ -121,17 +143,6 @@
       "url": "https://openai.com/index/expanding-ai-access-us-government"
     },
     {
-      "id": "openai-b32e9b847135",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-10",
-      "category": "product",
-      "title_ja": "Introducing the Agents API",
-      "original_title": "Introducing the Agents API",
-      "summary_ja": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "url": "https://openai.com/index/introducing-the-agents-api"
-    },
-    {
       "id": "openai-b8a75fb67d81",
       "source": "openai",
       "source_name": "OpenAI",
@@ -141,6 +152,17 @@
       "original_title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "summary_ja": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+    },
+    {
+      "id": "openai-b32e9b847135",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-10",
+      "category": "product",
+      "title_ja": "Introducing the Agents API",
+      "original_title": "Introducing the Agents API",
+      "summary_ja": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api"
     },
     {
       "id": "openai-3eb3e9557eb7",
@@ -198,28 +220,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
     },
     {
-      "id": "openai-a7c183de5112",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-09",
-      "category": "safety",
-      "title_ja": "The AI policy window is open. We need to act.",
-      "original_title": "The AI policy window is open. We need to act.",
-      "summary_ja": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "url": "https://openai.com/index/ai-policy-window"
-    },
-    {
-      "id": "openai-333ccaae8148",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-09",
-      "category": "business",
-      "title_ja": "GPT-6 Astra: The next generation in intelligence for work",
-      "original_title": "GPT-6 Astra: The next generation in intelligence for work",
-      "summary_ja": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work"
-    },
-    {
       "id": "google-660d0278eadc",
       "source": "google",
       "source_name": "Google",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-11T23:14:54+00:00",
+  "updated_at": "2026-09-12T23:01:53+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
