@@ -41,6 +41,7 @@ describe('App operations screens', () => {
     expect(markup).toContain('Phoenix APIへ確認中')
     expect(markup).not.toContain('設備保全ホーム')
     expect(markup).not.toContain('id="work-report-content"')
+    expect(markup).not.toContain('aria-label="ナビ常駐アシスタント"')
   })
 
   it('starts the authenticated user on the lightweight operations home', () => {
@@ -66,6 +67,8 @@ describe('App operations screens', () => {
     expect(markup).toContain('表示設定')
     expect(markup).toContain('文字サイズ')
     expect(markup).toContain('背景色')
+    expect(markup).toContain('aria-label="ナビ常駐アシスタント"')
+    expect(markup).toContain('aria-label="ナビを開く"')
   })
 
   it('shows database backup only inside an opened administrator area', () => {

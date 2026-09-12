@@ -22,6 +22,7 @@ import { InspectionRecordPanel } from './features/inspection-records/components/
 import type { InspectionRecordEntrySelection } from './features/inspection-records/types'
 import { InspectionStatusPanel } from './features/inspection-status/components/InspectionStatusPanel'
 import type { InspectionScheduleStatusItem } from './features/inspection-status/types'
+import { NaviAssistant } from './features/navi/components/NaviAssistant'
 import { useHealthStatus } from './features/system/hooks/useHealthStatus'
 import type { HealthConnectionState } from './features/system/types'
 import { TodayMaintenancePanel } from './features/todos/components/TodayMaintenancePanel'
@@ -373,6 +374,8 @@ export function PhoenixOperationsApp({
         <p>今日の行動が、未来の資産を生む。</p>
         <small>Project Phoenix</small>
       </footer>
+
+      <NaviAssistant />
     </div>
   )
 }
