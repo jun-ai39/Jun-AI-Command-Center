@@ -131,7 +131,7 @@ export function InspectionTemplatePanel({
     >
       <div className="inspection-template-heading">
         <div>
-          <p className="eyebrow">INSPECTION MASTER / STEP 96</p>
+          <p className="eyebrow">INSPECTION MASTER</p>
           <h3 id="inspection-template-title">設備別点検項目マスター</h3>
         </div>
         <p>設備ごとに毎日・毎週・毎月の点検項目を設定</p>

@@ -71,7 +71,7 @@ describe('InspectionStatusContent', () => {
       />,
     )
 
-    expect(markup).toContain('MANAGE / STEP 100')
+    expect(markup).toContain('MANAGE / INSPECTION STATUS')
     expect(markup).toContain('定期点検')
     expect(markup).toContain('2026年8月21日時点')
     expect(markup).toContain('未実施 1件')

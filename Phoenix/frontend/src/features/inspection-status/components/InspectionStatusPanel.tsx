@@ -64,7 +64,7 @@ export function InspectionStatusContent({
     >
       <div className="section-heading inspection-status-section-heading">
         <div>
-          <p className="eyebrow">MANAGE / STEP 100</p>
+          <p className="eyebrow">MANAGE / INSPECTION STATUS</p>
           <h2 id="inspection-status-title">定期点検</h2>
         </div>
         <p>{formatWorkReportDate(targetDate)}時点</p>

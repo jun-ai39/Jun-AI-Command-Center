@@ -94,7 +94,7 @@ export function WorkReportEditPanel({
     >
       <div className="work-report-edit-heading">
         <div>
-          <p>EDIT SAVED REPORT / STEP 94</p>
+          <p>EDIT SAVED REPORT</p>
           <h3 id="work-report-edit-title">
             {confirmation ? '変更内容の確認' : '保存済み日報を編集'}
           </h3>

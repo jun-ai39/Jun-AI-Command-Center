@@ -104,7 +104,7 @@ describe('WorkReportHistoryPanel', () => {
         onReloadEquipmentOptions={vi.fn()}
       />,
     )
-    expect(markup).toContain('MANAGE / STEP 102')
+    expect(markup).toContain('MANAGE / HISTORY')
     expect(markup).toContain('履歴を探す')
     expect(markup).toContain('id="work-report-history-date"')
     expect(markup).toContain('id="work-report-history-department"')

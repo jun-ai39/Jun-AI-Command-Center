@@ -333,7 +333,7 @@ export function TroubleshootingGuideManagementPanel({
     >
       <div className="admin-settings-tool-heading">
         <div>
-          <small>ADMIN GUIDE / STEP 115</small>
+          <small>ADMIN GUIDE</small>
           <h2 id="troubleshooting-management-title">
             トラブルシューティングガイド管理
           </h2>

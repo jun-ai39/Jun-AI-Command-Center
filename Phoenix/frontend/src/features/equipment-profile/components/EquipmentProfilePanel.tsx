@@ -302,7 +302,7 @@ export function EquipmentProfileContent({
     >
       <div className="equipment-profile-heading">
         <div>
-          <p className="eyebrow">KNOWLEDGE / STEP 95</p>
+          <p className="eyebrow">KNOWLEDGE / EQUIPMENT PROFILE</p>
           <h3 id={titleId}>設備カルテ</h3>
         </div>
         <button type="button" onClick={onClose}>
@@ -379,7 +379,7 @@ export function EquipmentProfileContent({
       <div className="equipment-profile-guides">
         <div className="equipment-profile-history-heading">
           <div>
-            <span>GUIDE / STEP 109</span>
+            <span>GUIDE / INSPECTION</span>
             <h4>この設備の点検作業ガイド</h4>
           </div>
           {guidesState.phase === 'ready' && (
@@ -448,7 +448,7 @@ export function EquipmentProfileContent({
       <div className="equipment-profile-inspections">
         <div className="equipment-profile-history-heading">
           <div>
-            <span>INSPECTION RECORDS / STEP 98</span>
+            <span>INSPECTION RECORDS</span>
             <h4>この設備の最新点検記録</h4>
           </div>
           {inspectionsState.phase === 'ready' && (
@@ -491,7 +491,7 @@ export function EquipmentProfileContent({
       <div className="equipment-profile-changes">
         <div className="equipment-profile-history-heading">
           <div>
-            <span>KNOWLEDGE / STEP 122</span>
+            <span>KNOWLEDGE / CHANGE HISTORY</span>
             <h4>この設備の改良・変更履歴</h4>
           </div>
           {changeHistoriesState.phase === 'ready' && (

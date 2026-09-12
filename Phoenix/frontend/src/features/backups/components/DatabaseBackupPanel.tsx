@@ -127,7 +127,7 @@ export function DatabaseBackupPanel() {
     >
       <div className="admin-settings-tool-heading">
         <div>
-          <small>ADMIN TOOL / STEP 132</small>
+          <small>ADMIN TOOL / BACKUP</small>
           <h2 id="database-backup-title">データベースのバックアップ</h2>
         </div>
         <p>

@@ -7,7 +7,7 @@ describe('OperationsHome', () => {
   it('provides one direct entrance for every normal-user core function', () => {
     const markup = renderToStaticMarkup(<OperationsHome onOpen={vi.fn()} />)
 
-    expect(markup).toContain('PHOENIX OS / STEP 104')
+    expect(markup).toContain('PHOENIX OS / HOME')
     expect(markup).toContain('設備保全ホーム')
     expect(markup).toContain('aria-label="設備保全の中核機能"')
     expect(markup).toContain('data-screen="today-maintenance"')

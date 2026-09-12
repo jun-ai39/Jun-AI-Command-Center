@@ -27,7 +27,7 @@ describe('TroubleshootingGuideRegistrationForm', () => {
       />,
     )
 
-    expect(markup).toContain('ADMIN GUIDE / STEP 115')
+    expect(markup).toContain('ADMIN GUIDE')
     expect(markup).toContain('新しいガイドを登録')
     expect(markup).toContain('基本情報')
     expect(markup).toContain('質問と分岐')

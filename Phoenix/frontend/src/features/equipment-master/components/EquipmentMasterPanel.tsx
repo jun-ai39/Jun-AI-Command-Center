@@ -121,7 +121,7 @@ export function EquipmentMasterPanel({
     >
       <div className="equipment-master-heading">
         <div>
-          <p className="eyebrow">ADMIN DATA / STEP 92</p>
+          <p className="eyebrow">ADMIN DATA / EQUIPMENT</p>
           <h3 id="equipment-master-title">設備マスター</h3>
         </div>
         <p>部門 → メーカー → 設備</p>

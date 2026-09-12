@@ -54,7 +54,7 @@ describe('EquipmentFinderContent', () => {
       />,
     )
 
-    expect(markup).toContain('KNOWLEDGE / STEP 99')
+    expect(markup).toContain('KNOWLEDGE / EQUIPMENT SEARCH')
     expect(markup).toContain('設備を探す')
     expect(markup).toContain('部門 → メーカー → 設備')
     expect(markup).toContain('id="equipment-finder-keyword"')

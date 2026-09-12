@@ -85,7 +85,7 @@ describe('TroubleshootingGuideViewer', () => {
       />,
     )
 
-    expect(markup).toContain('GUIDE / STEP 112')
+    expect(markup).toContain('GUIDE / TROUBLESHOOTING')
     expect(markup).toContain('トラブルシューティング')
     expect(markup).toContain('利用できる症状 1件')
     expect(markup).toContain('発生している症状を選んでください')

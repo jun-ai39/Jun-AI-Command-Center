@@ -122,7 +122,7 @@ export function TodayMaintenanceContent({
     >
       <div className="section-heading today-maintenance-section-heading">
         <div>
-          <p className="eyebrow">MANAGE / STEP 101</p>
+          <p className="eyebrow">MANAGE / TODAY</p>
           <h2 id="today-maintenance-title">今日の保全予定</h2>
         </div>
         <p>{formatWorkReportDate(targetDate)}</p>

@@ -9,7 +9,7 @@ describe('DatabaseBackupPanel', () => {
   it('explains the verified local operation before the administrator starts it', () => {
     const markup = renderToStaticMarkup(<DatabaseBackupPanel />)
 
-    expect(markup).toContain('ADMIN TOOL / STEP 132')
+    expect(markup).toContain('ADMIN TOOL / BACKUP')
     expect(markup).toContain('データベースのバックアップ')
     expect(markup).toContain('整合性確認済み')
     expect(markup).toContain('保存先の実パスは画面へ表示しません')

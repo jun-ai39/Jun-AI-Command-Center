@@ -206,7 +206,7 @@ describe('TroubleshootingGuideManagementContent', () => {
 })
 
 describe('TroubleshootingGuideManagementPanel', () => {
-  it('adds the STEP 115 registration entry without exposing the form yet', () => {
+  it('adds the guide registration entry without exposing the form yet', () => {
     const markup = renderToStaticMarkup(
       <TroubleshootingGuideManagementPanel
         equipmentState={equipmentState}
@@ -214,7 +214,7 @@ describe('TroubleshootingGuideManagementPanel', () => {
       />,
     )
 
-    expect(markup).toContain('ADMIN GUIDE / STEP 115')
+    expect(markup).toContain('ADMIN GUIDE')
     expect(markup).toContain('新しいガイドを登録')
     expect(markup).toContain('ガイドを読み込んでいます')
     expect(markup).not.toContain('id="troubleshooting-registration-equipment"')

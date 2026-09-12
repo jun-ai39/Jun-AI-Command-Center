@@ -287,7 +287,7 @@ export function WorkReportHistoryPanel({
       <div className="section-heading">
         <div>
           <p className="eyebrow">
-            {mode === 'attention' ? 'MANAGE / ATTENTION' : 'MANAGE / STEP 102'}
+            {mode === 'attention' ? 'MANAGE / ATTENTION' : 'MANAGE / HISTORY'}
           </p>
           <h2
             id={

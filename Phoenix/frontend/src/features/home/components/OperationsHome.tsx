@@ -66,7 +66,7 @@ export function OperationsHome({
       aria-labelledby="operations-home-title"
     >
       <div className="operations-home-intro">
-        <p className="eyebrow">PHOENIX OS / STEP 104</p>
+        <p className="eyebrow">PHOENIX OS / HOME</p>
         <h1 id="operations-home-title">設備保全ホーム</h1>
         <p>今日やることを確認し、必要な記録や設備情報へ迷わず進めます。</p>
       </div>

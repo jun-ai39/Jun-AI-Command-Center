@@ -53,7 +53,7 @@ describe('TodayMaintenanceContent', () => {
       />,
     )
 
-    expect(markup).toContain('MANAGE / STEP 101')
+    expect(markup).toContain('MANAGE / TODAY')
     expect(markup).toContain('今日の保全予定')
     expect(markup).toContain('要実施 2件')
     expect(markup).toContain('コンベアーの給油')

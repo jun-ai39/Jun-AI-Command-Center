@@ -106,11 +106,7 @@ export function LoginScreen({
 
   return (
     <AuthFrame
-      eyebrow={
-        isReauthentication
-          ? 'SESSION EXPIRED / STEP 131'
-          : 'LOCAL ACCESS / STEP 129'
-      }
+      eyebrow={isReauthentication ? 'SESSION EXPIRED' : 'LOCAL ACCESS'}
       title={
         isReauthentication
           ? 'セッションの有効期限が切れました'

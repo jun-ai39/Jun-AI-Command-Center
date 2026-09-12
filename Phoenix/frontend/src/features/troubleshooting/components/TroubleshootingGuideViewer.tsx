@@ -154,7 +154,7 @@ export function TroubleshootingGuideViewer({
     <div className="equipment-profile-troubleshooting">
       <div className="equipment-profile-history-heading">
         <div>
-          <span>GUIDE / STEP 112</span>
+          <span>GUIDE / TROUBLESHOOTING</span>
           <h4>トラブルシューティング</h4>
         </div>
         {listState.phase === 'ready' && (

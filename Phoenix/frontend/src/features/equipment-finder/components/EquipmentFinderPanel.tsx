@@ -87,7 +87,7 @@ export function EquipmentFinderContent({
       <div className="equipment-finder-panel">
         <div className="equipment-finder-heading">
           <div>
-            <span>KNOWLEDGE / STEP 99</span>
+            <span>KNOWLEDGE / EQUIPMENT SEARCH</span>
             <h2 id="equipment-finder-title">設備を探す</h2>
           </div>
           <strong>部門 → メーカー → 設備</strong>

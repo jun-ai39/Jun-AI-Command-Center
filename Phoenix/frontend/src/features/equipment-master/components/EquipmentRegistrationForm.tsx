@@ -110,7 +110,7 @@ export function EquipmentRegistrationForm({
         <span>2</span>
         <div>
           <h4>設備を登録</h4>
-          <p>設備写真は今回のSTEPでは登録しません。</p>
+          <p>写真は設備登録後、設備カルテから登録できます。</p>
         </div>
       </div>
       <form noValidate onSubmit={handleSubmit}>

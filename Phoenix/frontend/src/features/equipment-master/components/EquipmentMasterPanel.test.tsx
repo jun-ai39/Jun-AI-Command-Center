@@ -60,7 +60,7 @@ describe('EquipmentMasterPanel', () => {
   it('shows the two-step registration flow and active equipment tree', () => {
     const markup = renderToStaticMarkup(<EquipmentMasterPanel />)
 
-    expect(markup).toContain('ADMIN DATA / STEP 92')
+    expect(markup).toContain('ADMIN DATA / EQUIPMENT')
     expect(markup).toContain('メーカーを登録')
     expect(markup).toContain('id="equipment-master-manufacturer-name"')
     expect(markup).toContain('設備を登録')
@@ -72,7 +72,7 @@ describe('EquipmentMasterPanel', () => {
     expect(markup).toContain('TEST-200')
     expect(markup).toContain('30000000-0000-4000-8000-000000000002')
     expect(markup).toContain('設備カルテを見る')
-    expect(markup).toContain('INSPECTION MASTER / STEP 96')
+    expect(markup).toContain('INSPECTION MASTER')
     expect(markup).toContain('設備別点検項目マスター')
     expect(markup).toContain('id="inspection-template-equipment"')
   })

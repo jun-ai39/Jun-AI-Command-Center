@@ -126,7 +126,7 @@ export function TroubleshootingGuideRegistrationForm({
     >
       <div className="troubleshooting-registration-heading">
         <div>
-          <span>ADMIN GUIDE / STEP 115</span>
+          <span>ADMIN GUIDE</span>
           <h3 id="troubleshooting-registration-title">新しいガイドを登録</h3>
         </div>
         <p>設備・質問・終点を確認し、分岐全体を一度に保存します。</p>

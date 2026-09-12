@@ -128,7 +128,7 @@ describe('InspectionTemplatePanel', () => {
       <InspectionTemplatePanel equipment={[]} />,
     )
 
-    expect(markup).toContain('INSPECTION MASTER / STEP 96')
+    expect(markup).toContain('INSPECTION MASTER')
     expect(markup).toContain('設備別点検項目マスター')
     expect(markup).toContain('使用中の設備を1件登録してください')
   })

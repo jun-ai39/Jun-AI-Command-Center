@@ -256,7 +256,7 @@ export function PhoenixOperationsApp({
                       >
                         <div className="admin-settings-tool-heading">
                           <div>
-                            <small>ADMIN TOOL / STEP 103</small>
+                            <small>ADMIN TOOL / MAINTENANCE</small>
                             <h2 id="maintenance-schedule-management-title">
                               保全予定の管理
                             </h2>

@@ -390,7 +390,7 @@ export function InspectionRecordPanel({
     >
       <div className="section-heading">
         <div>
-          <p className="eyebrow">RECORD / STEP 97</p>
+          <p className="eyebrow">RECORD / INSPECTION</p>
           <h2 id="inspection-record-title">点検記録</h2>
         </div>
         <p>設備別の項目を順番に入力</p>
@@ -402,7 +402,7 @@ export function InspectionRecordPanel({
             <span>INSPECTION INPUT</span>
             <h3>今日の点検を記録</h3>
           </div>
-          <span className="inspection-record-step-badge">STEP 97</span>
+          <span className="inspection-record-step-badge">点検入力</span>
         </div>
         <p className="inspection-record-intro">
           設備と周期を選ぶと、管理者が設定した有効な点検項目だけを表示します。

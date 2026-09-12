@@ -235,7 +235,7 @@ export const WorkReportPanel = forwardRef<
     >
       <div className="section-heading">
         <div>
-          <p className="eyebrow">RECORD / STEP 94</p>
+          <p className="eyebrow">RECORD / WORK REPORT</p>
           <h2 id="work-report-title">作業日報</h2>
         </div>
         <p>7項目で記録</p>
