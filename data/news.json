@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-13T23:07:10+00:00",
+  "updated_at": "2026-09-14T23:51:10+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "「私たちは決して、決して忘れない」　9/11攻撃から25年、米各地で追悼",
+      "title": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cg493lnwxdpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck305jvy987go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "global",
+      "published_at": "Mon, 14 Sep 2026 13:19:27 GMT"
+    },
+    {
+      "title": "ロシア、ウクライナで列車を攻撃　ジョンソン元英首相らの別列車が駅を出た直後",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c93vnk0lv19o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
-      "region": "global",
-      "published_at": "Sat, 12 Sep 2026 02:30:05 GMT"
+      "region": "europe",
+      "published_at": "Mon, 14 Sep 2026 03:09:59 GMT"
     },
     {
-      "title": "9/11の3年前に「爆発物を積んだ航空機」の脅威を米CIAが警告　機密文書公開で明らかに",
+      "title": "AI企業のスタッフは人類の未来がどうなるか「本当に恐れている」、元アンソロピック社員がBBCに語る",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3v4nr1z6x2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cly7589yr29o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Sat, 12 Sep 2026 04:53:46 GMT"
+      "published_at": "Mon, 14 Sep 2026 04:28:28 GMT"
     },
     {
-      "title": "米南部で黒人女性、木につるされ遺体で発見　家族らの訴え経て最初の逮捕",
+      "title": "【解説】 ヒマラヤ山脈の氷河、急速に溶解　インド経済が「危機」に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c74k08d3d44o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c783v0dvj75o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 12 Sep 2026 04:13:54 GMT"
-    },
-    {
-      "title": "フィリピン沖でフェリー火災、35人死亡50人超行方不明　40時間以上たって救助隊員が乗り込む",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ce9edgkk9mro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "経済",
       "region": "asia",
-      "published_at": "Sat, 12 Sep 2026 08:26:47 GMT"
+      "published_at": "Mon, 14 Sep 2026 06:34:15 GMT"
     },
     {
-      "title": "【解説】 トランプ氏、米中間選挙で勝利なら全成人に5000ドル支給と表明　本当に可能なのか",
+      "title": "【解説】AIの「減速」とはどうやるのか、募る疑問",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5y4867y3j5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 11 Sep 2026 06:44:41 GMT"
-    },
-    {
-      "title": "香港、天安門事件追悼集会の主催者らに拘禁刑　国安法違反で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cpq05yqrl43o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 11 Sep 2026 07:32:08 GMT"
-    },
-    {
-      "title": "生物兵器開発につながり得るAIの「悪用」を阻止　米アンソロピックが発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqlwz7vydwlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cg49nk203wlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 11 Sep 2026 08:00:52 GMT"
+      "published_at": "Mon, 14 Sep 2026 02:38:57 GMT"
     },
     {
-      "title": "イスラエル首相、ハマス襲撃をUAEから事前警告されていたと報じられ否定　新聞社を提訴へ",
+      "title": "【解説】 BRICS首脳会議、イラン戦争で関係を再構築　分断も明らかに",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/czjzvpn4mewo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cnvl21n27ypo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "紛争",
       "region": "middle-east",
-      "published_at": "Fri, 11 Sep 2026 04:45:53 GMT"
+      "published_at": "Mon, 14 Sep 2026 09:07:49 GMT"
     },
     {
-      "title": "ドローンの光でツインタワー再現、9/11攻撃から25年　米ニューヨーク",
+      "title": "子どもの虐待画像所持の疑いがあるアメリカ大使館員、イギリス警察の調べ受けないまま出国",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c624le2ve90o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/clyjx1w34ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Mon, 14 Sep 2026 03:32:18 GMT"
+    },
+    {
+      "title": "ロシアの列車攻撃は新しい展開なのか、外交列車を狙った可能性",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgy1vpqg3eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
-      "region": "north-america",
-      "published_at": "Fri, 11 Sep 2026 03:14:41 GMT"
+      "region": "europe",
+      "published_at": "Mon, 14 Sep 2026 07:00:14 GMT"
+    },
+    {
+      "title": "英ウェールズ、スコットランド、北アイルランドの首長らが初会合",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvgyrvnxenzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 14 Sep 2026 10:46:09 GMT"
     }
   ]
 }

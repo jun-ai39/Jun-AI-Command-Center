@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-15",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,39 @@
   ],
   "items": [
     {
+      "id": "google-6666660dfd65",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-15",
+      "category": "product",
+      "title_ja": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "original_title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/"
+    },
+    {
+      "id": "google-ac6fab4ebd9f",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-15",
+      "category": "model",
+      "title_ja": "DevFest is back",
+      "original_title": "DevFest is back",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+    },
+    {
+      "id": "openai-7f82d995c515",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-14",
+      "category": "model",
+      "title_ja": "How Fyxer built an AI executive assistant people trust",
+      "original_title": "How Fyxer built an AI executive assistant people trust",
+      "summary_ja": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "url": "https://openai.com/index/fyxer"
+    },
+    {
       "id": "openai-968c32634dc2",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +64,17 @@
       "original_title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary_ja": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "id": "google-5945dbc4b87e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-14",
+      "category": "product",
+      "title_ja": "We’re exploring a potential data center in Lea County, New Mexico.",
+      "original_title": "We’re exploring a potential data center in Lea County, New Mexico.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/"
     },
     {
       "id": "openai-4aeb82da9975",
@@ -165,17 +209,6 @@
       "url": "https://openai.com/index/introducing-the-agents-api"
     },
     {
-      "id": "openai-3eb3e9557eb7",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-10",
-      "category": "safety",
-      "title_ja": "Paul Christiano joins OpenAI Foundation Board",
-      "original_title": "Paul Christiano joins OpenAI Foundation Board",
-      "summary_ja": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
-    },
-    {
       "id": "google-da64721081ca",
       "source": "google",
       "source_name": "Google",
@@ -198,17 +231,6 @@
       "url": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/"
     },
     {
-      "id": "google-c9b388b08480",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-10",
-      "category": "model",
-      "title_ja": "4 ways Gemini makes administrative chores quick and easy",
-      "original_title": "4 ways Gemini makes administrative chores quick and easy",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/"
-    },
-    {
       "id": "google-82b8bf7db8ec",
       "source": "google",
       "source_name": "Google",
@@ -218,28 +240,6 @@
       "original_title": "Recreating a 70-year love story frame by frame",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
-    },
-    {
-      "id": "google-660d0278eadc",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-09",
-      "category": "business",
-      "title_ja": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
-      "original_title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/"
-    },
-    {
-      "id": "google-ff0e50f02373",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-09",
-      "category": "safety",
-      "title_ja": "Our blueprint for responsible clean energy growth in Finland",
-      "original_title": "Our blueprint for responsible clean energy growth in Finland",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-13T23:07:11+00:00",
+  "updated_at": "2026-09-14T23:51:10+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

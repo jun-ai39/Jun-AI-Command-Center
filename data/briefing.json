@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-13T23:07:21+00:00",
+  "generated_at": "2026-09-14T23:51:20+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "フィリピン沖でフェリー火災、35人死亡50人超行方不明　40時間以上たって救助隊員が乗り込む",
-      "category": "世界情勢",
+      "title": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
+      "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 12 Sep 2026 08:26:47 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ce9edgkk9mro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 14 Sep 2026 13:19:27 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck305jvy987go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "9/11の3年前に「爆発物を積んだ航空機」の脅威を米CIAが警告　機密文書公開で明らかに",
+      "title": "英ウェールズ、スコットランド、北アイルランドの首長らが初会合",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 12 Sep 2026 04:53:46 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c3v4nr1z6x2o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 14 Sep 2026 10:46:09 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cvgyrvnxenzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "米南部で黒人女性、木につるされ遺体で発見　家族らの訴え経て最初の逮捕",
-      "category": "世界情勢",
+      "title": "【解説】 BRICS首脳会議、イラン戦争で関係を再構築　分断も明らかに",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 12 Sep 2026 04:13:54 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c74k08d3d44o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 14 Sep 2026 09:07:49 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cnvl21n27ypo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -3.60%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：日経平均 -2.72%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -1.78%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：XRP +6.60%"
     },
     {
       "label": "市場心理",
-      "value": "61 / 100",
+      "value": "57 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "153.644 JPY",
-      "detail": "前日比 -0.14%"
+      "value": "154.350 JPY",
+      "detail": "前日比 +0.57%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "フィリピン沖でフェリー火災、35人死亡50人超行方不明　40時間以上たって救助隊員が乗り込む",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
+      "meta": "外交・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.60%です。",
+      "detail": "日経平均が前日比-2.72%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは61（強欲）です。",
+      "detail": "Fear & Greed Indexは57（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-13T23:07:10+00:00",
-    "market": "2026-09-13T23:07:21+00:00"
+    "news": "2026-09-14T23:51:10+00:00",
+    "market": "2026-09-14T23:51:20+00:00"
   }
 }
