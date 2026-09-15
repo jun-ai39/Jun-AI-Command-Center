@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-16",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,26 +22,114 @@
   ],
   "items": [
     {
-      "id": "google-6666660dfd65",
+      "id": "google-9ac7b06b4a79",
       "source": "google",
       "source_name": "Google",
-      "published_at": "2026-09-15",
-      "category": "product",
-      "title_ja": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "original_title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "published_at": "2026-09-16",
+      "category": "model",
+      "title_ja": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
+      "original_title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
       "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/"
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
     },
     {
-      "id": "google-ac6fab4ebd9f",
+      "id": "google-850203855328",
       "source": "google",
       "source_name": "Google",
-      "published_at": "2026-09-15",
+      "published_at": "2026-09-16",
       "category": "model",
-      "title_ja": "DevFest is back",
-      "original_title": "DevFest is back",
+      "title_ja": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "original_title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+    },
+    {
+      "id": "google-d86b4319afd9",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "15 organizations transforming public service with AI",
+      "original_title": "15 organizations transforming public service with AI",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/"
+    },
+    {
+      "id": "google-970c94673769",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "AI for Societal Impact",
+      "original_title": "AI for Societal Impact",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
+    },
+    {
+      "id": "google-6fff55fdf7cb",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "Building AI to accelerate science and improve lives",
+      "original_title": "Building AI to accelerate science and improve lives",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
+    },
+    {
+      "id": "google-50f1fa34d3c3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "AI for everyone in every language",
+      "original_title": "AI for everyone in every language",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+    },
+    {
+      "id": "google-bd6b61586f08",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
+      "original_title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/"
+    },
+    {
+      "id": "google-4f3754e6a548",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.",
+      "original_title": "We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/"
+    },
+    {
+      "id": "google-c4890978b23b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "education",
+      "title_ja": "Sharpen your study routine with new Gemini Notebook tools",
+      "original_title": "Sharpen your study routine with new Gemini Notebook tools",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/"
+    },
+    {
+      "id": "google-3333bd464447",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "model",
+      "title_ja": "4 ways to tackle household chores with Gemini",
+      "original_title": "4 ways to tackle household chores with Gemini",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/"
     },
     {
       "id": "openai-7f82d995c515",
@@ -64,17 +152,6 @@
       "original_title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary_ja": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-    },
-    {
-      "id": "google-5945dbc4b87e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-14",
-      "category": "product",
-      "title_ja": "We’re exploring a potential data center in Lea County, New Mexico.",
-      "original_title": "We’re exploring a potential data center in Lea County, New Mexico.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/"
     },
     {
       "id": "openai-4aeb82da9975",
@@ -121,50 +198,6 @@
       "url": "https://openai.com/index/put-data-to-work"
     },
     {
-      "id": "google-aa1d6238e82a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-11",
-      "category": "product",
-      "title_ja": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
-      "original_title": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/"
-    },
-    {
-      "id": "google-cc643436dbfc",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-11",
-      "category": "product",
-      "title_ja": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
-      "original_title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/"
-    },
-    {
-      "id": "google-ceadd21f5d3a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-11",
-      "category": "product",
-      "title_ja": "3 ways to prep for your next big race with Search",
-      "original_title": "3 ways to prep for your next big race with Search",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
-    },
-    {
-      "id": "google-fcbdbdad0836",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-11",
-      "category": "model",
-      "title_ja": "The Gemini app is now available for Windows",
-      "original_title": "The Gemini app is now available for Windows",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/"
-    },
-    {
       "id": "openai-0bb946f0c421",
       "source": "openai",
       "source_name": "OpenAI",
@@ -209,39 +242,6 @@
       "url": "https://openai.com/index/introducing-the-agents-api"
     },
     {
-      "id": "google-da64721081ca",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-10",
-      "category": "education",
-      "title_ja": "A new deep learning model maps global methane emissions from space.",
-      "original_title": "A new deep learning model maps global methane emissions from space.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/"
-    },
-    {
-      "id": "google-a622f43ee197",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-10",
-      "category": "product",
-      "title_ja": "Tackle your to-do list with new features in our Google AI plans.",
-      "original_title": "Tackle your to-do list with new features in our Google AI plans.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/"
-    },
-    {
-      "id": "google-82b8bf7db8ec",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-10",
-      "category": "product",
-      "title_ja": "Recreating a 70-year love story frame by frame",
-      "original_title": "Recreating a 70-year love story frame by frame",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-14T23:51:10+00:00",
+  "updated_at": "2026-09-15T23:31:00+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

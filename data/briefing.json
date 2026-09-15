@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T23:51:20+00:00",
+  "generated_at": "2026-09-15T23:31:11+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
-      "category": "外交",
-      "source": "BBC News 日本語",
-      "published_at": "Mon, 14 Sep 2026 13:19:27 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck305jvy987go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "英ウェールズ、スコットランド、北アイルランドの首長らが初会合",
+      "title": "夫が20年以上にわたり薬を使って妻をレイプ、60件で有罪認める　英マンチェスター",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 14 Sep 2026 10:46:09 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cvgyrvnxenzo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 15 Sep 2026 07:39:56 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm9qreq4g7yeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】 BRICS首脳会議、イラン戦争で関係を再構築　分断も明らかに",
-      "category": "紛争",
+      "title": "アメリカ、石炭とガス使う火力発電所の温室効果ガス排出規制を撤廃",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 14 Sep 2026 09:07:49 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cnvl21n27ypo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 15 Sep 2026 07:04:50 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c34gden2qz29o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "中国、AIめぐり「悪意ある競争」をしているとの見方を批判",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Tue, 15 Sep 2026 07:04:49 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c60e3dv11z85o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -2.72%"
+      "value": "上昇 0・下落 5・横ばい 0",
+      "detail": "最大変動：日経平均 -2.55%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +6.60%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -8.76%"
     },
     {
       "label": "市場心理",
-      "value": "57 / 100",
+      "value": "69 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "154.350 JPY",
-      "detail": "前日比 +0.57%"
+      "value": "155.152 JPY",
+      "detail": "前日比 +1.03%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
-      "meta": "外交・BBC News 日本語",
+      "detail": "夫が20年以上にわたり薬を使って妻をレイプ、60件で有罪認める　英マンチェスター",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-2.72%です。",
+      "detail": "日経平均が前日比-2.55%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは57（強欲）です。",
+      "detail": "Fear & Greed Indexは69（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-14T23:51:10+00:00",
-    "market": "2026-09-14T23:51:20+00:00"
+    "news": "2026-09-15T23:31:00+00:00",
+    "market": "2026-09-15T23:31:11+00:00"
   }
 }
