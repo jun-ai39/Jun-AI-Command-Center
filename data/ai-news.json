@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-16",
+  "verified_at": "2026-09-17",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,94 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-b0366f9850a9",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-17",
+      "category": "model",
+      "title_ja": "Helping older adults use AI in everyday life",
+      "original_title": "Helping older adults use AI in everyday life",
+      "summary_ja": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+    },
+    {
+      "id": "openai-f3899afd4d6a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-17",
+      "category": "model",
+      "title_ja": "Our framework for reporting model misalignment",
+      "original_title": "Our framework for reporting model misalignment",
+      "summary_ja": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework"
+    },
+    {
+      "id": "google-69e6db292749",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-17",
+      "category": "product",
+      "title_ja": "5 things to know about teens' views on AI today",
+      "original_title": "5 things to know about teens' views on AI today",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/"
+    },
+    {
+      "id": "openai-6ac27c68838b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "Reimagining advertising with AI",
+      "original_title": "Reimagining advertising with AI",
+      "summary_ja": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
+      "id": "openai-4410122683c5",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-16",
+      "category": "education",
+      "title_ja": "How to connect AI usage to business value",
+      "original_title": "How to connect AI usage to business value",
+      "summary_ja": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+    },
+    {
+      "id": "openai-7d2872733a61",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-16",
+      "category": "business",
+      "title_ja": "How workers are unlocking new ways of working",
+      "original_title": "How workers are unlocking new ways of working",
+      "summary_ja": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working"
+    },
+    {
+      "id": "google-a7d939384a73",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "Boost your holiday sales with these agentic commerce updates",
+      "original_title": "Boost your holiday sales with these agentic commerce updates",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/"
+    },
+    {
+      "id": "google-df36c6a5a847",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "We’re catalyzing megaton-scale climate impact in Brazil",
+      "original_title": "We’re catalyzing megaton-scale climate impact in Brazil",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/"
+    },
     {
       "id": "google-9ac7b06b4a79",
       "source": "google",
@@ -77,50 +165,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
     },
     {
-      "id": "google-50f1fa34d3c3",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "AI for everyone in every language",
-      "original_title": "AI for everyone in every language",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
-    },
-    {
-      "id": "google-bd6b61586f08",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
-      "original_title": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/"
-    },
-    {
-      "id": "google-4f3754e6a548",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.",
-      "original_title": "We’re committing $10 million toward Nevada’s cleaner, more affordable energy future.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/"
-    },
-    {
-      "id": "google-c4890978b23b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "education",
-      "title_ja": "Sharpen your study routine with new Gemini Notebook tools",
-      "original_title": "Sharpen your study routine with new Gemini Notebook tools",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/"
-    },
-    {
       "id": "google-3333bd464447",
       "source": "google",
       "source_name": "Google",
@@ -130,6 +174,17 @@
       "original_title": "4 ways to tackle household chores with Gemini",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/"
+    },
+    {
+      "id": "google-50f1fa34d3c3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-16",
+      "category": "product",
+      "title_ja": "AI for everyone in every language",
+      "original_title": "AI for everyone in every language",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
     },
     {
       "id": "openai-7f82d995c515",
@@ -187,61 +242,6 @@
       "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
     },
     {
-      "id": "openai-6a886414536a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-11",
-      "category": "business",
-      "title_ja": "Now everyone can put data to work",
-      "original_title": "Now everyone can put data to work",
-      "summary_ja": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "url": "https://openai.com/index/put-data-to-work"
-    },
-    {
-      "id": "openai-0bb946f0c421",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-10",
-      "category": "model",
-      "title_ja": "Introducing ChatGPT for Financial Services",
-      "original_title": "Introducing ChatGPT for Financial Services",
-      "summary_ja": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services"
-    },
-    {
-      "id": "openai-3802aa15c4b6",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-10",
-      "category": "product",
-      "title_ja": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "original_title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "summary_ja": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "url": "https://openai.com/index/expanding-ai-access-us-government"
-    },
-    {
-      "id": "openai-b8a75fb67d81",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-10",
-      "category": "model",
-      "title_ja": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "original_title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary_ja": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-    },
-    {
-      "id": "openai-b32e9b847135",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-10",
-      "category": "product",
-      "title_ja": "Introducing the Agents API",
-      "original_title": "Introducing the Agents API",
-      "summary_ja": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "url": "https://openai.com/index/introducing-the-agents-api"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-15T23:31:00+00:00",
+  "updated_at": "2026-09-16T23:38:36+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

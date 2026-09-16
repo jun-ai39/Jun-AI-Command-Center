@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-15T23:31:00+00:00",
+  "updated_at": "2026-09-16T23:38:36+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "中国、AIめぐり「悪意ある競争」をしているとの見方を批判",
+      "title": "アメリカが宇宙に兵器配備、初めて認める",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c60e3dv11z85o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ckn9wz7d93nzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 16 Sep 2026 04:56:23 GMT"
+    },
+    {
+      "title": "アメリカの弾薬備蓄が不足、対イラン戦争で　米国防総省の監察総監が報告",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6vgy149xz2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Wed, 16 Sep 2026 03:17:16 GMT"
+    },
+    {
+      "title": "英歌手シーランさんのツアーからアーティストが相次ぎ離脱、パレスチナ連帯示したラッパーが降板させられ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq23xre5g5ygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 16 Sep 2026 09:22:20 GMT"
+    },
+    {
+      "title": "日本で100歳以上の高齢者、初めて10万人を超える",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqzrz46nkjl7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Wed, 16 Sep 2026 07:38:25 GMT"
+    },
+    {
+      "title": "ロシアの軍艦、デンマーク軍のヘリに火炎弾を発射　バルト海で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwly71dkdzxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Wed, 16 Sep 2026 04:08:54 GMT"
+    },
+    {
+      "title": "米オープンAIのアルトマン氏、世界がAIを「恐れるのはもっとも」だが「企業を信頼すべき」と主張",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6wyzn77gzxeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 16 Sep 2026 05:43:14 GMT"
+    },
+    {
+      "title": "トルコ、LGBTQ+の活動家を取り締まり　数十人拘束",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm9dwvv1z191o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 16 Sep 2026 08:18:41 GMT"
+    },
+    {
+      "title": "中国、自国民に対する渡航制限を強化",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvzezj8gd0neo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "asia",
-      "published_at": "Tue, 15 Sep 2026 07:04:49 GMT"
+      "published_at": "Wed, 16 Sep 2026 08:17:32 GMT"
     },
     {
-      "title": "AIの「キルスイッチ」義務化も検討すべき　アンソロピック共同創業者がBBCに話す",
+      "title": "米メタ、児童性的虐待コンテンツを当局に直接通報へ　インドで合意",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqly75jr4050o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 15 Sep 2026 02:09:22 GMT"
-    },
-    {
-      "title": "NATO戦闘機、リトアニア領空に侵入したドローンを撃墜",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck790x09vgvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 15 Sep 2026 03:41:34 GMT"
-    },
-    {
-      "title": "アメリカ、石炭とガス使う火力発電所の温室効果ガス排出規制を撤廃",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c34gden2qz29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 15 Sep 2026 07:04:50 GMT"
-    },
-    {
-      "title": "夫が20年以上にわたり薬を使って妻をレイプ、60件で有罪認める　英マンチェスター",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm9qreq4g7yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 15 Sep 2026 07:39:56 GMT"
-    },
-    {
-      "title": "米最高裁、郵便投票の制限認めず　トランプ氏の計画を阻止",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm5y5dn3l0x9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 15 Sep 2026 04:00:18 GMT"
-    },
-    {
-      "title": "バーナム英首相の父ロイさん死去、首相は予定を中止",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cxm2q0qjg0q4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 15 Sep 2026 02:07:41 GMT"
-    },
-    {
-      "title": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck305jvy987go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cwd08yyre0kpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "外交",
-      "region": "global",
-      "published_at": "Tue, 15 Sep 2026 00:36:34 GMT"
-    },
-    {
-      "title": "ロシア、ウクライナで列車を攻撃　ジョンソン元英首相らの別列車が駅を出た直後",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c93vnk0lv19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Mon, 14 Sep 2026 03:09:59 GMT"
+      "region": "asia",
+      "published_at": "Wed, 16 Sep 2026 08:24:56 GMT"
     }
   ]
 }

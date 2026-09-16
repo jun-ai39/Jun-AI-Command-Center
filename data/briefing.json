@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T23:31:11+00:00",
+  "generated_at": "2026-09-16T23:38:48+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "夫が20年以上にわたり薬を使って妻をレイプ、60件で有罪認める　英マンチェスター",
+      "title": "英歌手シーランさんのツアーからアーティストが相次ぎ離脱、パレスチナ連帯示したラッパーが降板させられ",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 15 Sep 2026 07:39:56 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm9qreq4g7yeo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 16 Sep 2026 09:22:20 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq23xre5g5ygo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "アメリカ、石炭とガス使う火力発電所の温室効果ガス排出規制を撤廃",
-      "category": "世界情勢",
+      "title": "米メタ、児童性的虐待コンテンツを当局に直接通報へ　インドで合意",
+      "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 15 Sep 2026 07:04:50 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c34gden2qz29o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 16 Sep 2026 08:24:56 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwd08yyre0kpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "中国、AIめぐり「悪意ある競争」をしているとの見方を批判",
+      "title": "トルコ、LGBTQ+の活動家を取り締まり　数十人拘束",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 15 Sep 2026 07:04:49 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c60e3dv11z85o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 16 Sep 2026 08:18:41 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm9dwvv1z191o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -2.55%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：日経平均 -2.07%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -8.76%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Solana +2.12%"
     },
     {
       "label": "市場心理",
-      "value": "69 / 100",
-      "detail": "強欲"
+      "value": "51 / 100",
+      "detail": "中立"
     },
     {
       "label": "ドル円",
-      "value": "155.152 JPY",
-      "detail": "前日比 +1.03%"
+      "value": "156.137 JPY",
+      "detail": "前日比 +1.07%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "夫が20年以上にわたり薬を使って妻をレイプ、60件で有罪認める　英マンチェスター",
+      "detail": "英歌手シーランさんのツアーからアーティストが相次ぎ離脱、パレスチナ連帯示したラッパーが降板させられ",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-2.55%です。",
+      "detail": "日経平均が前日比-2.07%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは69（強欲）です。",
+      "detail": "Fear & Greed Indexは51（中立）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-15T23:31:00+00:00",
-    "market": "2026-09-15T23:31:11+00:00"
+    "news": "2026-09-16T23:38:36+00:00",
+    "market": "2026-09-16T23:38:47+00:00"
   }
 }
