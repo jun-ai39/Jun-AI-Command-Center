@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-17",
+  "verified_at": "2026-09-18",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,39 @@
   ],
   "items": [
     {
+      "id": "google-590df77dc8c3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-18",
+      "category": "product",
+      "title_ja": "Making global data easier to explore",
+      "original_title": "Making global data easier to explore",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
+    },
+    {
+      "id": "google-e78be4774342",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-18",
+      "category": "product",
+      "title_ja": "The new CC, an AI agent built for families",
+      "original_title": "The new CC, an AI agent built for families",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
+    },
+    {
+      "id": "openai-192794312f97",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-17",
+      "category": "business",
+      "title_ja": "Introducing Astra for Law",
+      "original_title": "Introducing Astra for Law",
+      "summary_ja": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "url": "https://openai.com/index/astra-for-law"
+    },
+    {
       "id": "openai-b0366f9850a9",
       "source": "openai",
       "source_name": "OpenAI",
@@ -42,6 +75,17 @@
       "original_title": "Our framework for reporting model misalignment",
       "summary_ja": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "url": "https://openai.com/index/model-misalignment-reporting-framework"
+    },
+    {
+      "id": "google-c62fadadc9d8",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-17",
+      "category": "product",
+      "title_ja": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
+      "original_title": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/"
     },
     {
       "id": "google-69e6db292749",
@@ -154,39 +198,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
     },
     {
-      "id": "google-6fff55fdf7cb",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "Building AI to accelerate science and improve lives",
-      "original_title": "Building AI to accelerate science and improve lives",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
-    },
-    {
-      "id": "google-3333bd464447",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "model",
-      "title_ja": "4 ways to tackle household chores with Gemini",
-      "original_title": "4 ways to tackle household chores with Gemini",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/"
-    },
-    {
-      "id": "google-50f1fa34d3c3",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "AI for everyone in every language",
-      "original_title": "AI for everyone in every language",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
-    },
-    {
       "id": "openai-7f82d995c515",
       "source": "openai",
       "source_name": "OpenAI",
@@ -231,17 +242,6 @@
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
     },
     {
-      "id": "openai-39842fa0b34b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-11",
-      "category": "model",
-      "title_ja": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "original_title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "summary_ja": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-16T23:38:36+00:00",
+  "updated_at": "2026-09-17T23:32:32+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

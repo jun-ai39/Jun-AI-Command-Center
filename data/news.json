@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-16T23:38:36+00:00",
+  "updated_at": "2026-09-17T23:32:31+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "アメリカが宇宙に兵器配備、初めて認める",
+      "title": "複数の米軍拠点で多大な被害、写真から判明　イランの攻撃で",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckn9wz7d93nzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 16 Sep 2026 04:56:23 GMT"
-    },
-    {
-      "title": "アメリカの弾薬備蓄が不足、対イラン戦争で　米国防総省の監察総監が報告",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6vgy149xz2jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crd68zy5d452o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "middle-east",
-      "published_at": "Wed, 16 Sep 2026 03:17:16 GMT"
+      "published_at": "Thu, 17 Sep 2026 07:30:33 GMT"
     },
     {
-      "title": "英歌手シーランさんのツアーからアーティストが相次ぎ離脱、パレスチナ連帯示したラッパーが降板させられ",
+      "title": "欧州委員長、カナダのEU「準加盟国」入り計画を支持　施政方針演説で",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq23xre5g5ygo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqvgydgxn5ygo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Wed, 16 Sep 2026 09:22:20 GMT"
+      "region": "north-america",
+      "published_at": "Thu, 17 Sep 2026 01:07:20 GMT"
     },
     {
-      "title": "日本で100歳以上の高齢者、初めて10万人を超える",
+      "title": "イギリス南部の村、国からの離脱を住民投票で選択　難民収容計画めぐり",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqzrz46nkjl7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Wed, 16 Sep 2026 07:38:25 GMT"
-    },
-    {
-      "title": "ロシアの軍艦、デンマーク軍のヘリに火炎弾を発射　バルト海で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwly71dkdzxzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm4gvq514991o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Wed, 16 Sep 2026 04:08:54 GMT"
+      "published_at": "Thu, 17 Sep 2026 07:40:30 GMT"
     },
     {
-      "title": "米オープンAIのアルトマン氏、世界がAIを「恐れるのはもっとも」だが「企業を信頼すべき」と主張",
+      "title": "米FRBが3年以上ぶりに利上げ、インフレ率の高止まりに警鐘",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6wyzn77gzxeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c60qx4q2zwy2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 16 Sep 2026 05:43:14 GMT"
+      "published_at": "Thu, 17 Sep 2026 02:16:22 GMT"
     },
     {
-      "title": "トルコ、LGBTQ+の活動家を取り締まり　数十人拘束",
+      "title": "長身の選手がベッドで「足を伸ばせない」、日本のコンテナ型宿舎に批判　アジア大会",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm9dwvv1z191o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ckx2zgl58wg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Thu, 17 Sep 2026 04:42:18 GMT"
+    },
+    {
+      "title": "米コンサート会場オーナー、英歌手シーラン氏が「地域援助」寄付を要求と　親パレスチナ発言の前座降板で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cme8xwnyk078o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 17 Sep 2026 08:04:35 GMT"
+    },
+    {
+      "title": "ガザで避難民が暮らす建物が倒壊、子ども8人含む21人死亡　イスラエルの攻撃で損傷し「傾いていた」",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqn8m7lepxypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Thu, 17 Sep 2026 02:09:24 GMT"
+    },
+    {
+      "title": "湾岸地域の米軍基地が受けた被害が明らかに、イランの攻撃で　米CBSが写真入手",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm8xkyl85gvko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Thu, 17 Sep 2026 02:59:02 GMT"
+    },
+    {
+      "title": "故ダイアナ元妃の弟の回顧録にバッキンガム宮殿が反応、「悲しみは記憶をゆがめる」と",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cv8e3gr38474o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 16 Sep 2026 08:18:41 GMT"
-    },
-    {
-      "title": "中国、自国民に対する渡航制限を強化",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvzezj8gd0neo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Wed, 16 Sep 2026 08:17:32 GMT"
-    },
-    {
-      "title": "米メタ、児童性的虐待コンテンツを当局に直接通報へ　インドで合意",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwd08yyre0kpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "asia",
-      "published_at": "Wed, 16 Sep 2026 08:24:56 GMT"
+      "published_at": "Thu, 17 Sep 2026 03:47:12 GMT"
     }
   ]
 }
