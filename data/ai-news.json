@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-18",
+  "verified_at": "2026-09-19",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,50 @@
   ],
   "items": [
     {
+      "id": "google-43dae131a478",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-19",
+      "category": "education",
+      "title_ja": "Earn continuing education and college credits for AI educator training.",
+      "original_title": "Earn continuing education and college credits for AI educator training.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/"
+    },
+    {
+      "id": "google-d92122e53ec9",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-18",
+      "category": "product",
+      "title_ja": "New experts join Google’s AI & Economy team",
+      "original_title": "New experts join Google’s AI & Economy team",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+    },
+    {
+      "id": "google-44ec3a3d6fdc",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-18",
+      "category": "product",
+      "title_ja": "Co-creating the future of fashion with Google",
+      "original_title": "Co-creating the future of fashion with Google",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
+    },
+    {
+      "id": "google-672bbab5cf75",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-18",
+      "category": "product",
+      "title_ja": "Build campaigns that drive high-converting, sales-ready leads.",
+      "original_title": "Build campaigns that drive high-converting, sales-ready leads.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/"
+    },
+    {
       "id": "google-590df77dc8c3",
       "source": "google",
       "source_name": "Google",
@@ -42,6 +86,17 @@
       "original_title": "The new CC, an AI agent built for families",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
+    },
+    {
+      "id": "openai-d22acfa5d0cc",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-17",
+      "category": "model",
+      "title_ja": "How Cooley is accelerating IPO work with ChatGPT",
+      "original_title": "How Cooley is accelerating IPO work with ChatGPT",
+      "summary_ja": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "url": "https://openai.com/index/cooley-gopublic"
     },
     {
       "id": "openai-192794312f97",
@@ -110,6 +165,17 @@
       "url": "https://openai.com/index/reimagining-advertising-with-ai"
     },
     {
+      "id": "openai-27cd99b1dbe3",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-16",
+      "category": "model",
+      "title_ja": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "original_title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary_ja": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "url": "https://openai.com/index/hex-gpt-6-astra"
+    },
+    {
       "id": "openai-4410122683c5",
       "source": "openai",
       "source_name": "OpenAI",
@@ -154,50 +220,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/"
     },
     {
-      "id": "google-9ac7b06b4a79",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "model",
-      "title_ja": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "original_title": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
-    },
-    {
-      "id": "google-850203855328",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "model",
-      "title_ja": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "original_title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
-    },
-    {
-      "id": "google-d86b4319afd9",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "15 organizations transforming public service with AI",
-      "original_title": "15 organizations transforming public service with AI",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/"
-    },
-    {
-      "id": "google-970c94673769",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "AI for Societal Impact",
-      "original_title": "AI for Societal Impact",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
-    },
-    {
       "id": "openai-7f82d995c515",
       "source": "openai",
       "source_name": "OpenAI",
@@ -218,28 +240,6 @@
       "original_title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary_ja": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-    },
-    {
-      "id": "openai-4aeb82da9975",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-12",
-      "category": "model",
-      "title_ja": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "original_title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "summary_ja": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra"
-    },
-    {
-      "id": "openai-46fcf5bb7b99",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-11",
-      "category": "education",
-      "title_ja": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "summary_ja": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-17T23:32:32+00:00",
+  "updated_at": "2026-09-18T23:16:33+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
