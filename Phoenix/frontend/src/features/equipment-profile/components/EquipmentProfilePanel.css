@@ -744,3 +744,33 @@
     grid-column: 1;
   }
 }
+
+.equipment-profile-inspection-handoff {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.equipment-profile-inspection-handoff p {
+  margin: 0;
+  color: var(--text-muted, #a6b8c8);
+  font-size: 0.875rem;
+  line-height: 1.7;
+}
+
+.equipment-profile-inspection-handoff button {
+  min-height: 44px;
+  padding: 0.75rem 1rem;
+  border: 1px solid #ffd078;
+  border-radius: 12px;
+  background: #ffd078;
+  color: #101820;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.equipment-profile-inspection-handoff button:focus-visible {
+  outline: 3px solid #5edbf5;
+  outline-offset: 3px;
+}

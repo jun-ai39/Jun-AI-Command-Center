@@ -41,6 +41,7 @@ import type {
   EquipmentProfileInspectionsState,
   EquipmentProfileReportsState,
 } from '../types'
+import { InspectionHistoryHandoff } from './InspectionHistoryHandoff'
 import { EquipmentPhotoPanel } from './EquipmentPhotoPanel'
 import './EquipmentProfilePanel.css'
 
@@ -188,8 +189,12 @@ function EquipmentReportCard({ report }: { readonly report: WorkReport }) {
 
 function EquipmentInspectionCard({
   record,
+  equipment,
+  onStartWorkReport,
 }: {
   readonly record: InspectionRecord
+  readonly equipment: Equipment
+  readonly onStartWorkReport?: (input: WorkReportGuideHandoffInput) => void
 }) {
   return (
     <li>
@@ -224,6 +229,11 @@ function EquipmentInspectionCard({
             ))}
           </ul>
         </details>
+        <InspectionHistoryHandoff
+          record={record}
+          equipment={equipment}
+          onStartWorkReport={onStartWorkReport}
+        />
       </article>
     </li>
   )
@@ -482,7 +492,12 @@ export function EquipmentProfileContent({
           inspectionsState.items.length > 0 && (
             <ol className="equipment-profile-inspection-list">
               {inspectionsState.items.map((record) => (
-                <EquipmentInspectionCard key={record.id} record={record} />
+                <EquipmentInspectionCard
+                  key={record.id}
+                  record={record}
+                  equipment={equipment}
+                  onStartWorkReport={onStartWorkReport}
+                />
               ))}
             </ol>
           )}

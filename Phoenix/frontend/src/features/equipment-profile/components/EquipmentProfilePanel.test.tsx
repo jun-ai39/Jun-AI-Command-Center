@@ -418,3 +418,17 @@ describe('EquipmentProfileContent', () => {
     expect(errorMarkup).toContain('もう一度読み込む')
   })
 })
+
+it('connects an abnormal history card to the work report handoff', () => {
+  const onStartWorkReport = vi.fn()
+  const markup = renderToStaticMarkup(
+    <EquipmentProfileContent
+      {...baseProps}
+      reportsState={{ phase: 'ready', items: [], total: 0 }}
+      onStartWorkReport={onStartWorkReport}
+    />,
+  )
+  expect(markup).toContain('作業日報へ引き継ぐ')
+  expect(markup).toContain('自動では登録されません')
+  expect(onStartWorkReport).not.toHaveBeenCalled()
+})
