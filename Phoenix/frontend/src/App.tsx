@@ -335,6 +335,7 @@ export function PhoenixOperationsApp({
                     onSaved={() =>
                       setInspectionStatusRefreshToken((current) => current + 1)
                     }
+                    onStartWorkReport={startGuideWorkReport}
                   />
                 </>
               )}

@@ -60,4 +60,24 @@ describe('WorkReportPanel', () => {
     expect(markup).toContain('現在の下書きを維持')
     expect(markup).toContain('下書きを破棄してガイド内容を反映')
   })
+
+  it('labels an inspection handoff conflict separately from guide content', () => {
+    const markup = renderToStaticMarkup(
+      <WorkReportGuideHandoffConflict
+        request={{
+          requestId: 2,
+          source: 'inspection',
+          departmentId: '10000000-0000-4000-8000-000000000001',
+          equipmentId: '30000000-0000-4000-8000-000000000001',
+          phenomenon: '毎日点検で異常を確認：ベルト状態',
+        }}
+        onKeepDraft={() => undefined}
+        onReplaceDraft={() => undefined}
+      />,
+    )
+
+    expect(markup).toContain('INSPECTION → RECORD')
+    expect(markup).toContain('異常点検の現象')
+    expect(markup).toContain('下書きを破棄して異常点検内容を反映')
+  })
 })

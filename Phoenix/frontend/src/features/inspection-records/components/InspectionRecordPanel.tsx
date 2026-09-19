@@ -7,10 +7,14 @@ import {
   type InspectionCycle,
   type InspectionTemplateItem,
 } from '../../inspection-templates/types'
-import type { WorkReportEquipmentOptionsState } from '../../work-reports/types'
+import type {
+  WorkReportEquipmentOptionsState,
+  WorkReportGuideHandoffInput,
+} from '../../work-reports/types'
 import { getLocalDateInputValue } from '../../work-reports/workReportForm'
 import { useInspectionEntryTemplates } from '../hooks/useInspectionEntryTemplates'
 import { useInspectionRecordSave } from '../hooks/useInspectionRecordSave'
+import { createInspectionWorkReportHandoff } from '../inspectionWorkReportHandoff'
 import {
   buildInspectionRecordItems,
   getInspectionLiveJudgment,
@@ -31,6 +35,7 @@ type InspectionRecordPanelProps = {
   readonly equipmentOptionsState: WorkReportEquipmentOptionsState
   readonly onReloadEquipmentOptions: () => void
   readonly onSaved: () => void
+  readonly onStartWorkReport?: (input: WorkReportGuideHandoffInput) => void
   readonly selection?: InspectionRecordEntrySelection | null
   readonly templateRefreshToken?: number
 }
@@ -46,6 +51,7 @@ type InspectionRecordWorkspaceContentProps = {
     input: InspectionRecordCreateInput,
   ) => Promise<InspectionRecord | null>
   readonly onResetSave: () => void
+  readonly onStartWorkReport?: (input: WorkReportGuideHandoffInput) => void
 }
 
 function getCycleLabel(cycle: InspectionCycle): string {
@@ -69,6 +75,7 @@ function InspectionRecordForm({
   saveState,
   onSave,
   onResetSave,
+  onStartWorkReport,
 }: Omit<InspectionRecordWorkspaceContentProps, 'state' | 'onReload'> & {
   readonly items: readonly InspectionTemplateItem[]
 }) {
@@ -104,6 +111,19 @@ function InspectionRecordForm({
   const normalCount =
     savedRecord?.items.filter((item) => item.judgment === 'normal').length ?? 0
   const abnormalCount = (savedRecord?.items.length ?? 0) - normalCount
+  const handoffInput = savedRecord
+    ? createInspectionWorkReportHandoff({
+        inspectionDate,
+        equipment,
+        cycle,
+        record: savedRecord,
+      })
+    : null
+
+  function startAbnormalWorkReport() {
+    if (!handoffInput || !onStartWorkReport) return
+    onStartWorkReport(handoffInput)
+  }
 
   return (
     <form className="inspection-record-form" noValidate onSubmit={handleSubmit}>
@@ -238,6 +258,24 @@ function InspectionRecordForm({
         </div>
       )}
 
+      {handoffInput && onStartWorkReport && (
+        <div
+          className="inspection-record-handoff"
+          role="region"
+          aria-label="異常点検の引継ぎ"
+        >
+          <div>
+            <strong>異常点検を要対応へ引き継ぎますか？</strong>
+            <p>
+              作業日報へ日付・部門・設備・異常項目を反映します。自動保存はせず、内容を確認してから登録できます。
+            </p>
+          </div>
+          <button type="button" onClick={startAbnormalWorkReport}>
+            作業日報へ引き継ぐ
+          </button>
+        </div>
+      )}
+
       <button
         className="inspection-record-save-button"
         type="submit"
@@ -265,6 +303,7 @@ export function InspectionRecordWorkspaceContent({
   onReload,
   onSave,
   onResetSave,
+  onStartWorkReport,
 }: InspectionRecordWorkspaceContentProps) {
   if (state.phase === 'loading') {
     return (
@@ -301,6 +340,7 @@ export function InspectionRecordWorkspaceContent({
       saveState={saveState}
       onSave={onSave}
       onResetSave={onResetSave}
+      onStartWorkReport={onStartWorkReport}
     />
   )
 }
@@ -310,12 +350,14 @@ function InspectionRecordWorkspace({
   equipment,
   cycle,
   onSaved,
+  onStartWorkReport,
   templateRefreshToken,
 }: {
   readonly inspectionDate: string
   readonly equipment: Equipment
   readonly cycle: InspectionCycle
   readonly onSaved: () => void
+  readonly onStartWorkReport?: (input: WorkReportGuideHandoffInput) => void
   readonly templateRefreshToken: number
 }) {
   const { state, reload } = useInspectionEntryTemplates(
@@ -343,6 +385,7 @@ function InspectionRecordWorkspace({
       onReload={reload}
       onSave={saveAndNotify}
       onResetSave={reset}
+      onStartWorkReport={onStartWorkReport}
     />
   )
 }
@@ -351,6 +394,7 @@ export function InspectionRecordPanel({
   equipmentOptionsState,
   onReloadEquipmentOptions,
   onSaved,
+  onStartWorkReport,
   selection = null,
   templateRefreshToken = 0,
 }: InspectionRecordPanelProps) {
@@ -509,6 +553,7 @@ export function InspectionRecordPanel({
             equipment={selectedEquipment}
             cycle={cycle}
             onSaved={onSaved}
+            onStartWorkReport={onStartWorkReport}
             templateRefreshToken={templateRefreshToken}
           />
         )}

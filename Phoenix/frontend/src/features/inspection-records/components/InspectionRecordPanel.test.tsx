@@ -3,6 +3,7 @@ import { describe, expect, it, vi } from 'vitest'
 
 import type { Equipment } from '../../equipment-master/types'
 import type { InspectionTemplateItem } from '../../inspection-templates/types'
+import { createInspectionWorkReportHandoff } from '../inspectionWorkReportHandoff'
 import {
   InspectionRecordPanel,
   InspectionRecordWorkspaceContent,
@@ -131,6 +132,100 @@ describe('InspectionRecordWorkspaceContent', () => {
     )
 
     expect(markup).toContain('対象期間にすでに保存されています')
+  })
+
+  it('offers a human-reviewed work report handoff after an abnormal save', () => {
+    const markup = renderToStaticMarkup(
+      <InspectionRecordWorkspaceContent
+        {...baseProps}
+        state={{ phase: 'ready', items: [statusItem] }}
+        onStartWorkReport={vi.fn()}
+        saveState={{
+          phase: 'saved',
+          record: {
+            id: '50000000-0000-4000-8000-000000000001',
+            inspection_date: '2026-08-21',
+            equipment_id: equipment.equipment_id,
+            equipment_name: equipment.name,
+            equipment_number: equipment.equipment_number,
+            cycle: 'daily',
+            period_key: '2026-08-21',
+            overall_judgment: 'abnormal',
+            items: [
+              {
+                id: '60000000-0000-4000-8000-000000000001',
+                template_item_id: statusItem.id,
+                name: statusItem.name,
+                input_type: 'status',
+                number_value: null,
+                status_value: 'abnormal',
+                unit: null,
+                normal_min: null,
+                normal_max: null,
+                normal_state: statusItem.normal_state,
+                judgment: 'abnormal',
+                display_order: statusItem.display_order,
+              },
+            ],
+            created_at: '2026-08-21T01:00:00+00:00',
+            updated_at: '2026-08-21T01:00:00+00:00',
+          },
+        }}
+      />,
+    )
+
+    expect(markup).toContain('異常点検を要対応へ引き継ぎますか？')
+    expect(markup).toContain('作業日報へ引き継ぐ')
+    expect(markup).toContain('自動保存はせず')
+  })
+})
+
+describe('createInspectionWorkReportHandoff', () => {
+  it('carries the inspection date, equipment, abnormal items, and continued progress', () => {
+    const handoff = createInspectionWorkReportHandoff({
+      inspectionDate: '2026-09-16',
+      equipment,
+      cycle: 'daily',
+      record: {
+        id: '50000000-0000-4000-8000-000000000002',
+        inspection_date: '2026-09-16',
+        equipment_id: equipment.equipment_id,
+        equipment_name: equipment.name,
+        equipment_number: equipment.equipment_number,
+        cycle: 'daily',
+        period_key: '2026-09-16',
+        overall_judgment: 'abnormal',
+        items: [
+          {
+            id: '60000000-0000-4000-8000-000000000002',
+            template_item_id: statusItem.id,
+            name: statusItem.name,
+            input_type: 'status',
+            number_value: null,
+            status_value: 'abnormal',
+            unit: null,
+            normal_min: null,
+            normal_max: null,
+            normal_state: statusItem.normal_state,
+            judgment: 'abnormal',
+            display_order: statusItem.display_order,
+          },
+        ],
+        created_at: '2026-09-16T01:00:00+00:00',
+        updated_at: '2026-09-16T01:00:00+00:00',
+      },
+    })
+
+    expect(handoff).toEqual({
+      source: 'inspection',
+      workDate: '2026-09-16',
+      departmentId: equipment.department_id,
+      equipmentId: equipment.equipment_id,
+      phenomenon: '毎日点検で異常を確認：ベルト状態',
+      workContent:
+        '点検で異常を確認したため、設備の状態を確認し、必要な対応を引き継ぐ。',
+      progress: 'continued',
+    })
   })
 })
 

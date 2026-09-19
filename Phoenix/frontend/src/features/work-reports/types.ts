@@ -39,6 +39,10 @@ export type WorkReportGuideHandoffInput = {
   readonly departmentId: string
   readonly equipmentId: string
   readonly phenomenon: string
+  readonly source?: 'guide' | 'inspection'
+  readonly workDate?: string
+  readonly workContent?: string
+  readonly progress?: WorkReportProgress
 }
 
 export type WorkReportGuideHandoffRequest = WorkReportGuideHandoffInput & {

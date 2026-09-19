@@ -40,4 +40,26 @@ describe('createGuideHandoffDraft', () => {
     expect(needsGuideHandoffConfirmation(emptyDraft, false)).toBe(false)
     expect(needsGuideHandoffConfirmation(existingDraft, true)).toBe(false)
   })
+
+  it('prefills an abnormal inspection handoff for human review', () => {
+    expect(
+      createGuideHandoffDraft({
+        source: 'inspection',
+        workDate: '2026-09-16',
+        departmentId: TEST_DEPARTMENT_ID,
+        equipmentId: TEST_EQUIPMENT_ID,
+        phenomenon: '毎日点検で異常を確認：ベルト状態',
+        workContent: ' 点検異常を確認し、必要な対応を引き継ぐ。 ',
+        progress: 'continued',
+      }),
+    ).toEqual({
+      workDate: '2026-09-16',
+      departmentId: TEST_DEPARTMENT_ID,
+      equipmentId: TEST_EQUIPMENT_ID,
+      phenomenon: '毎日点検で異常を確認：ベルト状態',
+      cause: '',
+      workContent: '点検異常を確認し、必要な対応を引き継ぐ。',
+      progress: 'continued',
+    })
+  })
 })

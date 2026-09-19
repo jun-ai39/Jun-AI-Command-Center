@@ -16,9 +16,11 @@ export function createGuideHandoffDraft(
   workDate?: string,
 ): WorkReportFormValues {
   return {
-    ...createDefaultWorkReportDraft(workDate),
+    ...createDefaultWorkReportDraft(input.workDate ?? workDate),
     departmentId: input.departmentId,
     equipmentId: input.equipmentId,
     phenomenon: input.phenomenon.trim(),
+    workContent: input.workContent?.trim() ?? '',
+    progress: input.progress ?? '',
   }
 }

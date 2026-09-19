@@ -69,23 +69,28 @@ export function WorkReportGuideHandoffConflict({
   onKeepDraft,
   onReplaceDraft,
 }: WorkReportGuideHandoffConflictProps) {
+  const isInspectionHandoff = request.source === 'inspection'
+  const sourceLabel = isInspectionHandoff ? '異常点検' : 'ガイド'
+
   return (
     <div
       className="work-report-guide-conflict"
       role="alert"
       aria-labelledby="work-report-guide-conflict-title"
     >
-      <span>GUIDE → RECORD</span>
+      <span>
+        {isInspectionHandoff ? 'INSPECTION → RECORD' : 'GUIDE → RECORD'}
+      </span>
       <strong id="work-report-guide-conflict-title">
         入力途中の下書きがあります
       </strong>
-      <p>{`ガイドの現象「${request.phenomenon}」を引き継ぐには、現在の下書きを破棄する必要があります。`}</p>
+      <p>{`${sourceLabel}の現象「${request.phenomenon}」を引き継ぐには、現在の下書きを破棄する必要があります。`}</p>
       <div>
         <button type="button" onClick={onKeepDraft}>
           現在の下書きを維持
         </button>
         <button type="button" onClick={onReplaceDraft}>
-          下書きを破棄してガイド内容を反映
+          下書きを破棄して{sourceLabel}内容を反映
         </button>
       </div>
     </div>
@@ -114,9 +119,10 @@ export const WorkReportPanel = forwardRef<
     useState<WorkReportConfirmation | null>(null)
   const [pendingGuideHandoff, setPendingGuideHandoff] =
     useState<WorkReportGuideHandoffRequest | null>(null)
-  const [guideHandoffNotice, setGuideHandoffNotice] = useState<
-    'applied' | 'kept' | null
-  >(null)
+  const [guideHandoffNotice, setGuideHandoffNotice] = useState<{
+    readonly status: 'applied' | 'kept'
+    readonly source: 'guide' | 'inspection'
+  } | null>(null)
   const { saveState, saveWorkReport, resetWorkReportSave } = useWorkReportSave()
   const isSaving = saveState.phase === 'saving'
   const isSaved = saveState.phase === 'saved'
@@ -134,7 +140,10 @@ export const WorkReportPanel = forwardRef<
         draftStatus: didSaveDraft ? 'saved' : 'unavailable',
       })
       setPendingGuideHandoff(null)
-      setGuideHandoffNotice('applied')
+      setGuideHandoffNotice({
+        status: 'applied',
+        source: request.source ?? 'guide',
+      })
       setErrors([])
       setConfirmation(null)
       resetWorkReportSave()
@@ -148,6 +157,7 @@ export const WorkReportPanel = forwardRef<
       startGuideWorkReport(input) {
         const request = {
           ...input,
+          source: input.source ?? 'guide',
           requestId: nextGuideHandoffRequestIdRef.current,
         }
         nextGuideHandoffRequestIdRef.current += 1
@@ -259,7 +269,10 @@ export const WorkReportPanel = forwardRef<
               request={pendingGuideHandoff}
               onKeepDraft={() => {
                 setPendingGuideHandoff(null)
-                setGuideHandoffNotice('kept')
+                setGuideHandoffNotice({
+                  status: 'kept',
+                  source: pendingGuideHandoff.source ?? 'guide',
+                })
               }}
               onReplaceDraft={() =>
                 applyGuideHandoff(pendingGuideHandoff, true)
@@ -269,12 +282,18 @@ export const WorkReportPanel = forwardRef<
 
           {guideHandoffNotice && (
             <p
-              className={`work-report-guide-notice is-${guideHandoffNotice}`}
+              className={`work-report-guide-notice is-${guideHandoffNotice.status}`}
               role="status"
             >
-              {guideHandoffNotice === 'applied'
-                ? 'ガイドから部門・設備・現象を引き継ぎました。原因・作業内容・進捗を入力してください。'
-                : '現在の下書きを維持しました。ガイド内容は反映していません。'}
+              {guideHandoffNotice.status === 'applied'
+                ? guideHandoffNotice.source === 'inspection'
+                  ? '異常点検から日付・部門・設備・現象・引継ぎ内容・進捗を反映しました。内容を確認してから保存してください。'
+                  : 'ガイドから部門・設備・現象を引き継ぎました。原因・作業内容・進捗を入力してください。'
+                : `現在の下書きを維持しました。${
+                    guideHandoffNotice.source === 'inspection'
+                      ? '異常点検'
+                      : 'ガイド'
+                  }内容は反映していません。`}
             </p>
           )}
 

@@ -397,6 +397,45 @@
   font-size: 0.76rem;
 }
 
+.inspection-record-handoff {
+  margin-top: 14px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  border: 1px solid rgba(255, 189, 94, 0.42);
+  border-radius: 12px;
+  color: var(--warning);
+  background: rgba(255, 189, 94, 0.08);
+}
+
+.inspection-record-handoff strong {
+  display: block;
+  font-size: 0.8rem;
+}
+
+.inspection-record-handoff p {
+  margin: 6px 0 0;
+  color: var(--text-muted);
+  font-size: 0.68rem;
+  line-height: 1.65;
+}
+
+.inspection-record-handoff button {
+  min-height: 44px;
+  padding: 9px 14px;
+  flex: 0 0 auto;
+  border: 1px solid rgba(255, 189, 94, 0.55);
+  border-radius: 10px;
+  color: #160e02;
+  background: var(--warning);
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 900;
+  cursor: pointer;
+}
+
 .inspection-record-save-button {
   width: 100%;
   min-height: 50px;
@@ -483,9 +522,14 @@
 
   .inspection-record-status-options,
   .inspection-record-saved,
+  .inspection-record-handoff,
   .inspection-record-equipment-error,
   .inspection-record-selection-notice {
     display: grid;
+  }
+
+  .inspection-record-handoff button {
+    width: 100%;
   }
 
   .inspection-record-equipment-error button {
