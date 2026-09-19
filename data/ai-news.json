@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-19",
+  "verified_at": "2026-09-20",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -31,6 +31,17 @@
       "original_title": "Earn continuing education and college credits for AI educator training.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/"
+    },
+    {
+      "id": "openai-a00923bf4ddd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-18",
+      "category": "safety",
+      "title_ja": "Introducing the Australian Youth Safety Blueprint",
+      "original_title": "Introducing the Australian Youth Safety Blueprint",
+      "summary_ja": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint"
     },
     {
       "id": "google-d92122e53ec9",
@@ -231,17 +242,6 @@
       "url": "https://openai.com/index/fyxer"
     },
     {
-      "id": "openai-968c32634dc2",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-14",
-      "category": "model",
-      "title_ja": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "original_title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "summary_ja": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-18T23:16:33+00:00",
+  "updated_at": "2026-09-19T23:00:28+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

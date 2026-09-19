@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T23:16:43+00:00",
+  "generated_at": "2026-09-19T23:00:45+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ネパール・中国国境の土石流、「気候変動が一因の可能性」と科学者ら　ネパールは国連基金に支援要請へ",
+      "title": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 18 Sep 2026 04:44:34 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck9qr5dn2qwvo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 19 Sep 2026 04:36:44 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmwyzkg10zzko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "日銀が利上げ決定、31年ぶり高水準の1.25%",
+      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "category": "紛争",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 19 Sep 2026 04:20:38 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "EU、15歳未満のソーシャルメディア利用を制限する計画発表",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 18 Sep 2026 04:40:43 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cw804jmrpl2po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【解説】サウジアラビアの石油危機、世界中で物価上昇の可能性も",
-      "category": "経済",
-      "source": "BBC News 日本語",
-      "published_at": "Fri, 18 Sep 2026 03:28:22 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c54g7jw2lv48o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 19 Sep 2026 04:00:14 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck3re3w98ey5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,12 +35,12 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +12.37%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：Solana -2.26%"
     },
     {
       "label": "市場心理",
-      "value": "56 / 100",
+      "value": "71 / 100",
       "detail": "強欲"
     },
     {
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ネパール・中国国境の土石流、「気候変動が一因の可能性」と科学者ら　ネパールは国連基金に支援要請へ",
+      "detail": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは56（強欲）です。",
+      "detail": "Fear & Greed Indexは71（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-18T23:16:33+00:00",
-    "market": "2026-09-18T23:16:43+00:00"
+    "news": "2026-09-19T23:00:28+00:00",
+    "market": "2026-09-19T23:00:45+00:00"
   }
 }

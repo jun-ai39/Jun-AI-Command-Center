@@ -1,8 +1,53 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-18T23:16:33+00:00",
+  "updated_at": "2026-09-19T23:00:28+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "アメリカとデンマーク、グリーンランドの安全保障めぐり合意　トランプ氏が武力併合を脅した末",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqkgxe9xpx23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "north-america",
+      "published_at": "Sat, 19 Sep 2026 01:33:03 GMT"
+    },
+    {
+      "title": "トランプ氏、CNNなど3社をホワイトハウスから「締め出す」と",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqn748rjr645o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 19 Sep 2026 03:36:40 GMT"
+    },
+    {
+      "title": "EU、15歳未満のソーシャルメディア利用を制限する計画発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ck3re3w98ey5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 19 Sep 2026 04:00:14 GMT"
+    },
+    {
+      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Sat, 19 Sep 2026 04:20:38 GMT"
+    },
+    {
+      "title": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmwyzkg10zzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Sat, 19 Sep 2026 04:36:44 GMT"
+    },
     {
       "title": "国連調査団、アメリカのイラン小学校攻撃などは「戦争犯罪」と考える合理的根拠あると報告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -38,51 +83,6 @@
       "category": "世界情勢",
       "region": "asia",
       "published_at": "Fri, 18 Sep 2026 04:44:34 GMT"
-    },
-    {
-      "title": "アメリカ、イラン代表団の国連総会出席認める　開戦から7カ月目に突入する中",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmn8ez21d5llo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Fri, 18 Sep 2026 01:46:58 GMT"
-    },
-    {
-      "title": "【解説】カナダのEU「準加盟」、温かな言葉はあったが確約はなく",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c639mw4lkeyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 18 Sep 2026 02:24:15 GMT"
-    },
-    {
-      "title": "米FRBが3年以上ぶりに利上げ、インフレ率の高止まりに警鐘",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c60qx4q2zwy2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 17 Sep 2026 02:16:22 GMT"
-    },
-    {
-      "title": "欧州委員長、カナダのEU「準加盟国」入り計画を支持　施政方針演説で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqvgydgxn5ygo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 17 Sep 2026 01:07:20 GMT"
-    },
-    {
-      "title": "長身の選手がベッドで「足を伸ばせない」、日本のコンテナ型宿舎に批判　アジア大会",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckx2zgl58wg8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Thu, 17 Sep 2026 04:42:18 GMT"
     }
   ]
 }
