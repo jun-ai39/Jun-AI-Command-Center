@@ -14,6 +14,7 @@ from app.db.session import get_db_session
 from app.models.equipment_master import Department, Equipment
 from app.models.inspection_record import InspectionRecord, InspectionRecordItem
 from app.models.inspection_template import InspectionTemplateItem
+from app.models.work_report import WorkReport
 from app.schemas.inspection_record import (
     InspectionCycleStatusSummary,
     InspectionJudgment,
@@ -56,6 +57,12 @@ def get_inspection_record_or_404(
         .options(
             selectinload(InspectionRecord.equipment),
             selectinload(InspectionRecord.items),
+            selectinload(InspectionRecord.linked_work_report).selectinload(
+                WorkReport.department
+            ),
+            selectinload(InspectionRecord.linked_work_report).selectinload(
+                WorkReport.equipment
+            ),
         )
         .where(InspectionRecord.id == inspection_record_id)
     )
@@ -92,6 +99,12 @@ def list_inspection_records(
         .options(
             selectinload(InspectionRecord.equipment),
             selectinload(InspectionRecord.items),
+            selectinload(InspectionRecord.linked_work_report).selectinload(
+                WorkReport.department
+            ),
+            selectinload(InspectionRecord.linked_work_report).selectinload(
+                WorkReport.equipment
+            ),
         )
         .where(InspectionRecord.equipment_id == equipment_id)
         .order_by(

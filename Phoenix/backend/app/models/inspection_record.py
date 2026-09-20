@@ -25,6 +25,7 @@ from app.db.base import Base
 if TYPE_CHECKING:
     from app.models.equipment_master import Equipment
     from app.models.inspection_template import InspectionTemplateItem
+    from app.models.work_report import WorkReport
 
 
 def utc_now() -> datetime:
@@ -90,6 +91,12 @@ class InspectionRecord(Base):
         server_default=func.now(),
     )
 
+    linked_work_report: Mapped["WorkReport | None"] = relationship(
+        "WorkReport",
+        uselist=False,
+        viewonly=True,
+        foreign_keys="WorkReport.source_inspection_id",
+    )
     equipment: Mapped["Equipment"] = relationship(back_populates="inspection_records")
     items: Mapped[list["InspectionRecordItem"]] = relationship(
         back_populates="record",

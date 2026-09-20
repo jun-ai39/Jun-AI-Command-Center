@@ -32,6 +32,7 @@ export function createInspectionWorkReportHandoff({
 
   return {
     source: 'inspection',
+    sourceInspectionId: record.id,
     workDate: inspectionDate,
     departmentId: equipment.department_id,
     equipmentId: equipment.equipment_id,

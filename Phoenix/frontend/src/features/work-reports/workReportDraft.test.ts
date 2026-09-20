@@ -94,3 +94,12 @@ describe('Work report draft', () => {
     ).toBe(false)
   })
 })
+
+it('retains the source inspection when restoring a draft', () => {
+  const linked = {
+    ...draft,
+    sourceInspectionId: '50000000-0000-4000-8000-000000000001',
+  }
+  const storage = { getItem: () => JSON.stringify(linked) }
+  expect(loadWorkReportDraft(storage, defaultDate)).toEqual(linked)
+})

@@ -63,3 +63,16 @@ describe('createGuideHandoffDraft', () => {
     })
   })
 })
+
+it('keeps the source inspection in the transferred draft', () => {
+  const input = {
+    source: 'inspection' as const,
+    sourceInspectionId: '50000000-0000-4000-8000-000000000001',
+    departmentId: '10000000-0000-4000-8000-000000000001',
+    equipmentId: '30000000-0000-4000-8000-000000000001',
+    phenomenon: '異常',
+  }
+  expect(createGuideHandoffDraft(input).sourceInspectionId).toBe(
+    input.sourceInspectionId,
+  )
+})

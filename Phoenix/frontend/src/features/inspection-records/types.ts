@@ -1,3 +1,4 @@
+import type { WorkReport } from '../work-reports/types'
 import type {
   InspectionCycle,
   InspectionInputType,
@@ -45,6 +46,7 @@ export type InspectionRecordItem = {
 }
 
 export type InspectionRecord = {
+  readonly linked_work_report?: WorkReport | null
   readonly id: string
   readonly inspection_date: string
   readonly equipment_id: string

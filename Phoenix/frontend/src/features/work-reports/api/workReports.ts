@@ -28,9 +28,12 @@ type WorkReportListRequestOptions = WorkReportRequestOptions & {
 }
 
 export class WorkReportApiError extends Error {
-  constructor(message: string) {
+  readonly status: number | null
+
+  constructor(message: string, status: number | null = null) {
     super(message)
     this.name = 'WorkReportApiError'
+    this.status = status
   }
 }
 
@@ -119,12 +122,14 @@ function isValidLegacyHours(value: unknown): value is number | null {
   )
 }
 
-function isWorkReport(value: unknown): value is WorkReport {
+export function isWorkReport(value: unknown): value is WorkReport {
   if (typeof value !== 'object' || value === null) return false
 
   const record = value as Record<string, unknown>
   const hasValidPhenomenon = isValidOptionalText(record.phenomenon)
   return (
+    (record.source_inspection_id == null ||
+      isUuid(record.source_inspection_id)) &&
     isUuid(record.id) &&
     isIsoDate(record.work_date) &&
     hasValidEquipmentLink(record) &&
@@ -191,6 +196,9 @@ function createWorkReportRequestBody(input: WorkReportConfirmation): string {
     cause: normalizedCause || null,
     work_content: input.workContent.trim(),
     progress: input.progress,
+    ...(input.sourceInspectionId
+      ? { source_inspection_id: input.sourceInspectionId }
+      : {}),
   })
 }
 
@@ -243,6 +251,7 @@ export async function fetchWorkReports(
   if (!response.ok) {
     throw new WorkReportApiError(
       `Work report API returned HTTP ${response.status}`,
+      response.status,
     )
   }
   const payload: unknown = await response.json()
@@ -268,6 +277,7 @@ export async function fetchWorkReportAttentionSummary(
   if (!response.ok) {
     throw new WorkReportApiError(
       `Work report API returned HTTP ${response.status}`,
+      response.status,
     )
   }
   const payload: unknown = await response.json()
@@ -298,6 +308,7 @@ async function saveWorkReport(
   if (!response.ok) {
     throw new WorkReportApiError(
       `Work report API returned HTTP ${response.status}`,
+      response.status,
     )
   }
   const payload: unknown = await response.json()

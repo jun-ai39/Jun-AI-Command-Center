@@ -218,6 +218,7 @@ describe('createInspectionWorkReportHandoff', () => {
 
     expect(handoff).toEqual({
       source: 'inspection',
+      sourceInspectionId: '50000000-0000-4000-8000-000000000002',
       workDate: '2026-09-16',
       departmentId: equipment.department_id,
       equipmentId: equipment.equipment_id,

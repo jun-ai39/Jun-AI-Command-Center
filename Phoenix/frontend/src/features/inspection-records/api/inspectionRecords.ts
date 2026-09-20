@@ -1,3 +1,4 @@
+import { isWorkReport } from '../../work-reports/api/workReports'
 import { authenticatedFetch } from '../../auth/api/authenticatedFetch'
 import type { InspectionCycle } from '../../inspection-templates/types'
 import type {
@@ -177,6 +178,10 @@ function isInspectionRecord(value: unknown): value is InspectionRecord {
     ? 'abnormal'
     : 'normal'
   return (
+    (record.linked_work_report == null ||
+      (isWorkReport(record.linked_work_report) &&
+        record.linked_work_report.source_inspection_id === record.id &&
+        record.linked_work_report.equipment_id === record.equipment_id)) &&
     isUuid(record.id) &&
     isUuid(record.equipment_id) &&
     typeof record.equipment_name === 'string' &&

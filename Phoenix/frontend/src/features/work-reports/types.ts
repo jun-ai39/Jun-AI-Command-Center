@@ -26,6 +26,7 @@ export type LegacyWorkReportCategory =
   (typeof LEGACY_WORK_REPORT_CATEGORY_OPTIONS)[number]['value']
 
 export type WorkReportFormValues = {
+  readonly sourceInspectionId?: string
   readonly workDate: string
   readonly departmentId: string
   readonly equipmentId: string
@@ -36,6 +37,7 @@ export type WorkReportFormValues = {
 }
 
 export type WorkReportGuideHandoffInput = {
+  readonly sourceInspectionId?: string
   readonly departmentId: string
   readonly equipmentId: string
   readonly phenomenon: string
@@ -50,6 +52,7 @@ export type WorkReportGuideHandoffRequest = WorkReportGuideHandoffInput & {
 }
 
 export type WorkReportConfirmation = {
+  readonly sourceInspectionId?: string
   readonly workDate: string
   readonly departmentId: string
   readonly equipmentId: string
@@ -60,6 +63,7 @@ export type WorkReportConfirmation = {
 }
 
 export type WorkReport = {
+  readonly source_inspection_id?: string | null
   readonly id: string
   readonly work_date: string
   readonly department_id: string | null

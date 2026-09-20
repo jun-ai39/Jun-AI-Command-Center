@@ -79,6 +79,7 @@ describe('inspection history handoff', () => {
     button.props.onClick()
     expect(onStartWorkReport).toHaveBeenCalledExactlyOnceWith({
       source: 'inspection',
+      sourceInspectionId: inspection.id,
       workDate: '2025-01-02',
       departmentId: equipment.department_id,
       equipmentId: equipment.equipment_id,

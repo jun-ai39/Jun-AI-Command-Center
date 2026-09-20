@@ -191,7 +191,9 @@ function EquipmentInspectionCard({
   record,
   equipment,
   onStartWorkReport,
+  onUpdated,
 }: {
+  readonly onUpdated: () => void
   readonly record: InspectionRecord
   readonly equipment: Equipment
   readonly onStartWorkReport?: (input: WorkReportGuideHandoffInput) => void
@@ -230,6 +232,7 @@ function EquipmentInspectionCard({
           </ul>
         </details>
         <InspectionHistoryHandoff
+          onUpdated={onUpdated}
           record={record}
           equipment={equipment}
           onStartWorkReport={onStartWorkReport}
@@ -495,6 +498,7 @@ export function EquipmentProfileContent({
                 <EquipmentInspectionCard
                   key={record.id}
                   record={record}
+                  onUpdated={onReloadInspections}
                   equipment={equipment}
                   onStartWorkReport={onStartWorkReport}
                 />

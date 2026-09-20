@@ -21,6 +21,7 @@ class WorkReportCreate(BaseModel):
 
     model_config = ConfigDict(extra="forbid")
 
+    source_inspection_id: UUID | None = None
     work_date: date
     department_id: UUID
     equipment_id: UUID
@@ -55,6 +56,7 @@ class WorkReportResponse(BaseModel):
     model_config = ConfigDict(extra="forbid", from_attributes=True)
 
     id: UUID
+    source_inspection_id: UUID | None = None
     work_date: date
     department_id: UUID | None
     equipment_id: UUID | None

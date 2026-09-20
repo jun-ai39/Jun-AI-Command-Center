@@ -1,6 +1,6 @@
 import { useCallback, useState } from 'react'
 
-import { createWorkReport } from '../api/workReports'
+import { createWorkReport, WorkReportApiError } from '../api/workReports'
 import type {
   WorkReport,
   WorkReportConfirmation,
@@ -27,11 +27,17 @@ export function useWorkReportSave(): WorkReportSaveActions {
         const report = await createWorkReport(input)
         setSaveState({ phase: 'saved', report })
         return report
-      } catch {
+      } catch (error) {
         setSaveState({
           phase: 'error',
           message:
-            '日報を保存できませんでした。Phoenix APIの起動状態を確認して、もう一度保存してください。',
+            error instanceof WorkReportApiError && error.status === 409
+              ? 'この点検は既に日報へ引き継がれています。設備カルテを開き直し、引き継いだ日報を編集してください。'
+              : input.sourceInspectionId &&
+                  error instanceof WorkReportApiError &&
+                  error.status === 422
+                ? '元の異常点検と同じ設備を選んでください。点検記録や設備の状態も確認してください。'
+                : '日報を保存できませんでした。Phoenix APIの起動状態を確認して、もう一度保存してください。',
         })
         return null
       }

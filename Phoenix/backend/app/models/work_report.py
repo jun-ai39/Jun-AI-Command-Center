@@ -35,6 +35,9 @@ class WorkReport(Base):
 
     __tablename__ = "work_reports"
     __table_args__ = (
+        Index(
+            "uq_work_reports_source_inspection_id", "source_inspection_id", unique=True
+        ),
         CheckConstraint(
             "category IS NULL OR category IN ('inspection', 'maintenance', "
             "'trouble', 'improvement', 'other')",
@@ -84,6 +87,11 @@ class WorkReport(Base):
         Uuid(as_uuid=True),
         primary_key=True,
         default=uuid4,
+    )
+    source_inspection_id: Mapped[UUID | None] = mapped_column(
+        Uuid(as_uuid=True),
+        ForeignKey("inspection_records.id", ondelete="RESTRICT"),
+        nullable=True,
     )
     work_date: Mapped[date] = mapped_column(Date)
     department_id: Mapped[UUID | None] = mapped_column(

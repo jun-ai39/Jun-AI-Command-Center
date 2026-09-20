@@ -291,3 +291,25 @@ describe('updateWorkReport', () => {
     )
   })
 })
+
+it('sends the source inspection only when supplied and exposes duplicate conflicts', async () => {
+  const sourceInspectionId = '50000000-0000-4000-8000-000000000001'
+  const fetchMock = vi
+    .fn<typeof fetch>()
+    .mockResolvedValue(
+      jsonResponse(
+        { ...responsePayload, source_inspection_id: sourceInspectionId },
+        201,
+      ),
+    )
+  vi.stubGlobal('fetch', fetchMock)
+  const saved = await createWorkReport({ ...confirmation, sourceInspectionId })
+  expect(saved.source_inspection_id).toBe(sourceInspectionId)
+  expect(
+    JSON.parse(String(fetchMock.mock.calls[0][1]?.body)).source_inspection_id,
+  ).toBe(sourceInspectionId)
+  fetchMock.mockResolvedValue(jsonResponse({ detail: 'Already linked' }, 409))
+  await expect(
+    createWorkReport({ ...confirmation, sourceInspectionId }),
+  ).rejects.toMatchObject({ status: 409 })
+})

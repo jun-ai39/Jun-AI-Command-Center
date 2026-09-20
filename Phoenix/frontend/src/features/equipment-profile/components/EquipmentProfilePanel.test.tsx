@@ -432,3 +432,30 @@ it('connects an abnormal history card to the work report handoff', () => {
   expect(markup).toContain('自動では登録されません')
   expect(onStartWorkReport).not.toHaveBeenCalled()
 })
+
+it('shows a linked report progress and edit action instead of a second handoff', () => {
+  const markup = renderToStaticMarkup(
+    <EquipmentProfileContent
+      {...baseProps}
+      reportsState={{ phase: 'ready', items: [], total: 0 }}
+      inspectionsState={{
+        phase: 'ready',
+        total: 1,
+        items: [
+          {
+            ...inspection,
+            linked_work_report: {
+              ...report,
+              source_inspection_id: inspection.id,
+              progress: 'completed',
+            },
+          },
+        ],
+      }}
+      onStartWorkReport={vi.fn()}
+    />,
+  )
+  expect(markup).toContain('引き継ぎ済み・完了')
+  expect(markup).toContain('引き継いだ日報を開く')
+  expect(markup).not.toContain('作業日報へ引き継ぐ')
+})

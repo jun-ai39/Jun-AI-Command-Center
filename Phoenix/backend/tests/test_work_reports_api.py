@@ -762,3 +762,146 @@ def test_list_work_reports_rejects_invalid_pagination(
     response = client.get("/work-reports", params=query)
 
     assert response.status_code == 422
+
+
+def create_source_inspection(client: TestClient, result: str = "abnormal") -> str:
+    template = client.post(
+        "/inspection-template-items",
+        json={
+            "equipment_id": str(EQUIPMENT_ID),
+            "cycle": "daily",
+            "name": "ベルト状態",
+            "input_type": "status",
+            "normal_state": "亀裂なし",
+            "display_order": 1,
+            "unit": None,
+            "normal_min": None,
+            "normal_max": None,
+            "is_active": True,
+        },
+    )
+    assert template.status_code == 201, template.text
+    record = client.post(
+        "/inspection-records",
+        json={
+            "inspection_date": "2026-09-20",
+            "equipment_id": str(EQUIPMENT_ID),
+            "cycle": "daily",
+            "items": [
+                {
+                    "template_item_id": template.json()["id"],
+                    "status_value": result,
+                    "number_value": None,
+                }
+            ],
+        },
+    )
+    assert record.status_code == 201, record.text
+    return record.json()["id"]
+
+
+def test_inspection_handoff_link_survives_edit_and_rejects_duplicates(
+    work_report_client,
+):
+    client, _ = work_report_client
+    source = create_source_inspection(client)
+    payload = {
+        **valid_work_report_payload(),
+        "source_inspection_id": source,
+        "progress": "continued",
+    }
+    saved = client.post("/work-reports", json=payload)
+    assert saved.status_code == 201, saved.text
+    report = saved.json()
+    assert report["source_inspection_id"] == source
+    assert client.post("/work-reports", json=payload).status_code == 409
+    # The standard editor need not resubmit the immutable link.
+    updated = client.patch(
+        f'/work-reports/{report["id"]}', json=valid_work_report_payload()
+    )
+    assert updated.status_code == 200
+    assert updated.json()["source_inspection_id"] == source
+    records = client.get(
+        "/inspection-records", params={"equipment_id": str(EQUIPMENT_ID)}
+    ).json()
+    assert records["items"][0]["linked_work_report"]["id"] == report["id"]
+    assert records["items"][0]["linked_work_report"]["progress"] == "completed"
+    assert client.get("/work-reports/attention-summary").json()["attention_count"] == 0
+    assert client.get("/work-reports").json()["total"] == 1
+    assert (
+        client.patch(
+            f'/work-reports/{report["id"]}',
+            json={**payload, "source_inspection_id": None},
+        ).status_code
+        == 422
+    )
+
+
+@pytest.mark.parametrize("normal", [True, False])
+def test_inspection_link_rejects_normal_or_missing_inspection(
+    work_report_client, normal
+):
+    client, _ = work_report_client
+    source = create_source_inspection(client, "normal") if normal else str(uuid4())
+    response = client.post(
+        "/work-reports",
+        json={**valid_work_report_payload(), "source_inspection_id": source},
+    )
+    assert response.status_code == 422
+    assert client.get("/work-reports").json()["total"] == 0
+
+
+def test_inspection_link_cannot_move_to_other_equipment(work_report_client):
+    client, factory = work_report_client
+    source = create_source_inspection(client)
+    other_id = uuid4()
+    with factory() as session:
+        session.add(
+            Equipment(
+                equipment_id=other_id,
+                department_id=DEPARTMENT_ID,
+                manufacturer_id=MANUFACTURER_ID,
+                name="別設備",
+                photo_path=None,
+            )
+        )
+        session.commit()
+    payload = {**valid_work_report_payload(), "source_inspection_id": source}
+    assert (
+        client.post(
+            "/work-reports", json={**payload, "equipment_id": str(other_id)}
+        ).status_code
+        == 422
+    )
+    report = client.post("/work-reports", json=payload).json()
+    assert (
+        client.patch(
+            f'/work-reports/{report["id"]}',
+            json={**valid_work_report_payload(), "equipment_id": str(other_id)},
+        ).status_code
+        == 422
+    )
+
+
+def test_db_enforces_unique_inspection_link(work_report_client):
+    from sqlalchemy.exc import IntegrityError
+
+    client, factory = work_report_client
+    source = create_source_inspection(client)
+    payload = {**valid_work_report_payload(), "source_inspection_id": source}
+    assert client.post("/work-reports", json=payload).status_code == 201
+    with factory() as session:
+        session.add(
+            WorkReport(
+                source_inspection_id=UUID(source),
+                work_date=date(2026, 9, 20),
+                department_id=DEPARTMENT_ID,
+                equipment_id=EQUIPMENT_ID,
+                phenomenon="重複",
+                work_content="重複",
+                result="continued",
+            )
+        )
+        with pytest.raises(IntegrityError):
+            session.commit()
+        session.rollback()

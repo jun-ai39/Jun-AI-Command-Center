@@ -7,6 +7,7 @@ from uuid import UUID
 from pydantic import BaseModel, ConfigDict, Field, field_validator, model_validator
 
 from app.schemas.inspection_template import InspectionCycle, InspectionInputType
+from app.schemas.work_report import WorkReportResponse
 
 InspectionStatusValue = Literal["normal", "abnormal"]
 InspectionJudgment = Literal["normal", "abnormal"]
@@ -75,6 +76,7 @@ class InspectionRecordResponse(BaseModel):
     id: UUID
     inspection_date: date
     equipment_id: UUID
+    linked_work_report: WorkReportResponse | None = None
     equipment_name: str
     equipment_number: str | None
     cycle: InspectionCycle

@@ -11,6 +11,7 @@ from sqlalchemy.orm import Session, selectinload
 
 from app.db.session import get_db_session
 from app.models.equipment_master import Department, Equipment
+from app.models.inspection_record import InspectionRecord
 from app.models.work_report import WorkReport
 from app.schemas.work_report import (
     WorkReportAttentionSummaryResponse,
@@ -163,6 +164,31 @@ def get_work_report_attention_summary(
     )
 
 
+def validate_inspection_link(
+    database_session: Session, inspection_id: UUID, equipment_id: UUID
+) -> None:
+    """Only an abnormal inspection of the selected asset can originate a report."""
+    record = database_session.get(InspectionRecord, inspection_id)
+    if (
+        record is None
+        or record.equipment_id != equipment_id
+        or record.overall_judgment != "abnormal"
+    ):
+        raise HTTPException(
+            status_code=422, detail="Invalid source inspection for this equipment."
+        )
+
+
+def inspection_link_conflict(database_session: Session, inspection_id: UUID) -> None:
+    existing = database_session.scalar(
+        select(WorkReport.id).where(WorkReport.source_inspection_id == inspection_id)
+    )
+    if existing is not None:
+        raise HTTPException(
+            status_code=409, detail="This inspection already has a work report."
+        )
+
+
 @router.post(
     "/work-reports",
     response_model=WorkReportResponse,
@@ -179,7 +205,13 @@ def create_work_report(
         payload.department_id,
         payload.equipment_id,
     )
+    if payload.source_inspection_id is not None:
+        validate_inspection_link(
+            database_session, payload.source_inspection_id, payload.equipment_id
+        )
+        inspection_link_conflict(database_session, payload.source_inspection_id)
     work_report = WorkReport(
+        source_inspection_id=payload.source_inspection_id,
         work_date=payload.work_date,
         department=department,
         equipment=equipment_item,
@@ -193,6 +225,8 @@ def create_work_report(
         database_session.commit()
     except IntegrityError as error:
         database_session.rollback()
+        if payload.source_inspection_id is not None:
+            inspection_link_conflict(database_session, payload.source_inspection_id)
         raise HTTPException(
             status_code=status.HTTP_422_UNPROCESSABLE_CONTENT,
             detail="Work report data violates a storage constraint.",
@@ -219,6 +253,17 @@ def update_work_report(
         payload.department_id,
         payload.equipment_id,
     )
+    if (
+        "source_inspection_id" in payload.model_fields_set
+        and payload.source_inspection_id != work_report.source_inspection_id
+    ):
+        raise HTTPException(
+            status_code=422, detail="The source inspection cannot be changed."
+        )
+    if work_report.source_inspection_id is not None:
+        validate_inspection_link(
+            database_session, work_report.source_inspection_id, payload.equipment_id
+        )
     work_report.work_date = payload.work_date
     work_report.department = department
     work_report.equipment = equipment_item

@@ -1,3 +1,4 @@
+import { LinkedInspectionReport } from './LinkedInspectionReport'
 import type { Equipment } from '../../equipment-master/types'
 import { createInspectionWorkReportHandoff } from '../../inspection-records/inspectionWorkReportHandoff'
 import type { InspectionRecord } from '../../inspection-records/types'
@@ -7,12 +8,24 @@ export function InspectionHistoryHandoff({
   record,
   equipment,
   onStartWorkReport,
+  onUpdated,
 }: {
+  readonly onUpdated?: () => void
   readonly record: InspectionRecord
   readonly equipment: Equipment
   readonly onStartWorkReport?: (input: WorkReportGuideHandoffInput) => void
 }) {
-  if (!onStartWorkReport || record.equipment_id !== equipment.equipment_id) {
+  if (record.equipment_id !== equipment.equipment_id) return null
+  if (record.linked_work_report) {
+    return (
+      <LinkedInspectionReport
+        key={`${record.linked_work_report.id}-${record.linked_work_report.updated_at}`}
+        report={record.linked_work_report}
+        onUpdated={onUpdated}
+      />
+    )
+  }
+  if (!onStartWorkReport) {
     return null
   }
   const input = createInspectionWorkReportHandoff({

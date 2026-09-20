@@ -17,6 +17,9 @@ export function createGuideHandoffDraft(
 ): WorkReportFormValues {
   return {
     ...createDefaultWorkReportDraft(input.workDate ?? workDate),
+    ...(input.sourceInspectionId
+      ? { sourceInspectionId: input.sourceInspectionId }
+      : {}),
     departmentId: input.departmentId,
     equipmentId: input.equipmentId,
     phenomenon: input.phenomenon.trim(),

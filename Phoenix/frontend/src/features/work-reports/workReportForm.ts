@@ -101,6 +101,9 @@ export function validateWorkReport(
       cause,
       workContent,
       progress: values.progress,
+      ...(values.sourceInspectionId
+        ? { sourceInspectionId: values.sourceInspectionId }
+        : {}),
     },
   }
 }
