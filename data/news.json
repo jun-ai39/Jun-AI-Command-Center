@@ -1,8 +1,17 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-19T23:00:28+00:00",
+  "updated_at": "2026-09-20T23:13:51+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Sat, 19 Sep 2026 04:20:38 GMT"
+    },
     {
       "title": "アメリカとデンマーク、グリーンランドの安全保障めぐり合意　トランプ氏が武力併合を脅した末",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -29,15 +38,6 @@
       "category": "世界情勢",
       "region": "europe",
       "published_at": "Sat, 19 Sep 2026 04:00:14 GMT"
-    },
-    {
-      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 19 Sep 2026 04:20:38 GMT"
     },
     {
       "title": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
