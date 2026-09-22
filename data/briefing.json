@@ -1,72 +1,72 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-20T23:14:02+00:00",
+  "generated_at": "2026-09-22T00:04:45+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
+      "title": "チャールズ英国王への批判は「歴史の目撃者の義務」だとダイアナ元妃の弟、BBC単独インタビュー",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 19 Sep 2026 04:36:44 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmwyzkg10zzko?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 21 Sep 2026 07:04:18 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cr0j3297g4yno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "title": "米首都に建設する凱旋門は「軍事施設兼用」、トランプ氏が表明　ドローンや狙撃手を配置すると",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 19 Sep 2026 04:20:38 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 21 Sep 2026 06:29:39 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c920v26jylyko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "EU、15歳未満のソーシャルメディア利用を制限する計画発表",
+      "title": "野生ネコの新種を発見、確認された現存個体は1頭",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 19 Sep 2026 04:00:14 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck3re3w98ey5o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 21 Sep 2026 05:42:55 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm3eqx4xnqqzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 3・下落 2・横ばい 0",
-      "detail": "最大変動：日経平均 +2.40%"
+      "value": "上昇 4・下落 1・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 +3.57%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：XRP -0.30%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：XRP +8.79%"
     },
     {
       "label": "市場心理",
-      "value": "71 / 100",
-      "detail": "強欲"
+      "value": "78 / 100",
+      "detail": "極度の強欲"
     },
     {
       "label": "ドル円",
-      "value": "156.974 JPY",
-      "detail": "前日比 +1.68%"
+      "value": "157.360 JPY",
+      "detail": "前日比 +1.35%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
+      "detail": "チャールズ英国王への批判は「歴史の目撃者の義務」だとダイアナ元妃の弟、BBC単独インタビュー",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+2.40%です。",
+      "detail": "NASDAQ総合が前日比+3.57%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは71（強欲）です。",
+      "detail": "Fear & Greed Indexは78（極度の強欲）です。",
       "meta": "Alternative.meの参考指標",
-      "level": "normal"
+      "level": "alert"
     }
   ],
   "limitations": [
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-20T23:13:51+00:00",
-    "market": "2026-09-20T23:14:02+00:00"
+    "news": "2026-09-22T00:04:34+00:00",
+    "market": "2026-09-22T00:04:45+00:00"
   }
 }

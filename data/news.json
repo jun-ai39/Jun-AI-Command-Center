@@ -1,16 +1,61 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-20T23:13:51+00:00",
+  "updated_at": "2026-09-22T00:04:34+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "title": "ドイツ2地方選、極右AfDと左派党が第1党に　メルツ首相は「大惨事」認めるも続投表明",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm3wj24g01e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 21 Sep 2026 03:28:44 GMT"
+    },
+    {
+      "title": "チャールズ英国王への批判は「歴史の目撃者の義務」だとダイアナ元妃の弟、BBC単独インタビュー",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr0j3297g4yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 21 Sep 2026 07:04:18 GMT"
+    },
+    {
+      "title": "モスクワ市長、ウクライナが過去最大規模のドローン攻撃と　製油所や集合住宅を直撃",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c962jrn7rrj3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Sat, 19 Sep 2026 04:20:38 GMT"
+      "published_at": "Mon, 21 Sep 2026 04:53:36 GMT"
+    },
+    {
+      "title": "気持ち「もう隠せない」　英歌手シーランさん、親パレスチナ発言の前座降板めぐり自分の「間違い」認める",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ck05r2675nyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Mon, 21 Sep 2026 05:13:03 GMT"
+    },
+    {
+      "title": "米首都に建設する凱旋門は「軍事施設兼用」、トランプ氏が表明　ドローンや狙撃手を配置すると",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c920v26jylyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "north-america",
+      "published_at": "Mon, 21 Sep 2026 06:29:39 GMT"
+    },
+    {
+      "title": "野生ネコの新種を発見、確認された現存個体は1頭",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm3eqx4xnqqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 21 Sep 2026 05:42:55 GMT"
     },
     {
       "title": "アメリカとデンマーク、グリーンランドの安全保障めぐり合意　トランプ氏が武力併合を脅した末",
@@ -22,6 +67,15 @@
       "published_at": "Sat, 19 Sep 2026 01:33:03 GMT"
     },
     {
+      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Sat, 19 Sep 2026 04:20:38 GMT"
+    },
+    {
       "title": "トランプ氏、CNNなど3社をホワイトハウスから「締め出す」と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cqn748rjr645o?at_medium=RSS&at_campaign=rss",
@@ -29,60 +83,6 @@
       "category": "世界情勢",
       "region": "north-america",
       "published_at": "Sat, 19 Sep 2026 03:36:40 GMT"
-    },
-    {
-      "title": "EU、15歳未満のソーシャルメディア利用を制限する計画発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck3re3w98ey5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 19 Sep 2026 04:00:14 GMT"
-    },
-    {
-      "title": "パキスタンのモスクに爆発物を積んだ車突入、少なくとも21人が死亡",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmwyzkg10zzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Sat, 19 Sep 2026 04:36:44 GMT"
-    },
-    {
-      "title": "国連調査団、アメリカのイラン小学校攻撃などは「戦争犯罪」と考える合理的根拠あると報告",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwp93mkknzm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Fri, 18 Sep 2026 01:21:34 GMT"
-    },
-    {
-      "title": "日銀が利上げ決定、31年ぶり高水準の1.25%",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw804jmrpl2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Fri, 18 Sep 2026 04:40:43 GMT"
-    },
-    {
-      "title": "【解説】サウジアラビアの石油危機、世界中で物価上昇の可能性も",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c54g7jw2lv48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "middle-east",
-      "published_at": "Fri, 18 Sep 2026 03:28:22 GMT"
-    },
-    {
-      "title": "ネパール・中国国境の土石流、「気候変動が一因の可能性」と科学者ら　ネパールは国連基金に支援要請へ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck9qr5dn2qwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 18 Sep 2026 04:44:34 GMT"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-21",
+  "verified_at": "2026-09-22",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,83 @@
     }
   ],
   "items": [
+    {
+      "id": "google-e842b9d30e08",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-22",
+      "category": "education",
+      "title_ja": "Expanding free AI training for educators",
+      "original_title": "Expanding free AI training for educators",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/digital-promise/"
+    },
+    {
+      "id": "openai-08ffdb24bebd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-21",
+      "category": "business",
+      "title_ja": "Advisory Group on Mathematics and Artificial Intelligence",
+      "original_title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary_ja": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+    },
+    {
+      "id": "openai-8fe4474fdbb9",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-21",
+      "category": "business",
+      "title_ja": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "original_title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary_ja": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+    },
+    {
+      "id": "openai-10538c022345",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-21",
+      "category": "safety",
+      "title_ja": "Building standards for the next phase of AI",
+      "original_title": "Building standards for the next phase of AI",
+      "summary_ja": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai"
+    },
+    {
+      "id": "openai-2f8d9b98fc15",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-21",
+      "category": "education",
+      "title_ja": "Expanding OpenAI Academy with new learning paths",
+      "original_title": "Expanding OpenAI Academy with new learning paths",
+      "summary_ja": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+    },
+    {
+      "id": "openai-d2871d486c61",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-21",
+      "category": "business",
+      "title_ja": "How V7 gives AI agents institutional memory",
+      "original_title": "How V7 gives AI agents institutional memory",
+      "summary_ja": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "url": "https://openai.com/index/v7"
+    },
+    {
+      "id": "google-d8ee849e7061",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-21",
+      "category": "product",
+      "title_ja": "Googlebook: The laptop your Android phone has been waiting for",
+      "original_title": "Googlebook: The laptop your Android phone has been waiting for",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/"
+    },
     {
       "id": "google-43dae131a478",
       "source": "google",
@@ -165,83 +242,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/"
     },
     {
-      "id": "openai-6ac27c68838b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "Reimagining advertising with AI",
-      "original_title": "Reimagining advertising with AI",
-      "summary_ja": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai"
-    },
-    {
-      "id": "openai-27cd99b1dbe3",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-16",
-      "category": "model",
-      "title_ja": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "original_title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "summary_ja": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "url": "https://openai.com/index/hex-gpt-6-astra"
-    },
-    {
-      "id": "openai-4410122683c5",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-16",
-      "category": "education",
-      "title_ja": "How to connect AI usage to business value",
-      "original_title": "How to connect AI usage to business value",
-      "summary_ja": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
-    },
-    {
-      "id": "openai-7d2872733a61",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-16",
-      "category": "business",
-      "title_ja": "How workers are unlocking new ways of working",
-      "original_title": "How workers are unlocking new ways of working",
-      "summary_ja": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working"
-    },
-    {
-      "id": "google-a7d939384a73",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "Boost your holiday sales with these agentic commerce updates",
-      "original_title": "Boost your holiday sales with these agentic commerce updates",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/"
-    },
-    {
-      "id": "google-df36c6a5a847",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-16",
-      "category": "product",
-      "title_ja": "We’re catalyzing megaton-scale climate impact in Brazil",
-      "original_title": "We’re catalyzing megaton-scale climate impact in Brazil",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/"
-    },
-    {
-      "id": "openai-7f82d995c515",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-14",
-      "category": "model",
-      "title_ja": "How Fyxer built an AI executive assistant people trust",
-      "original_title": "How Fyxer built an AI executive assistant people trust",
-      "summary_ja": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "url": "https://openai.com/index/fyxer"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-20T23:13:51+00:00",
+  "updated_at": "2026-09-22T00:04:35+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
