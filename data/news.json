@@ -1,8 +1,53 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-22T00:04:34+00:00",
+  "updated_at": "2026-09-22T23:35:24+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "CNNなど3社がトランプ政権を提訴、主要メディアは代表取材を中止",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm62ex2gvkd1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 22 Sep 2026 04:52:31 GMT"
+    },
+    {
+      "title": "リトアニア、ロシアに「反撃」する用意と避難計画を立てていると　BBCが首相を取材",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cw305208vgvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 22 Sep 2026 04:26:47 GMT"
+    },
+    {
+      "title": "アメリカのカリブ海などでの小型船攻撃、人道に対する罪の可能性と国連報告者",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj20720qp93zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "north-america",
+      "published_at": "Tue, 22 Sep 2026 04:52:09 GMT"
+    },
+    {
+      "title": "台風25号で日本に大雨　土砂崩れ相次ぐ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm6246p53lq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "災害",
+      "region": "japan",
+      "published_at": "Tue, 22 Sep 2026 02:57:38 GMT"
+    },
+    {
+      "title": "カナダのユダヤ教の礼拝施設周辺で銃撃、祭日の夜に　カーニー首相が非難",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c63re2g71yqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 22 Sep 2026 02:44:20 GMT"
+    },
     {
       "title": "ドイツ2地方選、極右AfDと左派党が第1党に　メルツ首相は「大惨事」認めるも続投表明",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -31,24 +76,6 @@
       "published_at": "Mon, 21 Sep 2026 04:53:36 GMT"
     },
     {
-      "title": "気持ち「もう隠せない」　英歌手シーランさん、親パレスチナ発言の前座降板めぐり自分の「間違い」認める",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck05r2675nyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Mon, 21 Sep 2026 05:13:03 GMT"
-    },
-    {
-      "title": "米首都に建設する凱旋門は「軍事施設兼用」、トランプ氏が表明　ドローンや狙撃手を配置すると",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c920v26jylyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Mon, 21 Sep 2026 06:29:39 GMT"
-    },
-    {
       "title": "野生ネコの新種を発見、確認された現存個体は1頭",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cm3eqx4xnqqzo?at_medium=RSS&at_campaign=rss",
@@ -56,33 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Mon, 21 Sep 2026 05:42:55 GMT"
-    },
-    {
-      "title": "アメリカとデンマーク、グリーンランドの安全保障めぐり合意　トランプ氏が武力併合を脅した末",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqkgxe9xpx23o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "north-america",
-      "published_at": "Sat, 19 Sep 2026 01:33:03 GMT"
-    },
-    {
-      "title": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 19 Sep 2026 04:20:38 GMT"
-    },
-    {
-      "title": "トランプ氏、CNNなど3社をホワイトハウスから「締め出す」と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqn748rjr645o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 19 Sep 2026 03:36:40 GMT"
     }
   ]
 }

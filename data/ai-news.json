@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-22",
+  "verified_at": "2026-09-23",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,72 @@
   ],
   "items": [
     {
+      "id": "openai-f9027d80e820",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-23",
+      "category": "education",
+      "title_ja": "Better prompt caching for GPT-6",
+      "original_title": "Better prompt caching for GPT-6",
+      "summary_ja": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+    },
+    {
+      "id": "openai-73461b3e97af",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-23",
+      "category": "model",
+      "title_ja": "Introducing GPT-6 Sol and Luna",
+      "original_title": "Introducing GPT-6 Sol and Luna",
+      "summary_ja": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+    },
+    {
+      "id": "google-9af47c5f6082",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-23",
+      "category": "product",
+      "title_ja": "Investing in global talent and AI literacy",
+      "original_title": "Investing in global talent and AI literacy",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/"
+    },
+    {
+      "id": "openai-3fcefd9c665f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-22",
+      "category": "model",
+      "title_ja": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "original_title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary_ja": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
+    },
+    {
+      "id": "openai-60efaf744a4d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-22",
+      "category": "safety",
+      "title_ja": "Priorities and principles for effective third party assessments",
+      "original_title": "Priorities and principles for effective third party assessments",
+      "summary_ja": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments"
+    },
+    {
+      "id": "google-f744e024d701",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-22",
+      "category": "product",
+      "title_ja": "Using AI to help local governments connect with constituents",
+      "original_title": "Using AI to help local governments connect with constituents",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/"
+    },
+    {
       "id": "google-e842b9d30e08",
       "source": "google",
       "source_name": "Google",
@@ -33,17 +99,6 @@
       "url": "https://blog.google/products-and-platforms/products/education/digital-promise/"
     },
     {
-      "id": "openai-08ffdb24bebd",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-21",
-      "category": "business",
-      "title_ja": "Advisory Group on Mathematics and Artificial Intelligence",
-      "original_title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "summary_ja": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-    },
-    {
       "id": "openai-8fe4474fdbb9",
       "source": "openai",
       "source_name": "OpenAI",
@@ -53,6 +108,17 @@
       "original_title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "summary_ja": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
       "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+    },
+    {
+      "id": "openai-08ffdb24bebd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-21",
+      "category": "business",
+      "title_ja": "Advisory Group on Mathematics and Artificial Intelligence",
+      "original_title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary_ja": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
     },
     {
       "id": "openai-10538c022345",
@@ -176,72 +242,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/"
     },
     {
-      "id": "openai-d22acfa5d0cc",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-17",
-      "category": "model",
-      "title_ja": "How Cooley is accelerating IPO work with ChatGPT",
-      "original_title": "How Cooley is accelerating IPO work with ChatGPT",
-      "summary_ja": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "url": "https://openai.com/index/cooley-gopublic"
-    },
-    {
-      "id": "openai-192794312f97",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-17",
-      "category": "business",
-      "title_ja": "Introducing Astra for Law",
-      "original_title": "Introducing Astra for Law",
-      "summary_ja": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "url": "https://openai.com/index/astra-for-law"
-    },
-    {
-      "id": "openai-b0366f9850a9",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-17",
-      "category": "model",
-      "title_ja": "Helping older adults use AI in everyday life",
-      "original_title": "Helping older adults use AI in everyday life",
-      "summary_ja": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
-    },
-    {
-      "id": "openai-f3899afd4d6a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-17",
-      "category": "model",
-      "title_ja": "Our framework for reporting model misalignment",
-      "original_title": "Our framework for reporting model misalignment",
-      "summary_ja": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework"
-    },
-    {
-      "id": "google-c62fadadc9d8",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-17",
-      "category": "product",
-      "title_ja": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
-      "original_title": "Helping bring the world’s first large-scale, near-zero emissions steel plant online",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/"
-    },
-    {
-      "id": "google-69e6db292749",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-17",
-      "category": "product",
-      "title_ja": "5 things to know about teens' views on AI today",
-      "original_title": "5 things to know about teens' views on AI today",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-22T00:04:35+00:00",
+  "updated_at": "2026-09-22T23:35:24+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

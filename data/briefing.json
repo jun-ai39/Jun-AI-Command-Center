@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-22T00:04:45+00:00",
+  "generated_at": "2026-09-22T23:35:35+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "チャールズ英国王への批判は「歴史の目撃者の義務」だとダイアナ元妃の弟、BBC単独インタビュー",
+      "title": "CNNなど3社がトランプ政権を提訴、主要メディアは代表取材を中止",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 21 Sep 2026 07:04:18 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cr0j3297g4yno?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 22 Sep 2026 04:52:31 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm62ex2gvkd1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "米首都に建設する凱旋門は「軍事施設兼用」、トランプ氏が表明　ドローンや狙撃手を配置すると",
+      "title": "アメリカのカリブ海などでの小型船攻撃、人道に対する罪の可能性と国連報告者",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 21 Sep 2026 06:29:39 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c920v26jylyko?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 22 Sep 2026 04:52:09 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj20720qp93zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "野生ネコの新種を発見、確認された現存個体は1頭",
+      "title": "リトアニア、ロシアに「反撃」する用意と避難計画を立てていると　BBCが首相を取材",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 21 Sep 2026 05:42:55 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm3eqx4xnqqzo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 22 Sep 2026 04:26:47 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cw305208vgvmo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 4・下落 1・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 +3.57%"
+      "detail": "最大変動：NASDAQ総合 +4.86%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +8.79%"
+      "value": "上昇 1・下落 3・横ばい 0",
+      "detail": "最大変動：XRP +2.38%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "157.360 JPY",
-      "detail": "前日比 +1.35%"
+      "value": "157.461 JPY",
+      "detail": "前日比 +0.93%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "チャールズ英国王への批判は「歴史の目撃者の義務」だとダイアナ元妃の弟、BBC単独インタビュー",
+      "detail": "CNNなど3社がトランプ政権を提訴、主要メディアは代表取材を中止",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比+3.57%です。",
+      "detail": "NASDAQ総合が前日比+4.86%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-22T00:04:34+00:00",
-    "market": "2026-09-22T00:04:45+00:00"
+    "news": "2026-09-22T23:35:24+00:00",
+    "market": "2026-09-22T23:35:35+00:00"
   }
 }
