@@ -1,16 +1,43 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-22T23:35:24+00:00",
+  "updated_at": "2026-09-23T23:39:32+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "CNNなど3社がトランプ政権を提訴、主要メディアは代表取材を中止",
+      "title": "トランプ氏、国連演説でイランを「壊滅させる」と脅す",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm62ex2gvkd1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c54g7yv2kdvro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 23 Sep 2026 01:57:19 GMT"
+    },
+    {
+      "title": "アメリカ、グリーンランドの2カ所に軍事基地建設　デンマークと新防衛協定",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq4g7ykzv9l2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
       "region": "north-america",
-      "published_at": "Tue, 22 Sep 2026 04:52:31 GMT"
+      "published_at": "Wed, 23 Sep 2026 01:00:39 GMT"
+    },
+    {
+      "title": "トランプ氏とバーナム氏、初の首脳会談　英首相を「取引できる相手」と評すもチャゴス合意は「ひどい」と米大統領",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c574ey190p2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "north-america",
+      "published_at": "Wed, 23 Sep 2026 02:31:07 GMT"
+    },
+    {
+      "title": "ICC脱退呼びかけ、AI改称、日米首脳会談――国連総会初日の注目の動き",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cxnvl9r4rge1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "global",
+      "published_at": "Wed, 23 Sep 2026 03:37:02 GMT"
     },
     {
       "title": "リトアニア、ロシアに「反撃」する用意と避難計画を立てていると　BBCが首相を取材",
@@ -31,13 +58,13 @@
       "published_at": "Tue, 22 Sep 2026 04:52:09 GMT"
     },
     {
-      "title": "台風25号で日本に大雨　土砂崩れ相次ぐ",
+      "title": "CNNなど3社がトランプ政権を提訴、主要メディアは代表取材を中止",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm6246p53lq3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm62ex2gvkd1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "japan",
-      "published_at": "Tue, 22 Sep 2026 02:57:38 GMT"
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 22 Sep 2026 04:52:31 GMT"
     },
     {
       "title": "カナダのユダヤ教の礼拝施設周辺で銃撃、祭日の夜に　カーニー首相が非難",
@@ -49,40 +76,13 @@
       "published_at": "Tue, 22 Sep 2026 02:44:20 GMT"
     },
     {
-      "title": "ドイツ2地方選、極右AfDと左派党が第1党に　メルツ首相は「大惨事」認めるも続投表明",
+      "title": "台風25号で日本に大雨　土砂崩れ相次ぐ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm3wj24g01e8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm6246p53lq3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 21 Sep 2026 03:28:44 GMT"
-    },
-    {
-      "title": "チャールズ英国王への批判は「歴史の目撃者の義務」だとダイアナ元妃の弟、BBC単独インタビュー",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr0j3297g4yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 21 Sep 2026 07:04:18 GMT"
-    },
-    {
-      "title": "モスクワ市長、ウクライナが過去最大規模のドローン攻撃と　製油所や集合住宅を直撃",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c962jrn7rrj3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Mon, 21 Sep 2026 04:53:36 GMT"
-    },
-    {
-      "title": "野生ネコの新種を発見、確認された現存個体は1頭",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm3eqx4xnqqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 21 Sep 2026 05:42:55 GMT"
+      "category": "災害",
+      "region": "japan",
+      "published_at": "Tue, 22 Sep 2026 02:57:38 GMT"
     }
   ]
 }
