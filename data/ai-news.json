@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-24",
+  "verified_at": "2026-09-25",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,17 @@
   ],
   "items": [
     {
+      "id": "google-583ce5a62ee4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-25",
+      "category": "model",
+      "title_ja": "Introducing Gemini 3.8 Live with Live Avatar",
+      "original_title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
+    },
+    {
       "id": "openai-52e46e8371e1",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +42,17 @@
       "original_title": "Two years of OpenAI Academy",
       "summary_ja": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "url": "https://openai.com/index/two-years-of-openai-academy"
+    },
+    {
+      "id": "google-5e4e2324e77c",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-24",
+      "category": "product",
+      "title_ja": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "original_title": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/"
     },
     {
       "id": "google-c52229f1bfad",
@@ -165,6 +187,17 @@
       "url": "https://openai.com/index/introducing-mentalhealthbench"
     },
     {
+      "id": "openai-bb71e409dd7f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-23",
+      "category": "business",
+      "title_ja": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "original_title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "summary_ja": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
+    },
+    {
       "id": "openai-0765deb14458",
       "source": "openai",
       "source_name": "OpenAI",
@@ -187,17 +220,6 @@
       "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
     },
     {
-      "id": "openai-f9027d80e820",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "education",
-      "title_ja": "Better prompt caching for GPT-6",
-      "original_title": "Better prompt caching for GPT-6",
-      "summary_ja": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-    },
-    {
       "id": "google-4a8e51112542",
       "source": "google",
       "source_name": "Google",
@@ -218,28 +240,6 @@
       "original_title": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
       "summary_ja": "Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …",
       "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/"
-    },
-    {
-      "id": "google-9af47c5f6082",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-23",
-      "category": "product",
-      "title_ja": "Investing in global talent and AI literacy",
-      "original_title": "Investing in global talent and AI literacy",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/"
-    },
-    {
-      "id": "google-f744e024d701",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-22",
-      "category": "product",
-      "title_ja": "Using AI to help local governments connect with constituents",
-      "original_title": "Using AI to help local governments connect with constituents",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-23T23:39:32+00:00",
+  "updated_at": "2026-09-24T23:52:03+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

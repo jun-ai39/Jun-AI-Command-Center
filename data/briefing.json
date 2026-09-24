@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-23T23:39:42+00:00",
+  "generated_at": "2026-09-24T23:52:14+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ICC脱退呼びかけ、AI改称、日米首脳会談――国連総会初日の注目の動き",
-      "category": "外交",
-      "source": "BBC News 日本語",
-      "published_at": "Wed, 23 Sep 2026 03:37:02 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cxnvl9r4rge1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "トランプ氏とバーナム氏、初の首脳会談　英首相を「取引できる相手」と評すもチャゴス合意は「ひどい」と米大統領",
-      "category": "外交",
-      "source": "BBC News 日本語",
-      "published_at": "Wed, 23 Sep 2026 02:31:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c574ey190p2lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "トランプ氏、国連演説でイランを「壊滅させる」と脅す",
+      "title": "トランプ氏のガザ平和評議会、24億5000万ドル規模の復興計画を発表",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 23 Sep 2026 01:57:19 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c54g7yv2kdvro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 24 Sep 2026 08:44:03 GMT",
+      "url": "https://www.bbc.com/japanese/articles/crwyzjenxv39o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "米報道3社のホワイトハウス「立ち入り禁止」措置、米連邦地裁が一時解除命じる",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Thu, 24 Sep 2026 08:41:18 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwgk54g18vlzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "習氏が米到着、トランプ氏自ら出迎える厚遇　台湾問題や貿易戦争の「休戦」延長など協議へ",
+      "category": "経済",
+      "source": "BBC News 日本語",
+      "published_at": "Thu, 24 Sep 2026 08:24:46 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6g7km00n4yyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 5・下落 0・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 +3.69%"
+      "value": "上昇 4・下落 1・横ばい 0",
+      "detail": "最大変動：日経平均 +3.20%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -4.07%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：XRP +2.65%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "158.337 JPY",
-      "detail": "前日比 +1.41%"
+      "value": "158.795 JPY",
+      "detail": "前日比 +1.11%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ICC脱退呼びかけ、AI改称、日米首脳会談――国連総会初日の注目の動き",
-      "meta": "外交・BBC News 日本語",
+      "detail": "トランプ氏のガザ平和評議会、24億5000万ドル規模の復興計画を発表",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比+3.69%です。",
+      "detail": "日経平均が前日比+3.20%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-23T23:39:32+00:00",
-    "market": "2026-09-23T23:39:42+00:00"
+    "news": "2026-09-24T23:52:03+00:00",
+    "market": "2026-09-24T23:52:13+00:00"
   }
 }

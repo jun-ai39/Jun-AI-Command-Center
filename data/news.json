@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-23T23:39:32+00:00",
+  "updated_at": "2026-09-24T23:52:03+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "トランプ氏、国連演説でイランを「壊滅させる」と脅す",
+      "title": "米オープンAIのエージェント、豪政府ウェブサイトに「侵入」　首相が明かす",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c54g7yv2kdvro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6lyqlnpk3ego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 24 Sep 2026 08:02:32 GMT"
+    },
+    {
+      "title": "習氏が米到着、トランプ氏自ら出迎える厚遇　台湾問題や貿易戦争の「休戦」延長など協議へ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6g7km00n4yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "north-america",
+      "published_at": "Thu, 24 Sep 2026 08:24:46 GMT"
+    },
+    {
+      "title": "イラン大統領、決して「屈服しない」とトランプ氏に対し宣言　国連総会で演説",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c8046kpyz4deo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Wed, 23 Sep 2026 01:57:19 GMT"
+      "published_at": "Thu, 24 Sep 2026 02:52:31 GMT"
     },
     {
-      "title": "アメリカ、グリーンランドの2カ所に軍事基地建設　デンマークと新防衛協定",
+      "title": "米報道3社のホワイトハウス「立ち入り禁止」措置、米連邦地裁が一時解除命じる",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq4g7ykzv9l2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cwgk54g18vlzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Wed, 23 Sep 2026 01:00:39 GMT"
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 24 Sep 2026 08:41:18 GMT"
     },
     {
-      "title": "トランプ氏とバーナム氏、初の首脳会談　英首相を「取引できる相手」と評すもチャゴス合意は「ひどい」と米大統領",
+      "title": "農地にデータセンターを次々建設……中国のAIブーム支える内モンゴルの遠隔地",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c574ey190p2lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c68xknjqgjjqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "north-america",
-      "published_at": "Wed, 23 Sep 2026 02:31:07 GMT"
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Thu, 24 Sep 2026 04:37:57 GMT"
     },
     {
-      "title": "ICC脱退呼びかけ、AI改称、日米首脳会談――国連総会初日の注目の動き",
+      "title": "英軍が他国の人工衛星を妨害、自衛目的で　BBCに情報提供",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cxnvl9r4rge1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm4gdkvjy4g7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 24 Sep 2026 05:10:55 GMT"
+    },
+    {
+      "title": "トランプ氏のガザ平和評議会、24億5000万ドル規模の復興計画を発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crwyzjenxv39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 24 Sep 2026 08:44:03 GMT"
+    },
+    {
+      "title": "ワインスティーン受刑者、性的暴行で拘禁15年　ニューヨークの再審",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6n9wnvl4eq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Thu, 24 Sep 2026 08:23:46 GMT"
+    },
+    {
+      "title": "脅迫、合意、熱弁……国連総会初日を90秒で振り返る",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckddvj0gq54do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "外交",
       "region": "global",
-      "published_at": "Wed, 23 Sep 2026 03:37:02 GMT"
-    },
-    {
-      "title": "リトアニア、ロシアに「反撃」する用意と避難計画を立てていると　BBCが首相を取材",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw305208vgvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 22 Sep 2026 04:26:47 GMT"
-    },
-    {
-      "title": "アメリカのカリブ海などでの小型船攻撃、人道に対する罪の可能性と国連報告者",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj20720qp93zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Tue, 22 Sep 2026 04:52:09 GMT"
-    },
-    {
-      "title": "CNNなど3社がトランプ政権を提訴、主要メディアは代表取材を中止",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm62ex2gvkd1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 22 Sep 2026 04:52:31 GMT"
-    },
-    {
-      "title": "カナダのユダヤ教の礼拝施設周辺で銃撃、祭日の夜に　カーニー首相が非難",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c63re2g71yqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 22 Sep 2026 02:44:20 GMT"
-    },
-    {
-      "title": "台風25号で日本に大雨　土砂崩れ相次ぐ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm6246p53lq3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "japan",
-      "published_at": "Tue, 22 Sep 2026 02:57:38 GMT"
+      "published_at": "Thu, 24 Sep 2026 04:10:13 GMT"
     }
   ]
 }
