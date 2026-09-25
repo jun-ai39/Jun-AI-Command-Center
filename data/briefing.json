@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-24T23:52:14+00:00",
+  "generated_at": "2026-09-25T23:56:15+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "トランプ氏のガザ平和評議会、24億5000万ドル規模の復興計画を発表",
-      "category": "世界情勢",
+      "title": "カナダのカーニー首相、アメリカによる軍事攻撃を想定したことがあると語る",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 24 Sep 2026 08:44:03 GMT",
-      "url": "https://www.bbc.com/japanese/articles/crwyzjenxv39o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 25 Sep 2026 08:27:43 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6e30q0wk7plo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "米報道3社のホワイトハウス「立ち入り禁止」措置、米連邦地裁が一時解除命じる",
+      "title": "イタリア政府、学校でブルカとニカブ着用禁止の方針　各教室で外国人の制限も",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 24 Sep 2026 08:41:18 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwgk54g18vlzo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 25 Sep 2026 07:58:26 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmx2zlxe2jn4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "習氏が米到着、トランプ氏自ら出迎える厚遇　台湾問題や貿易戦争の「休戦」延長など協議へ",
-      "category": "経済",
+      "title": "米中首脳会談　世界の二大権力者は対面して何を話したのか",
+      "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 24 Sep 2026 08:24:46 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6g7km00n4yyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 25 Sep 2026 07:39:13 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckj063py5ym5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 4・下落 1・横ばい 0",
-      "detail": "最大変動：日経平均 +3.20%"
+      "value": "上昇 5・下落 0・横ばい 0",
+      "detail": "最大変動：日経平均 +3.82%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +2.65%"
+      "value": "上昇 2・下落 2・横ばい 0",
+      "detail": "最大変動：Solana +3.31%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "158.795 JPY",
-      "detail": "前日比 +1.11%"
+      "value": "157.185 JPY",
+      "detail": "前日比 +0.09%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "トランプ氏のガザ平和評議会、24億5000万ドル規模の復興計画を発表",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "カナダのカーニー首相、アメリカによる軍事攻撃を想定したことがあると語る",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+3.20%です。",
+      "detail": "日経平均が前日比+3.82%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-24T23:52:03+00:00",
-    "market": "2026-09-24T23:52:13+00:00"
+    "news": "2026-09-25T23:56:04+00:00",
+    "market": "2026-09-25T23:56:15+00:00"
   }
 }

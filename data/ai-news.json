@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-25",
+  "verified_at": "2026-09-26",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,17 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-9de028fbe46c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-26",
+      "category": "model",
+      "title_ja": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "original_title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary_ja": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "url": "https://openai.com/index/proaction"
+    },
     {
       "id": "google-583ce5a62ee4",
       "source": "google",
@@ -209,17 +220,6 @@
       "url": "https://openai.com/index/airbnb-gpt-6-astra"
     },
     {
-      "id": "openai-5ab590850491",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "product",
-      "title_ja": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "original_title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "summary_ja": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
-    },
-    {
       "id": "google-4a8e51112542",
       "source": "google",
       "source_name": "Google",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-24T23:52:03+00:00",
+  "updated_at": "2026-09-25T23:56:05+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
