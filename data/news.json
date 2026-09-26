@@ -1,8 +1,44 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-25T23:56:04+00:00",
+  "updated_at": "2026-09-26T23:35:37+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqp8ddj03ypgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Sat, 26 Sep 2026 03:20:09 GMT"
+    },
+    {
+      "title": "死後に木につるされたと警察、アメリカ南部で遺体で発見の黒人女性",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx5yll6mm7vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 26 Sep 2026 03:36:17 GMT"
+    },
+    {
+      "title": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckx2zz60gzdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Sat, 26 Sep 2026 07:05:26 GMT"
+    },
+    {
+      "title": "サッカーのマンチェスター・シティー、財務規則違反114件で有罪裁定",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6q8jjypk4jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 26 Sep 2026 06:38:49 GMT"
+    },
     {
       "title": "ネタニヤフ首相、国連演説でイスラエル軍の行動擁護　複数の代表団が抗議の退席",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -47,42 +83,6 @@
       "category": "世界情勢",
       "region": "middle-east",
       "published_at": "Fri, 25 Sep 2026 06:44:35 GMT"
-    },
-    {
-      "title": "17歳の大橋信選手、アジア大会・競泳で世界新記録　新型コロナ乗り越え",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6wyzm2gydvmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 25 Sep 2026 04:49:57 GMT"
-    },
-    {
-      "title": "スターリンク基地局の火災は「破壊工作」だとポーランド、デンマークはロシアのハイブリッド攻撃激化を予測",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwzdzm28jeylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Fri, 25 Sep 2026 05:12:54 GMT"
-    },
-    {
-      "title": "トランプ氏が締め出したメディア、ホワイトハウスでの取材を再び拒まれる　裁判所が許可を命じた直後",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8x2zkv9d20ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 25 Sep 2026 03:14:32 GMT"
-    },
-    {
-      "title": "イギリスで人気の日本大使、イギリスただ一人の「サムライ」の洗礼地を訪問",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq9860k04kx5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Fri, 25 Sep 2026 04:18:48 GMT"
     }
   ]
 }

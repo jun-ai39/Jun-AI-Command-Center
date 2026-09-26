@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-25T23:56:15+00:00",
+  "generated_at": "2026-09-26T23:35:47+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "カナダのカーニー首相、アメリカによる軍事攻撃を想定したことがあると語る",
+      "title": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 25 Sep 2026 08:27:43 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6e30q0wk7plo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 26 Sep 2026 07:05:26 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckx2zz60gzdjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "イタリア政府、学校でブルカとニカブ着用禁止の方針　各教室で外国人の制限も",
+      "title": "サッカーのマンチェスター・シティー、財務規則違反114件で有罪裁定",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 25 Sep 2026 07:58:26 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmx2zlxe2jn4o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 26 Sep 2026 06:38:49 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6q8jjypk4jdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "米中首脳会談　世界の二大権力者は対面して何を話したのか",
-      "category": "外交",
+      "title": "死後に木につるされたと警察、アメリカ南部で遺体で発見の黒人女性",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 25 Sep 2026 07:39:13 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ckj063py5ym5o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 26 Sep 2026 03:36:17 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cx5yll6mm7vro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -36,11 +36,11 @@
     {
       "label": "暗号資産",
       "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：Solana +3.31%"
+      "detail": "最大変動：XRP -2.54%"
     },
     {
       "label": "市場心理",
-      "value": "71 / 100",
+      "value": "74 / 100",
       "detail": "強欲"
     },
     {
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "カナダのカーニー首相、アメリカによる軍事攻撃を想定したことがあると語る",
+      "detail": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
       "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは71（強欲）です。",
+      "detail": "Fear & Greed Indexは74（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-25T23:56:04+00:00",
-    "market": "2026-09-25T23:56:15+00:00"
+    "news": "2026-09-26T23:35:37+00:00",
+    "market": "2026-09-26T23:35:47+00:00"
   }
 }
