@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-26T23:35:47+00:00",
+  "generated_at": "2026-09-27T23:47:38+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
@@ -36,16 +36,16 @@
     {
       "label": "暗号資産",
       "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：XRP -2.54%"
+      "detail": "最大変動：XRP -0.99%"
     },
     {
       "label": "市場心理",
-      "value": "74 / 100",
+      "value": "70 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.185 JPY",
+      "value": "157.515 JPY",
       "detail": "前日比 +0.09%"
     }
   ],
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは74（強欲）です。",
+      "detail": "Fear & Greed Indexは70（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-26T23:35:37+00:00",
-    "market": "2026-09-26T23:35:47+00:00"
+    "news": "2026-09-27T23:47:27+00:00",
+    "market": "2026-09-27T23:47:38+00:00"
   }
 }

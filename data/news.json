@@ -1,8 +1,17 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-26T23:35:37+00:00",
+  "updated_at": "2026-09-27T23:47:27+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckx2zz60gzdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Sat, 26 Sep 2026 07:05:26 GMT"
+    },
     {
       "title": "ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -20,15 +29,6 @@
       "category": "世界情勢",
       "region": "north-america",
       "published_at": "Sat, 26 Sep 2026 03:36:17 GMT"
-    },
-    {
-      "title": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckx2zz60gzdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 26 Sep 2026 07:05:26 GMT"
     },
     {
       "title": "サッカーのマンチェスター・シティー、財務規則違反114件で有罪裁定",
