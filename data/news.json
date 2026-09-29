@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-27T23:47:27+00:00",
+  "updated_at": "2026-09-29T00:57:49+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
+      "title": "米軍が使用のイギリス空軍基地近くで5人逮捕　テロ行為準備などの疑い",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckx2zz60gzdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 26 Sep 2026 07:05:26 GMT"
-    },
-    {
-      "title": "ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqp8ddj03ypgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Sat, 26 Sep 2026 03:20:09 GMT"
-    },
-    {
-      "title": "死後に木につるされたと警察、アメリカ南部で遺体で発見の黒人女性",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx5yll6mm7vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 26 Sep 2026 03:36:17 GMT"
-    },
-    {
-      "title": "サッカーのマンチェスター・シティー、財務規則違反114件で有罪裁定",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6q8jjypk4jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 26 Sep 2026 06:38:49 GMT"
-    },
-    {
-      "title": "ネタニヤフ首相、国連演説でイスラエル軍の行動擁護　複数の代表団が抗議の退席",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5n4kn843dpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Fri, 25 Sep 2026 02:24:12 GMT"
-    },
-    {
-      "title": "米中首脳会談　世界の二大権力者は対面して何を話したのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckj063py5ym5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "global",
-      "published_at": "Fri, 25 Sep 2026 07:39:13 GMT"
-    },
-    {
-      "title": "イタリア政府、学校でブルカとニカブ着用禁止の方針　各教室で外国人の制限も",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmx2zlxe2jn4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqwyz7rzj61go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Fri, 25 Sep 2026 07:58:26 GMT"
+      "published_at": "Mon, 28 Sep 2026 01:23:43 GMT"
     },
     {
-      "title": "カナダのカーニー首相、アメリカによる軍事攻撃を想定したことがあると語る",
+      "title": "トランプ氏、ホルムズ海峡再開案を拒否　提案したイラン外相は交渉だけが紛争終結の道と主張",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6e30q0wk7plo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cx305ez43jvlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
-      "region": "north-america",
-      "published_at": "Fri, 25 Sep 2026 08:27:43 GMT"
+      "region": "middle-east",
+      "published_at": "Mon, 28 Sep 2026 03:04:31 GMT"
     },
     {
-      "title": "米ラッパーのマックルモア氏「パレスチナを解放しろ」ツアー発表　英歌手シーラン氏との確執後",
+      "title": "フーシ派のドローンが頭上に……BBCがイエメンの最前線を取材",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmde0wjj4w23o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ckjrxw5rwyjno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Fri, 25 Sep 2026 06:44:35 GMT"
+      "published_at": "Mon, 28 Sep 2026 06:19:33 GMT"
+    },
+    {
+      "title": "セルビアのヴチッチ大統領が辞任、市民の抗議高まり　年内に議会選と大統領選へ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c9gk5vnm88v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 28 Sep 2026 02:35:38 GMT"
+    },
+    {
+      "title": "【解説】 米軍が使う英空軍基地の近くで「重大事態」、5人逮捕　多くの疑問点",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3j4j7y9q015o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 28 Sep 2026 03:46:19 GMT"
+    },
+    {
+      "title": "【解説】 マンチェスター・シティめぐる裁定で、英プレミアリーグでは不確実性と混乱が長引く",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6pwlg1l9vdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 28 Sep 2026 07:57:07 GMT"
+    },
+    {
+      "title": "欧州男子サッカー、アイルランド代表がイスラエル代表との握手を拒否",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmlyrl4n225zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Mon, 28 Sep 2026 08:10:04 GMT"
+    },
+    {
+      "title": "南アフリカで銃乱射事件相次ぐ、2件で27人死亡",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckeq83yr5312o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "africa",
+      "published_at": "Mon, 28 Sep 2026 00:52:34 GMT"
+    },
+    {
+      "title": "米オープンAIのボット、複数のアメリカ政府機関サイトに干渉",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6y4zx08qypdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Mon, 28 Sep 2026 05:01:48 GMT"
     }
   ]
 }

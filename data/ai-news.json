@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-28",
+  "verified_at": "2026-09-29",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "google-db713ef86bd5",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-29",
+      "category": "product",
+      "title_ja": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "original_title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+    },
+    {
+      "id": "google-6078dfff0e3e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-29",
+      "category": "model",
+      "title_ja": "See what 4 builders are making with Gemini 3.8 Flash",
+      "original_title": "See what 4 builders are making with Gemini 3.8 Flash",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/"
+    },
+    {
+      "id": "google-125e7efcafb0",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-29",
+      "category": "model",
+      "title_ja": "3 ways this grocer cooks for 200 guests with Gemini",
+      "original_title": "3 ways this grocer cooks for 200 guests with Gemini",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/"
+    },
+    {
+      "id": "openai-0adf5bb2a473",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-28",
+      "category": "business",
+      "title_ja": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "original_title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary_ja": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+    },
+    {
+      "id": "openai-833e9419a34f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-28",
+      "category": "product",
+      "title_ja": "Are you a Codex Original?",
+      "original_title": "Are you a Codex Original?",
+      "summary_ja": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "url": "https://openai.com/form/codex-originals"
+    },
+    {
+      "id": "openai-eb674100bb68",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-28",
+      "category": "model",
+      "title_ja": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "original_title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary_ja": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+    },
     {
       "id": "openai-9de028fbe46c",
       "source": "openai",
@@ -88,17 +154,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
     },
     {
-      "id": "google-bd8061157af0",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-24",
-      "category": "product",
-      "title_ja": "6 new Google Flow Tools built by industry creatives",
-      "original_title": "6 new Google Flow Tools built by industry creatives",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/"
-    },
-    {
       "id": "google-bafc49bea8fb",
       "source": "google",
       "source_name": "Google",
@@ -110,6 +165,17 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/"
     },
     {
+      "id": "google-bd8061157af0",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-24",
+      "category": "product",
+      "title_ja": "6 new Google Flow Tools built by industry creatives",
+      "original_title": "6 new Google Flow Tools built by industry creatives",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/"
+    },
+    {
       "id": "google-286e0ad93167",
       "source": "google",
       "source_name": "Google",
@@ -119,17 +185,6 @@
       "original_title": "MedGemma is helping global healthcare providers deliver better care",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/"
-    },
-    {
-      "id": "google-b1f9c7a504c7",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-24",
-      "category": "model",
-      "title_ja": "Gemini 3.8 text-to-speech says hello",
-      "original_title": "Gemini 3.8 text-to-speech says hello",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
     },
     {
       "id": "openai-9328fa400dd3",
@@ -187,61 +242,6 @@
       "url": "https://openai.com/index/ringg"
     },
     {
-      "id": "openai-3d7b9aab56c8",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "product",
-      "title_ja": "Introducing MentalHealthBench",
-      "original_title": "Introducing MentalHealthBench",
-      "summary_ja": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "url": "https://openai.com/index/introducing-mentalhealthbench"
-    },
-    {
-      "id": "openai-bb71e409dd7f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "business",
-      "title_ja": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "original_title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "summary_ja": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
-    },
-    {
-      "id": "openai-0765deb14458",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "education",
-      "title_ja": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "original_title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "summary_ja": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra"
-    },
-    {
-      "id": "google-4a8e51112542",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-23",
-      "category": "product",
-      "title_ja": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
-      "original_title": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/"
-    },
-    {
-      "id": "google-7d7a743a99ea",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-23",
-      "category": "product",
-      "title_ja": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
-      "original_title": "Google and the Gates Foundation to bring AI resources to 200 million farmers across the Global South.",
-      "summary_ja": "Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-27T23:47:28+00:00",
+  "updated_at": "2026-09-29T00:57:50+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T23:47:38+00:00",
+  "generated_at": "2026-09-29T00:57:59+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 26 Sep 2026 07:05:26 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ckx2zz60gzdjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "サッカーのマンチェスター・シティー、財務規則違反114件で有罪裁定",
+      "title": "欧州男子サッカー、アイルランド代表がイスラエル代表との握手を拒否",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 26 Sep 2026 06:38:49 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6q8jjypk4jdo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 28 Sep 2026 08:10:04 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmlyrl4n225zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "死後に木につるされたと警察、アメリカ南部で遺体で発見の黒人女性",
+      "title": "【解説】 マンチェスター・シティめぐる裁定で、英プレミアリーグでは不確実性と混乱が長引く",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 26 Sep 2026 03:36:17 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cx5yll6mm7vro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 28 Sep 2026 07:57:07 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6pwlg1l9vdjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "フーシ派のドローンが頭上に……BBCがイエメンの最前線を取材",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Mon, 28 Sep 2026 06:19:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckjrxw5rwyjno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 5・下落 0・横ばい 0",
-      "detail": "最大変動：日経平均 +3.82%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 -1.11%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：XRP -0.99%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Solana -3.02%"
     },
     {
       "label": "市場心理",
-      "value": "70 / 100",
+      "value": "73 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.515 JPY",
-      "detail": "前日比 +0.09%"
+      "value": "157.355 JPY",
+      "detail": "前日比 -0.07%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "欧州男子サッカー、アイルランド代表がイスラエル代表との握手を拒否",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+3.82%です。",
+      "detail": "NASDAQ総合が前日比-1.11%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "alert"
+      "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは70（強欲）です。",
+      "detail": "Fear & Greed Indexは73（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-27T23:47:27+00:00",
-    "market": "2026-09-27T23:47:38+00:00"
+    "news": "2026-09-29T00:57:49+00:00",
+    "market": "2026-09-29T00:57:59+00:00"
   }
 }
