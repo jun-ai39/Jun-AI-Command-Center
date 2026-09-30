@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-29",
+  "verified_at": "2026-09-30",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "google-dcb956296f1e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-09-30",
+      "category": "product",
+      "title_ja": "Experience two artists’ perspectives on philosophy, science, and AI",
+      "original_title": "Experience two artists’ perspectives on philosophy, science, and AI",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/"
+    },
+    {
+      "id": "openai-d6b9f5e651b1",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-29",
+      "category": "model",
+      "title_ja": "Introducing GPT-6.1 Sol",
+      "original_title": "Introducing GPT-6.1 Sol",
+      "summary_ja": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+    },
+    {
+      "id": "openai-6071f63e21f6",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-29",
+      "category": "safety",
+      "title_ja": "DevDay 2026 Recap",
+      "original_title": "DevDay 2026 Recap",
+      "summary_ja": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "url": "https://openai.com/index/devday-2026-recap"
+    },
+    {
+      "id": "openai-dec620cb7225",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-29",
+      "category": "education",
+      "title_ja": "Introducing dots",
+      "original_title": "Introducing dots",
+      "summary_ja": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "url": "https://openai.com/index/introducing-dots"
+    },
+    {
+      "id": "openai-2fc54b690d7b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-29",
+      "category": "safety",
+      "title_ja": "Towards safety cases for frontier AI training",
+      "original_title": "Towards safety cases for frontier AI training",
+      "summary_ja": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+    },
+    {
+      "id": "openai-50d71cd52400",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-29",
+      "category": "safety",
+      "title_ja": "How we will do better for Australia",
+      "original_title": "How we will do better for Australia",
+      "summary_ja": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+    },
     {
       "id": "google-db713ef86bd5",
       "source": "google",
@@ -165,83 +231,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/"
     },
     {
-      "id": "google-bd8061157af0",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-24",
-      "category": "product",
-      "title_ja": "6 new Google Flow Tools built by industry creatives",
-      "original_title": "6 new Google Flow Tools built by industry creatives",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/"
-    },
-    {
-      "id": "google-286e0ad93167",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-24",
-      "category": "model",
-      "title_ja": "MedGemma is helping global healthcare providers deliver better care",
-      "original_title": "MedGemma is helping global healthcare providers deliver better care",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/"
-    },
-    {
-      "id": "openai-9328fa400dd3",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "product",
-      "title_ja": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "original_title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "summary_ja": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-    },
-    {
-      "id": "openai-347b65ce144a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "safety",
-      "title_ja": "Sam Altman’s remarks at the United Nations Security Council",
-      "original_title": "Sam Altman’s remarks at the United Nations Security Council",
-      "summary_ja": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks"
-    },
-    {
-      "id": "openai-52b80abd4e04",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "model",
-      "title_ja": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "original_title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "summary_ja": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-    },
-    {
-      "id": "openai-f2ff7f760561",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "model",
-      "title_ja": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "original_title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "summary_ja": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-    },
-    {
-      "id": "openai-4e56c7312349",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-23",
-      "category": "model",
-      "title_ja": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "original_title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "summary_ja": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "url": "https://openai.com/index/ringg"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +264,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-29T00:57:50+00:00",
+  "updated_at": "2026-09-30T00:24:16+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

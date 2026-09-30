@@ -1,37 +1,37 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T00:57:59+00:00",
+  "generated_at": "2026-09-30T00:24:56+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "欧州男子サッカー、アイルランド代表がイスラエル代表との握手を拒否",
+      "title": "米検察、コーネル大学で集団レイプの疑いを捜査再開へ",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 28 Sep 2026 08:10:04 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmlyrl4n225zo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 29 Sep 2026 13:20:50 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cjg496zdk6nro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】 マンチェスター・シティめぐる裁定で、英プレミアリーグでは不確実性と混乱が長引く",
+      "title": "アルゼンチン、イギリスに対し法的措置の脅し　フォークランド諸島の油田開発めぐり",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 28 Sep 2026 07:57:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6pwlg1l9vdjo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 29 Sep 2026 08:06:21 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq2dw9xl593ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "フーシ派のドローンが頭上に……BBCがイエメンの最前線を取材",
+      "title": "イギリスの11歳少女、史上最年少のウーマン・グランドマスターに",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 28 Sep 2026 06:19:33 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ckjrxw5rwyjno?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 29 Sep 2026 07:41:09 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck9807e5z5edo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -1.11%"
+      "value": "上昇 2・下落 3・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 -1.64%"
     },
     {
       "label": "暗号資産",
@@ -40,31 +40,31 @@
     },
     {
       "label": "市場心理",
-      "value": "73 / 100",
+      "value": "71 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.355 JPY",
-      "detail": "前日比 -0.07%"
+      "value": "157.341 JPY",
+      "detail": "前日比 -0.58%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "欧州男子サッカー、アイルランド代表がイスラエル代表との握手を拒否",
+      "detail": "米検察、コーネル大学で集団レイプの疑いを捜査再開へ",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-1.11%です。",
+      "detail": "NASDAQ総合が前日比-1.64%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは73（強欲）です。",
+      "detail": "Fear & Greed Indexは71（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-29T00:57:49+00:00",
-    "market": "2026-09-29T00:57:59+00:00"
+    "news": "2026-09-30T00:24:15+00:00",
+    "market": "2026-09-30T00:24:56+00:00"
   }
 }
