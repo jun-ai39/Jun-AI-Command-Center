@@ -1,8 +1,71 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-30T00:24:15+00:00",
+  "updated_at": "2026-10-01T00:32:03+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "英空軍基地の近くで逮捕の5人、その1人が自ら緊急通報　車内に爆発物なし",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr5ye1vq34y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 30 Sep 2026 02:14:35 GMT"
+    },
+    {
+      "title": "トランプ氏、AI開発での中国との協力を否定",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmj4jr0xwgg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 30 Sep 2026 05:36:02 GMT"
+    },
+    {
+      "title": "【解説】戦争の脅威は低迷する欧州自動車業界を救うのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3y0zzrn2r7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 30 Sep 2026 03:03:22 GMT"
+    },
+    {
+      "title": "家賃高騰で87歳の女性が退去させられ……スペインの住宅危機、抗議受け政府が対策発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6ge43z4zpr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Wed, 30 Sep 2026 04:59:51 GMT"
+    },
+    {
+      "title": "マンチェスター・シティー、偽装契約と虚偽会計で有罪認定　英プレミアリーグが報告書公表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwj065nr96gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 30 Sep 2026 03:48:06 GMT"
+    },
+    {
+      "title": "エッフェル塔のトップが辞任へ　宗教団体の訪問時に女性職員が男性に交代させられた問題で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6jrxe9e4glgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 30 Sep 2026 06:51:02 GMT"
+    },
+    {
+      "title": "イスラエル人入植者がヨルダン川西岸の村を襲撃、パレスチナ人家族の帰宅を妨害",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6m2r5ker8p1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 30 Sep 2026 07:30:50 GMT"
+    },
     {
       "title": "オープンAI、新モデルの公開を取りやめ　安全上の懸念から",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -13,15 +76,6 @@
       "published_at": "Tue, 29 Sep 2026 06:34:38 GMT"
     },
     {
-      "title": "英空軍基地近くで逮捕の男性5人、条件付きで保釈",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm0qxje1jp3wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 29 Sep 2026 01:52:51 GMT"
-    },
-    {
       "title": "キーウの歴史的建造物にドローン攻撃、人々は窓から避難",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cr5y51j7gnjeo?at_medium=RSS&at_campaign=rss",
@@ -29,60 +83,6 @@
       "category": "紛争",
       "region": "global",
       "published_at": "Tue, 29 Sep 2026 04:11:22 GMT"
-    },
-    {
-      "title": "北朝鮮捕虜の韓国移送、ゼレンスキー氏が公表　李政権はウクライナ大使代理を呼び出し抗議",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw4gr1genvpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 29 Sep 2026 01:44:15 GMT"
-    },
-    {
-      "title": "米検察、コーネル大学で集団レイプの疑いを捜査再開へ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjg496zdk6nro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 29 Sep 2026 13:20:50 GMT"
-    },
-    {
-      "title": "アルゼンチン、イギリスに対し法的措置の脅し　フォークランド諸島の油田開発めぐり",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq2dw9xl593ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Tue, 29 Sep 2026 08:06:21 GMT"
-    },
-    {
-      "title": "【解説】 米中首脳会談、話し合われなかったことが最も重要かもしれない",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckpd0wlyxljyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "global",
-      "published_at": "Tue, 29 Sep 2026 03:37:08 GMT"
-    },
-    {
-      "title": "ヒマラヤで雪崩、登山関係者4人を遺体で発見　多数が行方不明に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6p3kewvke9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 29 Sep 2026 04:16:04 GMT"
-    },
-    {
-      "title": "イギリスの11歳少女、史上最年少のウーマン・グランドマスターに",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck9807e5z5edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 29 Sep 2026 07:41:09 GMT"
     }
   ]
 }

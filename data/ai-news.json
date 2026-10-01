@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-09-30",
+  "verified_at": "2026-10-01",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,94 @@
     }
   ],
   "items": [
+    {
+      "id": "google-8ff13f57dac4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-01",
+      "category": "product",
+      "title_ja": "Google's AI ranks #1 for predicting flu hospitalizations.",
+      "original_title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/"
+    },
+    {
+      "id": "google-6381db252dee",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-01",
+      "category": "model",
+      "title_ja": "Gemini 4 Argon: our next era of frontier intelligence",
+      "original_title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+    },
+    {
+      "id": "google-d0594e3e3d8b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-01",
+      "category": "product",
+      "title_ja": "Google is supporting water resilience in Chile.",
+      "original_title": "Google is supporting water resilience in Chile.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/"
+    },
+    {
+      "id": "google-381da076c8f8",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-01",
+      "category": "education",
+      "title_ja": "Supporting AI readiness in higher education",
+      "original_title": "Supporting AI readiness in higher education",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/"
+    },
+    {
+      "id": "google-68cbabc2cd02",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-01",
+      "category": "model",
+      "title_ja": "Let skills in Gemini tackle your most repetitive tasks",
+      "original_title": "Let skills in Gemini tackle your most repetitive tasks",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/"
+    },
+    {
+      "id": "google-91ae618daae2",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-01",
+      "category": "product",
+      "title_ja": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "original_title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/"
+    },
+    {
+      "id": "openai-90249c2a3882",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-30",
+      "category": "safety",
+      "title_ja": "Disrupting a coordinated model-distillation campaign",
+      "original_title": "Disrupting a coordinated model-distillation campaign",
+      "summary_ja": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+    },
+    {
+      "id": "openai-061338e668ed",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-30",
+      "category": "business",
+      "title_ja": "Helping small businesses put AI to work",
+      "original_title": "Helping small businesses put AI to work",
+      "summary_ja": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+    },
     {
       "id": "google-dcb956296f1e",
       "source": "google",
@@ -66,17 +154,6 @@
       "url": "https://openai.com/index/introducing-dots"
     },
     {
-      "id": "openai-2fc54b690d7b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-29",
-      "category": "safety",
-      "title_ja": "Towards safety cases for frontier AI training",
-      "original_title": "Towards safety cases for frontier AI training",
-      "summary_ja": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
-    },
-    {
       "id": "openai-50d71cd52400",
       "source": "openai",
       "source_name": "OpenAI",
@@ -86,6 +163,17 @@
       "original_title": "How we will do better for Australia",
       "summary_ja": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+    },
+    {
+      "id": "openai-2fc54b690d7b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-29",
+      "category": "safety",
+      "title_ja": "Towards safety cases for frontier AI training",
+      "original_title": "Towards safety cases for frontier AI training",
+      "summary_ja": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
     },
     {
       "id": "google-db713ef86bd5",
@@ -154,83 +242,6 @@
       "url": "https://openai.com/index/basis-tax-workbook-with-astra"
     },
     {
-      "id": "openai-9de028fbe46c",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-26",
-      "category": "model",
-      "title_ja": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "original_title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "summary_ja": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "url": "https://openai.com/index/proaction"
-    },
-    {
-      "id": "google-583ce5a62ee4",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-25",
-      "category": "model",
-      "title_ja": "Introducing Gemini 3.8 Live with Live Avatar",
-      "original_title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/"
-    },
-    {
-      "id": "openai-52e46e8371e1",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-24",
-      "category": "business",
-      "title_ja": "Two years of OpenAI Academy",
-      "original_title": "Two years of OpenAI Academy",
-      "summary_ja": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "url": "https://openai.com/index/two-years-of-openai-academy"
-    },
-    {
-      "id": "google-5e4e2324e77c",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-24",
-      "category": "product",
-      "title_ja": "Behind Project Suncatcher, our moonshot to put AI in space",
-      "original_title": "Behind Project Suncatcher, our moonshot to put AI in space",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/"
-    },
-    {
-      "id": "google-c52229f1bfad",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-24",
-      "category": "model",
-      "title_ja": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-      "original_title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/"
-    },
-    {
-      "id": "google-1ccf342131e2",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-24",
-      "category": "product",
-      "title_ja": "Google Beam expands with new regions, partners, and customers",
-      "original_title": "Google Beam expands with new regions, partners, and customers",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
-    },
-    {
-      "id": "google-bafc49bea8fb",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-24",
-      "category": "model",
-      "title_ja": "A new wave of Connected Apps is rolling out to Gemini.",
-      "original_title": "A new wave of Connected Apps is rolling out to Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -264,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-09-30T00:24:16+00:00",
+  "updated_at": "2026-10-01T00:32:03+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

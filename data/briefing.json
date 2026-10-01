@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-30T00:24:56+00:00",
+  "generated_at": "2026-10-01T00:32:13+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "米検察、コーネル大学で集団レイプの疑いを捜査再開へ",
+      "title": "イスラエル人入植者がヨルダン川西岸の村を襲撃、パレスチナ人家族の帰宅を妨害",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 29 Sep 2026 13:20:50 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cjg496zdk6nro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 30 Sep 2026 07:30:50 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6m2r5ker8p1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "アルゼンチン、イギリスに対し法的措置の脅し　フォークランド諸島の油田開発めぐり",
+      "title": "エッフェル塔のトップが辞任へ　宗教団体の訪問時に女性職員が男性に交代させられた問題で",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 29 Sep 2026 08:06:21 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq2dw9xl593ko?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 30 Sep 2026 06:51:02 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6jrxe9e4glgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "イギリスの11歳少女、史上最年少のウーマン・グランドマスターに",
+      "title": "トランプ氏、AI開発での中国との協力を否定",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 29 Sep 2026 07:41:09 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck9807e5z5edo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 30 Sep 2026 05:36:02 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmj4jr0xwgg4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -1.64%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：日経平均 +1.57%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -3.02%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：Ethereum +0.55%"
     },
     {
       "label": "市場心理",
-      "value": "71 / 100",
+      "value": "74 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.341 JPY",
-      "detail": "前日比 -0.58%"
+      "value": "157.767 JPY",
+      "detail": "前日比 -0.66%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "米検察、コーネル大学で集団レイプの疑いを捜査再開へ",
+      "detail": "イスラエル人入植者がヨルダン川西岸の村を襲撃、パレスチナ人家族の帰宅を妨害",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-1.64%です。",
+      "detail": "日経平均が前日比+1.57%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは71（強欲）です。",
+      "detail": "Fear & Greed Indexは74（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-09-30T00:24:15+00:00",
-    "market": "2026-09-30T00:24:56+00:00"
+    "news": "2026-10-01T00:32:03+00:00",
+    "market": "2026-10-01T00:32:13+00:00"
   }
 }
