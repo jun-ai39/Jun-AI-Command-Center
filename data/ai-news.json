@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-01",
+  "verified_at": "2026-10-02",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-b8087b88cb63",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-02",
+      "category": "product",
+      "title_ja": "The eternal complement",
+      "original_title": "The eternal complement",
+      "summary_ja": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "url": "https://openai.com/index/the-eternal-complement"
+    },
+    {
+      "id": "openai-637d3dfa247f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-02",
+      "category": "business",
+      "title_ja": "How Albertsons Companies is reimagining retail from the inside out",
+      "original_title": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary_ja": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail"
+    },
+    {
+      "id": "google-8fc038c2bf57",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-02",
+      "category": "product",
+      "title_ja": "Our Project Suncatcher prototype satellite is in orbit.",
+      "original_title": "Our Project Suncatcher prototype satellite is in orbit.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/"
+    },
+    {
+      "id": "google-058f1d37f378",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-02",
+      "category": "model",
+      "title_ja": "Guided Vision in Gemini Live: built for accessibility",
+      "original_title": "Guided Vision in Gemini Live: built for accessibility",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/"
+    },
+    {
+      "id": "google-ceb3576a6bbd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-02",
+      "category": "education",
+      "title_ja": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+      "original_title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/"
+    },
+    {
+      "id": "openai-2167384f51e2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-01",
+      "category": "model",
+      "title_ja": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "original_title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary_ja": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "url": "https://openai.com/index/the-den-family-social"
+    },
     {
       "id": "google-8ff13f57dac4",
       "source": "google",
@@ -176,72 +242,6 @@
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
     },
     {
-      "id": "google-db713ef86bd5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-29",
-      "category": "product",
-      "title_ja": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "original_title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
-    },
-    {
-      "id": "google-6078dfff0e3e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-29",
-      "category": "model",
-      "title_ja": "See what 4 builders are making with Gemini 3.8 Flash",
-      "original_title": "See what 4 builders are making with Gemini 3.8 Flash",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/"
-    },
-    {
-      "id": "google-125e7efcafb0",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-29",
-      "category": "model",
-      "title_ja": "3 ways this grocer cooks for 200 guests with Gemini",
-      "original_title": "3 ways this grocer cooks for 200 guests with Gemini",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/"
-    },
-    {
-      "id": "openai-0adf5bb2a473",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-28",
-      "category": "business",
-      "title_ja": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "original_title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "summary_ja": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
-    },
-    {
-      "id": "openai-833e9419a34f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-28",
-      "category": "product",
-      "title_ja": "Are you a Codex Original?",
-      "original_title": "Are you a Codex Original?",
-      "summary_ja": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "url": "https://openai.com/form/codex-originals"
-    },
-    {
-      "id": "openai-eb674100bb68",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-28",
-      "category": "model",
-      "title_ja": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "original_title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary_ja": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-01T00:32:03+00:00",
+  "updated_at": "2026-10-02T00:45:11+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

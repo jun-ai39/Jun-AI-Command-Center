@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-01T00:32:03+00:00",
+  "updated_at": "2026-10-02T00:45:11+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "英空軍基地の近くで逮捕の5人、その1人が自ら緊急通報　車内に爆発物なし",
+      "title": "イスラエル行き旅客機が緊急着陸　操縦士が墜落図り別の操縦士を刺したか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr5ye1vq34y3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 30 Sep 2026 02:14:35 GMT"
-    },
-    {
-      "title": "トランプ氏、AI開発での中国との協力を否定",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmj4jr0xwgg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 30 Sep 2026 05:36:02 GMT"
-    },
-    {
-      "title": "【解説】戦争の脅威は低迷する欧州自動車業界を救うのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3y0zzrn2r7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Wed, 30 Sep 2026 03:03:22 GMT"
-    },
-    {
-      "title": "家賃高騰で87歳の女性が退去させられ……スペインの住宅危機、抗議受け政府が対策発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6ge43z4zpr0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 30 Sep 2026 04:59:51 GMT"
-    },
-    {
-      "title": "マンチェスター・シティー、偽装契約と虚偽会計で有罪認定　英プレミアリーグが報告書公表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwj065nr96gpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 30 Sep 2026 03:48:06 GMT"
-    },
-    {
-      "title": "エッフェル塔のトップが辞任へ　宗教団体の訪問時に女性職員が男性に交代させられた問題で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6jrxe9e4glgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 30 Sep 2026 06:51:02 GMT"
-    },
-    {
-      "title": "イスラエル人入植者がヨルダン川西岸の村を襲撃、パレスチナ人家族の帰宅を妨害",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6m2r5ker8p1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c9lyky5l6vyyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Wed, 30 Sep 2026 07:30:50 GMT"
+      "published_at": "Thu, 01 Oct 2026 01:53:58 GMT"
     },
     {
-      "title": "オープンAI、新モデルの公開を取りやめ　安全上の懸念から",
+      "title": "ロシア、ウクライナのエネルギーインフラを攻撃　春以降で最大規模",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck20l54d5plpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crq5x5z72j7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Thu, 01 Oct 2026 05:23:32 GMT"
+    },
+    {
+      "title": "スイスの氷河でこの1年「壊滅的な」氷の減少、長期的には水供給にリスクも",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c62kwkggv4v0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 29 Sep 2026 06:34:38 GMT"
+      "published_at": "Thu, 01 Oct 2026 05:56:57 GMT"
     },
     {
-      "title": "キーウの歴史的建造物にドローン攻撃、人々は窓から避難",
+      "title": "乗客が状況を説明、イスラエル行き旅客機での刺傷事件",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr5y51j7gnjeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cw7707r1z7ngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 01 Oct 2026 03:51:18 GMT"
+    },
+    {
+      "title": "米死刑囚、刑執行で2回の薬物注射を生き延びる　病院に搬送",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6wyzyn445nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 29 Sep 2026 04:11:22 GMT"
+      "published_at": "Thu, 01 Oct 2026 08:35:10 GMT"
+    },
+    {
+      "title": "ネパールでまた土砂崩れ、トレッキングの世界的ルートから観光客らヘリで避難",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmzxzxk4z60wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 01 Oct 2026 06:40:20 GMT"
+    },
+    {
+      "title": "英軍基地近くで5人逮捕、イランが関与との見方をバーナム英首相が示す　イランは反論",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqx2z2v929y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 01 Oct 2026 03:40:03 GMT"
+    },
+    {
+      "title": "日本が在留手続きの手数料引き上げ、永住許可申請は20倍の20万円に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmqlwl20k9y7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Thu, 01 Oct 2026 08:36:17 GMT"
+    },
+    {
+      "title": "中国のAIモデルが生物兵器の製造方法を表示、セキュリティーテスト中に安全策を突破と",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqp803lnzpn6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Thu, 01 Oct 2026 03:29:37 GMT"
     }
   ]
 }
