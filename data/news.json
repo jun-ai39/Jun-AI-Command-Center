@@ -1,8 +1,53 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-03T00:27:20+00:00",
+  "updated_at": "2026-10-03T23:45:35+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "G7が石油備蓄１億バレルを協調放出へ　トランプ氏が輸出禁止を脅した後",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckz7x305e3dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 03 Oct 2026 01:56:34 GMT"
+    },
+    {
+      "title": "スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性も",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq1kd38l3v29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 03 Oct 2026 04:06:34 GMT"
+    },
+    {
+      "title": "米コーネル大学のレイプ疑惑、被害者がネット上で「攻撃を受けている」と弁護士",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm2kejzqnydqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "global",
+      "published_at": "Sat, 03 Oct 2026 04:32:17 GMT"
+    },
+    {
+      "title": "副操縦士に刺された機長、「他の人たちを死なせたりしないと決心」　フライトドバイ機",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cv1j3lw10j48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 03 Oct 2026 03:50:40 GMT"
+    },
+    {
+      "title": "日本で初めて産休取得した女性市長、米誌タイムの「次世代の100人」に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c60qxqjl839zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Sat, 03 Oct 2026 02:01:20 GMT"
+    },
     {
       "title": "プーチン氏、「あらゆる兵器使って」飛び地カリーニングラードを守ると　西側諸国に警告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -31,15 +76,6 @@
       "published_at": "Fri, 02 Oct 2026 06:23:55 GMT"
     },
     {
-      "title": "韓国、ウクライナが謝罪しなければ「追加措置」と警告　北朝鮮捕虜の移送公表めぐり",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx7v4v443p7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 02 Oct 2026 06:39:19 GMT"
-    },
-    {
       "title": "英研究機関に中国団体が出資、スパイ活動を支援……MI5が異例の警告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/c6kg0gl2xdpmo?at_medium=RSS&at_campaign=rss",
@@ -47,42 +83,6 @@
       "category": "世界情勢",
       "region": "asia",
       "published_at": "Fri, 02 Oct 2026 07:13:18 GMT"
-    },
-    {
-      "title": "ネタニヤフ氏、フライドバイ襲撃者は「イスラム過激思想教育を受けていた」と　米メディアで語る",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr86x629y02po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 02 Oct 2026 03:40:54 GMT"
-    },
-    {
-      "title": "フランス各地の高校で生徒たちが抗議、学校封鎖も　何を求めているのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cklyjyv6d0w2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 02 Oct 2026 04:04:42 GMT"
-    },
-    {
-      "title": "ロシア、ウクライナのエネルギーインフラを攻撃　春以降で最大規模",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crq5x5z72j7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Thu, 01 Oct 2026 05:23:32 GMT"
-    },
-    {
-      "title": "スイスの氷河でこの1年「壊滅的な」氷の減少、長期的には水供給にリスクも",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c62kwkggv4v0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 01 Oct 2026 05:56:57 GMT"
     }
   ]
 }
