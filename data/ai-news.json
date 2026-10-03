@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-02",
+  "verified_at": "2026-10-03",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,39 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-c38af6e5cae4",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-03",
+      "category": "education",
+      "title_ja": "A model guide for the GPT-6 family",
+      "original_title": "A model guide for the GPT-6 family",
+      "summary_ja": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6"
+    },
+    {
+      "id": "google-6a7bb4e3e69d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-03",
+      "category": "product",
+      "title_ja": "The latest AI news we announced in September 2026",
+      "original_title": "The latest AI news we announced in September 2026",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+    },
+    {
+      "id": "openai-882596cbc763",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-02",
+      "category": "model",
+      "title_ja": "Chatham scales its capital markets expertise with OpenAI",
+      "original_title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary_ja": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "url": "https://openai.com/index/chatham-financial"
+    },
     {
       "id": "openai-b8087b88cb63",
       "source": "openai",
@@ -176,15 +209,15 @@
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
     },
     {
-      "id": "google-dcb956296f1e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-09-30",
-      "category": "product",
-      "title_ja": "Experience two artists’ perspectives on philosophy, science, and AI",
-      "original_title": "Experience two artists’ perspectives on philosophy, science, and AI",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/"
+      "id": "openai-6071f63e21f6",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-09-29",
+      "category": "safety",
+      "title_ja": "DevDay 2026 Recap",
+      "original_title": "DevDay 2026 Recap",
+      "summary_ja": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "url": "https://openai.com/index/devday-2026-recap"
     },
     {
       "id": "openai-d6b9f5e651b1",
@@ -198,17 +231,6 @@
       "url": "https://openai.com/index/introducing-gpt-6-1-sol"
     },
     {
-      "id": "openai-6071f63e21f6",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-29",
-      "category": "safety",
-      "title_ja": "DevDay 2026 Recap",
-      "original_title": "DevDay 2026 Recap",
-      "summary_ja": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap"
-    },
-    {
       "id": "openai-dec620cb7225",
       "source": "openai",
       "source_name": "OpenAI",
@@ -218,28 +240,6 @@
       "original_title": "Introducing dots",
       "summary_ja": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "url": "https://openai.com/index/introducing-dots"
-    },
-    {
-      "id": "openai-50d71cd52400",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-29",
-      "category": "safety",
-      "title_ja": "How we will do better for Australia",
-      "original_title": "How we will do better for Australia",
-      "summary_ja": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
-    },
-    {
-      "id": "openai-2fc54b690d7b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-29",
-      "category": "safety",
-      "title_ja": "Towards safety cases for frontier AI training",
-      "original_title": "Towards safety cases for frontier AI training",
-      "summary_ja": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-02T00:45:11+00:00",
+  "updated_at": "2026-10-03T00:27:21+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

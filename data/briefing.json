@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T00:45:22+00:00",
+  "generated_at": "2026-10-03T00:27:31+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "日本が在留手続きの手数料引き上げ、永住許可申請は20倍の20万円に",
+      "title": "英研究機関に中国団体が出資、スパイ活動を支援……MI5が異例の警告",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 01 Oct 2026 08:36:17 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmqlwl20k9y7o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 02 Oct 2026 07:13:18 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6kg0gl2xdpmo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "米死刑囚、刑執行で2回の薬物注射を生き延びる　病院に搬送",
+      "title": "韓国、ウクライナが謝罪しなければ「追加措置」と警告　北朝鮮捕虜の移送公表めぐり",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 01 Oct 2026 08:35:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6wyzyn445nno?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 02 Oct 2026 06:39:19 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cx7v4v443p7po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ネパールでまた土砂崩れ、トレッキングの世界的ルートから観光客らヘリで避難",
+      "title": "イギリスとイランの二重国籍者を逮捕、英空軍基地近くのテロ準備容疑事件",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 01 Oct 2026 06:40:20 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmzxzxk4z60wo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 02 Oct 2026 06:23:55 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cvlyly9x03e9o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：日経平均 +4.00%"
+      "value": "上昇 3・下落 2・横ばい 0",
+      "detail": "最大変動：日経平均 +3.69%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Bitcoin +1.68%"
+      "value": "上昇 1・下落 3・横ばい 0",
+      "detail": "最大変動：Ethereum -1.43%"
     },
     {
       "label": "市場心理",
-      "value": "72 / 100",
+      "value": "67 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "158.046 JPY",
-      "detail": "前日比 +0.37%"
+      "value": "157.830 JPY",
+      "detail": "前日比 +0.23%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "日本が在留手続きの手数料引き上げ、永住許可申請は20倍の20万円に",
+      "detail": "英研究機関に中国団体が出資、スパイ活動を支援……MI5が異例の警告",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+4.00%です。",
+      "detail": "日経平均が前日比+3.69%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは72（強欲）です。",
+      "detail": "Fear & Greed Indexは67（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-02T00:45:11+00:00",
-    "market": "2026-10-02T00:45:22+00:00"
+    "news": "2026-10-03T00:27:20+00:00",
+    "market": "2026-10-03T00:27:31+00:00"
   }
 }

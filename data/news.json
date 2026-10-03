@@ -1,16 +1,70 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-02T00:45:11+00:00",
+  "updated_at": "2026-10-03T00:27:20+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "イスラエル行き旅客機が緊急着陸　操縦士が墜落図り別の操縦士を刺したか",
+      "title": "プーチン氏、「あらゆる兵器使って」飛び地カリーニングラードを守ると　西側諸国に警告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9lyky5l6vyyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c8ly4y4wxwq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 02 Oct 2026 06:17:58 GMT"
+    },
+    {
+      "title": "死刑執行を生き延びた米死刑囚、重体で救命治療中　弁護団が説明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3ew9w9lwr4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 02 Oct 2026 04:27:49 GMT"
+    },
+    {
+      "title": "イギリスとイランの二重国籍者を逮捕、英空軍基地近くのテロ準備容疑事件",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvlyly9x03e9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Thu, 01 Oct 2026 01:53:58 GMT"
+      "published_at": "Fri, 02 Oct 2026 06:23:55 GMT"
+    },
+    {
+      "title": "韓国、ウクライナが謝罪しなければ「追加措置」と警告　北朝鮮捕虜の移送公表めぐり",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx7v4v443p7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 02 Oct 2026 06:39:19 GMT"
+    },
+    {
+      "title": "英研究機関に中国団体が出資、スパイ活動を支援……MI5が異例の警告",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6kg0gl2xdpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 02 Oct 2026 07:13:18 GMT"
+    },
+    {
+      "title": "ネタニヤフ氏、フライドバイ襲撃者は「イスラム過激思想教育を受けていた」と　米メディアで語る",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr86x629y02po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 02 Oct 2026 03:40:54 GMT"
+    },
+    {
+      "title": "フランス各地の高校で生徒たちが抗議、学校封鎖も　何を求めているのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cklyjyv6d0w2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 02 Oct 2026 04:04:42 GMT"
     },
     {
       "title": "ロシア、ウクライナのエネルギーインフラを攻撃　春以降で最大規模",
@@ -29,60 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Thu, 01 Oct 2026 05:56:57 GMT"
-    },
-    {
-      "title": "乗客が状況を説明、イスラエル行き旅客機での刺傷事件",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw7707r1z7ngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 01 Oct 2026 03:51:18 GMT"
-    },
-    {
-      "title": "米死刑囚、刑執行で2回の薬物注射を生き延びる　病院に搬送",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6wyzyn445nno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 01 Oct 2026 08:35:10 GMT"
-    },
-    {
-      "title": "ネパールでまた土砂崩れ、トレッキングの世界的ルートから観光客らヘリで避難",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmzxzxk4z60wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 01 Oct 2026 06:40:20 GMT"
-    },
-    {
-      "title": "英軍基地近くで5人逮捕、イランが関与との見方をバーナム英首相が示す　イランは反論",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqx2z2v929y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 01 Oct 2026 03:40:03 GMT"
-    },
-    {
-      "title": "日本が在留手続きの手数料引き上げ、永住許可申請は20倍の20万円に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmqlwl20k9y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Thu, 01 Oct 2026 08:36:17 GMT"
-    },
-    {
-      "title": "中国のAIモデルが生物兵器の製造方法を表示、セキュリティーテスト中に安全策を突破と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqp803lnzpn6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 01 Oct 2026 03:29:37 GMT"
     }
   ]
 }
