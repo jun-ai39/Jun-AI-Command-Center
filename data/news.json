@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-03T23:45:35+00:00",
+  "updated_at": "2026-10-04T23:56:44+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
@@ -13,15 +13,6 @@
       "published_at": "Sat, 03 Oct 2026 01:56:34 GMT"
     },
     {
-      "title": "スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性も",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq1kd38l3v29o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 03 Oct 2026 04:06:34 GMT"
-    },
-    {
       "title": "米コーネル大学のレイプ疑惑、被害者がネット上で「攻撃を受けている」と弁護士",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cm2kejzqnydqo?at_medium=RSS&at_campaign=rss",
@@ -31,7 +22,16 @@
       "published_at": "Sat, 03 Oct 2026 04:32:17 GMT"
     },
     {
-      "title": "副操縦士に刺された機長、「他の人たちを死なせたりしないと決心」　フライトドバイ機",
+      "title": "スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性も",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq1kd38l3v29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 03 Oct 2026 04:06:34 GMT"
+    },
+    {
+      "title": "副操縦士に襲われた機長、「他の人たちを死なせたりしないと決心」　フライトドバイ機",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cv1j3lw10j48o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
@@ -58,15 +58,6 @@
       "published_at": "Fri, 02 Oct 2026 06:17:58 GMT"
     },
     {
-      "title": "死刑執行を生き延びた米死刑囚、重体で救命治療中　弁護団が説明",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3ew9w9lwr4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 02 Oct 2026 04:27:49 GMT"
-    },
-    {
       "title": "イギリスとイランの二重国籍者を逮捕、英空軍基地近くのテロ準備容疑事件",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cvlyly9x03e9o?at_medium=RSS&at_campaign=rss",
@@ -83,6 +74,15 @@
       "category": "世界情勢",
       "region": "asia",
       "published_at": "Fri, 02 Oct 2026 07:13:18 GMT"
+    },
+    {
+      "title": "死刑執行を生き延びた米死刑囚、重体で救命治療中　弁護団が説明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3ew9w9lwr4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 02 Oct 2026 04:27:49 GMT"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-03T23:45:46+00:00",
+  "generated_at": "2026-10-04T23:56:54+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
@@ -20,7 +20,7 @@
       "url": "https://www.bbc.com/japanese/articles/cq1kd38l3v29o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "副操縦士に刺された機長、「他の人たちを死なせたりしないと決心」　フライトドバイ機",
+      "title": "副操縦士に襲われた機長、「他の人たちを死なせたりしないと決心」　フライトドバイ機",
       "category": "世界情勢",
       "source": "BBC News 日本語",
       "published_at": "Sat, 03 Oct 2026 03:50:40 GMT",
@@ -36,17 +36,17 @@
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +0.85%"
+      "detail": "最大変動：XRP +2.21%"
     },
     {
       "label": "市場心理",
-      "value": "67 / 100",
+      "value": "65 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.830 JPY",
-      "detail": "前日比 +0.23%"
+      "value": "157.746 JPY",
+      "detail": "前日比 +0.24%"
     }
   ],
   "watch_points": [
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは67（強欲）です。",
+      "detail": "Fear & Greed Indexは65（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-03T23:45:35+00:00",
-    "market": "2026-10-03T23:45:46+00:00"
+    "news": "2026-10-04T23:56:44+00:00",
+    "market": "2026-10-04T23:56:54+00:00"
   }
 }
