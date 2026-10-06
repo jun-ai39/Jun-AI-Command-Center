@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T23:56:54+00:00",
+  "generated_at": "2026-10-06T01:45:07+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "米コーネル大学のレイプ疑惑、被害者がネット上で「攻撃を受けている」と弁護士",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 03 Oct 2026 04:32:17 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm2kejzqnydqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性も",
+      "title": "フライドバイ機の副操縦士、テルアヴィヴの空港かビルへの衝突を計画＝報道",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 03 Oct 2026 04:06:34 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq1kd38l3v29o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 06 Oct 2026 01:23:34 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq33xev4zyj8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "副操縦士に襲われた機長、「他の人たちを死なせたりしないと決心」　フライトドバイ機",
+      "title": "フランス各地で高校生らの抗議が激化、最大500校が休校に",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 03 Oct 2026 03:50:40 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cv1j3lw10j48o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 05 Oct 2026 07:30:29 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6y43d1m2r8jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "トランプ氏、AI政策を統括する「超知能タスクフォース」創設を発表",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Mon, 05 Oct 2026 07:18:26 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c34g157vz2j7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 3・下落 2・横ばい 0",
-      "detail": "最大変動：日経平均 +3.69%"
+      "value": "上昇 4・下落 1・横ばい 0",
+      "detail": "最大変動：日経平均 +5.05%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +2.21%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -1.01%"
     },
     {
       "label": "市場心理",
-      "value": "65 / 100",
+      "value": "73 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.746 JPY",
-      "detail": "前日比 +0.24%"
+      "value": "157.817 JPY",
+      "detail": "前日比 +0.26%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "米コーネル大学のレイプ疑惑、被害者がネット上で「攻撃を受けている」と弁護士",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "フライドバイ機の副操縦士、テルアヴィヴの空港かビルへの衝突を計画＝報道",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+3.69%です。",
+      "detail": "日経平均が前日比+5.05%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは65（強欲）です。",
+      "detail": "Fear & Greed Indexは73（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-04T23:56:44+00:00",
-    "market": "2026-10-04T23:56:54+00:00"
+    "news": "2026-10-06T01:44:56+00:00",
+    "market": "2026-10-06T01:45:07+00:00"
   }
 }

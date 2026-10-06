@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-05",
+  "verified_at": "2026-10-06",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,138 @@
   ],
   "items": [
     {
+      "id": "openai-d2b5b29b4c81",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-06",
+      "category": "safety",
+      "title_ja": "Our approach to EU text provenance rules",
+      "original_title": "Our approach to EU text provenance rules",
+      "summary_ja": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "url": "https://openai.com/index/eu-text-provenance"
+    },
+    {
+      "id": "google-02712f54e967",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "Technology helps my students balance big creative ideas with tight deadlines.",
+      "original_title": "Technology helps my students balance big creative ideas with tight deadlines.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/"
+    },
+    {
+      "id": "google-13fd55d558d5",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "Here’s how I use technology to bring science to life in my classroom.",
+      "original_title": "Here’s how I use technology to bring science to life in my classroom.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/"
+    },
+    {
+      "id": "google-cd0e05b27e96",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "I teach my students that in the AI era, critical thinking comes first.",
+      "original_title": "I teach my students that in the AI era, critical thinking comes first.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/"
+    },
+    {
+      "id": "google-e19c9e6ee550",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "original_title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/"
+    },
+    {
+      "id": "google-73af55ea587b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "My students use Gemini to brainstorm creative ideas.",
+      "original_title": "My students use Gemini to brainstorm creative ideas.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/"
+    },
+    {
+      "id": "google-ce114c8ceafb",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
+      "original_title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/"
+    },
+    {
+      "id": "google-1fc121c6836d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "Gemini helps me bring hands-on learning into the classroom.",
+      "original_title": "Gemini helps me bring hands-on learning into the classroom.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/"
+    },
+    {
+      "id": "google-366d9f4e5a40",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
+      "original_title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/"
+    },
+    {
+      "id": "google-6ac1d30f4cbf",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "Gemini helps me give a voice to students who cannot write.",
+      "original_title": "Gemini helps me give a voice to students who cannot write.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/"
+    },
+    {
+      "id": "openai-2d8e70fb45ce",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-05",
+      "category": "model",
+      "title_ja": "Building advertising for the way people use AI",
+      "original_title": "Building advertising for the way people use AI",
+      "summary_ja": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+    },
+    {
+      "id": "google-95eb6c8a3e94",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-05",
+      "category": "education",
+      "title_ja": "Making AI training available to UK and Ireland educators",
+      "original_title": "Making AI training available to UK and Ireland educators",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/"
+    },
+    {
       "id": "openai-c38af6e5cae4",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,17 +163,6 @@
       "original_title": "A model guide for the GPT-6 family",
       "summary_ja": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "url": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
-      "id": "google-6a7bb4e3e69d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-03",
-      "category": "product",
-      "title_ja": "The latest AI news we announced in September 2026",
-      "original_title": "The latest AI news we announced in September 2026",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
     },
     {
       "id": "openai-882596cbc763",
@@ -77,39 +198,6 @@
       "url": "https://openai.com/index/albertsons-reimagining-retail"
     },
     {
-      "id": "google-8fc038c2bf57",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-02",
-      "category": "product",
-      "title_ja": "Our Project Suncatcher prototype satellite is in orbit.",
-      "original_title": "Our Project Suncatcher prototype satellite is in orbit.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/"
-    },
-    {
-      "id": "google-058f1d37f378",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-02",
-      "category": "model",
-      "title_ja": "Guided Vision in Gemini Live: built for accessibility",
-      "original_title": "Guided Vision in Gemini Live: built for accessibility",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/"
-    },
-    {
-      "id": "google-ceb3576a6bbd",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-02",
-      "category": "education",
-      "title_ja": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
-      "original_title": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/"
-    },
-    {
       "id": "openai-2167384f51e2",
       "source": "openai",
       "source_name": "OpenAI",
@@ -119,72 +207,6 @@
       "original_title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
       "summary_ja": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "url": "https://openai.com/index/the-den-family-social"
-    },
-    {
-      "id": "google-8ff13f57dac4",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-01",
-      "category": "product",
-      "title_ja": "Google's AI ranks #1 for predicting flu hospitalizations.",
-      "original_title": "Google's AI ranks #1 for predicting flu hospitalizations.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/"
-    },
-    {
-      "id": "google-6381db252dee",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-01",
-      "category": "model",
-      "title_ja": "Gemini 4 Argon: our next era of frontier intelligence",
-      "original_title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
-    },
-    {
-      "id": "google-d0594e3e3d8b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-01",
-      "category": "product",
-      "title_ja": "Google is supporting water resilience in Chile.",
-      "original_title": "Google is supporting water resilience in Chile.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/"
-    },
-    {
-      "id": "google-381da076c8f8",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-01",
-      "category": "education",
-      "title_ja": "Supporting AI readiness in higher education",
-      "original_title": "Supporting AI readiness in higher education",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/"
-    },
-    {
-      "id": "google-68cbabc2cd02",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-01",
-      "category": "model",
-      "title_ja": "Let skills in Gemini tackle your most repetitive tasks",
-      "original_title": "Let skills in Gemini tackle your most repetitive tasks",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/"
-    },
-    {
-      "id": "google-91ae618daae2",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-01",
-      "category": "product",
-      "title_ja": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
-      "original_title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/"
     },
     {
       "id": "openai-90249c2a3882",
@@ -220,28 +242,6 @@
       "url": "https://openai.com/index/devday-2026-recap"
     },
     {
-      "id": "openai-d6b9f5e651b1",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-29",
-      "category": "model",
-      "title_ja": "Introducing GPT-6.1 Sol",
-      "original_title": "Introducing GPT-6.1 Sol",
-      "summary_ja": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol"
-    },
-    {
-      "id": "openai-dec620cb7225",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-29",
-      "category": "education",
-      "title_ja": "Introducing dots",
-      "original_title": "Introducing dots",
-      "summary_ja": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "url": "https://openai.com/index/introducing-dots"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-04T23:56:44+00:00",
+  "updated_at": "2026-10-06T01:44:57+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
