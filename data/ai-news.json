@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-06",
+  "verified_at": "2026-10-07",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,94 @@
   ],
   "items": [
     {
+      "id": "openai-2896758265ce",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-07",
+      "category": "business",
+      "title_ja": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "original_title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary_ja": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "url": "https://openai.com/index/atlassian-partnership"
+    },
+    {
+      "id": "google-b28cac5d3529",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-07",
+      "category": "product",
+      "title_ja": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+      "original_title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/"
+    },
+    {
+      "id": "google-186442aeaf00",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-07",
+      "category": "product",
+      "title_ja": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "original_title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/"
+    },
+    {
+      "id": "google-e6e1d2a9f0a4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-07",
+      "category": "model",
+      "title_ja": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "original_title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
+    },
+    {
+      "id": "google-64a6575063ff",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-07",
+      "category": "product",
+      "title_ja": "Making global public health more proactive with Google Earth AI",
+      "original_title": "Making global public health more proactive with Google Earth AI",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/"
+    },
+    {
+      "id": "openai-ebb413cc5359",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-06",
+      "category": "model",
+      "title_ja": "How Jump Trading is scaling quant research with ChatGPT",
+      "original_title": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary_ja": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "url": "https://openai.com/index/jump-trading"
+    },
+    {
+      "id": "openai-00427e47df5e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-06",
+      "category": "model",
+      "title_ja": "Sharing AI progress in mathematics",
+      "original_title": "Sharing AI progress in mathematics",
+      "summary_ja": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+    },
+    {
+      "id": "openai-f57eff9c23a4",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "Advancing computer use with Ironclad",
+      "original_title": "Advancing computer use with Ironclad",
+      "summary_ja": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
+    },
+    {
       "id": "openai-d2b5b29b4c81",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +119,39 @@
       "original_title": "Our approach to EU text provenance rules",
       "summary_ja": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "url": "https://openai.com/index/eu-text-provenance"
+    },
+    {
+      "id": "google-8eaa8bd3569d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "model",
+      "title_ja": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+      "original_title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/"
+    },
+    {
+      "id": "google-27215d831bbe",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "product",
+      "title_ja": "Why we're backing America's existing nuclear plants",
+      "original_title": "Why we're backing America's existing nuclear plants",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/"
+    },
+    {
+      "id": "google-e19c9e6ee550",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-06",
+      "category": "education",
+      "title_ja": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "original_title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/"
     },
     {
       "id": "google-02712f54e967",
@@ -55,72 +176,6 @@
       "url": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/"
     },
     {
-      "id": "google-cd0e05b27e96",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "I teach my students that in the AI era, critical thinking comes first.",
-      "original_title": "I teach my students that in the AI era, critical thinking comes first.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/"
-    },
-    {
-      "id": "google-e19c9e6ee550",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "original_title": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/"
-    },
-    {
-      "id": "google-73af55ea587b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "My students use Gemini to brainstorm creative ideas.",
-      "original_title": "My students use Gemini to brainstorm creative ideas.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/"
-    },
-    {
-      "id": "google-ce114c8ceafb",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
-      "original_title": "Technology is helping my fellow math teachers trade weekend prep for personalized learning.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/education-officer-gemini/"
-    },
-    {
-      "id": "google-1fc121c6836d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "Gemini helps me bring hands-on learning into the classroom.",
-      "original_title": "Gemini helps me bring hands-on learning into the classroom.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/"
-    },
-    {
-      "id": "google-366d9f4e5a40",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-      "original_title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/"
-    },
-    {
       "id": "google-6ac1d30f4cbf",
       "source": "google",
       "source_name": "Google",
@@ -141,17 +196,6 @@
       "original_title": "Building advertising for the way people use AI",
       "summary_ja": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-    },
-    {
-      "id": "google-95eb6c8a3e94",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-05",
-      "category": "education",
-      "title_ja": "Making AI training available to UK and Ireland educators",
-      "original_title": "Making AI training available to UK and Ireland educators",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/"
     },
     {
       "id": "openai-c38af6e5cae4",
@@ -198,50 +242,6 @@
       "url": "https://openai.com/index/albertsons-reimagining-retail"
     },
     {
-      "id": "openai-2167384f51e2",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-01",
-      "category": "model",
-      "title_ja": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "original_title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "summary_ja": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "url": "https://openai.com/index/the-den-family-social"
-    },
-    {
-      "id": "openai-90249c2a3882",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-30",
-      "category": "safety",
-      "title_ja": "Disrupting a coordinated model-distillation campaign",
-      "original_title": "Disrupting a coordinated model-distillation campaign",
-      "summary_ja": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-    },
-    {
-      "id": "openai-061338e668ed",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-30",
-      "category": "business",
-      "title_ja": "Helping small businesses put AI to work",
-      "original_title": "Helping small businesses put AI to work",
-      "summary_ja": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-    },
-    {
-      "id": "openai-6071f63e21f6",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-09-29",
-      "category": "safety",
-      "title_ja": "DevDay 2026 Recap",
-      "original_title": "DevDay 2026 Recap",
-      "summary_ja": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "url": "https://openai.com/index/devday-2026-recap"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-06T01:44:57+00:00",
+  "updated_at": "2026-10-07T00:39:42+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

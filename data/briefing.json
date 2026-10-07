@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T01:45:07+00:00",
+  "generated_at": "2026-10-07T00:39:53+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "フライドバイ機の副操縦士、テルアヴィヴの空港かビルへの衝突を計画＝報道",
+      "title": "イエメン政府軍、紅海の重要航路を「確保」と発表　フーシ派は否定",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 06 Oct 2026 01:23:34 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq33xev4zyj8o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 06 Oct 2026 12:34:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm86zqpy4l94o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "フランス各地で高校生らの抗議が激化、最大500校が休校に",
+      "title": "フェイスブックへの投稿で死刑判決、サウジアラビアへの出稼ぎ労働者　恩赦求める声高まる",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 05 Oct 2026 07:30:29 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6y43d1m2r8jo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 06 Oct 2026 12:07:50 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck054zl26jjro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "トランプ氏、AI政策を統括する「超知能タスクフォース」創設を発表",
+      "title": "沖縄で広がる「またか」の声と抗議　強盗殺人事件で米海兵隊員逮捕",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 05 Oct 2026 07:18:26 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c34g157vz2j7o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 06 Oct 2026 07:11:35 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6wyv555448qo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 4・下落 1・横ばい 0",
-      "detail": "最大変動：日経平均 +5.05%"
+      "value": "上昇 5・下落 0・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 +2.99%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -1.01%"
+      "value": "上昇 2・下落 2・横ばい 0",
+      "detail": "最大変動：XRP -0.30%"
     },
     {
       "label": "市場心理",
-      "value": "73 / 100",
+      "value": "71 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.817 JPY",
-      "detail": "前日比 +0.26%"
+      "value": "158.413 JPY",
+      "detail": "前日比 +0.54%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "フライドバイ機の副操縦士、テルアヴィヴの空港かビルへの衝突を計画＝報道",
+      "detail": "イエメン政府軍、紅海の重要航路を「確保」と発表　フーシ派は否定",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+5.05%です。",
+      "detail": "NASDAQ総合が前日比+2.99%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは73（強欲）です。",
+      "detail": "Fear & Greed Indexは71（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-06T01:44:56+00:00",
-    "market": "2026-10-06T01:45:07+00:00"
+    "news": "2026-10-07T00:39:42+00:00",
+    "market": "2026-10-07T00:39:53+00:00"
   }
 }
