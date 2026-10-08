@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-07",
+  "verified_at": "2026-10-08",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,39 @@
   ],
   "items": [
     {
+      "id": "openai-661f64ddb5f4",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-07",
+      "category": "education",
+      "title_ja": "Helping teens learn, plan, and shape the future of AI",
+      "original_title": "Helping teens learn, plan, and shape the future of AI",
+      "summary_ja": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "url": "https://openai.com/index/teens-learn-and-plan"
+    },
+    {
+      "id": "openai-4e324623ab7c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-07",
+      "category": "model",
+      "title_ja": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "original_title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary_ja": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "url": "https://openai.com/index/radisson"
+    },
+    {
+      "id": "openai-a097ef0d441a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-07",
+      "category": "model",
+      "title_ja": "GPT-6 and Intelligent UI for everyone",
+      "original_title": "GPT-6 and Intelligent UI for everyone",
+      "summary_ja": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "url": "https://openai.com/index/gpt-6-for-everyone"
+    },
+    {
       "id": "openai-2896758265ce",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +64,28 @@
       "original_title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "summary_ja": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "url": "https://openai.com/index/atlassian-partnership"
+    },
+    {
+      "id": "google-d6233baa7d53",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-07",
+      "category": "safety",
+      "title_ja": "We're making it easier to identify AI-generated content globally.",
+      "original_title": "We're making it easier to identify AI-generated content globally.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
+    },
+    {
+      "id": "google-b6aec8c05cfc",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-07",
+      "category": "product",
+      "title_ja": "Introducing Playground: Create and play custom games",
+      "original_title": "Introducing Playground: Create and play custom games",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
     },
     {
       "id": "google-b28cac5d3529",
@@ -154,37 +209,15 @@
       "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/"
     },
     {
-      "id": "google-02712f54e967",
+      "id": "google-1fc121c6836d",
       "source": "google",
       "source_name": "Google",
       "published_at": "2026-10-06",
       "category": "education",
-      "title_ja": "Technology helps my students balance big creative ideas with tight deadlines.",
-      "original_title": "Technology helps my students balance big creative ideas with tight deadlines.",
+      "title_ja": "Gemini helps me bring hands-on learning into the classroom.",
+      "original_title": "Gemini helps me bring hands-on learning into the classroom.",
       "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/media-teacher-gemini/"
-    },
-    {
-      "id": "google-13fd55d558d5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "Here’s how I use technology to bring science to life in my classroom.",
-      "original_title": "Here’s how I use technology to bring science to life in my classroom.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/science-teacher-gemini/"
-    },
-    {
-      "id": "google-6ac1d30f4cbf",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "Gemini helps me give a voice to students who cannot write.",
-      "original_title": "Gemini helps me give a voice to students who cannot write.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/"
+      "url": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/"
     },
     {
       "id": "openai-2d8e70fb45ce",
@@ -207,39 +240,6 @@
       "original_title": "A model guide for the GPT-6 family",
       "summary_ja": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "url": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
-      "id": "openai-882596cbc763",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-02",
-      "category": "model",
-      "title_ja": "Chatham scales its capital markets expertise with OpenAI",
-      "original_title": "Chatham scales its capital markets expertise with OpenAI",
-      "summary_ja": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "url": "https://openai.com/index/chatham-financial"
-    },
-    {
-      "id": "openai-b8087b88cb63",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-02",
-      "category": "product",
-      "title_ja": "The eternal complement",
-      "original_title": "The eternal complement",
-      "summary_ja": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "url": "https://openai.com/index/the-eternal-complement"
-    },
-    {
-      "id": "openai-637d3dfa247f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-02",
-      "category": "business",
-      "title_ja": "How Albertsons Companies is reimagining retail from the inside out",
-      "original_title": "How Albertsons Companies is reimagining retail from the inside out",
-      "summary_ja": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "url": "https://openai.com/index/albertsons-reimagining-retail"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-07T00:39:42+00:00",
+  "updated_at": "2026-10-08T00:57:49+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
