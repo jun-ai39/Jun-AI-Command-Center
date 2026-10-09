@@ -1,25 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-08T00:57:49+00:00",
+  "updated_at": "2026-10-09T01:11:52+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "死刑執行を生き延びた米死刑囚、意識回復し会話　弁護団が発表",
+      "title": "米死刑囚、「怒り、混乱した状態」と弁護団　死刑執行を生き延び",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crp3gn8z8p11o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6g7xr1jxpv9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 07 Oct 2026 01:30:53 GMT"
+      "published_at": "Thu, 08 Oct 2026 05:44:07 GMT"
     },
     {
-      "title": "ニュートリノ観測に「多大な貢献」、ベルギーの教授にノーベル物理学賞　南極で観測",
+      "title": "ロシアのミサイルがウクライナ北部の集合住宅に直撃　就寝中の子どもら19人死亡",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6gr807lrvnqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crq5nl83z6xzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Thu, 08 Oct 2026 07:38:45 GMT"
+    },
+    {
+      "title": "テキサス州で死刑執行　テネシー州での「薬殺刑失敗」後、米国で初",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c61wvq8rznwjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Thu, 08 Oct 2026 08:23:06 GMT"
+    },
+    {
+      "title": "ノーベル化学賞、日本の硤合氏とフランスのカガン氏に　生命の非対称性の謎を解明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c8n5v423zknko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Thu, 08 Oct 2026 03:54:52 GMT"
+    },
+    {
+      "title": "ハマス襲撃とガザ戦争開始から3年　イスラエルでは追悼、ガザでは攻撃と惨状続く",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckq6n27nj3e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Thu, 08 Oct 2026 05:42:46 GMT"
+    },
+    {
+      "title": "スペインで自宅を退去させられた女性が死去　住宅危機の抗議運動の象徴",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cw80zvdr71z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 08 Oct 2026 08:27:02 GMT"
+    },
+    {
+      "title": "シンガポールで空がかすむ……インドネシアから山火事の有害な煙が流入",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr1exl007949o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Thu, 08 Oct 2026 07:51:44 GMT"
+    },
+    {
+      "title": "【解説】 パラマウントのワーナー買収が完了、どんな影響があるのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr3el8l8lw82o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 07 Oct 2026 12:46:14 GMT"
+      "published_at": "Thu, 08 Oct 2026 06:17:02 GMT"
     },
     {
       "title": "ドイツ元情報機関トップを逮捕　スパイ活動や国家反逆の疑い",
@@ -29,60 +83,6 @@
       "category": "世界情勢",
       "region": "europe",
       "published_at": "Wed, 07 Oct 2026 12:56:20 GMT"
-    },
-    {
-      "title": "ルビオ米国務長官、ロシアに追加情報の共有促す　ペスト研究所職員の死について",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw62y4kg12nno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 07 Oct 2026 02:57:05 GMT"
-    },
-    {
-      "title": "イギリス人男性を新たに逮捕、逮捕者7人目　英空軍基地近くのテロ準備容疑事件",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c65yn307pvy5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 07 Oct 2026 04:36:59 GMT"
-    },
-    {
-      "title": "仏全土で警察が学校めぐるデモと衝突、催涙ガスや放水銃も使用",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crx23d1kwy0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 07 Oct 2026 04:23:16 GMT"
-    },
-    {
-      "title": "ロシアのペスト研究所職員が死亡、ロシアとアメリカのやりとりは",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm0rlgywzxyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 07 Oct 2026 07:28:15 GMT"
-    },
-    {
-      "title": "日本の富山市、国勢調査で人口水増しの疑い　国の人口減少続くなか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6n4evn2n5q3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Wed, 07 Oct 2026 07:23:10 GMT"
-    },
-    {
-      "title": "イエメン政府軍、紅海の重要航路を「確保」と発表　フーシ派は否定",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm86zqpy4l94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Tue, 06 Oct 2026 12:34:33 GMT"
     }
   ]
 }

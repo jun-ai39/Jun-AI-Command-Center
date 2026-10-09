@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-08",
+  "verified_at": "2026-10-09",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,94 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-db7b9e6fe248",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-09",
+      "category": "model",
+      "title_ja": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "original_title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary_ja": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "url": "https://openai.com/index/oracle"
+    },
+    {
+      "id": "google-605cee19632e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-09",
+      "category": "education",
+      "title_ja": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+      "original_title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
+    },
+    {
+      "id": "google-d4eed22af98d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-09",
+      "category": "product",
+      "title_ja": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+      "original_title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/"
+    },
+    {
+      "id": "google-dec45192904d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-09",
+      "category": "safety",
+      "title_ja": "Sign in quickly and securely with passkeys.",
+      "original_title": "Sign in quickly and securely with passkeys.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/"
+    },
+    {
+      "id": "openai-855092fba1df",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-08",
+      "category": "model",
+      "title_ja": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "original_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary_ja": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "url": "https://openai.com/index/pollo-ai"
+    },
+    {
+      "id": "openai-45d6a2b79938",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-08",
+      "category": "product",
+      "title_ja": "LegalOn halves Codex costs while maintaining development speed",
+      "original_title": "LegalOn halves Codex costs while maintaining development speed",
+      "summary_ja": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "url": "https://openai.com/index/legalon-halves-codex-costs"
+    },
+    {
+      "id": "openai-d9e485b409fe",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-08",
+      "category": "safety",
+      "title_ja": "Disrupting AI-enabled “false front” operations",
+      "original_title": "Disrupting AI-enabled “false front” operations",
+      "summary_ja": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+    },
+    {
+      "id": "google-5a6c4821fe4b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-08",
+      "category": "model",
+      "title_ja": "Google Cloud introduces the Gemini agent.",
+      "original_title": "Google Cloud introduces the Gemini agent.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
+    },
     {
       "id": "openai-661f64ddb5f4",
       "source": "openai",
@@ -154,94 +242,6 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
     },
     {
-      "id": "openai-f57eff9c23a4",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "Advancing computer use with Ironclad",
-      "original_title": "Advancing computer use with Ironclad",
-      "summary_ja": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
-    },
-    {
-      "id": "openai-d2b5b29b4c81",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-06",
-      "category": "safety",
-      "title_ja": "Our approach to EU text provenance rules",
-      "original_title": "Our approach to EU text provenance rules",
-      "summary_ja": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "url": "https://openai.com/index/eu-text-provenance"
-    },
-    {
-      "id": "google-8eaa8bd3569d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "model",
-      "title_ja": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
-      "original_title": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/"
-    },
-    {
-      "id": "google-27215d831bbe",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "product",
-      "title_ja": "Why we're backing America's existing nuclear plants",
-      "original_title": "Why we're backing America's existing nuclear plants",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/"
-    },
-    {
-      "id": "google-e19c9e6ee550",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "original_title": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/"
-    },
-    {
-      "id": "google-1fc121c6836d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-06",
-      "category": "education",
-      "title_ja": "Gemini helps me bring hands-on learning into the classroom.",
-      "original_title": "Gemini helps me bring hands-on learning into the classroom.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/"
-    },
-    {
-      "id": "openai-2d8e70fb45ce",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-05",
-      "category": "model",
-      "title_ja": "Building advertising for the way people use AI",
-      "original_title": "Building advertising for the way people use AI",
-      "summary_ja": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-    },
-    {
-      "id": "openai-c38af6e5cae4",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-03",
-      "category": "education",
-      "title_ja": "A model guide for the GPT-6 family",
-      "original_title": "A model guide for the GPT-6 family",
-      "summary_ja": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-08T00:57:49+00:00",
+  "updated_at": "2026-10-09T01:11:52+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

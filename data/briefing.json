@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T00:58:05+00:00",
+  "generated_at": "2026-10-09T01:12:03+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ドイツ元情報機関トップを逮捕　スパイ活動や国家反逆の疑い",
+      "title": "スペインで自宅を退去させられた女性が死去　住宅危機の抗議運動の象徴",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 07 Oct 2026 12:56:20 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqvgjxy4k344o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 08 Oct 2026 08:27:02 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cw80zvdr71z1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ニュートリノ観測に「多大な貢献」、ベルギーの教授にノーベル物理学賞　南極で観測",
+      "title": "テキサス州で死刑執行　テネシー州での「薬殺刑失敗」後、米国で初",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 07 Oct 2026 12:46:14 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6gr807lrvnqo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 08 Oct 2026 08:23:06 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c61wvq8rznwjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ロシアのペスト研究所職員が死亡、ロシアとアメリカのやりとりは",
+      "title": "シンガポールで空がかすむ……インドネシアから山火事の有害な煙が流入",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 07 Oct 2026 07:28:15 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm0rlgywzxyvo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 08 Oct 2026 07:51:44 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cr1exl007949o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 5・下落 0・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 +2.52%"
+      "value": "上昇 3・下落 2・横ばい 0",
+      "detail": "最大変動：日経平均 -2.26%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -5.34%"
+      "detail": "最大変動：Solana -6.42%"
     },
     {
       "label": "市場心理",
-      "value": "64 / 100",
+      "value": "59 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.872 JPY",
-      "detail": "前日比 -0.03%"
+      "value": "157.924 JPY",
+      "detail": "前日比 +0.12%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ドイツ元情報機関トップを逮捕　スパイ活動や国家反逆の疑い",
+      "detail": "スペインで自宅を退去させられた女性が死去　住宅危機の抗議運動の象徴",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比+2.52%です。",
+      "detail": "日経平均が前日比-2.26%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは64（強欲）です。",
+      "detail": "Fear & Greed Indexは59（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-08T00:57:49+00:00",
-    "market": "2026-10-08T00:58:05+00:00"
+    "news": "2026-10-09T01:11:52+00:00",
+    "market": "2026-10-09T01:12:03+00:00"
   }
 }
