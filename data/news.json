@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-09T01:11:52+00:00",
+  "updated_at": "2026-10-10T00:47:07+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "米死刑囚、「怒り、混乱した状態」と弁護団　死刑執行を生き延び",
+      "title": "米国防総省、米軍基地で銃乱射した元軍医の銃殺刑執行をライブ配信の方針",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6g7xr1jxpv9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 08 Oct 2026 05:44:07 GMT"
-    },
-    {
-      "title": "ロシアのミサイルがウクライナ北部の集合住宅に直撃　就寝中の子どもら19人死亡",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crq5nl83z6xzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Thu, 08 Oct 2026 07:38:45 GMT"
-    },
-    {
-      "title": "テキサス州で死刑執行　テネシー州での「薬殺刑失敗」後、米国で初",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c61wvq8rznwjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ckg5j29qp22do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Thu, 08 Oct 2026 08:23:06 GMT"
+      "published_at": "Fri, 09 Oct 2026 02:50:50 GMT"
     },
     {
-      "title": "ノーベル化学賞、日本の硤合氏とフランスのカガン氏に　生命の非対称性の謎を解明",
+      "title": "ウクライナのバス、ロシアが滑空爆弾で攻撃　乗客ら少なくとも30人死亡",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8n5v423zknko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cr5yn81l5pg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Fri, 09 Oct 2026 05:26:24 GMT"
+    },
+    {
+      "title": "ウクライナ出身富豪を狙ったモナコの爆発事件、拘束下の容疑者をBBCが単独取材",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqpvgmyrg0kzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Thu, 08 Oct 2026 03:54:52 GMT"
+      "region": "europe",
+      "published_at": "Fri, 09 Oct 2026 08:29:56 GMT"
     },
     {
-      "title": "ハマス襲撃とガザ戦争開始から3年　イスラエルでは追悼、ガザでは攻撃と惨状続く",
+      "title": "停戦から1年のガザ、ほぼ毎日イスラエル軍の空爆　病院では保育器が足りず",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckq6n27nj3e2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cx7vpe2z4lp3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "middle-east",
-      "published_at": "Thu, 08 Oct 2026 05:42:46 GMT"
+      "published_at": "Fri, 09 Oct 2026 07:01:52 GMT"
     },
     {
-      "title": "スペインで自宅を退去させられた女性が死去　住宅危機の抗議運動の象徴",
+      "title": "韓国、駐ウクライナ大使を呼び戻す　北朝鮮捕虜の移送公表問題が深刻化",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw80zvdr71z1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cvze4n4pe7ywo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Thu, 08 Oct 2026 08:27:02 GMT"
+      "published_at": "Fri, 09 Oct 2026 04:02:07 GMT"
     },
     {
-      "title": "シンガポールで空がかすむ……インドネシアから山火事の有害な煙が流入",
+      "title": "ラトヴィア国籍の男性2人を逮捕、英空軍基地に不法侵入の疑い",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr1exl007949o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 08 Oct 2026 07:51:44 GMT"
-    },
-    {
-      "title": "【解説】 パラマウントのワーナー買収が完了、どんな影響があるのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr3el8l8lw82o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crjwelw9v8w0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Thu, 08 Oct 2026 06:17:02 GMT"
+      "published_at": "Fri, 09 Oct 2026 07:50:27 GMT"
     },
     {
-      "title": "ドイツ元情報機関トップを逮捕　スパイ活動や国家反逆の疑い",
+      "title": "ヴェネズエラのマドゥロ前大統領を拷問共謀罪で追起訴　米検察",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqvgjxy4k344o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cwkgj8jljgrjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 07 Oct 2026 12:56:20 GMT"
+      "region": "global",
+      "published_at": "Fri, 09 Oct 2026 04:38:24 GMT"
+    },
+    {
+      "title": "米ニューヨーク市で移民当局職員が発砲、男性が負傷",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3vgxrgrw0ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 09 Oct 2026 07:45:53 GMT"
+    },
+    {
+      "title": "東エルサレムの英領事館の看板が撤去、入植地への制裁めぐるイギリスとイスラエルの溝",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c674p5k42levo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Fri, 09 Oct 2026 04:07:27 GMT"
     }
   ]
 }
