@@ -1,8 +1,44 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-10T00:47:07+00:00",
+  "updated_at": "2026-10-11T00:13:27+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ノーベル平和賞はピレイ元ICC判事に　平和と国際法に貢献",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckvg78vjzejyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 10 Oct 2026 02:59:59 GMT"
+    },
+    {
+      "title": "アメリカが国際刑事裁判所への制裁発表、　ICCは「法の支配への攻撃」と非難",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq78pxnvvevpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "north-america",
+      "published_at": "Sat, 10 Oct 2026 04:31:17 GMT"
+    },
+    {
+      "title": "トランプ氏、ロシア産ディーゼル燃料の輸入を発表　プーチン氏への贈り物だとウクライナは非難",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cw073kveykedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 10 Oct 2026 02:43:50 GMT"
+    },
+    {
+      "title": "フランス政府、教員3000人の増員約束　高校生たちの要求に譲歩",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckg5jy162vpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 10 Oct 2026 04:26:52 GMT"
+    },
     {
       "title": "米国防総省、米軍基地で銃乱射した元軍医の銃殺刑執行をライブ配信の方針",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -40,24 +76,6 @@
       "published_at": "Fri, 09 Oct 2026 07:01:52 GMT"
     },
     {
-      "title": "韓国、駐ウクライナ大使を呼び戻す　北朝鮮捕虜の移送公表問題が深刻化",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvze4n4pe7ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 09 Oct 2026 04:02:07 GMT"
-    },
-    {
-      "title": "ラトヴィア国籍の男性2人を逮捕、英空軍基地に不法侵入の疑い",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crjwelw9v8w0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 09 Oct 2026 07:50:27 GMT"
-    },
-    {
       "title": "ヴェネズエラのマドゥロ前大統領を拷問共謀罪で追起訴　米検察",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cwkgj8jljgrjo?at_medium=RSS&at_campaign=rss",
@@ -65,24 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Fri, 09 Oct 2026 04:38:24 GMT"
-    },
-    {
-      "title": "米ニューヨーク市で移民当局職員が発砲、男性が負傷",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3vgxrgrw0ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 09 Oct 2026 07:45:53 GMT"
-    },
-    {
-      "title": "東エルサレムの英領事館の看板が撤去、入植地への制裁めぐるイギリスとイスラエルの溝",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c674p5k42levo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Fri, 09 Oct 2026 04:07:27 GMT"
     }
   ]
 }

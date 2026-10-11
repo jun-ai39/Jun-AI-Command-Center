@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T00:47:19+00:00",
+  "generated_at": "2026-10-11T00:13:38+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ウクライナ出身富豪を狙ったモナコの爆発事件、拘束下の容疑者をBBCが単独取材",
-      "category": "世界情勢",
+      "title": "アメリカが国際刑事裁判所への制裁発表、　ICCは「法の支配への攻撃」と非難",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 09 Oct 2026 08:29:56 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqpvgmyrg0kzo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 10 Oct 2026 04:31:17 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq78pxnvvevpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ラトヴィア国籍の男性2人を逮捕、英空軍基地に不法侵入の疑い",
+      "title": "フランス政府、教員3000人の増員約束　高校生たちの要求に譲歩",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 09 Oct 2026 07:50:27 GMT",
-      "url": "https://www.bbc.com/japanese/articles/crjwelw9v8w0o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 10 Oct 2026 04:26:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckg5jy162vpro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "米ニューヨーク市で移民当局職員が発砲、男性が負傷",
+      "title": "ノーベル平和賞はピレイ元ICC判事に　平和と国際法に貢献",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 09 Oct 2026 07:45:53 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c3vgxrgrw0ryo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 10 Oct 2026 02:59:59 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckvg78vjzejyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -36,11 +36,11 @@
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +1.02%"
+      "detail": "最大変動：Solana +0.89%"
     },
     {
       "label": "市場心理",
-      "value": "64 / 100",
+      "value": "61 / 100",
       "detail": "強欲"
     },
     {
@@ -52,8 +52,8 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ウクライナ出身富豪を狙ったモナコの爆発事件、拘束下の容疑者をBBCが単独取材",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "アメリカが国際刑事裁判所への制裁発表、　ICCは「法の支配への攻撃」と非難",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは64（強欲）です。",
+      "detail": "Fear & Greed Indexは61（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-10T00:47:07+00:00",
-    "market": "2026-10-10T00:47:19+00:00"
+    "news": "2026-10-11T00:13:27+00:00",
+    "market": "2026-10-11T00:13:38+00:00"
   }
 }
