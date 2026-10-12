@@ -1,8 +1,17 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-11T00:13:27+00:00",
+  "updated_at": "2026-10-12T00:30:31+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "トランプ氏、ロシア産ディーゼル燃料の輸入を発表　プーチン氏への贈り物だとウクライナは非難",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cw073kveykedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 10 Oct 2026 02:43:50 GMT"
+    },
     {
       "title": "ノーベル平和賞はピレイ元ICC判事に　平和と国際法に貢献",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -20,15 +29,6 @@
       "category": "紛争",
       "region": "north-america",
       "published_at": "Sat, 10 Oct 2026 04:31:17 GMT"
-    },
-    {
-      "title": "トランプ氏、ロシア産ディーゼル燃料の輸入を発表　プーチン氏への贈り物だとウクライナは非難",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw073kveykedo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 10 Oct 2026 02:43:50 GMT"
     },
     {
       "title": "フランス政府、教員3000人の増員約束　高校生たちの要求に譲歩",
