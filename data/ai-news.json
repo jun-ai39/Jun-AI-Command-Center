@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-12",
+  "verified_at": "2026-10-13",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,39 @@
     }
   ],
   "items": [
+    {
+      "id": "google-8c74b81f618a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-13",
+      "category": "product",
+      "title_ja": "Applying technology to understand and treat disease",
+      "original_title": "Applying technology to understand and treat disease",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/"
+    },
+    {
+      "id": "google-8480f2f9df36",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-12",
+      "category": "product",
+      "title_ja": "From game days to daily life: The familiar faces teaming up with Google Health",
+      "original_title": "From game days to daily life: The familiar faces teaming up with Google Health",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/"
+    },
+    {
+      "id": "google-17ae0263749e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-12",
+      "category": "product",
+      "title_ja": "How we’re making Google Health and Fitbit Air smarter than ever",
+      "original_title": "How we’re making Google Health and Fitbit Air smarter than ever",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/"
+    },
     {
       "id": "openai-570fe3204556",
       "source": "openai",
@@ -209,39 +242,6 @@
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/"
     },
     {
-      "id": "google-186442aeaf00",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-07",
-      "category": "product",
-      "title_ja": "Producers can now vibe code their own music production tools using Google Flow Music.",
-      "original_title": "Producers can now vibe code their own music production tools using Google Flow Music.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/"
-    },
-    {
-      "id": "google-e6e1d2a9f0a4",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-07",
-      "category": "model",
-      "title_ja": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "original_title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/"
-    },
-    {
-      "id": "google-64a6575063ff",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-07",
-      "category": "product",
-      "title_ja": "Making global public health more proactive with Google Earth AI",
-      "original_title": "Making global public health more proactive with Google Earth AI",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-12T00:30:31+00:00",
+  "updated_at": "2026-10-13T02:33:31+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
