@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-14T00:16:23+00:00",
+  "updated_at": "2026-10-14T23:53:59+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ウクライナのエネルギー施設6カ所、ロシアが攻撃とゼレンスキー氏　トランプ氏が「エネルギー停戦」発表後",
+      "title": "ローマ教皇、肺腺がんと診断　右肺下葉の切除手術は成功と教皇庁",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck9dzjpywjn5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Tue, 13 Oct 2026 01:47:53 GMT"
-    },
-    {
-      "title": "仏スーパーの冷蔵庫にサイバー攻撃、設定温度が上昇　数億円相当の食品を廃棄か",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6n0455yzvldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "global",
-      "published_at": "Tue, 13 Oct 2026 05:47:55 GMT"
-    },
-    {
-      "title": "米移民当局、オマル下院議員の自宅を捜索　中間選挙前に政敵を攻撃と民主党",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwj34xe6evkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "global",
-      "published_at": "Tue, 13 Oct 2026 05:43:05 GMT"
-    },
-    {
-      "title": "トコジラミが機内で発生、運航をキャンセル　豪カンタス航空",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm70p55n4vdro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cwly4q74dvdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 13 Oct 2026 08:34:24 GMT"
+      "published_at": "Wed, 14 Oct 2026 01:56:15 GMT"
     },
     {
-      "title": "米人気ドラマ「ブレイキング・バッド」出演のミティ氏、34歳で死去　主人公の息子役",
+      "title": "ロシア、スパイ容疑で日本人記者を拘束",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmd93lxyd90jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cxnv050epg0ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 13 Oct 2026 09:18:37 GMT"
+      "region": "japan",
+      "published_at": "Wed, 14 Oct 2026 07:37:25 GMT"
     },
     {
-      "title": "サウジアラビアのエネルギー相、フーシ派の空港攻撃に「厳しい対応」取ると",
+      "title": "ロシアがキーウの主要発電所を攻撃とゼレンスキー氏　同盟国からの警告なかったと",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckdd8ey6v56mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cv4g18yw0222o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 14 Oct 2026 01:50:09 GMT"
+    },
+    {
+      "title": "米司法省、オープンAIのサウジアラビア人技師を起訴、オフィスに「高度」な録音装置を仕掛けた疑い",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6m2d4gwdjwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Tue, 13 Oct 2026 03:40:24 GMT"
+      "published_at": "Wed, 14 Oct 2026 04:02:23 GMT"
     },
     {
-      "title": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
+      "title": "ロボットが少女にわいせつ行為……少年2人が操作した疑い、ロボットは押収　ドイツ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwz0v1dvgm5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Tue, 13 Oct 2026 08:58:09 GMT"
-    },
-    {
-      "title": "フランスの中学で発砲、複数教師が負傷　14歳生徒を逮捕",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckly4q6zq5vyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crpdgz7d6dd1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Tue, 13 Oct 2026 03:34:48 GMT"
+      "published_at": "Wed, 14 Oct 2026 04:50:02 GMT"
     },
     {
-      "title": "ネパールで大規模な土石流、家屋や橋が流される　8月末に続き",
+      "title": "ホワイトハウスの新報道官が初の記者会見、その対応は",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm1wvdejrxzno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/cw5yng0p5mvqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 13 Oct 2026 02:31:28 GMT"
+      "published_at": "Wed, 14 Oct 2026 05:02:19 GMT"
+    },
+    {
+      "title": "ハンガリー国会、オルバン政権時代のLGBTQ差別条項を撤廃",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckp8gv440zp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Wed, 14 Oct 2026 06:10:04 GMT"
+    },
+    {
+      "title": "アルゼンチン、フォークランド諸島の石油探査めぐりイギリスへの法的措置開始",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm93z4zrxl10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Wed, 14 Oct 2026 09:27:21 GMT"
+    },
+    {
+      "title": "BBCのFMラジオ放送、アフガニスタンで停止される",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx62ygd5p318o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 14 Oct 2026 00:31:08 GMT"
     }
   ]
 }

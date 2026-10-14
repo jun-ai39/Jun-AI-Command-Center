@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T00:16:34+00:00",
+  "generated_at": "2026-10-14T23:54:09+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "米人気ドラマ「ブレイキング・バッド」出演のミティ氏、34歳で死去　主人公の息子役",
+      "title": "アルゼンチン、フォークランド諸島の石油探査めぐりイギリスへの法的措置開始",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 13 Oct 2026 09:18:37 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmd93lxyd90jo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 14 Oct 2026 09:27:21 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm93z4zrxl10o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Tue, 13 Oct 2026 08:58:09 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwz0v1dvgm5ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "トコジラミが機内で発生、運航をキャンセル　豪カンタス航空",
+      "title": "ロシア、スパイ容疑で日本人記者を拘束",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 13 Oct 2026 08:34:24 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm70p55n4vdro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 14 Oct 2026 07:37:25 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cxnv050epg0ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "ハンガリー国会、オルバン政権時代のLGBTQ差別条項を撤廃",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Wed, 14 Oct 2026 06:10:04 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckp8gv440zp2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -2.92%"
+      "detail": "最大変動：日経平均 -3.27%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Ethereum +2.88%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Ethereum -3.35%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "158.323 JPY",
-      "detail": "前日比 +0.17%"
+      "value": "157.913 JPY",
+      "detail": "前日比 -0.09%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "米人気ドラマ「ブレイキング・バッド」出演のミティ氏、34歳で死去　主人公の息子役",
+      "detail": "アルゼンチン、フォークランド諸島の石油探査めぐりイギリスへの法的措置開始",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-2.92%です。",
+      "detail": "日経平均が前日比-3.27%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-14T00:16:23+00:00",
-    "market": "2026-10-14T00:16:34+00:00"
+    "news": "2026-10-14T23:53:59+00:00",
+    "market": "2026-10-14T23:54:09+00:00"
   }
 }

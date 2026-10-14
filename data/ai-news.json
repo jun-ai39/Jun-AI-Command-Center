@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-14",
+  "verified_at": "2026-10-15",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,116 @@
     }
   ],
   "items": [
+    {
+      "id": "google-e2d194ea6676",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-15",
+      "category": "product",
+      "title_ja": "Research@ 2026: Novel capabilities and intelligence",
+      "original_title": "Research@ 2026: Novel capabilities and intelligence",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/"
+    },
+    {
+      "id": "google-be6c37dce88b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-15",
+      "category": "product",
+      "title_ja": "Guide your campaign spending with new priority and allocation features",
+      "original_title": "Guide your campaign spending with new priority and allocation features",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/"
+    },
+    {
+      "id": "openai-57c3309db5be",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-14",
+      "category": "model",
+      "title_ja": "Amp puts AI agents to work beyond code with OpenAI models",
+      "original_title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary_ja": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "url": "https://openai.com/index/amp-beyond-coding"
+    },
+    {
+      "id": "openai-004cd593adab",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-14",
+      "category": "product",
+      "title_ja": "SentinelOne cuts malware analysis from weeks to hours",
+      "original_title": "SentinelOne cuts malware analysis from weeks to hours",
+      "summary_ja": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "url": "https://openai.com/index/sentinelone"
+    },
+    {
+      "id": "openai-a8b8c31de898",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-14",
+      "category": "safety",
+      "title_ja": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "original_title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary_ja": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "url": "https://openai.com/index/third-moment-research"
+    },
+    {
+      "id": "openai-94ee28b93f9d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-14",
+      "category": "safety",
+      "title_ja": "How Block is building AI-powered security with OpenAI technology",
+      "original_title": "How Block is building AI-powered security with OpenAI technology",
+      "summary_ja": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "url": "https://openai.com/index/block-ai-powered-security"
+    },
+    {
+      "id": "openai-200a5d3dd39c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-14",
+      "category": "business",
+      "title_ja": "The EU’s next chapter in AI is agentic",
+      "original_title": "The EU’s next chapter in AI is agentic",
+      "summary_ja": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+    },
+    {
+      "id": "google-f0b80431f300",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-14",
+      "category": "product",
+      "title_ja": "17 organizations using AI to accelerate scientific breakthroughs",
+      "original_title": "17 organizations using AI to accelerate scientific breakthroughs",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/"
+    },
+    {
+      "id": "google-18521ab849e4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-14",
+      "category": "model",
+      "title_ja": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+      "original_title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/"
+    },
+    {
+      "id": "google-45457a9fbb94",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-14",
+      "category": "product",
+      "title_ja": "Enabling an AI-first European economy",
+      "original_title": "Enabling an AI-first European economy",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/"
+    },
     {
       "id": "google-624d8c9f06fd",
       "source": "google",
@@ -88,37 +198,15 @@
       "url": "https://openai.com/index/higgsfield-longer-videos-voice"
     },
     {
-      "id": "google-8c74b81f618a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-13",
-      "category": "product",
-      "title_ja": "Applying technology to understand and treat disease",
-      "original_title": "Applying technology to understand and treat disease",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/"
-    },
-    {
-      "id": "google-8480f2f9df36",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-12",
-      "category": "product",
-      "title_ja": "From game days to daily life: The familiar faces teaming up with Google Health",
-      "original_title": "From game days to daily life: The familiar faces teaming up with Google Health",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/"
-    },
-    {
-      "id": "google-17ae0263749e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-12",
-      "category": "product",
-      "title_ja": "How we’re making Google Health and Fitbit Air smarter than ever",
-      "original_title": "How we’re making Google Health and Fitbit Air smarter than ever",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/"
+      "id": "openai-9bf93d58cc35",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-09",
+      "category": "model",
+      "title_ja": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary_ja": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent"
     },
     {
       "id": "openai-570fe3204556",
@@ -132,17 +220,6 @@
       "url": "https://openai.com/index/sophos"
     },
     {
-      "id": "openai-9bf93d58cc35",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-09",
-      "category": "model",
-      "title_ja": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary_ja": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent"
-    },
-    {
       "id": "openai-db7b9e6fe248",
       "source": "openai",
       "source_name": "OpenAI",
@@ -154,28 +231,6 @@
       "url": "https://openai.com/index/oracle"
     },
     {
-      "id": "google-605cee19632e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-09",
-      "category": "education",
-      "title_ja": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-      "original_title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
-    },
-    {
-      "id": "google-d4eed22af98d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-09",
-      "category": "product",
-      "title_ja": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
-      "original_title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/"
-    },
-    {
       "id": "openai-855092fba1df",
       "source": "openai",
       "source_name": "OpenAI",
@@ -185,61 +240,6 @@
       "original_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "summary_ja": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "url": "https://openai.com/index/pollo-ai"
-    },
-    {
-      "id": "openai-45d6a2b79938",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-08",
-      "category": "product",
-      "title_ja": "LegalOn halves Codex costs while maintaining development speed",
-      "original_title": "LegalOn halves Codex costs while maintaining development speed",
-      "summary_ja": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "url": "https://openai.com/index/legalon-halves-codex-costs"
-    },
-    {
-      "id": "openai-d9e485b409fe",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-08",
-      "category": "safety",
-      "title_ja": "Disrupting AI-enabled “false front” operations",
-      "original_title": "Disrupting AI-enabled “false front” operations",
-      "summary_ja": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-    },
-    {
-      "id": "openai-661f64ddb5f4",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-07",
-      "category": "education",
-      "title_ja": "Helping teens learn, plan, and shape the future of AI",
-      "original_title": "Helping teens learn, plan, and shape the future of AI",
-      "summary_ja": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "url": "https://openai.com/index/teens-learn-and-plan"
-    },
-    {
-      "id": "openai-4e324623ab7c",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-07",
-      "category": "model",
-      "title_ja": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "original_title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "summary_ja": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "url": "https://openai.com/index/radisson"
-    },
-    {
-      "id": "openai-a097ef0d441a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-07",
-      "category": "model",
-      "title_ja": "GPT-6 and Intelligent UI for everyone",
-      "original_title": "GPT-6 and Intelligent UI for everyone",
-      "summary_ja": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "url": "https://openai.com/index/gpt-6-for-everyone"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-14T00:16:24+00:00",
+  "updated_at": "2026-10-14T23:53:59+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
