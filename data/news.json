@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-13T02:33:31+00:00",
+  "updated_at": "2026-10-14T00:16:23+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
@@ -13,13 +13,67 @@
       "published_at": "Tue, 13 Oct 2026 01:47:53 GMT"
     },
     {
+      "title": "仏スーパーの冷蔵庫にサイバー攻撃、設定温度が上昇　数億円相当の食品を廃棄か",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6n0455yzvldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "global",
+      "published_at": "Tue, 13 Oct 2026 05:47:55 GMT"
+    },
+    {
+      "title": "米移民当局、オマル下院議員の自宅を捜索　中間選挙前に政敵を攻撃と民主党",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwj34xe6evkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "global",
+      "published_at": "Tue, 13 Oct 2026 05:43:05 GMT"
+    },
+    {
+      "title": "トコジラミが機内で発生、運航をキャンセル　豪カンタス航空",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm70p55n4vdro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 13 Oct 2026 08:34:24 GMT"
+    },
+    {
       "title": "米人気ドラマ「ブレイキング・バッド」出演のミティ氏、34歳で死去　主人公の息子役",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cmd93lxyd90jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 13 Oct 2026 01:59:37 GMT"
+      "published_at": "Tue, 13 Oct 2026 09:18:37 GMT"
+    },
+    {
+      "title": "サウジアラビアのエネルギー相、フーシ派の空港攻撃に「厳しい対応」取ると",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckdd8ey6v56mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Tue, 13 Oct 2026 03:40:24 GMT"
+    },
+    {
+      "title": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwz0v1dvgm5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "north-america",
+      "published_at": "Tue, 13 Oct 2026 08:58:09 GMT"
+    },
+    {
+      "title": "フランスの中学で発砲、複数教師が負傷　14歳生徒を逮捕",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckly4q6zq5vyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 13 Oct 2026 03:34:48 GMT"
     },
     {
       "title": "ネパールで大規模な土石流、家屋や橋が流される　8月末に続き",
@@ -29,60 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Tue, 13 Oct 2026 02:31:28 GMT"
-    },
-    {
-      "title": "バーナム英首相、ロシアがブレグジット投票に干渉したのは「明確」と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6pqg2wzz9g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 12 Oct 2026 03:19:23 GMT"
-    },
-    {
-      "title": "トランプ氏、ロシアとウクライナが「エネルギー停戦」と主張　ゼレンスキー氏は歓迎するもロシアは沈黙",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjx23exyv909o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Mon, 12 Oct 2026 02:43:41 GMT"
-    },
-    {
-      "title": "イエメンのフーシ派、サウジアラビア首都の空港を2日連続で攻撃　1人死亡し11人負傷",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crz98nqqnw5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Mon, 12 Oct 2026 03:30:30 GMT"
-    },
-    {
-      "title": "米司法省、ホワイトハウス代表取材を取りやめたテレビ各局を調査",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8r4y2134neno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 12 Oct 2026 04:19:44 GMT"
-    },
-    {
-      "title": "死刑を生き延びた米死刑囚、執行失敗から10日後に退院",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj3vqw72ennwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 12 Oct 2026 04:24:28 GMT"
-    },
-    {
-      "title": "ノーベル平和賞はピレイ元ICC判事に　平和と国際法に貢献",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckvg78vjzejyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 10 Oct 2026 02:59:59 GMT"
     }
   ]
 }

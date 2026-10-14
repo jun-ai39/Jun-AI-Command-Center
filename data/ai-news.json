@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-13",
+  "verified_at": "2026-10-14",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "google-624d8c9f06fd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-14",
+      "category": "model",
+      "title_ja": "Developing Gemini 4 Argon responsibly and safely",
+      "original_title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
+    },
+    {
+      "id": "google-bc084cc78ed3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-14",
+      "category": "model",
+      "title_ja": "Gemini 4 Argon comes to the Gemini app.",
+      "original_title": "Gemini 4 Argon comes to the Gemini app.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/"
+    },
+    {
+      "id": "google-54e63c7fa18f",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-14",
+      "category": "model",
+      "title_ja": "Gemini 4 Argon is now available for developers.",
+      "original_title": "Gemini 4 Argon is now available for developers.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
+    },
+    {
+      "id": "google-3f244126e9d6",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-14",
+      "category": "business",
+      "title_ja": "We're helping Indiana communities save with clean energy investments.",
+      "original_title": "We're helping Indiana communities save with clean energy investments.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/"
+    },
+    {
+      "id": "google-74c9e10c0254",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-14",
+      "category": "model",
+      "title_ja": "Gemini 4 Argon: Built to solve your hardest problems",
+      "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    },
+    {
+      "id": "openai-8d45898e533e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-13",
+      "category": "model",
+      "title_ja": "Higgsfield takes AI video from 1 minute to over 10",
+      "original_title": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary_ja": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+    },
     {
       "id": "google-8c74b81f618a",
       "source": "google",
@@ -110,17 +176,6 @@
       "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/"
     },
     {
-      "id": "google-dec45192904d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-09",
-      "category": "safety",
-      "title_ja": "Sign in quickly and securely with passkeys.",
-      "original_title": "Sign in quickly and securely with passkeys.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/"
-    },
-    {
       "id": "openai-855092fba1df",
       "source": "openai",
       "source_name": "OpenAI",
@@ -152,17 +207,6 @@
       "original_title": "Disrupting AI-enabled “false front” operations",
       "summary_ja": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-    },
-    {
-      "id": "google-5a6c4821fe4b",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-08",
-      "category": "model",
-      "title_ja": "Google Cloud introduces the Gemini agent.",
-      "original_title": "Google Cloud introduces the Gemini agent.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
     },
     {
       "id": "openai-661f64ddb5f4",
@@ -198,50 +242,6 @@
       "url": "https://openai.com/index/gpt-6-for-everyone"
     },
     {
-      "id": "openai-2896758265ce",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-07",
-      "category": "business",
-      "title_ja": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "original_title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "summary_ja": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "url": "https://openai.com/index/atlassian-partnership"
-    },
-    {
-      "id": "google-d6233baa7d53",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-07",
-      "category": "safety",
-      "title_ja": "We're making it easier to identify AI-generated content globally.",
-      "original_title": "We're making it easier to identify AI-generated content globally.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
-    },
-    {
-      "id": "google-b6aec8c05cfc",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-07",
-      "category": "product",
-      "title_ja": "Introducing Playground: Create and play custom games",
-      "original_title": "Introducing Playground: Create and play custom games",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
-    },
-    {
-      "id": "google-b28cac5d3529",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-07",
-      "category": "product",
-      "title_ja": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
-      "original_title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-13T02:33:31+00:00",
+  "updated_at": "2026-10-14T00:16:24+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

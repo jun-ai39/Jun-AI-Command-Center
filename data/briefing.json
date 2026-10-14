@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T02:33:43+00:00",
+  "generated_at": "2026-10-14T00:16:34+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ネパールで大規模な土石流、家屋や橋が流される　8月末に続き",
-      "category": "世界情勢",
-      "source": "BBC News 日本語",
-      "published_at": "Tue, 13 Oct 2026 02:31:28 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm1wvdejrxzno?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "米人気ドラマ「ブレイキング・バッド」出演のミティ氏、34歳で死去　主人公の息子役",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 13 Oct 2026 01:59:37 GMT",
+      "published_at": "Tue, 13 Oct 2026 09:18:37 GMT",
       "url": "https://www.bbc.com/japanese/articles/cmd93lxyd90jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ウクライナのエネルギー施設6カ所、ロシアが攻撃とゼレンスキー氏　トランプ氏が「エネルギー停戦」発表後",
+      "title": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 13 Oct 2026 01:47:53 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck9dzjpywjn5o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 13 Oct 2026 08:58:09 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwz0v1dvgm5ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "トコジラミが機内で発生、運航をキャンセル　豪カンタス航空",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Tue, 13 Oct 2026 08:34:24 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm70p55n4vdro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：日経平均 -4.79%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：日経平均 -2.92%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -5.14%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Ethereum +2.88%"
     },
     {
       "label": "市場心理",
-      "value": "57 / 100",
+      "value": "62 / 100",
       "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "158.247 JPY",
-      "detail": "前日比 -0.03%"
+      "value": "158.323 JPY",
+      "detail": "前日比 +0.17%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ネパールで大規模な土石流、家屋や橋が流される　8月末に続き",
+      "detail": "米人気ドラマ「ブレイキング・バッド」出演のミティ氏、34歳で死去　主人公の息子役",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-4.79%です。",
+      "detail": "日経平均が前日比-2.92%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは57（強欲）です。",
+      "detail": "Fear & Greed Indexは62（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-13T02:33:31+00:00",
-    "market": "2026-10-13T02:33:42+00:00"
+    "news": "2026-10-14T00:16:23+00:00",
+    "market": "2026-10-14T00:16:34+00:00"
   }
 }
