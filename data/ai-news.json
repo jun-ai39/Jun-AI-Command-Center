@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-15",
+  "verified_at": "2026-10-16",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,116 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-32165ee6af89",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-16",
+      "category": "model",
+      "title_ja": "Bringing GPT-Rosalind to academic research labs",
+      "original_title": "Bringing GPT-Rosalind to academic research labs",
+      "summary_ja": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+    },
+    {
+      "id": "google-30b77afd86fd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-16",
+      "category": "product",
+      "title_ja": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "original_title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
+    },
+    {
+      "id": "google-1b9d80577b59",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-16",
+      "category": "safety",
+      "title_ja": "Check if a text message is a scam using Circle to Search.",
+      "original_title": "Check if a text message is a scam using Circle to Search.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/"
+    },
+    {
+      "id": "google-fb9b71b9aeee",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-16",
+      "category": "product",
+      "title_ja": "How we're helping the world prepare for natural disasters",
+      "original_title": "How we're helping the world prepare for natural disasters",
+      "summary_ja": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/"
+    },
+    {
+      "id": "google-c08dc5794b01",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-16",
+      "category": "product",
+      "title_ja": "Android earthquake alerts now available in more than 200 regions",
+      "original_title": "Android earthquake alerts now available in more than 200 regions",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/"
+    },
+    {
+      "id": "google-9c2c9f923050",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-16",
+      "category": "product",
+      "title_ja": "400 publications are now partnering with us on our News AI pilot program.",
+      "original_title": "400 publications are now partnering with us on our News AI pilot program.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/"
+    },
+    {
+      "id": "google-09cafcfe0698",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-16",
+      "category": "product",
+      "title_ja": "More ways to connect with the web from Search",
+      "original_title": "More ways to connect with the web from Search",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/"
+    },
+    {
+      "id": "google-a4d56d187e5a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-16",
+      "category": "product",
+      "title_ja": "Making your Pixel devices last longer through design, repair, and reuse",
+      "original_title": "Making your Pixel devices last longer through design, repair, and reuse",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/"
+    },
+    {
+      "id": "openai-a60f4a701f88",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-15",
+      "category": "education",
+      "title_ja": "Teaching students to think and learn through questions",
+      "original_title": "Teaching students to think and learn through questions",
+      "summary_ja": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+    },
+    {
+      "id": "google-7d0ed3cb5cb4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-15",
+      "category": "product",
+      "title_ja": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "original_title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/"
+    },
     {
       "id": "google-e2d194ea6676",
       "source": "google",
@@ -99,94 +209,6 @@
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
     },
     {
-      "id": "google-f0b80431f300",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-14",
-      "category": "product",
-      "title_ja": "17 organizations using AI to accelerate scientific breakthroughs",
-      "original_title": "17 organizations using AI to accelerate scientific breakthroughs",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/"
-    },
-    {
-      "id": "google-18521ab849e4",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-14",
-      "category": "model",
-      "title_ja": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
-      "original_title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/"
-    },
-    {
-      "id": "google-45457a9fbb94",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-14",
-      "category": "product",
-      "title_ja": "Enabling an AI-first European economy",
-      "original_title": "Enabling an AI-first European economy",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/"
-    },
-    {
-      "id": "google-624d8c9f06fd",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-14",
-      "category": "model",
-      "title_ja": "Developing Gemini 4 Argon responsibly and safely",
-      "original_title": "Developing Gemini 4 Argon responsibly and safely",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
-    },
-    {
-      "id": "google-bc084cc78ed3",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-14",
-      "category": "model",
-      "title_ja": "Gemini 4 Argon comes to the Gemini app.",
-      "original_title": "Gemini 4 Argon comes to the Gemini app.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/"
-    },
-    {
-      "id": "google-54e63c7fa18f",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-14",
-      "category": "model",
-      "title_ja": "Gemini 4 Argon is now available for developers.",
-      "original_title": "Gemini 4 Argon is now available for developers.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
-    },
-    {
-      "id": "google-3f244126e9d6",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-14",
-      "category": "business",
-      "title_ja": "We're helping Indiana communities save with clean energy investments.",
-      "original_title": "We're helping Indiana communities save with clean energy investments.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/"
-    },
-    {
-      "id": "google-74c9e10c0254",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-14",
-      "category": "model",
-      "title_ja": "Gemini 4 Argon: Built to solve your hardest problems",
-      "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
-    },
-    {
       "id": "openai-8d45898e533e",
       "source": "openai",
       "source_name": "OpenAI",
@@ -196,17 +218,6 @@
       "original_title": "Higgsfield takes AI video from 1 minute to over 10",
       "summary_ja": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "url": "https://openai.com/index/higgsfield-longer-videos-voice"
-    },
-    {
-      "id": "openai-9bf93d58cc35",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-09",
-      "category": "model",
-      "title_ja": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary_ja": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "url": "https://openai.com/index/asana-browser-agent"
     },
     {
       "id": "openai-570fe3204556",
@@ -220,26 +231,15 @@
       "url": "https://openai.com/index/sophos"
     },
     {
-      "id": "openai-db7b9e6fe248",
+      "id": "openai-9bf93d58cc35",
       "source": "openai",
       "source_name": "OpenAI",
       "published_at": "2026-10-09",
       "category": "model",
-      "title_ja": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "original_title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "summary_ja": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "url": "https://openai.com/index/oracle"
-    },
-    {
-      "id": "openai-855092fba1df",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-08",
-      "category": "model",
-      "title_ja": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "original_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "summary_ja": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "url": "https://openai.com/index/pollo-ai"
+      "title_ja": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "original_title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary_ja": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "url": "https://openai.com/index/asana-browser-agent"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-14T23:53:59+00:00",
+  "updated_at": "2026-10-15T23:40:22+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

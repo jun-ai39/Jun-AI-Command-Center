@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-14T23:53:59+00:00",
+  "updated_at": "2026-10-15T23:40:22+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ローマ教皇、肺腺がんと診断　右肺下葉の切除手術は成功と教皇庁",
+      "title": "スターリンク利用制限でウクライナのドローン速度低下　マスク氏は米政府の関与を示唆",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwly4q74dvdeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cx7vp77jnml9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 14 Oct 2026 01:56:15 GMT"
-    },
-    {
-      "title": "ロシア、スパイ容疑で日本人記者を拘束",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cxnv050epg0ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Wed, 14 Oct 2026 07:37:25 GMT"
-    },
-    {
-      "title": "ロシアがキーウの主要発電所を攻撃とゼレンスキー氏　同盟国からの警告なかったと",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cv4g18yw0222o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
       "region": "europe",
-      "published_at": "Wed, 14 Oct 2026 01:50:09 GMT"
+      "published_at": "Thu, 15 Oct 2026 04:05:33 GMT"
     },
     {
-      "title": "米司法省、オープンAIのサウジアラビア人技師を起訴、オフィスに「高度」な録音装置を仕掛けた疑い",
+      "title": "【解説】 衛星通信「スターリンク」、なぜウクライナの戦場で非常に重要なのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6m2d4gwdjwzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm4g1el3j2xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 15 Oct 2026 04:56:54 GMT"
+    },
+    {
+      "title": "【解説】 イギリスはアメリカとウクライナの橋渡し役になれるのか　バーナム氏に難題",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqvgj9vlrg47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Thu, 15 Oct 2026 07:11:53 GMT"
+    },
+    {
+      "title": "ノルド・ストリーム爆破、ウクライナ人被告の裁判がドイツで始まる",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm0qkg89e1vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Thu, 15 Oct 2026 07:09:18 GMT"
+    },
+    {
+      "title": "アイルランド人作家サリー・ルーニー氏、イギリスで著書の販売停止　「パレスチナ・アクション」支持で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cv8ez6y8w0p7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Wed, 14 Oct 2026 04:02:23 GMT"
+      "published_at": "Thu, 15 Oct 2026 08:57:14 GMT"
     },
     {
-      "title": "ロボットが少女にわいせつ行為……少年2人が操作した疑い、ロボットは押収　ドイツ",
+      "title": "ゼレンスキー氏とバーナム氏が会談、なぜ今重要なのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crpdgz7d6dd1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/c6n4eqldjqvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "global",
+      "published_at": "Thu, 15 Oct 2026 04:40:34 GMT"
+    },
+    {
+      "title": "エボラ出血熱、ケニアで感染2例目を確認　1例目の死者の親族",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmp3gn4d9erpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 14 Oct 2026 04:50:02 GMT"
+      "region": "africa",
+      "published_at": "Thu, 15 Oct 2026 08:31:39 GMT"
     },
     {
-      "title": "ホワイトハウスの新報道官が初の記者会見、その対応は",
+      "title": "「国家による脅威」やAI……英MI5長官が年次演説で警告したこと",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cw5yng0p5mvqo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/cqkgkrkze2nno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 14 Oct 2026 05:02:19 GMT"
+      "published_at": "Thu, 15 Oct 2026 08:14:14 GMT"
     },
     {
-      "title": "ハンガリー国会、オルバン政権時代のLGBTQ差別条項を撤廃",
+      "title": "スリランカ人出稼ぎ労働者の死刑判決を破棄、サウジアラビア最高裁　フェイスブック投稿めぐり",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckp8gv440zp2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck8dz17ez88ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Wed, 14 Oct 2026 06:10:04 GMT"
-    },
-    {
-      "title": "アルゼンチン、フォークランド諸島の石油探査めぐりイギリスへの法的措置開始",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm93z4zrxl10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Wed, 14 Oct 2026 09:27:21 GMT"
-    },
-    {
-      "title": "BBCのFMラジオ放送、アフガニスタンで停止される",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx62ygd5p318o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 14 Oct 2026 00:31:08 GMT"
+      "region": "middle-east",
+      "published_at": "Thu, 15 Oct 2026 07:32:53 GMT"
     }
   ]
 }

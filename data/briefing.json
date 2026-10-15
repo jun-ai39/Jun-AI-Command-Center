@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T23:54:09+00:00",
+  "generated_at": "2026-10-15T23:40:37+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "アルゼンチン、フォークランド諸島の石油探査めぐりイギリスへの法的措置開始",
+      "title": "アイルランド人作家サリー・ルーニー氏、イギリスで著書の販売停止　「パレスチナ・アクション」支持で",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 14 Oct 2026 09:27:21 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm93z4zrxl10o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 15 Oct 2026 08:57:14 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cv8ez6y8w0p7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ロシア、スパイ容疑で日本人記者を拘束",
+      "title": "エボラ出血熱、ケニアで感染2例目を確認　1例目の死者の親族",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 14 Oct 2026 07:37:25 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cxnv050epg0ro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 15 Oct 2026 08:31:39 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmp3gn4d9erpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ハンガリー国会、オルバン政権時代のLGBTQ差別条項を撤廃",
+      "title": "「国家による脅威」やAI……英MI5長官が年次演説で警告したこと",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 14 Oct 2026 06:10:04 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ckp8gv440zp2o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 15 Oct 2026 08:14:14 GMT",
+      "url": "https://www.bbc.com/japanese/watch/cqkgkrkze2nno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -3.27%"
+      "detail": "最大変動：日経平均 -6.69%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Ethereum -3.35%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Solana +1.07%"
     },
     {
       "label": "市場心理",
-      "value": "62 / 100",
-      "detail": "強欲"
+      "value": "53 / 100",
+      "detail": "中立"
     },
     {
       "label": "ドル円",
-      "value": "157.913 JPY",
-      "detail": "前日比 -0.09%"
+      "value": "158.111 JPY",
+      "detail": "前日比 -0.06%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "アルゼンチン、フォークランド諸島の石油探査めぐりイギリスへの法的措置開始",
+      "detail": "アイルランド人作家サリー・ルーニー氏、イギリスで著書の販売停止　「パレスチナ・アクション」支持で",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.27%です。",
+      "detail": "日経平均が前日比-6.69%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは62（強欲）です。",
+      "detail": "Fear & Greed Indexは53（中立）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-14T23:53:59+00:00",
-    "market": "2026-10-14T23:54:09+00:00"
+    "news": "2026-10-15T23:40:22+00:00",
+    "market": "2026-10-15T23:40:37+00:00"
   }
 }
