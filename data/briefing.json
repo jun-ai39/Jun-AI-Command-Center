@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T23:40:37+00:00",
+  "generated_at": "2026-10-16T23:33:32+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "アイルランド人作家サリー・ルーニー氏、イギリスで著書の販売停止　「パレスチナ・アクション」支持で",
+      "title": "米10代男性がヒンドゥー寺院で銃乱射を計画、同僚の通報で阻止＝警察",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 15 Oct 2026 08:57:14 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cv8ez6y8w0p7o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 16 Oct 2026 09:09:25 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6e3xnw40l5do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "エボラ出血熱、ケニアで感染2例目を確認　1例目の死者の親族",
+      "title": "病院は生物学的性別に基づく施設利用を　英保健当局が新指針、ジェンダー中立空間の確保も強調",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 15 Oct 2026 08:31:39 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmp3gn4d9erpo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 16 Oct 2026 07:10:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck1l3j54ley0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "「国家による脅威」やAI……英MI5長官が年次演説で警告したこと",
+      "title": "ヴェネズエラのマドゥロ前大統領、追起訴の拷問共謀で無罪を主張　米ニューヨークの裁判所",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 15 Oct 2026 08:14:14 GMT",
-      "url": "https://www.bbc.com/japanese/watch/cqkgkrkze2nno?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 16 Oct 2026 06:37:13 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cw7vpr51pm5qo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -6.69%"
+      "detail": "最大変動：日経平均 -5.37%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +1.07%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -1.91%"
     },
     {
       "label": "市場心理",
-      "value": "53 / 100",
-      "detail": "中立"
+      "value": "63 / 100",
+      "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "158.111 JPY",
-      "detail": "前日比 -0.06%"
+      "value": "157.987 JPY",
+      "detail": "前日比 -0.14%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "アイルランド人作家サリー・ルーニー氏、イギリスで著書の販売停止　「パレスチナ・アクション」支持で",
+      "detail": "米10代男性がヒンドゥー寺院で銃乱射を計画、同僚の通報で阻止＝警察",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-6.69%です。",
+      "detail": "日経平均が前日比-5.37%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは53（中立）です。",
+      "detail": "Fear & Greed Indexは63（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-15T23:40:22+00:00",
-    "market": "2026-10-15T23:40:37+00:00"
+    "news": "2026-10-16T23:33:20+00:00",
+    "market": "2026-10-16T23:33:31+00:00"
   }
 }

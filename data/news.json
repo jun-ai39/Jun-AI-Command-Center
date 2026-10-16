@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-15T23:40:22+00:00",
+  "updated_at": "2026-10-16T23:33:20+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "スターリンク利用制限でウクライナのドローン速度低下　マスク氏は米政府の関与を示唆",
+      "title": "トランプ氏、銃殺刑のライブ配信を中止　米軍基地乱射事件の死刑囚について",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx7vp77jnml9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 15 Oct 2026 04:05:33 GMT"
-    },
-    {
-      "title": "【解説】 衛星通信「スターリンク」、なぜウクライナの戦場で非常に重要なのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm4g1el3j2xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Thu, 15 Oct 2026 04:56:54 GMT"
-    },
-    {
-      "title": "【解説】 イギリスはアメリカとウクライナの橋渡し役になれるのか　バーナム氏に難題",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqvgj9vlrg47o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqy8lnlld33do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Thu, 15 Oct 2026 07:11:53 GMT"
+      "published_at": "Fri, 16 Oct 2026 02:40:04 GMT"
     },
     {
-      "title": "ノルド・ストリーム爆破、ウクライナ人被告の裁判がドイツで始まる",
+      "title": "ロシア、ウクライナが石油精製所を攻撃と非難　ゼレンスキー氏は「攻撃再開」と発言",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm0qkg89e1vgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cr15jned9pz2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "紛争",
       "region": "europe",
-      "published_at": "Thu, 15 Oct 2026 07:09:18 GMT"
+      "published_at": "Fri, 16 Oct 2026 04:37:33 GMT"
     },
     {
-      "title": "アイルランド人作家サリー・ルーニー氏、イギリスで著書の販売停止　「パレスチナ・アクション」支持で",
+      "title": "ルーマニア沖の黒海でタンカーにドローン攻撃、乗組員7人が行方不明",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cv8ez6y8w0p7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqn49g4x9wzdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 15 Oct 2026 08:57:14 GMT"
-    },
-    {
-      "title": "ゼレンスキー氏とバーナム氏が会談、なぜ今重要なのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c6n4eqldjqvxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
+      "category": "紛争",
       "region": "global",
-      "published_at": "Thu, 15 Oct 2026 04:40:34 GMT"
+      "published_at": "Fri, 16 Oct 2026 04:53:08 GMT"
     },
     {
-      "title": "エボラ出血熱、ケニアで感染2例目を確認　1例目の死者の親族",
+      "title": "米オレゴン州の小学校で銃乱射、子ども3人と教師1人が殺害される　16歳容疑者は現場で射殺",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmp3gn4d9erpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "africa",
-      "published_at": "Thu, 15 Oct 2026 08:31:39 GMT"
-    },
-    {
-      "title": "「国家による脅威」やAI……英MI5長官が年次演説で警告したこと",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cqkgkrkze2nno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6y8ln85e9d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Thu, 15 Oct 2026 08:14:14 GMT"
+      "published_at": "Fri, 16 Oct 2026 03:36:25 GMT"
     },
     {
-      "title": "スリランカ人出稼ぎ労働者の死刑判決を破棄、サウジアラビア最高裁　フェイスブック投稿めぐり",
+      "title": "病院は生物学的性別に基づく施設利用を　英保健当局が新指針、ジェンダー中立空間の確保も強調",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck8dz17ez88ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck1l3j54ley0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 16 Oct 2026 07:10:52 GMT"
+    },
+    {
+      "title": "イエメン大統領宮殿にフーシ派のミサイル攻撃、5人死亡とイエメン政府",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crpdg4w4ynxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
       "region": "middle-east",
-      "published_at": "Thu, 15 Oct 2026 07:32:53 GMT"
+      "published_at": "Fri, 16 Oct 2026 01:21:32 GMT"
+    },
+    {
+      "title": "学校の屋根が崩落、少なくとも生徒33人と教員1人死亡　パキスタン",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmn065077335o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 16 Oct 2026 04:15:10 GMT"
+    },
+    {
+      "title": "ヴェネズエラのマドゥロ前大統領、追起訴の拷問共謀で無罪を主張　米ニューヨークの裁判所",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cw7vpr51pm5qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 16 Oct 2026 06:37:13 GMT"
+    },
+    {
+      "title": "米10代男性がヒンドゥー寺院で銃乱射を計画、同僚の通報で阻止＝警察",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6e3xnw40l5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 16 Oct 2026 09:09:25 GMT"
     }
   ]
 }
