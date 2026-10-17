@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-17",
+  "verified_at": "2026-10-18",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -42,6 +42,17 @@
       "original_title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/"
+    },
+    {
+      "id": "openai-b6756c0a180e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-16",
+      "category": "product",
+      "title_ja": "Benefit Street Partners answers questions faster with Codex",
+      "original_title": "Benefit Street Partners answers questions faster with Codex",
+      "summary_ja": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "id": "openai-9e63539289a3",
@@ -231,17 +242,6 @@
       "url": "https://openai.com/index/block-ai-powered-security"
     },
     {
-      "id": "openai-200a5d3dd39c",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-14",
-      "category": "business",
-      "title_ja": "The EU’s next chapter in AI is agentic",
-      "original_title": "The EU’s next chapter in AI is agentic",
-      "summary_ja": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-16T23:33:21+00:00",
+  "updated_at": "2026-10-17T23:06:01+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

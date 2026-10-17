@@ -1,8 +1,44 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-16T23:33:20+00:00",
+  "updated_at": "2026-10-17T23:06:00+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、防衛から攻勢へ",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cq62yd3mgpr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 17 Oct 2026 03:10:14 GMT"
+    },
+    {
+      "title": "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqe8l3z8jxrro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 17 Oct 2026 05:35:27 GMT"
+    },
+    {
+      "title": "ホワイトハウスのザカライア報道官、在任5日で退任　経歴が疑問視されるなか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq1kd8wd347wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 17 Oct 2026 01:20:24 GMT"
+    },
+    {
+      "title": "中国、イスラエルに入植地の「強制的建設」停止を要求　ヨルダン川西岸",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx240v6dzggyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Sat, 17 Oct 2026 03:23:26 GMT"
+    },
     {
       "title": "トランプ氏、銃殺刑のライブ配信を中止　米軍基地乱射事件の死刑囚について",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -47,42 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Fri, 16 Oct 2026 07:10:52 GMT"
-    },
-    {
-      "title": "イエメン大統領宮殿にフーシ派のミサイル攻撃、5人死亡とイエメン政府",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crpdg4w4ynxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Fri, 16 Oct 2026 01:21:32 GMT"
-    },
-    {
-      "title": "学校の屋根が崩落、少なくとも生徒33人と教員1人死亡　パキスタン",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmn065077335o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 16 Oct 2026 04:15:10 GMT"
-    },
-    {
-      "title": "ヴェネズエラのマドゥロ前大統領、追起訴の拷問共謀で無罪を主張　米ニューヨークの裁判所",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw7vpr51pm5qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 16 Oct 2026 06:37:13 GMT"
-    },
-    {
-      "title": "米10代男性がヒンドゥー寺院で銃乱射を計画、同僚の通報で阻止＝警察",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6e3xnw40l5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 16 Oct 2026 09:09:25 GMT"
     }
   ]
 }
