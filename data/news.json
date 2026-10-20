@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-18T23:08:25+00:00",
+  "updated_at": "2026-10-20T00:18:04+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、防衛から攻勢へ",
+      "title": "フランス各地で物価高などに抗議のデモ、マクロン大統領は「冷静と秩序」呼びかけ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cq62yd3mgpr3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cke8r3n89y8mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "経済",
       "region": "europe",
-      "published_at": "Sat, 17 Oct 2026 03:10:14 GMT"
+      "published_at": "Mon, 19 Oct 2026 06:39:51 GMT"
     },
     {
-      "title": "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張",
+      "title": "中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqe8l3z8jxrro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqly0vee2zm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "japan",
+      "published_at": "Mon, 19 Oct 2026 05:42:28 GMT"
+    },
+    {
+      "title": "イスラエル人入植者、現地調査の欧州外交官らを襲撃　ヨルダン川西岸",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c5n493p0zpmko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "middle-east",
+      "published_at": "Mon, 19 Oct 2026 05:56:07 GMT"
+    },
+    {
+      "title": "トランプ氏、ロシアへの制裁停止は和平交渉継続のためと主張　与野党から批判も",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c94g1z72pje0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Sat, 17 Oct 2026 05:35:27 GMT"
+      "published_at": "Mon, 19 Oct 2026 04:25:16 GMT"
     },
     {
-      "title": "ホワイトハウスのザカライア報道官、在任5日で退任　経歴が疑問視されるなか",
+      "title": "【米中間選挙2026】 マスク氏がまた多額の政治献金　何が読み取れるのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq1kd8wd347wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm3r5407qz3vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Sat, 17 Oct 2026 01:20:24 GMT"
+      "published_at": "Mon, 19 Oct 2026 08:28:40 GMT"
     },
     {
-      "title": "中国、イスラエルに入植地の「強制的建設」停止を要求　ヨルダン川西岸",
+      "title": "イスラエル便、爆破予告で緊急着陸　ウィーン行きオーストリア航空機",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx240v6dzggyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqlyd6xjnw25o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Sat, 17 Oct 2026 03:23:26 GMT"
+      "published_at": "Mon, 19 Oct 2026 06:43:07 GMT"
     },
     {
-      "title": "トランプ氏、銃殺刑のライブ配信を中止　米軍基地乱射事件の死刑囚について",
+      "title": "ロシア・サンクトペテルブルクが夜間攻撃受ける　石油施設が標的に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqy8lnlld33do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 16 Oct 2026 02:40:04 GMT"
-    },
-    {
-      "title": "ロシア、ウクライナが石油精製所を攻撃と非難　ゼレンスキー氏は「攻撃再開」と発言",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr15jned9pz2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cjr4ye7d1wwro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Fri, 16 Oct 2026 04:37:33 GMT"
+      "published_at": "Mon, 19 Oct 2026 05:48:01 GMT"
     },
     {
-      "title": "ルーマニア沖の黒海でタンカーにドローン攻撃、乗組員7人が行方不明",
+      "title": "カナダ軍基地で大規模火災　4人死亡、数十人が負傷",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqn49g4x9wzdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmn8w5dn7wy6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "global",
-      "published_at": "Fri, 16 Oct 2026 04:53:08 GMT"
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Mon, 19 Oct 2026 02:27:12 GMT"
     },
     {
-      "title": "米オレゴン州の小学校で銃乱射、子ども3人と教師1人が殺害される　16歳容疑者は現場で射殺",
+      "title": "ローマ教皇が感謝の言葉、肺腺がん手術から初の公務",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6y8ln85e9d3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/cmy4xd2yvxd5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 16 Oct 2026 03:36:25 GMT"
-    },
-    {
-      "title": "病院は生物学的性別に基づく施設利用を　英保健当局が新指針、ジェンダー中立空間の確保も強調",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck1l3j54ley0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 16 Oct 2026 07:10:52 GMT"
+      "published_at": "Mon, 19 Oct 2026 04:09:25 GMT"
     }
   ]
 }

@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T23:08:36+00:00",
+  "generated_at": "2026-10-20T00:18:19+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張",
+      "title": "【米中間選挙2026】 マスク氏がまた多額の政治献金　何が読み取れるのか",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 17 Oct 2026 05:35:27 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqe8l3z8jxrro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 19 Oct 2026 08:28:40 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm3r5407qz3vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "中国、イスラエルに入植地の「強制的建設」停止を要求　ヨルダン川西岸",
+      "title": "イスラエル便、爆破予告で緊急着陸　ウィーン行きオーストリア航空機",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 17 Oct 2026 03:23:26 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cx240v6dzggyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 19 Oct 2026 06:43:07 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cqlyd6xjnw25o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、防衛から攻勢へ",
-      "category": "世界情勢",
+      "title": "フランス各地で物価高などに抗議のデモ、マクロン大統領は「冷静と秩序」呼びかけ",
+      "category": "経済",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 17 Oct 2026 03:10:14 GMT",
-      "url": "https://www.bbc.com/japanese/watch/cq62yd3mgpr3o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 19 Oct 2026 06:39:51 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cke8r3n89y8mo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -5.37%"
+      "detail": "最大変動：日経平均 -4.69%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：Solana +0.71%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Solana +1.22%"
     },
     {
       "label": "市場心理",
-      "value": "53 / 100",
-      "detail": "中立"
+      "value": "55 / 100",
+      "detail": "強欲"
     },
     {
       "label": "ドル円",
-      "value": "157.856 JPY",
-      "detail": "前日比 -0.42%"
+      "value": "158.512 JPY",
+      "detail": "前日比 +0.12%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張",
+      "detail": "【米中間選挙2026】 マスク氏がまた多額の政治献金　何が読み取れるのか",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-5.37%です。",
+      "detail": "日経平均が前日比-4.69%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは53（中立）です。",
+      "detail": "Fear & Greed Indexは55（強欲）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-18T23:08:25+00:00",
-    "market": "2026-10-18T23:08:36+00:00"
+    "news": "2026-10-20T00:18:04+00:00",
+    "market": "2026-10-20T00:18:19+00:00"
   }
 }

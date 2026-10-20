@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-19",
+  "verified_at": "2026-10-20",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,61 @@
     }
   ],
   "items": [
+    {
+      "id": "google-92f044b92b6a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-20",
+      "category": "product",
+      "title_ja": "Partnering to strengthen the grid and support local communities in Arkansas",
+      "original_title": "Partnering to strengthen the grid and support local communities in Arkansas",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/"
+    },
+    {
+      "id": "google-52617e218108",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-20",
+      "category": "model",
+      "title_ja": "How to shape your slides and videos with Gemini Notebook",
+      "original_title": "How to shape your slides and videos with Gemini Notebook",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
+    },
+    {
+      "id": "google-49ec90948533",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-20",
+      "category": "model",
+      "title_ja": "4 tips for styling outfits with Gemini",
+      "original_title": "4 tips for styling outfits with Gemini",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/"
+    },
+    {
+      "id": "openai-1dbe22633003",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-19",
+      "category": "education",
+      "title_ja": "Advancing coding in low‑resource programming languages",
+      "original_title": "Advancing coding in low‑resource programming languages",
+      "summary_ja": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "url": "https://openai.com/index/low-resource-programming-languages"
+    },
+    {
+      "id": "google-8a5bbea3d527",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-19",
+      "category": "product",
+      "title_ja": "We’re supporting nature restoration through sustainable farming in Brazil.",
+      "original_title": "We’re supporting nature restoration through sustainable farming in Brazil.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/"
+    },
     {
       "id": "openai-9732b2763df5",
       "source": "openai",
@@ -44,17 +99,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/"
     },
     {
-      "id": "openai-b6756c0a180e",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-16",
-      "category": "product",
-      "title_ja": "Benefit Street Partners answers questions faster with Codex",
-      "original_title": "Benefit Street Partners answers questions faster with Codex",
-      "summary_ja": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners"
-    },
-    {
       "id": "openai-9e63539289a3",
       "source": "openai",
       "source_name": "OpenAI",
@@ -64,6 +108,17 @@
       "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary_ja": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+    },
+    {
+      "id": "openai-b6756c0a180e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-16",
+      "category": "product",
+      "title_ja": "Benefit Street Partners answers questions faster with Codex",
+      "original_title": "Benefit Street Partners answers questions faster with Codex",
+      "summary_ja": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/benefit-street-partners"
     },
     {
       "id": "openai-32165ee6af89",
@@ -132,28 +187,6 @@
       "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/"
     },
     {
-      "id": "google-09cafcfe0698",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-16",
-      "category": "product",
-      "title_ja": "More ways to connect with the web from Search",
-      "original_title": "More ways to connect with the web from Search",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/"
-    },
-    {
-      "id": "google-a4d56d187e5a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-16",
-      "category": "product",
-      "title_ja": "Making your Pixel devices last longer through design, repair, and reuse",
-      "original_title": "Making your Pixel devices last longer through design, repair, and reuse",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/"
-    },
-    {
       "id": "openai-a60f4a701f88",
       "source": "openai",
       "source_name": "OpenAI",
@@ -174,28 +207,6 @@
       "original_title": "Sullivan & Cromwell brings legal expertise into agreement review",
       "summary_ja": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
       "url": "https://openai.com/index/sullivan-cromwell"
-    },
-    {
-      "id": "google-7d0ed3cb5cb4",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-15",
-      "category": "product",
-      "title_ja": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-      "original_title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/"
-    },
-    {
-      "id": "google-e2d194ea6676",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-15",
-      "category": "product",
-      "title_ja": "Research@ 2026: Novel capabilities and intelligence",
-      "original_title": "Research@ 2026: Novel capabilities and intelligence",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/"
     },
     {
       "id": "openai-57c3309db5be",
@@ -231,17 +242,6 @@
       "url": "https://openai.com/index/third-moment-research"
     },
     {
-      "id": "openai-94ee28b93f9d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-14",
-      "category": "safety",
-      "title_ja": "How Block is building AI-powered security with OpenAI technology",
-      "original_title": "How Block is building AI-powered security with OpenAI technology",
-      "summary_ja": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "url": "https://openai.com/index/block-ai-powered-security"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-18T23:08:26+00:00",
+  "updated_at": "2026-10-20T00:18:04+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
