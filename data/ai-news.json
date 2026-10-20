@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-20",
+  "verified_at": "2026-10-21",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "google-7a44093bc311",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-21",
+      "category": "model",
+      "title_ja": "Get hands-free personalized help on the road with Gemini",
+      "original_title": "Get hands-free personalized help on the road with Gemini",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
+    },
+    {
+      "id": "google-2508ace600dd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-21",
+      "category": "product",
+      "title_ja": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "original_title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/"
+    },
+    {
+      "id": "google-bdc0c47bb06a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-21",
+      "category": "business",
+      "title_ja": "New Gemini tools for small business owners",
+      "original_title": "New Gemini tools for small business owners",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
+    },
+    {
+      "id": "google-aaace91e4663",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-21",
+      "category": "product",
+      "title_ja": "Expanding our defenses against financial scam ads",
+      "original_title": "Expanding our defenses against financial scam ads",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/"
+    },
+    {
+      "id": "openai-1725d137aa3d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-20",
+      "category": "model",
+      "title_ja": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "original_title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary_ja": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "url": "https://openai.com/index/ted-taylor-restaurant"
+    },
+    {
+      "id": "openai-1cfb6291fa15",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-20",
+      "category": "business",
+      "title_ja": "OpenAI acquires Orchestra Bio",
+      "original_title": "OpenAI acquires Orchestra Bio",
+      "summary_ja": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+    },
     {
       "id": "google-92f044b92b6a",
       "source": "google",
@@ -99,17 +165,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/"
     },
     {
-      "id": "openai-9e63539289a3",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-16",
-      "category": "model",
-      "title_ja": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary_ja": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
       "id": "openai-b6756c0a180e",
       "source": "openai",
       "source_name": "OpenAI",
@@ -119,6 +174,17 @@
       "original_title": "Benefit Street Partners answers questions faster with Codex",
       "summary_ja": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "url": "https://openai.com/index/benefit-street-partners"
+    },
+    {
+      "id": "openai-9e63539289a3",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-16",
+      "category": "model",
+      "title_ja": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary_ja": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
       "id": "openai-32165ee6af89",
@@ -141,50 +207,6 @@
       "original_title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
-    },
-    {
-      "id": "google-1b9d80577b59",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-16",
-      "category": "safety",
-      "title_ja": "Check if a text message is a scam using Circle to Search.",
-      "original_title": "Check if a text message is a scam using Circle to Search.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/"
-    },
-    {
-      "id": "google-fb9b71b9aeee",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-16",
-      "category": "product",
-      "title_ja": "How we're helping the world prepare for natural disasters",
-      "original_title": "How we're helping the world prepare for natural disasters",
-      "summary_ja": "Our north star is simple yet ambitious: No one should be surprised by a natural disaster.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/"
-    },
-    {
-      "id": "google-c08dc5794b01",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-16",
-      "category": "product",
-      "title_ja": "Android earthquake alerts now available in more than 200 regions",
-      "original_title": "Android earthquake alerts now available in more than 200 regions",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/"
-    },
-    {
-      "id": "google-9c2c9f923050",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-16",
-      "category": "product",
-      "title_ja": "400 publications are now partnering with us on our News AI pilot program.",
-      "original_title": "400 publications are now partnering with us on our News AI pilot program.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/"
     },
     {
       "id": "openai-a60f4a701f88",
@@ -220,28 +242,6 @@
       "url": "https://openai.com/index/amp-beyond-coding"
     },
     {
-      "id": "openai-004cd593adab",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-14",
-      "category": "product",
-      "title_ja": "SentinelOne cuts malware analysis from weeks to hours",
-      "original_title": "SentinelOne cuts malware analysis from weeks to hours",
-      "summary_ja": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "url": "https://openai.com/index/sentinelone"
-    },
-    {
-      "id": "openai-a8b8c31de898",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-14",
-      "category": "safety",
-      "title_ja": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "original_title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary_ja": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "url": "https://openai.com/index/third-moment-research"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-20T00:18:04+00:00",
+  "updated_at": "2026-10-20T23:50:59+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

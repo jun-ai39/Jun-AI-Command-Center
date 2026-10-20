@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T00:18:19+00:00",
+  "generated_at": "2026-10-20T23:51:10+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "【米中間選挙2026】 マスク氏がまた多額の政治献金　何が読み取れるのか",
+      "title": "日本の火星衛星探査機「MMX」が打ち上げ成功、サンプル採取目指す",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 19 Oct 2026 08:28:40 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm3r5407qz3vo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 20 Oct 2026 07:26:27 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmlyd72gk6exo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "イスラエル便、爆破予告で緊急着陸　ウィーン行きオーストリア航空機",
+      "title": "イスラエル警察が10人逮捕　ヨルダン川西岸での記者・外交官襲撃に関与の疑い",
+      "category": "外交",
+      "source": "BBC News 日本語",
+      "published_at": "Tue, 20 Oct 2026 07:13:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c8e362720wpeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "豪議員、車にはねられ重体　「意図的な襲撃」との見方を首相が示す",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 19 Oct 2026 06:43:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqlyd6xjnw25o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "フランス各地で物価高などに抗議のデモ、マクロン大統領は「冷静と秩序」呼びかけ",
-      "category": "経済",
-      "source": "BBC News 日本語",
-      "published_at": "Mon, 19 Oct 2026 06:39:51 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cke8r3n89y8mo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 20 Oct 2026 06:31:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c60qk7gnwq14o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -4.69%"
+      "detail": "最大変動：日経平均 -5.42%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +1.22%"
+      "detail": "最大変動：XRP +2.25%"
     },
     {
       "label": "市場心理",
@@ -45,20 +45,20 @@
     },
     {
       "label": "ドル円",
-      "value": "158.512 JPY",
-      "detail": "前日比 +0.12%"
+      "value": "158.297 JPY",
+      "detail": "前日比 +0.22%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "【米中間選挙2026】 マスク氏がまた多額の政治献金　何が読み取れるのか",
+      "detail": "日本の火星衛星探査機「MMX」が打ち上げ成功、サンプル採取目指す",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-4.69%です。",
+      "detail": "日経平均が前日比-5.42%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-20T00:18:04+00:00",
-    "market": "2026-10-20T00:18:19+00:00"
+    "news": "2026-10-20T23:50:58+00:00",
+    "market": "2026-10-20T23:51:10+00:00"
   }
 }

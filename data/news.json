@@ -1,16 +1,70 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-20T00:18:04+00:00",
+  "updated_at": "2026-10-20T23:50:58+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "フランス各地で物価高などに抗議のデモ、マクロン大統領は「冷静と秩序」呼びかけ",
+      "title": "パリなどフランス各地に夜間外出禁止令　週末の暴動受け",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cke8r3n89y8mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmzxl0174e1qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "経済",
+      "category": "世界情勢",
       "region": "europe",
-      "published_at": "Mon, 19 Oct 2026 06:39:51 GMT"
+      "published_at": "Tue, 20 Oct 2026 02:51:10 GMT"
+    },
+    {
+      "title": "アメリカが情報共有を制限し、ウクライナ人が命を落としている……ウクライナ国防省顧問がBBCに語る",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3vgx07yvknvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 20 Oct 2026 03:23:20 GMT"
+    },
+    {
+      "title": "イスラエル警察が10人逮捕　ヨルダン川西岸での記者・外交官襲撃に関与の疑い",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c8e362720wpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "middle-east",
+      "published_at": "Tue, 20 Oct 2026 07:13:33 GMT"
+    },
+    {
+      "title": "日本の火星衛星探査機「MMX」が打ち上げ成功、サンプル採取目指す",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmlyd72gk6exo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Tue, 20 Oct 2026 07:26:27 GMT"
+    },
+    {
+      "title": "ドローンで前線の負傷兵を搬送　「世界初」の事例、ウクライナ軍が動画公開",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/crgqw43eq7glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 20 Oct 2026 04:13:35 GMT"
+    },
+    {
+      "title": "豪議員、車にはねられ重体　「意図的な襲撃」との見方を首相が示す",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c60qk7gnwq14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 20 Oct 2026 06:31:52 GMT"
+    },
+    {
+      "title": "女性の遺体に性行為、拘禁刑1年4カ月　イギリス",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cw073pr7xyl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 20 Oct 2026 04:49:34 GMT"
     },
     {
       "title": "中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る",
@@ -22,24 +76,6 @@
       "published_at": "Mon, 19 Oct 2026 05:42:28 GMT"
     },
     {
-      "title": "イスラエル人入植者、現地調査の欧州外交官らを襲撃　ヨルダン川西岸",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5n493p0zpmko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "middle-east",
-      "published_at": "Mon, 19 Oct 2026 05:56:07 GMT"
-    },
-    {
-      "title": "トランプ氏、ロシアへの制裁停止は和平交渉継続のためと主張　与野党から批判も",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c94g1z72pje0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Mon, 19 Oct 2026 04:25:16 GMT"
-    },
-    {
       "title": "【米中間選挙2026】 マスク氏がまた多額の政治献金　何が読み取れるのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cm3r5407qz3vo?at_medium=RSS&at_campaign=rss",
@@ -47,42 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Mon, 19 Oct 2026 08:28:40 GMT"
-    },
-    {
-      "title": "イスラエル便、爆破予告で緊急着陸　ウィーン行きオーストリア航空機",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqlyd6xjnw25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Mon, 19 Oct 2026 06:43:07 GMT"
-    },
-    {
-      "title": "ロシア・サンクトペテルブルクが夜間攻撃受ける　石油施設が標的に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjr4ye7d1wwro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Mon, 19 Oct 2026 05:48:01 GMT"
-    },
-    {
-      "title": "カナダ軍基地で大規模火災　4人死亡、数十人が負傷",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmn8w5dn7wy6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Mon, 19 Oct 2026 02:27:12 GMT"
-    },
-    {
-      "title": "ローマ教皇が感謝の言葉、肺腺がん手術から初の公務",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cmy4xd2yvxd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 19 Oct 2026 04:09:25 GMT"
     }
   ]
 }
