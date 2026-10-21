@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-20T23:50:58+00:00",
+  "updated_at": "2026-10-21T23:59:21+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "パリなどフランス各地に夜間外出禁止令　週末の暴動受け",
+      "title": "ゼレンスキー氏、アメリカの情報提供は「機能している」　トランプ氏の特使と会談後",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmzxl0174e1qo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck78p4053y8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "north-america",
+      "published_at": "Wed, 21 Oct 2026 02:56:07 GMT"
+    },
+    {
+      "title": "英フェアフォード空軍基地事件、2人を再逮捕　イラン情報機関に協力した容疑",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c5lyelywnrv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 21 Oct 2026 08:57:38 GMT"
+    },
+    {
+      "title": "車で襲われたとされる豪議員、両脚を失う　逮捕された男性が初出廷",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmd7qr3re235o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 21 Oct 2026 09:31:06 GMT"
+    },
+    {
+      "title": "【解説】 トランプ氏とゼレンスキー氏、依然対立か　オスロ会談後に楽観論も流れるが",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmgqw4weqxveo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "north-america",
+      "published_at": "Wed, 21 Oct 2026 07:27:31 GMT"
+    },
+    {
+      "title": "北朝鮮が金正恩氏の写真公開　死亡説が繰り返し浮上する理由は",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c9rkyjy2z560o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Wed, 21 Oct 2026 05:32:19 GMT"
+    },
+    {
+      "title": "ウクライナのために活動するロシア人工作員、偵察活動の映像をBBCに提供",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cq78pn85n08yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Tue, 20 Oct 2026 02:51:10 GMT"
+      "published_at": "Wed, 21 Oct 2026 08:09:50 GMT"
     },
     {
-      "title": "アメリカが情報共有を制限し、ウクライナ人が命を落としている……ウクライナ国防省顧問がBBCに語る",
+      "title": "スーダン軍が葬儀参列者と燃料市場をドローン攻撃、300人以上死亡と情報筋",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3vgx07yvknvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6jrw5e2j298o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "africa",
+      "published_at": "Wed, 21 Oct 2026 06:04:20 GMT"
+    },
+    {
+      "title": "ハリー英王子、父チャールズ国王と兄ウィリアム皇太子との「和解」望んでいると",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/c3ewened59yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 21 Oct 2026 03:39:05 GMT"
+    },
+    {
+      "title": "カナダ・アルバータ州で住民投票、分離独立を否決　「カナダにとって素晴らしい結果」とカーニー首相",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwr5yq07pej8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Tue, 20 Oct 2026 03:23:20 GMT"
-    },
-    {
-      "title": "イスラエル警察が10人逮捕　ヨルダン川西岸での記者・外交官襲撃に関与の疑い",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8e362720wpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "middle-east",
-      "published_at": "Tue, 20 Oct 2026 07:13:33 GMT"
-    },
-    {
-      "title": "日本の火星衛星探査機「MMX」が打ち上げ成功、サンプル採取目指す",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmlyd72gk6exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Tue, 20 Oct 2026 07:26:27 GMT"
-    },
-    {
-      "title": "ドローンで前線の負傷兵を搬送　「世界初」の事例、ウクライナ軍が動画公開",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/crgqw43eq7glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 20 Oct 2026 04:13:35 GMT"
-    },
-    {
-      "title": "豪議員、車にはねられ重体　「意図的な襲撃」との見方を首相が示す",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c60qk7gnwq14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 20 Oct 2026 06:31:52 GMT"
-    },
-    {
-      "title": "女性の遺体に性行為、拘禁刑1年4カ月　イギリス",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw073pr7xyl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 20 Oct 2026 04:49:34 GMT"
-    },
-    {
-      "title": "中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqly0vee2zm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "japan",
-      "published_at": "Mon, 19 Oct 2026 05:42:28 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 マスク氏がまた多額の政治献金　何が読み取れるのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm3r5407qz3vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 19 Oct 2026 08:28:40 GMT"
+      "published_at": "Wed, 21 Oct 2026 02:47:52 GMT"
     }
   ]
 }

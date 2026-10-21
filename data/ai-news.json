@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-21",
+  "verified_at": "2026-10-22",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,105 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-39cad894cdd2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-22",
+      "category": "education",
+      "title_ja": "How AT&T is rethinking in-house legal work with OpenAI",
+      "original_title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary_ja": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "url": "https://openai.com/index/att-legal"
+    },
+    {
+      "id": "openai-3f1a11956436",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-22",
+      "category": "safety",
+      "title_ja": "Broad access through consistent standards",
+      "original_title": "Broad access through consistent standards",
+      "summary_ja": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards"
+    },
+    {
+      "id": "openai-95dedf578de7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-21",
+      "category": "business",
+      "title_ja": "OpenAI models are coming to Google Cloud",
+      "original_title": "OpenAI models are coming to Google Cloud",
+      "summary_ja": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "url": "https://openai.com/index/openai-models-google-cloud"
+    },
+    {
+      "id": "openai-de9db6f384cb",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-21",
+      "category": "safety",
+      "title_ja": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "original_title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary_ja": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+    },
+    {
+      "id": "openai-b1215e1aefc0",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-21",
+      "category": "business",
+      "title_ja": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "original_title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary_ja": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+    },
+    {
+      "id": "openai-64ddfb139fec",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-21",
+      "category": "product",
+      "title_ja": "Using thousands of AI agents to uncover new leads in biological data",
+      "original_title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary_ja": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
+    },
+    {
+      "id": "openai-ea92da5c121e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-21",
+      "category": "education",
+      "title_ja": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "original_title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary_ja": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack"
+    },
+    {
+      "id": "openai-e270f5ba4688",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-21",
+      "category": "safety",
+      "title_ja": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "original_title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "summary_ja": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "url": "https://openai.com/index/empowering-cyber-defenders"
+    },
+    {
+      "id": "google-bc70ac2dbf77",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-21",
+      "category": "product",
+      "title_ja": "Recreating the lost studios of women sculptors with Prune Nourry",
+      "original_title": "Recreating the lost studios of women sculptors with Prune Nourry",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/"
+    },
     {
       "id": "google-7a44093bc311",
       "source": "google",
@@ -77,15 +176,15 @@
       "url": "https://openai.com/index/ted-taylor-restaurant"
     },
     {
-      "id": "openai-1cfb6291fa15",
+      "id": "openai-aa8847d44cba",
       "source": "openai",
       "source_name": "OpenAI",
       "published_at": "2026-10-20",
-      "category": "business",
-      "title_ja": "OpenAI acquires Orchestra Bio",
-      "original_title": "OpenAI acquires Orchestra Bio",
-      "summary_ja": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+      "category": "model",
+      "title_ja": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "original_title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary_ja": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "url": "https://openai.com/index/terminal-x"
     },
     {
       "id": "google-92f044b92b6a",
@@ -121,17 +220,6 @@
       "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/"
     },
     {
-      "id": "openai-1dbe22633003",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-19",
-      "category": "education",
-      "title_ja": "Advancing coding in low‑resource programming languages",
-      "original_title": "Advancing coding in low‑resource programming languages",
-      "summary_ja": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "url": "https://openai.com/index/low-resource-programming-languages"
-    },
-    {
       "id": "google-8a5bbea3d527",
       "source": "google",
       "source_name": "Google",
@@ -143,17 +231,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/"
     },
     {
-      "id": "openai-9732b2763df5",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-17",
-      "category": "product",
-      "title_ja": "How Itaú is building generative AI for its entire customer base",
-      "original_title": "How Itaú is building generative AI for its entire customer base",
-      "summary_ja": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "url": "https://openai.com/index/itau-generative-ai"
-    },
-    {
       "id": "google-b9fbebb49a08",
       "source": "google",
       "source_name": "Google",
@@ -163,83 +240,6 @@
       "original_title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/"
-    },
-    {
-      "id": "openai-b6756c0a180e",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-16",
-      "category": "product",
-      "title_ja": "Benefit Street Partners answers questions faster with Codex",
-      "original_title": "Benefit Street Partners answers questions faster with Codex",
-      "summary_ja": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "url": "https://openai.com/index/benefit-street-partners"
-    },
-    {
-      "id": "openai-9e63539289a3",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-16",
-      "category": "model",
-      "title_ja": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summary_ja": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-    },
-    {
-      "id": "openai-32165ee6af89",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-16",
-      "category": "model",
-      "title_ja": "Bringing GPT-Rosalind to academic research labs",
-      "original_title": "Bringing GPT-Rosalind to academic research labs",
-      "summary_ja": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-    },
-    {
-      "id": "google-30b77afd86fd",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-16",
-      "category": "product",
-      "title_ja": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-      "original_title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
-    },
-    {
-      "id": "openai-a60f4a701f88",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-15",
-      "category": "education",
-      "title_ja": "Teaching students to think and learn through questions",
-      "original_title": "Teaching students to think and learn through questions",
-      "summary_ja": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
-    },
-    {
-      "id": "openai-94eadcab22c4",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-15",
-      "category": "product",
-      "title_ja": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "original_title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "summary_ja": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "url": "https://openai.com/index/sullivan-cromwell"
-    },
-    {
-      "id": "openai-57c3309db5be",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-14",
-      "category": "model",
-      "title_ja": "Amp puts AI agents to work beyond code with OpenAI models",
-      "original_title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "summary_ja": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "url": "https://openai.com/index/amp-beyond-coding"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-20T23:50:59+00:00",
+  "updated_at": "2026-10-21T23:59:21+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
