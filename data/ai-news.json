@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-22",
+  "verified_at": "2026-10-23",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,28 @@
   ],
   "items": [
     {
+      "id": "openai-891b7e0bbf66",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-23",
+      "category": "product",
+      "title_ja": "Build more responsive apps with the Decisions API",
+      "original_title": "Build more responsive apps with the Decisions API",
+      "summary_ja": "Fast, focused, low-cost decisions for any application.",
+      "url": "https://openai.com/index/decisions-api"
+    },
+    {
+      "id": "openai-eda525050cea",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-22",
+      "category": "business",
+      "title_ja": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "original_title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary_ja": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
+    },
+    {
       "id": "openai-39cad894cdd2",
       "source": "openai",
       "source_name": "OpenAI",
@@ -42,6 +64,17 @@
       "original_title": "Broad access through consistent standards",
       "summary_ja": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "url": "https://openai.com/index/broad-access-through-consistent-standards"
+    },
+    {
+      "id": "google-f32712b46e4e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-22",
+      "category": "product",
+      "title_ja": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+      "original_title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/"
     },
     {
       "id": "openai-95dedf578de7",
@@ -88,6 +121,17 @@
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
     },
     {
+      "id": "openai-3fe372fb2e81",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-21",
+      "category": "product",
+      "title_ja": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "original_title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "summary_ja": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "url": "https://openai.com/index/cloudflare-cyber"
+    },
+    {
       "id": "openai-ea92da5c121e",
       "source": "openai",
       "source_name": "OpenAI",
@@ -97,17 +141,6 @@
       "original_title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
       "summary_ja": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
       "url": "https://openai.com/index/building-chatgpt-ad-stack"
-    },
-    {
-      "id": "openai-e270f5ba4688",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-21",
-      "category": "safety",
-      "title_ja": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "original_title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summary_ja": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "url": "https://openai.com/index/empowering-cyber-defenders"
     },
     {
       "id": "google-bc70ac2dbf77",
@@ -165,28 +198,6 @@
       "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/"
     },
     {
-      "id": "openai-1725d137aa3d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-20",
-      "category": "model",
-      "title_ja": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "original_title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summary_ja": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "url": "https://openai.com/index/ted-taylor-restaurant"
-    },
-    {
-      "id": "openai-aa8847d44cba",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-20",
-      "category": "model",
-      "title_ja": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "original_title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summary_ja": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "url": "https://openai.com/index/terminal-x"
-    },
-    {
       "id": "google-92f044b92b6a",
       "source": "google",
       "source_name": "Google",
@@ -231,17 +242,6 @@
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/"
     },
     {
-      "id": "google-b9fbebb49a08",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-17",
-      "category": "education",
-      "title_ja": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
-      "original_title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-21T23:59:21+00:00",
+  "updated_at": "2026-10-22T23:58:09+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

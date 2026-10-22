@@ -1,43 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-21T23:59:21+00:00",
+  "updated_at": "2026-10-22T23:58:09+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ゼレンスキー氏、アメリカの情報提供は「機能している」　トランプ氏の特使と会談後",
+      "title": "プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck78p4053y8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "north-america",
-      "published_at": "Wed, 21 Oct 2026 02:56:07 GMT"
-    },
-    {
-      "title": "英フェアフォード空軍基地事件、2人を再逮捕　イラン情報機関に協力した容疑",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5lyelywnrv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Wed, 21 Oct 2026 08:57:38 GMT"
-    },
-    {
-      "title": "車で襲われたとされる豪議員、両脚を失う　逮捕された男性が初出廷",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmd7qr3re235o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c674p01yqwqko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 21 Oct 2026 09:31:06 GMT"
+      "published_at": "Thu, 22 Oct 2026 02:20:17 GMT"
     },
     {
-      "title": "【解説】 トランプ氏とゼレンスキー氏、依然対立か　オスロ会談後に楽観論も流れるが",
+      "title": "ロシア、キーウをミサイル攻撃　アメリカが促すウクライナとの和平協議再開への意向表明後",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmgqw4weqxveo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cvkgk11xrzkwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "north-america",
+      "published_at": "Thu, 22 Oct 2026 04:57:12 GMT"
+    },
+    {
+      "title": "米裁判所、メタに制裁金4兆円の判決　利用者データ流出で「うそ」の説明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjy56q09r9e7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 22 Oct 2026 05:07:06 GMT"
+    },
+    {
+      "title": "【解説】 日本のイベント開催能力は世界有数、しかしアジア大会は混乱を極めた",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm93zxd0yw50o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Thu, 22 Oct 2026 06:29:54 GMT"
+    },
+    {
+      "title": "エアビー、ホストは客にシーツ外しや皿洗いを強制できないと新ルール",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr4g1j6nx08no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 22 Oct 2026 06:45:28 GMT"
+    },
+    {
+      "title": "カナダが米中間選挙に「干渉している」と在オタワ米大使館が非難　カーニー政権は否定",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm89z1q40xqjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Thu, 22 Oct 2026 08:18:07 GMT"
+    },
+    {
+      "title": "【解説】 アメリカの外交努力、ウクライナ和平に希望を与えず＝BBCロシア編集長",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6gr8412l2qzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "外交",
       "region": "north-america",
-      "published_at": "Wed, 21 Oct 2026 07:27:31 GMT"
+      "published_at": "Thu, 22 Oct 2026 07:43:30 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 ブッシュ家の2人、民主党候補を支持　テキサス州の連邦上院議員選で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crz65nydxlw1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 22 Oct 2026 07:52:37 GMT"
     },
     {
       "title": "北朝鮮が金正恩氏の写真公開　死亡説が繰り返し浮上する理由は",
@@ -47,42 +83,6 @@
       "category": "世界情勢",
       "region": "asia",
       "published_at": "Wed, 21 Oct 2026 05:32:19 GMT"
-    },
-    {
-      "title": "ウクライナのために活動するロシア人工作員、偵察活動の映像をBBCに提供",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cq78pn85n08yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 21 Oct 2026 08:09:50 GMT"
-    },
-    {
-      "title": "スーダン軍が葬儀参列者と燃料市場をドローン攻撃、300人以上死亡と情報筋",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6jrw5e2j298o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "africa",
-      "published_at": "Wed, 21 Oct 2026 06:04:20 GMT"
-    },
-    {
-      "title": "ハリー英王子、父チャールズ国王と兄ウィリアム皇太子との「和解」望んでいると",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c3ewened59yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 21 Oct 2026 03:39:05 GMT"
-    },
-    {
-      "title": "カナダ・アルバータ州で住民投票、分離独立を否決　「カナダにとって素晴らしい結果」とカーニー首相",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwr5yq07pej8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 21 Oct 2026 02:47:52 GMT"
     }
   ]
 }
