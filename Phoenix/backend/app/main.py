@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.router import api_router
 from app.core.config import APP_NAME, APP_VERSION, CORS_ALLOWED_ORIGINS
+from app.core.request_security import RequestSecurityMiddleware
 
 
 def create_app() -> FastAPI:
@@ -14,6 +15,7 @@ def create_app() -> FastAPI:
         version=APP_VERSION,
         description="Jun AI Command Centerを支えるPhoenix OS API",
     )
+    application.add_middleware(RequestSecurityMiddleware)
     application.add_middleware(
         CORSMiddleware,
         allow_origins=CORS_ALLOWED_ORIGINS,
