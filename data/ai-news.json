@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-23",
+  "verified_at": "2026-10-24",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,50 @@
   ],
   "items": [
     {
+      "id": "openai-ee4c22366ef7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-24",
+      "category": "education",
+      "title_ja": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary_ja": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "id": "google-fbadabad4df2",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-24",
+      "category": "model",
+      "title_ja": "See what 5 builders are making with Gemini 4 Argon",
+      "original_title": "See what 5 builders are making with Gemini 4 Argon",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/"
+    },
+    {
+      "id": "openai-f8c156dba788",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-23",
+      "category": "safety",
+      "title_ja": "Securing our frontier model training environment",
+      "original_title": "Securing our frontier model training environment",
+      "summary_ja": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+    },
+    {
+      "id": "openai-1a543055a02f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-23",
+      "category": "safety",
+      "title_ja": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "original_title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary_ja": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    {
       "id": "openai-891b7e0bbf66",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +75,17 @@
       "original_title": "Build more responsive apps with the Decisions API",
       "summary_ja": "Fast, focused, low-cost decisions for any application.",
       "url": "https://openai.com/index/decisions-api"
+    },
+    {
+      "id": "openai-6400feb68147",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-22",
+      "category": "product",
+      "title_ja": "What FDE means at OpenAI",
+      "original_title": "What FDE means at OpenAI",
+      "summary_ja": "What forward deployed engineering means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means"
     },
     {
       "id": "openai-eda525050cea",
@@ -97,50 +152,6 @@
       "original_title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "summary_ja": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
-    },
-    {
-      "id": "openai-b1215e1aefc0",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-21",
-      "category": "business",
-      "title_ja": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "original_title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summary_ja": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-    },
-    {
-      "id": "openai-64ddfb139fec",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-21",
-      "category": "product",
-      "title_ja": "Using thousands of AI agents to uncover new leads in biological data",
-      "original_title": "Using thousands of AI agents to uncover new leads in biological data",
-      "summary_ja": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
-    },
-    {
-      "id": "openai-3fe372fb2e81",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-21",
-      "category": "product",
-      "title_ja": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "original_title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summary_ja": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "url": "https://openai.com/index/cloudflare-cyber"
-    },
-    {
-      "id": "openai-ea92da5c121e",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-21",
-      "category": "education",
-      "title_ja": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "original_title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "summary_ja": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack"
     },
     {
       "id": "google-bc70ac2dbf77",
@@ -231,17 +242,6 @@
       "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/"
     },
     {
-      "id": "google-8a5bbea3d527",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-19",
-      "category": "product",
-      "title_ja": "We’re supporting nature restoration through sustainable farming in Brazil.",
-      "original_title": "We’re supporting nature restoration through sustainable farming in Brazil.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-22T23:58:09+00:00",
+  "updated_at": "2026-10-23T23:50:45+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

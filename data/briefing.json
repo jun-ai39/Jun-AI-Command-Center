@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T23:58:19+00:00",
+  "generated_at": "2026-10-23T23:50:56+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "カナダが米中間選挙に「干渉している」と在オタワ米大使館が非難　カーニー政権は否定",
-      "category": "世界情勢",
+      "title": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
+      "category": "災害",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 22 Oct 2026 08:18:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm89z1q40xqjo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 23 Oct 2026 07:22:46 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【米中間選挙2026】 ブッシュ家の2人、民主党候補を支持　テキサス州の連邦上院議員選で",
+      "title": "【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 22 Oct 2026 07:52:37 GMT",
-      "url": "https://www.bbc.com/japanese/articles/crz65nydxlw1o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 23 Oct 2026 07:09:09 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c50mepzk188go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】 アメリカの外交努力、ウクライナ和平に希望を与えず＝BBCロシア編集長",
-      "category": "外交",
+      "title": "ブラジル大統領選、米メタが干渉とルラ大統領が主張　対立候補の失格を要求",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 22 Oct 2026 07:43:30 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6gr8412l2qzo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 23 Oct 2026 04:35:10 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cqe8r6dle36jo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -3.70%"
+      "detail": "最大変動：日経平均 -3.43%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -5.15%"
+      "value": "上昇 1・下落 3・横ばい 0",
+      "detail": "最大変動：XRP -0.78%"
     },
     {
       "label": "市場心理",
-      "value": "68 / 100",
-      "detail": "強欲"
+      "value": "50 / 100",
+      "detail": "中立"
     },
     {
       "label": "ドル円",
-      "value": "156.488 JPY",
-      "detail": "前日比 -0.84%"
+      "value": "156.814 JPY",
+      "detail": "前日比 -0.63%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "カナダが米中間選挙に「干渉している」と在オタワ米大使館が非難　カーニー政権は否定",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
+      "meta": "災害・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.70%です。",
+      "detail": "日経平均が前日比-3.43%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは68（強欲）です。",
+      "detail": "Fear & Greed Indexは50（中立）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-22T23:58:09+00:00",
-    "market": "2026-10-22T23:58:19+00:00"
+    "news": "2026-10-23T23:50:45+00:00",
+    "market": "2026-10-23T23:50:56+00:00"
   }
 }

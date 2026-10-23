@@ -1,34 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-22T23:58:09+00:00",
+  "updated_at": "2026-10-23T23:50:45+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止",
+      "title": "トランプ大統領、マスク氏がウクライナのスターリンクへのアクセスを復旧と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c674p01yqwqko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqx2vp2dne8mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 23 Oct 2026 00:55:35 GMT"
+    },
+    {
+      "title": "トランプ氏、BBC「パノラマ」訴訟で宣誓下での証言録取を命じられる",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjr4y34kww2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 23 Oct 2026 01:32:39 GMT"
+    },
+    {
+      "title": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "災害",
+      "region": "asia",
+      "published_at": "Fri, 23 Oct 2026 07:22:46 GMT"
+    },
+    {
+      "title": "【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c50mepzk188go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Thu, 22 Oct 2026 02:20:17 GMT"
+      "published_at": "Fri, 23 Oct 2026 07:09:09 GMT"
     },
     {
-      "title": "ロシア、キーウをミサイル攻撃　アメリカが促すウクライナとの和平協議再開への意向表明後",
+      "title": "シャモンダウイルス、ヒト感染例を初めて確認　フランス",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvkgk11xrzkwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c68xzdlx98geo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 23 Oct 2026 04:00:39 GMT"
+    },
+    {
+      "title": "PHPめぐって何が起きているのか　AIが脆弱性を発見し世界中が大慌て",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cqvg0r4kmdk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 23 Oct 2026 02:54:52 GMT"
+    },
+    {
+      "title": "ブラジル大統領選、米メタが干渉とルラ大統領が主張　対立候補の失格を要求",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqe8r6dle36jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Fri, 23 Oct 2026 04:35:10 GMT"
+    },
+    {
+      "title": "イエメンのフーシ派、サウジアラビア東部の空港を攻撃　2人死亡と当局",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckdd8547l8m5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
-      "region": "north-america",
-      "published_at": "Thu, 22 Oct 2026 04:57:12 GMT"
-    },
-    {
-      "title": "米裁判所、メタに制裁金4兆円の判決　利用者データ流出で「うそ」の説明",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjy56q09r9e7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 22 Oct 2026 05:07:06 GMT"
+      "region": "middle-east",
+      "published_at": "Fri, 23 Oct 2026 03:22:24 GMT"
     },
     {
       "title": "【解説】 日本のイベント開催能力は世界有数、しかしアジア大会は混乱を極めた",
@@ -38,51 +83,6 @@
       "category": "世界情勢",
       "region": "japan",
       "published_at": "Thu, 22 Oct 2026 06:29:54 GMT"
-    },
-    {
-      "title": "エアビー、ホストは客にシーツ外しや皿洗いを強制できないと新ルール",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr4g1j6nx08no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 22 Oct 2026 06:45:28 GMT"
-    },
-    {
-      "title": "カナダが米中間選挙に「干渉している」と在オタワ米大使館が非難　カーニー政権は否定",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm89z1q40xqjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 22 Oct 2026 08:18:07 GMT"
-    },
-    {
-      "title": "【解説】 アメリカの外交努力、ウクライナ和平に希望を与えず＝BBCロシア編集長",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6gr8412l2qzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "north-america",
-      "published_at": "Thu, 22 Oct 2026 07:43:30 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 ブッシュ家の2人、民主党候補を支持　テキサス州の連邦上院議員選で",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crz65nydxlw1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 22 Oct 2026 07:52:37 GMT"
-    },
-    {
-      "title": "北朝鮮が金正恩氏の写真公開　死亡説が繰り返し浮上する理由は",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9rkyjy2z560o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Wed, 21 Oct 2026 05:32:19 GMT"
     }
   ]
 }
