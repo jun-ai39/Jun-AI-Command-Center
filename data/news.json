@@ -1,34 +1,52 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-23T23:50:45+00:00",
+  "updated_at": "2026-10-24T23:09:41+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "トランプ大統領、マスク氏がウクライナのスターリンクへのアクセスを復旧と",
+      "title": "パリ近郊で銃撃、「人種差別的なテロ攻撃」と仏大統領　1人死亡し5人負傷",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqx2vp2dne8mo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6kg5ml4zv7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "global",
+      "published_at": "Sat, 24 Oct 2026 02:28:04 GMT"
+    },
+    {
+      "title": "スターリンクの利用制限、トランプ氏の解除発言後も続いている……ウクライナ側が主張",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm2d6zzwddypo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Fri, 23 Oct 2026 00:55:35 GMT"
+      "published_at": "Sat, 24 Oct 2026 03:17:20 GMT"
     },
     {
-      "title": "トランプ氏、BBC「パノラマ」訴訟で宣誓下での証言録取を命じられる",
+      "title": "トランプ米政権、一部のカナダ製品に対する関税撤廃　中間選挙迫る",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjr4y34kww2zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cry834lqq90lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "north-america",
+      "published_at": "Sat, 24 Oct 2026 04:39:33 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 トランプ政権、アラスカで共和党の上院現職が僅差で敗れたら結果認定阻止求めると提訴",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c679pxje3q2lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Fri, 23 Oct 2026 01:32:39 GMT"
+      "published_at": "Sat, 24 Oct 2026 05:36:30 GMT"
     },
     {
-      "title": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
+      "title": "イギリス政府、国民に「3日分の備え」呼びかけ　特定の脅威情報への対策ではなく",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck86z5ee632eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "asia",
-      "published_at": "Fri, 23 Oct 2026 07:22:46 GMT"
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 24 Oct 2026 05:29:02 GMT"
     },
     {
       "title": "【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長",
@@ -40,49 +58,31 @@
       "published_at": "Fri, 23 Oct 2026 07:09:09 GMT"
     },
     {
-      "title": "シャモンダウイルス、ヒト感染例を初めて確認　フランス",
+      "title": "トランプ氏、BBC「パノラマ」訴訟で宣誓下での証言録取を命じられる",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c68xzdlx98geo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cjr4y34kww2zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 23 Oct 2026 04:00:39 GMT"
+      "region": "north-america",
+      "published_at": "Fri, 23 Oct 2026 01:32:39 GMT"
     },
     {
-      "title": "PHPめぐって何が起きているのか　AIが脆弱性を発見し世界中が大慌て",
+      "title": "トランプ大統領、マスク氏がウクライナのスターリンクへのアクセスを復旧と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cqvg0r4kmdk4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqx2vp2dne8mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 23 Oct 2026 02:54:52 GMT"
+      "region": "north-america",
+      "published_at": "Fri, 23 Oct 2026 00:55:35 GMT"
     },
     {
-      "title": "ブラジル大統領選、米メタが干渉とルラ大統領が主張　対立候補の失格を要求",
+      "title": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqe8r6dle36jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Fri, 23 Oct 2026 04:35:10 GMT"
-    },
-    {
-      "title": "イエメンのフーシ派、サウジアラビア東部の空港を攻撃　2人死亡と当局",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckdd8547l8m5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Fri, 23 Oct 2026 03:22:24 GMT"
-    },
-    {
-      "title": "【解説】 日本のイベント開催能力は世界有数、しかしアジア大会は混乱を極めた",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm93zxd0yw50o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Thu, 22 Oct 2026 06:29:54 GMT"
+      "category": "災害",
+      "region": "asia",
+      "published_at": "Fri, 23 Oct 2026 07:22:46 GMT"
     }
   ]
 }

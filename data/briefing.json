@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T23:50:56+00:00",
+  "generated_at": "2026-10-24T23:09:53+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
-      "category": "災害",
-      "source": "BBC News 日本語",
-      "published_at": "Fri, 23 Oct 2026 07:22:46 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長",
+      "title": "【米中間選挙2026】 トランプ政権、アラスカで共和党の上院現職が僅差で敗れたら結果認定阻止求めると提訴",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 23 Oct 2026 07:09:09 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c50mepzk188go?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 24 Oct 2026 05:36:30 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c679pxje3q2lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ブラジル大統領選、米メタが干渉とルラ大統領が主張　対立候補の失格を要求",
+      "title": "イギリス政府、国民に「3日分の備え」呼びかけ　特定の脅威情報への対策ではなく",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 23 Oct 2026 04:35:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqe8r6dle36jo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 24 Oct 2026 05:29:02 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck86z5ee632eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "トランプ米政権、一部のカナダ製品に対する関税撤廃　中間選挙迫る",
+      "category": "経済",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 24 Oct 2026 04:39:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cry834lqq90lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -36,11 +36,11 @@
     {
       "label": "暗号資産",
       "value": "上昇 1・下落 3・横ばい 0",
-      "detail": "最大変動：XRP -0.78%"
+      "detail": "最大変動：Ethereum -0.82%"
     },
     {
       "label": "市場心理",
-      "value": "50 / 100",
+      "value": "51 / 100",
       "detail": "中立"
     },
     {
@@ -52,8 +52,8 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
-      "meta": "災害・BBC News 日本語",
+      "detail": "【米中間選挙2026】 トランプ政権、アラスカで共和党の上院現職が僅差で敗れたら結果認定阻止求めると提訴",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは50（中立）です。",
+      "detail": "Fear & Greed Indexは51（中立）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-23T23:50:45+00:00",
-    "market": "2026-10-23T23:50:56+00:00"
+    "news": "2026-10-24T23:09:41+00:00",
+    "market": "2026-10-24T23:09:53+00:00"
   }
 }
