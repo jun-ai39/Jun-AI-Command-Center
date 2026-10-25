@@ -1,8 +1,17 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-24T23:09:41+00:00",
+  "updated_at": "2026-10-25T23:13:47+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "トランプ米政権、一部のカナダ製品に対する関税撤廃　中間選挙迫る",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cry834lqq90lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "north-america",
+      "published_at": "Sat, 24 Oct 2026 04:39:33 GMT"
+    },
     {
       "title": "パリ近郊で銃撃、「人種差別的なテロ攻撃」と仏大統領　1人死亡し5人負傷",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -20,15 +29,6 @@
       "category": "世界情勢",
       "region": "north-america",
       "published_at": "Sat, 24 Oct 2026 03:17:20 GMT"
-    },
-    {
-      "title": "トランプ米政権、一部のカナダ製品に対する関税撤廃　中間選挙迫る",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cry834lqq90lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Sat, 24 Oct 2026 04:39:33 GMT"
     },
     {
       "title": "【米中間選挙2026】 トランプ政権、アラスカで共和党の上院現職が僅差で敗れたら結果認定阻止求めると提訴",
