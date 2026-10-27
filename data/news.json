@@ -1,8 +1,80 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-25T23:13:47+00:00",
+  "updated_at": "2026-10-27T00:23:58+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ブラジル大統領選、現職ルラ氏が決選投票で当選　敗れた右派候補は「あり得ない」",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cky83ywyx5yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Tue, 27 Oct 2026 00:09:16 GMT"
+    },
+    {
+      "title": "セルビア総選挙、学生主導の抗議運動が与党倒す　前大統領は敗北認める",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c820vdyddwk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 26 Oct 2026 02:55:46 GMT"
+    },
+    {
+      "title": "ブラジルのルラ大統領、決選投票で勝利　どうやって形勢逆転したのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/c6rryn44nenno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Mon, 26 Oct 2026 08:42:05 GMT"
+    },
+    {
+      "title": "PHPサイバーセキュリティー危機、知られざる英雄になったエンジニアの話",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckvg7p23pwy8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 26 Oct 2026 09:41:22 GMT"
+    },
+    {
+      "title": "ヴェネズエラの反体制派指導者マチャド氏、10カ月ぶり帰国　ノーベル平和賞受賞で出国以来",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwnv0g93d51zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 26 Oct 2026 02:58:11 GMT"
+    },
+    {
+      "title": "フランス全土で再び大規模な抗議デモ、1300人以上逮捕　参加者と警官らが衝突",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c9x28km27gklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 26 Oct 2026 06:28:33 GMT"
+    },
+    {
+      "title": "マスク氏、ウクライナのスターリンク接続をスペースXが制限したと説明　サービスは復旧",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6y0e9epklgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 26 Oct 2026 09:10:21 GMT"
+    },
+    {
+      "title": "前大統領の敗北宣言に喜びと驚き、総選挙直後のセルビア首都",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cmgr8d80108vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 26 Oct 2026 07:24:48 GMT"
+    },
     {
       "title": "トランプ米政権、一部のカナダ製品に対する関税撤廃　中間選挙迫る",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,78 +83,6 @@
       "category": "経済",
       "region": "north-america",
       "published_at": "Sat, 24 Oct 2026 04:39:33 GMT"
-    },
-    {
-      "title": "パリ近郊で銃撃、「人種差別的なテロ攻撃」と仏大統領　1人死亡し5人負傷",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6kg5ml4zv7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "global",
-      "published_at": "Sat, 24 Oct 2026 02:28:04 GMT"
-    },
-    {
-      "title": "スターリンクの利用制限、トランプ氏の解除発言後も続いている……ウクライナ側が主張",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm2d6zzwddypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 24 Oct 2026 03:17:20 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 トランプ政権、アラスカで共和党の上院現職が僅差で敗れたら結果認定阻止求めると提訴",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c679pxje3q2lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 24 Oct 2026 05:36:30 GMT"
-    },
-    {
-      "title": "イギリス政府、国民に「3日分の備え」呼びかけ　特定の脅威情報への対策ではなく",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck86z5ee632eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 24 Oct 2026 05:29:02 GMT"
-    },
-    {
-      "title": "【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c50mepzk188go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 23 Oct 2026 07:09:09 GMT"
-    },
-    {
-      "title": "トランプ氏、BBC「パノラマ」訴訟で宣誓下での証言録取を命じられる",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjr4y34kww2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 23 Oct 2026 01:32:39 GMT"
-    },
-    {
-      "title": "トランプ大統領、マスク氏がウクライナのスターリンクへのアクセスを復旧と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqx2vp2dne8mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 23 Oct 2026 00:55:35 GMT"
-    },
-    {
-      "title": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "災害",
-      "region": "asia",
-      "published_at": "Fri, 23 Oct 2026 07:22:46 GMT"
     }
   ]
 }

@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T23:13:57+00:00",
+  "generated_at": "2026-10-27T00:24:10+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "【米中間選挙2026】 トランプ政権、アラスカで共和党の上院現職が僅差で敗れたら結果認定阻止求めると提訴",
+      "title": "ブラジル大統領選、現職ルラ氏が決選投票で当選　敗れた右派候補は「あり得ない」",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 24 Oct 2026 05:36:30 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c679pxje3q2lo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 27 Oct 2026 00:09:16 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cky83ywyx5yjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "イギリス政府、国民に「3日分の備え」呼びかけ　特定の脅威情報への対策ではなく",
+      "title": "PHPサイバーセキュリティー危機、知られざる英雄になったエンジニアの話",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 24 Oct 2026 05:29:02 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck86z5ee632eo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 26 Oct 2026 09:41:22 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckvg7p23pwy8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "トランプ米政権、一部のカナダ製品に対する関税撤廃　中間選挙迫る",
-      "category": "経済",
+      "title": "マスク氏、ウクライナのスターリンク接続をスペースXが制限したと説明　サービスは復旧",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 24 Oct 2026 04:39:33 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cry834lqq90lo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 26 Oct 2026 09:10:21 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6y0e9epklgxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -3.43%"
+      "detail": "最大変動：日経平均 -2.21%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：XRP +0.56%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：XRP +1.26%"
     },
     {
       "label": "市場心理",
-      "value": "54 / 100",
+      "value": "48 / 100",
       "detail": "中立"
     },
     {
       "label": "ドル円",
-      "value": "156.972 JPY",
-      "detail": "前日比 -0.53%"
+      "value": "157.510 JPY",
+      "detail": "前日比 -0.48%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "【米中間選挙2026】 トランプ政権、アラスカで共和党の上院現職が僅差で敗れたら結果認定阻止求めると提訴",
+      "detail": "ブラジル大統領選、現職ルラ氏が決選投票で当選　敗れた右派候補は「あり得ない」",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.43%です。",
+      "detail": "日経平均が前日比-2.21%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは54（中立）です。",
+      "detail": "Fear & Greed Indexは48（中立）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-25T23:13:47+00:00",
-    "market": "2026-10-25T23:13:57+00:00"
+    "news": "2026-10-27T00:23:58+00:00",
+    "market": "2026-10-27T00:24:10+00:00"
   }
 }

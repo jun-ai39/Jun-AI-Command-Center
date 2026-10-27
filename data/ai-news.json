@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-26",
+  "verified_at": "2026-10-27",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,127 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-a9c488820a62",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-27",
+      "category": "safety",
+      "title_ja": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "original_title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "summary_ja": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra"
+    },
+    {
+      "id": "google-b1d7eb2dedce",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-27",
+      "category": "education",
+      "title_ja": "Our newest AI Quest: Mapping the human brain",
+      "original_title": "Our newest AI Quest: Mapping the human brain",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+    },
+    {
+      "id": "google-1f93e5d0440c",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-27",
+      "category": "education",
+      "title_ja": "15 college students share their favorite Gemini features",
+      "original_title": "15 college students share their favorite Gemini features",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/"
+    },
+    {
+      "id": "google-f0acb11d7bda",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-27",
+      "category": "product",
+      "title_ja": "Powering sub-Saharan Africa beyond the grid",
+      "original_title": "Powering sub-Saharan Africa beyond the grid",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/"
+    },
+    {
+      "id": "openai-8eb6001a836a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-26",
+      "category": "model",
+      "title_ja": "Working with academic communities to build scientific understanding",
+      "original_title": "Working with academic communities to build scientific understanding",
+      "summary_ja": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+    },
+    {
+      "id": "openai-7d972df501d0",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-26",
+      "category": "safety",
+      "title_ja": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "original_title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "summary_ja": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+    },
+    {
+      "id": "openai-27334100e818",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-26",
+      "category": "model",
+      "title_ja": "ChatGPT’s expanding world of work",
+      "original_title": "ChatGPT’s expanding world of work",
+      "summary_ja": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    },
+    {
+      "id": "openai-7e73eebe3e90",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-26",
+      "category": "product",
+      "title_ja": "How Fanatics and OpenAI streamline the fan experience",
+      "original_title": "How Fanatics and OpenAI streamline the fan experience",
+      "summary_ja": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience"
+    },
+    {
+      "id": "openai-742d30efdc40",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-26",
+      "category": "safety",
+      "title_ja": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "original_title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "summary_ja": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "url": "https://openai.com/index/openai-cut-incident-investigation"
+    },
+    {
+      "id": "openai-35e334c19874",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-26",
+      "category": "model",
+      "title_ja": "Introducing GPT-6.1 Terra",
+      "original_title": "Introducing GPT-6.1 Terra",
+      "summary_ja": "Bringing fast and capable computer use to everyone",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+    },
+    {
+      "id": "google-84c8b5286216",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-26",
+      "category": "product",
+      "title_ja": "How Google Beam connects military families globally",
+      "original_title": "How Google Beam connects military families globally",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/"
+    },
     {
       "id": "openai-ee4c22366ef7",
       "source": "openai",
@@ -66,61 +187,6 @@
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     {
-      "id": "openai-891b7e0bbf66",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-23",
-      "category": "product",
-      "title_ja": "Build more responsive apps with the Decisions API",
-      "original_title": "Build more responsive apps with the Decisions API",
-      "summary_ja": "Fast, focused, low-cost decisions for any application.",
-      "url": "https://openai.com/index/decisions-api"
-    },
-    {
-      "id": "openai-6400feb68147",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-22",
-      "category": "product",
-      "title_ja": "What FDE means at OpenAI",
-      "original_title": "What FDE means at OpenAI",
-      "summary_ja": "What forward deployed engineering means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means"
-    },
-    {
-      "id": "openai-eda525050cea",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-22",
-      "category": "business",
-      "title_ja": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "original_title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summary_ja": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout"
-    },
-    {
-      "id": "openai-39cad894cdd2",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-22",
-      "category": "education",
-      "title_ja": "How AT&T is rethinking in-house legal work with OpenAI",
-      "original_title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summary_ja": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "url": "https://openai.com/index/att-legal"
-    },
-    {
-      "id": "openai-3f1a11956436",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-22",
-      "category": "safety",
-      "title_ja": "Broad access through consistent standards",
-      "original_title": "Broad access through consistent standards",
-      "summary_ja": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards"
-    },
-    {
       "id": "google-f32712b46e4e",
       "source": "google",
       "source_name": "Google",
@@ -130,28 +196,6 @@
       "original_title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/"
-    },
-    {
-      "id": "openai-95dedf578de7",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-21",
-      "category": "business",
-      "title_ja": "OpenAI models are coming to Google Cloud",
-      "original_title": "OpenAI models are coming to Google Cloud",
-      "summary_ja": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "url": "https://openai.com/index/openai-models-google-cloud"
-    },
-    {
-      "id": "openai-de9db6f384cb",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-21",
-      "category": "safety",
-      "title_ja": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "original_title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summary_ja": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
     },
     {
       "id": "google-bc70ac2dbf77",
@@ -198,50 +242,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
     },
     {
-      "id": "google-aaace91e4663",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-21",
-      "category": "product",
-      "title_ja": "Expanding our defenses against financial scam ads",
-      "original_title": "Expanding our defenses against financial scam ads",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/"
-    },
-    {
-      "id": "google-92f044b92b6a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-20",
-      "category": "product",
-      "title_ja": "Partnering to strengthen the grid and support local communities in Arkansas",
-      "original_title": "Partnering to strengthen the grid and support local communities in Arkansas",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/"
-    },
-    {
-      "id": "google-52617e218108",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-20",
-      "category": "model",
-      "title_ja": "How to shape your slides and videos with Gemini Notebook",
-      "original_title": "How to shape your slides and videos with Gemini Notebook",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
-    },
-    {
-      "id": "google-49ec90948533",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-20",
-      "category": "model",
-      "title_ja": "4 tips for styling outfits with Gemini",
-      "original_title": "4 tips for styling outfits with Gemini",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-25T23:13:47+00:00",
+  "updated_at": "2026-10-27T00:23:59+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
