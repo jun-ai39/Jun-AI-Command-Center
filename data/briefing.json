@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T00:24:10+00:00",
+  "generated_at": "2026-10-28T00:29:08+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ブラジル大統領選、現職ルラ氏が決選投票で当選　敗れた右派候補は「あり得ない」",
-      "category": "世界情勢",
+      "title": "ロシア占領下のウクライナ南部で局地的な停戦発効、メラニア米大統領夫人の発表から4日",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 27 Oct 2026 00:09:16 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cky83ywyx5yjo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 27 Oct 2026 07:30:11 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6p9gm7xgddyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "PHPサイバーセキュリティー危機、知られざる英雄になったエンジニアの話",
+      "title": "【解説】ルラ大統領の逆転勝利、ラテンアメリカへのトランプ氏の野望にへこみが",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 26 Oct 2026 09:41:22 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ckvg7p23pwy8o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 27 Oct 2026 07:27:25 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cqx2v4x9e29eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "マスク氏、ウクライナのスターリンク接続をスペースXが制限したと説明　サービスは復旧",
+      "title": "FWケインがバロンドール受賞、イングランド代表選手として25年ぶり",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 26 Oct 2026 09:10:21 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6y0e9epklgxo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 27 Oct 2026 07:23:10 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj5ynkqgx22do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -2.21%"
+      "value": "上昇 4・下落 1・横ばい 0",
+      "detail": "最大変動：日経平均 +1.88%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：XRP +1.26%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：XRP +1.53%"
     },
     {
       "label": "市場心理",
-      "value": "48 / 100",
+      "value": "51 / 100",
       "detail": "中立"
     },
     {
       "label": "ドル円",
-      "value": "157.510 JPY",
-      "detail": "前日比 -0.48%"
+      "value": "157.889 JPY",
+      "detail": "前日比 -0.15%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ブラジル大統領選、現職ルラ氏が決選投票で当選　敗れた右派候補は「あり得ない」",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "ロシア占領下のウクライナ南部で局地的な停戦発効、メラニア米大統領夫人の発表から4日",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-2.21%です。",
+      "detail": "日経平均が前日比+1.88%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "alert"
+      "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは48（中立）です。",
+      "detail": "Fear & Greed Indexは51（中立）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-27T00:23:58+00:00",
-    "market": "2026-10-27T00:24:10+00:00"
+    "news": "2026-10-28T00:28:57+00:00",
+    "market": "2026-10-28T00:29:08+00:00"
   }
 }
