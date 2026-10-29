@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-28",
+  "verified_at": "2026-10-29",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,105 @@
     }
   ],
   "items": [
+    {
+      "id": "google-da27cb2db053",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "product",
+      "title_ja": "Ads in AI Mode expand to new markets.",
+      "original_title": "Ads in AI Mode expand to new markets.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/"
+    },
+    {
+      "id": "google-1b154ea43af2",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "product",
+      "title_ja": "Q3 2026 earnings call: Remarks from our CEO",
+      "original_title": "Q3 2026 earnings call: Remarks from our CEO",
+      "summary_ja": "Read Sundar Pichai’s remarks during Alphabet’s Q3 2026 earnings call.",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/"
+    },
+    {
+      "id": "google-4bf8e91caed3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "education",
+      "title_ja": "Dive into new topics with immersive explorations in the Gemini app.",
+      "original_title": "Dive into new topics with immersive explorations in the Gemini app.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/"
+    },
+    {
+      "id": "google-6825ae5281ac",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "model",
+      "title_ja": "Gemini 4 Carbon: our next frontier model",
+      "original_title": "Gemini 4 Carbon: our next frontier model",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "id": "google-e26ac0eef4d1",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "product",
+      "title_ja": "Build and manage Connected Apps in one place",
+      "original_title": "Build and manage Connected Apps in one place",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/"
+    },
+    {
+      "id": "google-ff68e260eb77",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "product",
+      "title_ja": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
+      "original_title": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/"
+    },
+    {
+      "id": "openai-a395c7da350b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-28",
+      "category": "business",
+      "title_ja": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "original_title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary_ja": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
+      "id": "openai-e2ed7680c50a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-28",
+      "category": "product",
+      "title_ja": "The future of the firm",
+      "original_title": "The future of the firm",
+      "summary_ja": "How AI might enter the org chart—beneath, beside, and between us.",
+      "url": "https://openai.com/index/the-future-of-the-firm"
+    },
+    {
+      "id": "openai-709cc8e2bd46",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-28",
+      "category": "model",
+      "title_ja": "Legora is building the agentic operating system for legal work",
+      "original_title": "Legora is building the agentic operating system for legal work",
+      "summary_ja": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "url": "https://openai.com/index/legora"
+    },
     {
       "id": "openai-1e3ebf94e41e",
       "source": "openai",
@@ -88,17 +187,6 @@
       "url": "https://openai.com/index/greptile-code-review-codex-astra"
     },
     {
-      "id": "google-1f93e5d0440c",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-27",
-      "category": "education",
-      "title_ja": "15 college students share their favorite Gemini features",
-      "original_title": "15 college students share their favorite Gemini features",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/"
-    },
-    {
       "id": "google-b1d7eb2dedce",
       "source": "google",
       "source_name": "Google",
@@ -110,15 +198,15 @@
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
     },
     {
-      "id": "google-f0acb11d7bda",
+      "id": "google-1f93e5d0440c",
       "source": "google",
       "source_name": "Google",
       "published_at": "2026-10-27",
-      "category": "product",
-      "title_ja": "Powering sub-Saharan Africa beyond the grid",
-      "original_title": "Powering sub-Saharan Africa beyond the grid",
+      "category": "education",
+      "title_ja": "15 college students share their favorite Gemini features",
+      "original_title": "15 college students share their favorite Gemini features",
       "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/"
+      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/"
     },
     {
       "id": "openai-8eb6001a836a",
@@ -154,94 +242,6 @@
       "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
     },
     {
-      "id": "openai-7e73eebe3e90",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-26",
-      "category": "product",
-      "title_ja": "How Fanatics and OpenAI streamline the fan experience",
-      "original_title": "How Fanatics and OpenAI streamline the fan experience",
-      "summary_ja": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience"
-    },
-    {
-      "id": "openai-742d30efdc40",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-26",
-      "category": "safety",
-      "title_ja": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "original_title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summary_ja": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "url": "https://openai.com/index/openai-cut-incident-investigation"
-    },
-    {
-      "id": "openai-35e334c19874",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-26",
-      "category": "model",
-      "title_ja": "Introducing GPT-6.1 Terra",
-      "original_title": "Introducing GPT-6.1 Terra",
-      "summary_ja": "Bringing fast and capable computer use to everyone",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra"
-    },
-    {
-      "id": "google-84c8b5286216",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-26",
-      "category": "product",
-      "title_ja": "How Google Beam connects military families globally",
-      "original_title": "How Google Beam connects military families globally",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/"
-    },
-    {
-      "id": "google-fbadabad4df2",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-24",
-      "category": "model",
-      "title_ja": "See what 5 builders are making with Gemini 4 Argon",
-      "original_title": "See what 5 builders are making with Gemini 4 Argon",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/"
-    },
-    {
-      "id": "google-f32712b46e4e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-22",
-      "category": "product",
-      "title_ja": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
-      "original_title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/"
-    },
-    {
-      "id": "google-bc70ac2dbf77",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-21",
-      "category": "product",
-      "title_ja": "Recreating the lost studios of women sculptors with Prune Nourry",
-      "original_title": "Recreating the lost studios of women sculptors with Prune Nourry",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/"
-    },
-    {
-      "id": "google-7a44093bc311",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-21",
-      "category": "model",
-      "title_ja": "Get hands-free personalized help on the road with Gemini",
-      "original_title": "Get hands-free personalized help on the road with Gemini",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-28T00:28:58+00:00",
+  "updated_at": "2026-10-29T00:52:45+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

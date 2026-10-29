@@ -1,8 +1,71 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-28T00:28:57+00:00",
+  "updated_at": "2026-10-29T00:52:44+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "イスラエル総選挙、出口調査では明確な勝者なし　与野党とも過半数達しない見通し",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c60qk3j98p03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 28 Oct 2026 04:50:57 GMT"
+    },
+    {
+      "title": "ブラジル大統領選で敗れたボルソナロ氏、アメリカへ出国　旅券停止され",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c574p3pejynjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Wed, 28 Oct 2026 01:55:02 GMT"
+    },
+    {
+      "title": "ウクライナ南部の局地的な停戦、ヘルソン州全域に拡大と当局者",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c3dxwzx1kn0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 28 Oct 2026 06:06:29 GMT"
+    },
+    {
+      "title": "「明確な勝者なし」のイスラエル総選挙、今後はどうなるのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/c63elxjy08llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 28 Oct 2026 07:12:48 GMT"
+    },
+    {
+      "title": "カトリック司教たちが謝罪、トランプ氏との会合「悪用」されたと",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmrly181838xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 28 Oct 2026 08:01:48 GMT"
+    },
+    {
+      "title": "【解説】セルビアの学生運動はどのようにヴチッチ政権を崩壊させたのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjy5675y5vkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 28 Oct 2026 05:11:44 GMT"
+    },
+    {
+      "title": "英フェアフォード空軍基地事件、2容疑者が出廷　イランの関与疑われるなか起訴",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm74pvjdx4zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 28 Oct 2026 07:38:06 GMT"
+    },
     {
       "title": "【解説】ルラ大統領の逆転勝利、ラテンアメリカへのトランプ氏の野望にへこみが",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -13,24 +76,6 @@
       "published_at": "Tue, 27 Oct 2026 07:27:25 GMT"
     },
     {
-      "title": "ロシア占領下のウクライナ南部で局地的な停戦発効、メラニア米大統領夫人の発表から4日",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6p9gm7xgddyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 27 Oct 2026 07:30:11 GMT"
-    },
-    {
-      "title": "【解説】 ブラジル大統領続投のルラ氏、直面するのは敵対する議会と分裂した国",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c699zj4njg5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Tue, 27 Oct 2026 04:13:02 GMT"
-    },
-    {
       "title": "米アンソロピック、人類への「壊滅的なリスク」を警告　大型上場を前に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/c6m2d8vmzrndo?at_medium=RSS&at_campaign=rss",
@@ -38,51 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Tue, 27 Oct 2026 05:17:17 GMT"
-    },
-    {
-      "title": "ルラ氏の再選、ワッツアップでのSNS戦略が貢献したのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cmkg71llvqvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 27 Oct 2026 03:51:22 GMT"
-    },
-    {
-      "title": "コーミー元FBI長官に3回目の刑事訴追　防衛情報を流出させたと米司法省",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crkg71q02g2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 27 Oct 2026 01:59:35 GMT"
-    },
-    {
-      "title": "コーミー元FBI長官の娘、トランプ政権が違法解雇と米連邦地裁　復職命じる",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck62y0gd5vjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 27 Oct 2026 03:43:34 GMT"
-    },
-    {
-      "title": "FWケインがバロンドール受賞、イングランド代表選手として25年ぶり",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj5ynkqgx22do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 27 Oct 2026 07:23:10 GMT"
-    },
-    {
-      "title": "米俳優ウォルター・ケーニッグさんが90歳で死去、「スター・トレック」のチェコフ役",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm0ldjnj730ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 27 Oct 2026 01:27:02 GMT"
     }
   ]
 }
