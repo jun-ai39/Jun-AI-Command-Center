@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T00:52:55+00:00",
+  "generated_at": "2026-10-30T00:56:39+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "カトリック司教たちが謝罪、トランプ氏との会合「悪用」されたと",
+      "title": "プーチン氏、マスク氏は「本物の天才」　衛星技術めぐり「緊密に」連絡を取っていると",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 28 Oct 2026 08:01:48 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmrly181838xo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 29 Oct 2026 08:41:10 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck054ddeye00o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "英フェアフォード空軍基地事件、2容疑者が出廷　イランの関与疑われるなか起訴",
+      "title": "サンリオ、「VIVANT」とのコラボを中止　中国でドラマへの批判が強まり",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 28 Oct 2026 07:38:06 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm74pvjdx4zgo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 29 Oct 2026 07:59:10 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmzxlr4zglqwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "「明確な勝者なし」のイスラエル総選挙、今後はどうなるのか",
+      "title": "マイクロソフト、利益急増を報告　6万人対象の希望退職制度の発表から数日後",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 28 Oct 2026 07:12:48 GMT",
-      "url": "https://www.bbc.com/japanese/watch/c63elxjy08llo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 29 Oct 2026 07:18:09 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cvp8g410yx55o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：日経平均 +2.78%"
+      "value": "上昇 4・下落 1・横ばい 0",
+      "detail": "最大変動：日経平均 +2.29%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：Solana +0.81%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -7.57%"
     },
     {
       "label": "市場心理",
-      "value": "51 / 100",
-      "detail": "中立"
+      "value": "30 / 100",
+      "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "157.902 JPY",
-      "detail": "前日比 +0.90%"
+      "value": "157.366 JPY",
+      "detail": "前日比 +0.34%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "カトリック司教たちが謝罪、トランプ氏との会合「悪用」されたと",
+      "detail": "プーチン氏、マスク氏は「本物の天才」　衛星技術めぐり「緊密に」連絡を取っていると",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+2.78%です。",
+      "detail": "日経平均が前日比+2.29%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは51（中立）です。",
+      "detail": "Fear & Greed Indexは30（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-29T00:52:44+00:00",
-    "market": "2026-10-29T00:52:55+00:00"
+    "news": "2026-10-30T00:56:28+00:00",
+    "market": "2026-10-30T00:56:39+00:00"
   }
 }

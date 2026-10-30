@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-29T00:52:44+00:00",
+  "updated_at": "2026-10-30T00:56:28+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "イスラエル総選挙、出口調査では明確な勝者なし　与野党とも過半数達しない見通し",
+      "title": "スペインで高速列車が衝突、少なくとも68人死亡　停止列車に追突か",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c60qk3j98p03o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cq0k0rp174m5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Wed, 28 Oct 2026 04:50:57 GMT"
+      "region": "europe",
+      "published_at": "Thu, 29 Oct 2026 03:02:31 GMT"
     },
     {
-      "title": "ブラジル大統領選で敗れたボルソナロ氏、アメリカへ出国　旅券停止され",
+      "title": "ブラジル大統領選で敗れたボルソナロ氏、国外逃亡を否定　米マイアミ到着後",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c574p3pejynjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6n8d9j7ynlzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "latin-america",
-      "published_at": "Wed, 28 Oct 2026 01:55:02 GMT"
+      "published_at": "Thu, 29 Oct 2026 04:34:39 GMT"
     },
     {
-      "title": "ウクライナ南部の局地的な停戦、ヘルソン州全域に拡大と当局者",
+      "title": "ネタニヤフ陣営がリード、過半数には届かず　イスラエル総選挙で85％開票",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3dxwzx1kn0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Wed, 28 Oct 2026 06:06:29 GMT"
-    },
-    {
-      "title": "「明確な勝者なし」のイスラエル総選挙、今後はどうなるのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c63elxjy08llo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck0j06exevdvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Wed, 28 Oct 2026 07:12:48 GMT"
+      "published_at": "Thu, 29 Oct 2026 05:13:36 GMT"
     },
     {
-      "title": "カトリック司教たちが謝罪、トランプ氏との会合「悪用」されたと",
+      "title": "プーチン氏、マスク氏は「本物の天才」　衛星技術めぐり「緊密に」連絡を取っていると",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmrly181838xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 28 Oct 2026 08:01:48 GMT"
-    },
-    {
-      "title": "【解説】セルビアの学生運動はどのようにヴチッチ政権を崩壊させたのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjy5675y5vkko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck054ddeye00o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Wed, 28 Oct 2026 05:11:44 GMT"
+      "published_at": "Thu, 29 Oct 2026 08:41:10 GMT"
     },
     {
-      "title": "英フェアフォード空軍基地事件、2容疑者が出廷　イランの関与疑われるなか起訴",
+      "title": "サンリオ、「VIVANT」とのコラボを中止　中国でドラマへの批判が強まり",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm74pvjdx4zgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmzxlr4zglqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Thu, 29 Oct 2026 07:59:10 GMT"
+    },
+    {
+      "title": "マイクロソフト、利益急増を報告　6万人対象の希望退職制度の発表から数日後",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvp8g410yx55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 29 Oct 2026 07:18:09 GMT"
+    },
+    {
+      "title": "【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwe8l4nmrgp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Thu, 29 Oct 2026 05:28:32 GMT"
+    },
+    {
+      "title": "【検証】ボルソナロ氏はどのように米マイアミにたどり着いたのか、アルゼンチンとエクアドルを経由",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/c6kglwvrrn4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "latin-america",
+      "published_at": "Thu, 29 Oct 2026 05:57:04 GMT"
+    },
+    {
+      "title": "混迷のイスラエル総選挙、現時点でわかっていること",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cry831y3gq79o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "middle-east",
-      "published_at": "Wed, 28 Oct 2026 07:38:06 GMT"
-    },
-    {
-      "title": "【解説】ルラ大統領の逆転勝利、ラテンアメリカへのトランプ氏の野望にへこみが",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqx2v4x9e29eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 27 Oct 2026 07:27:25 GMT"
-    },
-    {
-      "title": "米アンソロピック、人類への「壊滅的なリスク」を警告　大型上場を前に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6m2d8vmzrndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 27 Oct 2026 05:17:17 GMT"
+      "published_at": "Thu, 29 Oct 2026 07:07:41 GMT"
     }
   ]
 }

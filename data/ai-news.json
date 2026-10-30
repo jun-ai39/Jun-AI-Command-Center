@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-29",
+  "verified_at": "2026-10-30",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,116 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-9349f418e7bc",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-30",
+      "category": "safety",
+      "title_ja": "An updated Model Spec for more capable and beneficial AI",
+      "original_title": "An updated Model Spec for more capable and beneficial AI",
+      "summary_ja": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "url": "https://openai.com/index/updated-model-spec"
+    },
+    {
+      "id": "google-d9e57218237a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-30",
+      "category": "model",
+      "title_ja": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "original_title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
+    },
+    {
+      "id": "google-ff479ec2b2cd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-30",
+      "category": "education",
+      "title_ja": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+      "original_title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/"
+    },
+    {
+      "id": "google-60134842d45d",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-30",
+      "category": "education",
+      "title_ja": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+      "original_title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/"
+    },
+    {
+      "id": "openai-0f01adb2acab",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-29",
+      "category": "safety",
+      "title_ja": "How we detect frontier model misalignment",
+      "original_title": "How we detect frontier model misalignment",
+      "summary_ja": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    },
+    {
+      "id": "openai-d948735545c2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-29",
+      "category": "product",
+      "title_ja": "How Ropes & Gray is developing AI for transactional diligence",
+      "original_title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary_ja": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence"
+    },
+    {
+      "id": "google-444f72b5fda1",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "product",
+      "title_ja": "Equipping healthcare professionals with practical AI skills",
+      "original_title": "Equipping healthcare professionals with practical AI skills",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/"
+    },
+    {
+      "id": "google-aeb0cc695479",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "model",
+      "title_ja": "How to use Gemini to update your resume",
+      "original_title": "How to use Gemini to update your resume",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/"
+    },
+    {
+      "id": "google-ee9c906b643c",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "education",
+      "title_ja": "How Gemini is helping students and teachers in the classroom",
+      "original_title": "How Gemini is helping students and teachers in the classroom",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/"
+    },
+    {
+      "id": "google-db1777bc5288",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-29",
+      "category": "product",
+      "title_ja": "Partnering with Singapore to bring frontier AI to public health",
+      "original_title": "Partnering with Singapore to bring frontier AI to public health",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/"
+    },
     {
       "id": "google-da27cb2db053",
       "source": "google",
@@ -53,39 +163,6 @@
       "original_title": "Dive into new topics with immersive explorations in the Gemini app.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/"
-    },
-    {
-      "id": "google-6825ae5281ac",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "model",
-      "title_ja": "Gemini 4 Carbon: our next frontier model",
-      "original_title": "Gemini 4 Carbon: our next frontier model",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
-    },
-    {
-      "id": "google-e26ac0eef4d1",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "product",
-      "title_ja": "Build and manage Connected Apps in one place",
-      "original_title": "Build and manage Connected Apps in one place",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/"
-    },
-    {
-      "id": "google-ff68e260eb77",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "product",
-      "title_ja": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
-      "original_title": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/"
     },
     {
       "id": "openai-a395c7da350b",
@@ -132,28 +209,6 @@
       "url": "https://openai.com/index/retell-ai"
     },
     {
-      "id": "google-319d52d61ca2",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-28",
-      "category": "model",
-      "title_ja": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
-      "original_title": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/"
-    },
-    {
-      "id": "google-cc7dc046155f",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-28",
-      "category": "model",
-      "title_ja": "8 examples of Gemini 4 Argon in action",
-      "original_title": "8 examples of Gemini 4 Argon in action",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/"
-    },
-    {
       "id": "openai-c417f8e3d39d",
       "source": "openai",
       "source_name": "OpenAI",
@@ -185,61 +240,6 @@
       "original_title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "summary_ja": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
       "url": "https://openai.com/index/greptile-code-review-codex-astra"
-    },
-    {
-      "id": "google-b1d7eb2dedce",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-27",
-      "category": "education",
-      "title_ja": "Our newest AI Quest: Mapping the human brain",
-      "original_title": "Our newest AI Quest: Mapping the human brain",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
-    },
-    {
-      "id": "google-1f93e5d0440c",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-27",
-      "category": "education",
-      "title_ja": "15 college students share their favorite Gemini features",
-      "original_title": "15 college students share their favorite Gemini features",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/"
-    },
-    {
-      "id": "openai-8eb6001a836a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-26",
-      "category": "model",
-      "title_ja": "Working with academic communities to build scientific understanding",
-      "original_title": "Working with academic communities to build scientific understanding",
-      "summary_ja": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
-    },
-    {
-      "id": "openai-7d972df501d0",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-26",
-      "category": "safety",
-      "title_ja": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "original_title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "summary_ja": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
-    },
-    {
-      "id": "openai-27334100e818",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-26",
-      "category": "model",
-      "title_ja": "ChatGPT’s expanding world of work",
-      "original_title": "ChatGPT’s expanding world of work",
-      "summary_ja": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-29T00:52:45+00:00",
+  "updated_at": "2026-10-30T00:56:29+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
