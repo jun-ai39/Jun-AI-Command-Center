@@ -1,16 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-30T00:56:28+00:00",
+  "updated_at": "2026-10-31T00:44:15+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "スペインで高速列車が衝突、少なくとも68人死亡　停止列車に追突か",
+      "title": "スペインの高速列車衝突、運転士と管制の交信音声が浮上　直前のやり取りが明らかに",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq0k0rp174m5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cq0732kvgd5mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Thu, 29 Oct 2026 03:02:31 GMT"
+      "published_at": "Fri, 30 Oct 2026 06:06:23 GMT"
+    },
+    {
+      "title": "中国共産党、過去最多33幹部の党籍剥奪処分　習氏は5中総会で「党規律」を強調",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crx2d152yyl6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 30 Oct 2026 03:42:41 GMT"
+    },
+    {
+      "title": "ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める　帰国後初の会見",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmx2d1ve7771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 30 Oct 2026 07:23:37 GMT"
+    },
+    {
+      "title": "ソウル雑踏事故の映像をゲームに使用、遺族が米企業に削除求める",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr0qk21qj482o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 30 Oct 2026 08:54:55 GMT"
+    },
+    {
+      "title": "英俳優サー・パトリック・スチュワート、86歳で死去　シェイクスピアや「スター・トレック」など数々の名演",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq70p7w9pnr5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 30 Oct 2026 02:35:41 GMT"
+    },
+    {
+      "title": "イスラエル野党、ネタニヤフ首相が選挙の正当性を損なおうとしていると非難",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckjrwp2705r3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Fri, 30 Oct 2026 04:38:37 GMT"
+    },
+    {
+      "title": "香港政府トップ、高層住宅群での大規模火災について謝罪　調査報告書を発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmwyv2dv2881o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 30 Oct 2026 05:48:33 GMT"
+    },
+    {
+      "title": "ウクライナ中部の鉄道駅にロシアのドローン攻撃、少なくとも14人死亡と当局",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crq5npwl5dplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Fri, 30 Oct 2026 08:31:54 GMT"
     },
     {
       "title": "ブラジル大統領選で敗れたボルソナロ氏、国外逃亡を否定　米マイアミ到着後",
@@ -20,69 +83,6 @@
       "category": "世界情勢",
       "region": "latin-america",
       "published_at": "Thu, 29 Oct 2026 04:34:39 GMT"
-    },
-    {
-      "title": "ネタニヤフ陣営がリード、過半数には届かず　イスラエル総選挙で85％開票",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck0j06exevdvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 29 Oct 2026 05:13:36 GMT"
-    },
-    {
-      "title": "プーチン氏、マスク氏は「本物の天才」　衛星技術めぐり「緊密に」連絡を取っていると",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck054ddeye00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 29 Oct 2026 08:41:10 GMT"
-    },
-    {
-      "title": "サンリオ、「VIVANT」とのコラボを中止　中国でドラマへの批判が強まり",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmzxlr4zglqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 29 Oct 2026 07:59:10 GMT"
-    },
-    {
-      "title": "マイクロソフト、利益急増を報告　6万人対象の希望退職制度の発表から数日後",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvp8g410yx55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 29 Oct 2026 07:18:09 GMT"
-    },
-    {
-      "title": "【解説】 イスラエル総選挙で明確な結果出ず、国内の深刻な分裂示す",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwe8l4nmrgp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Thu, 29 Oct 2026 05:28:32 GMT"
-    },
-    {
-      "title": "【検証】ボルソナロ氏はどのように米マイアミにたどり着いたのか、アルゼンチンとエクアドルを経由",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c6kglwvrrn4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "latin-america",
-      "published_at": "Thu, 29 Oct 2026 05:57:04 GMT"
-    },
-    {
-      "title": "混迷のイスラエル総選挙、現時点でわかっていること",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cry831y3gq79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 29 Oct 2026 07:07:41 GMT"
     }
   ]
 }

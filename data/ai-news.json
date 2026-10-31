@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-10-30",
+  "verified_at": "2026-10-31",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,61 @@
     }
   ],
   "items": [
+    {
+      "id": "google-ed7605e93ca5",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-31",
+      "category": "product",
+      "title_ja": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "original_title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
+    },
+    {
+      "id": "google-ec71bd9a606c",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-10-31",
+      "category": "product",
+      "title_ja": "See who has access to your Gmail inbox in 2 minutes.",
+      "original_title": "See who has access to your Gmail inbox in 2 minutes.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/"
+    },
+    {
+      "id": "openai-84abd1857de5",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-30",
+      "category": "business",
+      "title_ja": "Making it easier for websites to express AI training preferences",
+      "original_title": "Making it easier for websites to express AI training preferences",
+      "summary_ja": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+      "id": "openai-a86d24c59c82",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-30",
+      "category": "safety",
+      "title_ja": "Community safety report and new protections for teens",
+      "original_title": "Community safety report and new protections for teens",
+      "summary_ja": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
+    {
+      "id": "openai-574dbaf7fc87",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-30",
+      "category": "business",
+      "title_ja": "Fair use benefits everyone",
+      "original_title": "Fair use benefits everyone",
+      "summary_ja": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "url": "https://openai.com/index/fair-use-benefits-everyone"
+    },
     {
       "id": "openai-9349f418e7bc",
       "source": "openai",
@@ -88,6 +143,17 @@
       "url": "https://openai.com/index/ropes-gray-ai-diligence"
     },
     {
+      "id": "openai-85f94c0fe8f0",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-10-29",
+      "category": "business",
+      "title_ja": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "original_title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "summary_ja": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "url": "https://openai.com/index/credit-saison"
+    },
+    {
       "id": "google-444f72b5fda1",
       "source": "google",
       "source_name": "Google",
@@ -143,28 +209,6 @@
       "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/"
     },
     {
-      "id": "google-1b154ea43af2",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "product",
-      "title_ja": "Q3 2026 earnings call: Remarks from our CEO",
-      "original_title": "Q3 2026 earnings call: Remarks from our CEO",
-      "summary_ja": "Read Sundar Pichai’s remarks during Alphabet’s Q3 2026 earnings call.",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/"
-    },
-    {
-      "id": "google-4bf8e91caed3",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "education",
-      "title_ja": "Dive into new topics with immersive explorations in the Gemini app.",
-      "original_title": "Dive into new topics with immersive explorations in the Gemini app.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/"
-    },
-    {
       "id": "openai-a395c7da350b",
       "source": "openai",
       "source_name": "OpenAI",
@@ -196,50 +240,6 @@
       "original_title": "Legora is building the agentic operating system for legal work",
       "summary_ja": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "url": "https://openai.com/index/legora"
-    },
-    {
-      "id": "openai-1e3ebf94e41e",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-28",
-      "category": "model",
-      "title_ja": "Retell uses OpenAI models to help power 100M monthly calls",
-      "original_title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "summary_ja": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "url": "https://openai.com/index/retell-ai"
-    },
-    {
-      "id": "openai-c417f8e3d39d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-27",
-      "category": "business",
-      "title_ja": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "original_title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "summary_ja": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt"
-    },
-    {
-      "id": "openai-c44dc9ed271f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-27",
-      "category": "safety",
-      "title_ja": "How Check Point accelerates vulnerability research with Daybreak",
-      "original_title": "How Check Point accelerates vulnerability research with Daybreak",
-      "summary_ja": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "url": "https://openai.com/index/check-point-daybreak"
-    },
-    {
-      "id": "openai-a9c488820a62",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-27",
-      "category": "safety",
-      "title_ja": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "original_title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "summary_ja": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-10-30T00:56:29+00:00",
+  "updated_at": "2026-10-31T00:44:15+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

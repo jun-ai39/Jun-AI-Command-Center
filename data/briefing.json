@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T00:56:39+00:00",
+  "generated_at": "2026-10-31T00:44:25+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "プーチン氏、マスク氏は「本物の天才」　衛星技術めぐり「緊密に」連絡を取っていると",
+      "title": "ソウル雑踏事故の映像をゲームに使用、遺族が米企業に削除求める",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 29 Oct 2026 08:41:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck054ddeye00o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 30 Oct 2026 08:54:55 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cr0qk21qj482o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "サンリオ、「VIVANT」とのコラボを中止　中国でドラマへの批判が強まり",
-      "category": "世界情勢",
+      "title": "ウクライナ中部の鉄道駅にロシアのドローン攻撃、少なくとも14人死亡と当局",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 29 Oct 2026 07:59:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmzxlr4zglqwo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 30 Oct 2026 08:31:54 GMT",
+      "url": "https://www.bbc.com/japanese/articles/crq5npwl5dplo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "マイクロソフト、利益急増を報告　6万人対象の希望退職制度の発表から数日後",
+      "title": "ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める　帰国後初の会見",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 29 Oct 2026 07:18:09 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cvp8g410yx55o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 30 Oct 2026 07:23:37 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmx2d1ve7771o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 4・下落 1・横ばい 0",
-      "detail": "最大変動：日経平均 +2.29%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 -2.00%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：XRP -7.57%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：XRP +3.64%"
     },
     {
       "label": "市場心理",
@@ -45,22 +45,22 @@
     },
     {
       "label": "ドル円",
-      "value": "157.366 JPY",
-      "detail": "前日比 +0.34%"
+      "value": "157.519 JPY",
+      "detail": "前日比 +0.44%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "プーチン氏、マスク氏は「本物の天才」　衛星技術めぐり「緊密に」連絡を取っていると",
+      "detail": "ソウル雑踏事故の映像をゲームに使用、遺族が米企業に削除求める",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比+2.29%です。",
+      "detail": "NASDAQ総合が前日比-2.00%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "alert"
+      "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-30T00:56:28+00:00",
-    "market": "2026-10-30T00:56:39+00:00"
+    "news": "2026-10-31T00:44:15+00:00",
+    "market": "2026-10-31T00:44:25+00:00"
   }
 }
