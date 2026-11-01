@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T00:44:25+00:00",
+  "generated_at": "2026-11-01T00:05:58+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ソウル雑踏事故の映像をゲームに使用、遺族が米企業に削除求める",
+      "title": "【米中間選挙2026】 トランプ氏は不正投票が「横行」と主張　だが証拠によると極めて珍しい",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 30 Oct 2026 08:54:55 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cr0qk21qj482o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 31 Oct 2026 09:44:57 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmde85n8pngdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ウクライナ中部の鉄道駅にロシアのドローン攻撃、少なくとも14人死亡と当局",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Fri, 30 Oct 2026 08:31:54 GMT",
-      "url": "https://www.bbc.com/japanese/articles/crq5npwl5dplo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "ヴェネズエラの反体制派指導者マチャド氏、大統領選を求める　帰国後初の会見",
+      "title": "ポーランド憲法裁に治安部隊が出動、政府と裁判所トップの対立激化",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 30 Oct 2026 07:23:37 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmx2d1ve7771o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 31 Oct 2026 09:24:14 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj20v22qyxyqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "【米中間選挙2026】11月3日にアメリカで中間選挙　勝敗はどこで決まるのか",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 31 Oct 2026 09:05:06 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmvgxvgrk9w1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,12 +35,12 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +3.64%"
+      "value": "上昇 2・下落 2・横ばい 0",
+      "detail": "最大変動：Solana -0.88%"
     },
     {
       "label": "市場心理",
-      "value": "30 / 100",
+      "value": "34 / 100",
       "detail": "恐怖"
     },
     {
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ソウル雑踏事故の映像をゲームに使用、遺族が米企業に削除求める",
+      "detail": "【米中間選挙2026】 トランプ氏は不正投票が「横行」と主張　だが証拠によると極めて珍しい",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは30（恐怖）です。",
+      "detail": "Fear & Greed Indexは34（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-10-31T00:44:15+00:00",
-    "market": "2026-10-31T00:44:25+00:00"
+    "news": "2026-11-01T00:05:46+00:00",
+    "market": "2026-11-01T00:05:58+00:00"
   }
 }
