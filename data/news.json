@@ -1,17 +1,8 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-01T00:05:46+00:00",
+  "updated_at": "2026-11-02T00:39:29+00:00",
   "source": "Official news RSS feeds",
   "items": [
-    {
-      "title": "ウクライナ南部オレシュキから数百人避難、異例の局地的停戦",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqkgkpxg47j3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 31 Oct 2026 06:10:57 GMT"
-    },
     {
       "title": "アメリカ、ウクライナへパトリオットミサイル500発の売却承認",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -20,33 +11,6 @@
       "category": "紛争",
       "region": "north-america",
       "published_at": "Sat, 31 Oct 2026 02:55:31 GMT"
-    },
-    {
-      "title": "ポーランド憲法裁に治安部隊が出動、政府と裁判所トップの対立激化",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj20v22qyxyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 31 Oct 2026 09:24:14 GMT"
-    },
-    {
-      "title": "レオ14世が米中間選挙に郵便投票　米選挙にローマ教皇が投票するのは初めて",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckg5jppzj5e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 31 Oct 2026 03:12:52 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 トランプ氏は不正投票が「横行」と主張　だが証拠によると極めて珍しい",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmde85n8pngdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 31 Oct 2026 09:44:57 GMT"
     },
     {
       "title": "【米中間選挙2026】11月3日にアメリカで中間選挙　勝敗はどこで決まるのか",
@@ -58,6 +22,33 @@
       "published_at": "Sat, 31 Oct 2026 09:05:06 GMT"
     },
     {
+      "title": "ポーランド憲法裁に治安部隊が出動、政府と裁判所トップの対立激化",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj20v22qyxyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 31 Oct 2026 09:24:14 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 トランプ氏は不正投票が「横行」と主張　だが証拠によると極めて珍しい",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmde85n8pngdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 31 Oct 2026 09:44:57 GMT"
+    },
+    {
+      "title": "ウクライナ南部オレシュキから数百人避難、異例の局地的停戦",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqkgkpxg47j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Sat, 31 Oct 2026 06:10:57 GMT"
+    },
+    {
       "title": "AIは科学研究を脅かしているのか……数学をめぐる論争があおる懸念",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/c8r4y1lzyr94o?at_medium=RSS&at_campaign=rss",
@@ -65,6 +56,15 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Sat, 31 Oct 2026 03:49:30 GMT"
+    },
+    {
+      "title": "レオ14世が米中間選挙に郵便投票　米選挙にローマ教皇が投票するのは初めて",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckg5jppzj5e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 31 Oct 2026 03:12:52 GMT"
     },
     {
       "title": "イスラエル野党、ネタニヤフ首相が選挙の正当性を損なおうとしていると非難",
