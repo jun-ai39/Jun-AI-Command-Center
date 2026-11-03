@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-02",
+  "verified_at": "2026-11-03",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-277870ffc8d7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-03",
+      "category": "product",
+      "title_ja": "Scaling Git at OpenAI",
+      "original_title": "Scaling Git at OpenAI",
+      "summary_ja": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "url": "https://openai.com/index/scaling-git-at-openai"
+    },
+    {
+      "id": "openai-5d33ed0c66ac",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-03",
+      "category": "product",
+      "title_ja": "Introducing the Grid Protectors Program",
+      "original_title": "Introducing the Grid Protectors Program",
+      "summary_ja": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "url": "https://openai.com/index/grid-protectors-program"
+    },
+    {
+      "id": "google-c45a0b6d7de1",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "product",
+      "title_ja": "The latest AI news we announced in October 2026",
+      "original_title": "The latest AI news we announced in October 2026",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+    },
+    {
+      "id": "openai-5a014341bc3f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-02",
+      "category": "product",
+      "title_ja": "LifeVal",
+      "original_title": "LifeVal",
+      "summary_ja": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "url": "https://openai.com/index/lifeval"
+    },
+    {
+      "id": "openai-4094d4340f9e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-02",
+      "category": "business",
+      "title_ja": "Qodo builds context into AI code review with Codex",
+      "original_title": "Qodo builds context into AI code review with Codex",
+      "summary_ja": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "url": "https://openai.com/index/qodo-codex-plugin"
+    },
+    {
+      "id": "openai-945f879ef3a4",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-02",
+      "category": "safety",
+      "title_ja": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "original_title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summary_ja": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai"
+    },
     {
       "id": "google-ed7605e93ca5",
       "source": "google",
@@ -132,28 +198,6 @@
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
     },
     {
-      "id": "openai-d948735545c2",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-29",
-      "category": "product",
-      "title_ja": "How Ropes & Gray is developing AI for transactional diligence",
-      "original_title": "How Ropes & Gray is developing AI for transactional diligence",
-      "summary_ja": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence"
-    },
-    {
-      "id": "openai-85f94c0fe8f0",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-29",
-      "category": "business",
-      "title_ja": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "original_title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "summary_ja": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "url": "https://openai.com/index/credit-saison"
-    },
-    {
       "id": "google-444f72b5fda1",
       "source": "google",
       "source_name": "Google",
@@ -198,50 +242,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/"
     },
     {
-      "id": "google-da27cb2db053",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "product",
-      "title_ja": "Ads in AI Mode expand to new markets.",
-      "original_title": "Ads in AI Mode expand to new markets.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/"
-    },
-    {
-      "id": "openai-a395c7da350b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-28",
-      "category": "business",
-      "title_ja": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "original_title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "summary_ja": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-    },
-    {
-      "id": "openai-e2ed7680c50a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-28",
-      "category": "product",
-      "title_ja": "The future of the firm",
-      "original_title": "The future of the firm",
-      "summary_ja": "How AI might enter the org chart—beneath, beside, and between us.",
-      "url": "https://openai.com/index/the-future-of-the-firm"
-    },
-    {
-      "id": "openai-709cc8e2bd46",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-28",
-      "category": "model",
-      "title_ja": "Legora is building the agentic operating system for legal work",
-      "original_title": "Legora is building the agentic operating system for legal work",
-      "summary_ja": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "url": "https://openai.com/index/legora"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-02T00:39:30+00:00",
+  "updated_at": "2026-11-03T02:53:17+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T00:39:41+00:00",
+  "generated_at": "2026-11-03T02:53:27+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "【米中間選挙2026】 トランプ氏は不正投票が「横行」と主張　だが証拠によると極めて珍しい",
-      "category": "世界情勢",
+      "title": "ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 31 Oct 2026 09:44:57 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmde85n8pngdo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 03 Nov 2026 01:32:19 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cw1m41pvzrgyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ポーランド憲法裁に治安部隊が出動、政府と裁判所トップの対立激化",
+      "title": "【解説】 セルビアのヴチッチ氏の失脚、ハンガリーのオルバン氏と多くの類似点",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 31 Oct 2026 09:24:14 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cj20v22qyxyqo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 02 Nov 2026 09:45:21 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c699z804g70xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【米中間選挙2026】11月3日にアメリカで中間選挙　勝敗はどこで決まるのか",
+      "title": "【米中間選挙2026】期日前投票が急増、10月末までに4300万票超",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 31 Oct 2026 09:05:06 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmvgxvgrk9w1o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Mon, 02 Nov 2026 07:11:47 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c9vgrj22e7g5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -2.00%"
+      "detail": "最大変動：NASDAQ総合 -3.84%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：Solana -1.74%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Solana -3.03%"
     },
     {
       "label": "市場心理",
-      "value": "37 / 100",
+      "value": "26 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "157.767 JPY",
-      "detail": "前日比 +0.15%"
+      "value": "157.899 JPY",
+      "detail": "前日比 -0.06%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "【米中間選挙2026】 トランプ氏は不正投票が「横行」と主張　だが証拠によると極めて珍しい",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-2.00%です。",
+      "detail": "NASDAQ総合が前日比-3.84%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "normal"
+      "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは37（恐怖）です。",
+      "detail": "Fear & Greed Indexは26（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-02T00:39:29+00:00",
-    "market": "2026-11-02T00:39:40+00:00"
+    "news": "2026-11-03T02:53:16+00:00",
+    "market": "2026-11-03T02:53:27+00:00"
   }
 }

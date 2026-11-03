@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-02T00:39:29+00:00",
+  "updated_at": "2026-11-03T02:53:16+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "アメリカ、ウクライナへパトリオットミサイル500発の売却承認",
+      "title": "ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6y0e21x2xlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Sat, 31 Oct 2026 02:55:31 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】11月3日にアメリカで中間選挙　勝敗はどこで決まるのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmvgxvgrk9w1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 31 Oct 2026 09:05:06 GMT"
-    },
-    {
-      "title": "ポーランド憲法裁に治安部隊が出動、政府と裁判所トップの対立激化",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj20v22qyxyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 31 Oct 2026 09:24:14 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 トランプ氏は不正投票が「横行」と主張　だが証拠によると極めて珍しい",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmde85n8pngdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 31 Oct 2026 09:44:57 GMT"
-    },
-    {
-      "title": "ウクライナ南部オレシュキから数百人避難、異例の局地的停戦",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqkgkpxg47j3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cw1m41pvzrgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Sat, 31 Oct 2026 06:10:57 GMT"
+      "published_at": "Tue, 03 Nov 2026 01:32:19 GMT"
     },
     {
-      "title": "AIは科学研究を脅かしているのか……数学をめぐる論争があおる懸念",
+      "title": "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信　ウクライナ空軍が発表",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8r4y1lzyr94o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6ev3lw2dg99o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 31 Oct 2026 03:49:30 GMT"
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Mon, 02 Nov 2026 00:51:02 GMT"
     },
     {
-      "title": "レオ14世が米中間選挙に郵便投票　米選挙にローマ教皇が投票するのは初めて",
+      "title": "ドイツで生活費上昇への抗議デモ、一部が暴徒化し商店で略奪",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckg5jppzj5e4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm86z2xd05y7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 31 Oct 2026 03:12:52 GMT"
+      "region": "europe",
+      "published_at": "Mon, 02 Nov 2026 04:49:43 GMT"
     },
     {
-      "title": "イスラエル野党、ネタニヤフ首相が選挙の正当性を損なおうとしていると非難",
+      "title": "イスラエル軍がガザ空爆、子ども含む8人殺害　病院発表",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckjrwp2705r3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c32l4y80l2q5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "紛争",
       "region": "middle-east",
-      "published_at": "Fri, 30 Oct 2026 04:38:37 GMT"
+      "published_at": "Mon, 02 Nov 2026 03:03:30 GMT"
     },
     {
-      "title": "英俳優サー・パトリック・スチュワート、86歳で死去　シェイクスピアや「スター・トレック」など数々の名演",
+      "title": "【米中間選挙2026】議会の行方、トランプ氏にどう影響するのか…1分で解説",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq70p7w9pnr5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/cjly0r0110r5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Mon, 02 Nov 2026 06:15:29 GMT"
+    },
+    {
+      "title": "ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃　へルソン州の人道的停戦が終了",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjp3g6g6vn96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Mon, 02 Nov 2026 03:34:06 GMT"
+    },
+    {
+      "title": "フランスの抗議デモで警官に火炎瓶、殺人未遂事件として捜査開始",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmed34qwljddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 02 Nov 2026 06:30:43 GMT"
+    },
+    {
+      "title": "【解説】 セルビアのヴチッチ氏の失脚、ハンガリーのオルバン氏と多くの類似点",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c699z804g70xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 30 Oct 2026 02:35:41 GMT"
+      "published_at": "Mon, 02 Nov 2026 09:45:21 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】期日前投票が急増、10月末までに4300万票超",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c9vgrj22e7g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 02 Nov 2026 07:11:47 GMT"
     }
   ]
 }
