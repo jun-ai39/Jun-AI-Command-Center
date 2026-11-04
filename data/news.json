@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-03T02:53:16+00:00",
+  "updated_at": "2026-11-04T01:18:25+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
@@ -13,31 +13,49 @@
       "published_at": "Tue, 03 Nov 2026 01:32:19 GMT"
     },
     {
-      "title": "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信　ウクライナ空軍が発表",
+      "title": "【米中間選挙2026】連邦最高裁、カリフォルニア州の票集計めぐるトランプ政権の訴え退ける",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6ev3lw2dg99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Mon, 02 Nov 2026 00:51:02 GMT"
-    },
-    {
-      "title": "ドイツで生活費上昇への抗議デモ、一部が暴徒化し商店で略奪",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm86z2xd05y7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqm26g74pm80o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 02 Nov 2026 04:49:43 GMT"
+      "region": "north-america",
+      "published_at": "Tue, 03 Nov 2026 04:45:18 GMT"
     },
     {
-      "title": "イスラエル軍がガザ空爆、子ども含む8人殺害　病院発表",
+      "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃　大量の食品が廃棄に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c32l4y80l2q5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cw4g13jp5l2vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Mon, 02 Nov 2026 03:03:30 GMT"
+      "region": "europe",
+      "published_at": "Tue, 03 Nov 2026 03:09:48 GMT"
+    },
+    {
+      "title": "欧州諸国の軍関係者数千人、ウクライナ停戦後の部隊派遣に向け軍事演習へ　英仏が主導",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj3vq0z29xyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Tue, 03 Nov 2026 04:45:44 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】有権者は何を最も重視するのか？",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cmdx37yw99xno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 03 Nov 2026 03:06:26 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】期日前投票が急増、10月末までに4300万票超",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c9vgrj22e7g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 02 Nov 2026 07:11:47 GMT"
     },
     {
       "title": "【米中間選挙2026】議会の行方、トランプ氏にどう影響するのか…1分で解説",
@@ -49,40 +67,22 @@
       "published_at": "Mon, 02 Nov 2026 06:15:29 GMT"
     },
     {
-      "title": "ウクライナで数十万世帯が停電、ロシアがエネルギーインフラ攻撃　へルソン州の人道的停戦が終了",
+      "title": "【米中間選挙2026】11月3日にアメリカで中間選挙　勝敗はどこで決まるのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjp3g6g6vn96o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmvgxvgrk9w1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 31 Oct 2026 09:05:06 GMT"
+    },
+    {
+      "title": "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信　ウクライナ空軍が発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6ev3lw2dg99o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Mon, 02 Nov 2026 03:34:06 GMT"
-    },
-    {
-      "title": "フランスの抗議デモで警官に火炎瓶、殺人未遂事件として捜査開始",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmed34qwljddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 02 Nov 2026 06:30:43 GMT"
-    },
-    {
-      "title": "【解説】 セルビアのヴチッチ氏の失脚、ハンガリーのオルバン氏と多くの類似点",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c699z804g70xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 02 Nov 2026 09:45:21 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】期日前投票が急増、10月末までに4300万票超",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9vgrj22e7g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 02 Nov 2026 07:11:47 GMT"
+      "published_at": "Mon, 02 Nov 2026 00:51:02 GMT"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-03",
+  "verified_at": "2026-11-04",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,50 @@
   ],
   "items": [
     {
+      "id": "openai-25493a43cba5",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-03",
+      "category": "model",
+      "title_ja": "Accelerating engineering for the physical world",
+      "original_title": "Accelerating engineering for the physical world",
+      "summary_ja": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+    },
+    {
+      "id": "openai-34e7d6261520",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-03",
+      "category": "safety",
+      "title_ja": "How Cisco defends at machine speed with OpenAI",
+      "original_title": "How Cisco defends at machine speed with OpenAI",
+      "summary_ja": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "url": "https://openai.com/index/cisco-cyber"
+    },
+    {
+      "id": "openai-fc87a45dcfbf",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-03",
+      "category": "business",
+      "title_ja": "Heimstaden is changing residential real estate management with AI",
+      "original_title": "Heimstaden is changing residential real estate management with AI",
+      "summary_ja": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "url": "https://openai.com/index/heimstaden"
+    },
+    {
+      "id": "openai-019edb616369",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-03",
+      "category": "business",
+      "title_ja": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "original_title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary_ja": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+    },
+    {
       "id": "openai-277870ffc8d7",
       "source": "openai",
       "source_name": "OpenAI",
@@ -42,6 +86,94 @@
       "original_title": "Introducing the Grid Protectors Program",
       "summary_ja": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "url": "https://openai.com/index/grid-protectors-program"
+    },
+    {
+      "id": "openai-bca108e4c77b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-03",
+      "category": "safety",
+      "title_ja": "Rewarding defenders with bigger bug bounties",
+      "original_title": "Rewarding defenders with bigger bug bounties",
+      "summary_ja": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    },
+    {
+      "id": "openai-0d297090385a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-03",
+      "category": "safety",
+      "title_ja": "Preparing our next security sprint to harden OpenAI",
+      "original_title": "Preparing our next security sprint to harden OpenAI",
+      "summary_ja": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
+    {
+      "id": "google-f841ee71fc6c",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "education",
+      "title_ja": "We’re providing funding for organizations building AI for teachers.",
+      "original_title": "We’re providing funding for organizations building AI for teachers.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/"
+    },
+    {
+      "id": "google-11401edf31e0",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "education",
+      "title_ja": "AI in the learning era",
+      "original_title": "AI in the learning era",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/"
+    },
+    {
+      "id": "google-8bc47e2b3144",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "safety",
+      "title_ja": "Designing responsible AI for learning",
+      "original_title": "Designing responsible AI for learning",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
+    },
+    {
+      "id": "google-5d1fb9768da7",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "safety",
+      "title_ja": "Working collaboratively to fight scams in Asia Pacific",
+      "original_title": "Working collaboratively to fight scams in Asia Pacific",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/"
+    },
+    {
+      "id": "google-6b8f491b6846",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "education",
+      "title_ja": "Expanding AI educator training to new countries",
+      "original_title": "Expanding AI educator training to new countries",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/"
+    },
+    {
+      "id": "google-b4a0323c6173",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "product",
+      "title_ja": "Advancing research and partnering with universities in Singapore",
+      "original_title": "Advancing research and partnering with universities in Singapore",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/"
     },
     {
       "id": "google-c45a0b6d7de1",
@@ -77,17 +209,6 @@
       "url": "https://openai.com/index/qodo-codex-plugin"
     },
     {
-      "id": "openai-945f879ef3a4",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-02",
-      "category": "safety",
-      "title_ja": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "original_title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "summary_ja": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai"
-    },
-    {
       "id": "google-ed7605e93ca5",
       "source": "google",
       "source_name": "Google",
@@ -110,50 +231,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/"
     },
     {
-      "id": "openai-84abd1857de5",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-30",
-      "category": "business",
-      "title_ja": "Making it easier for websites to express AI training preferences",
-      "original_title": "Making it easier for websites to express AI training preferences",
-      "summary_ja": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-    },
-    {
-      "id": "openai-a86d24c59c82",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-30",
-      "category": "safety",
-      "title_ja": "Community safety report and new protections for teens",
-      "original_title": "Community safety report and new protections for teens",
-      "summary_ja": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
-    },
-    {
-      "id": "openai-574dbaf7fc87",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-30",
-      "category": "business",
-      "title_ja": "Fair use benefits everyone",
-      "original_title": "Fair use benefits everyone",
-      "summary_ja": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "url": "https://openai.com/index/fair-use-benefits-everyone"
-    },
-    {
-      "id": "openai-9349f418e7bc",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-30",
-      "category": "safety",
-      "title_ja": "An updated Model Spec for more capable and beneficial AI",
-      "original_title": "An updated Model Spec for more capable and beneficial AI",
-      "summary_ja": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec"
-    },
-    {
       "id": "google-d9e57218237a",
       "source": "google",
       "source_name": "Google",
@@ -163,83 +240,6 @@
       "original_title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
-    },
-    {
-      "id": "google-ff479ec2b2cd",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-30",
-      "category": "education",
-      "title_ja": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
-      "original_title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/"
-    },
-    {
-      "id": "google-60134842d45d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-30",
-      "category": "education",
-      "title_ja": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
-      "original_title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/"
-    },
-    {
-      "id": "openai-0f01adb2acab",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-10-29",
-      "category": "safety",
-      "title_ja": "How we detect frontier model misalignment",
-      "original_title": "How we detect frontier model misalignment",
-      "summary_ja": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-    },
-    {
-      "id": "google-444f72b5fda1",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "product",
-      "title_ja": "Equipping healthcare professionals with practical AI skills",
-      "original_title": "Equipping healthcare professionals with practical AI skills",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/"
-    },
-    {
-      "id": "google-aeb0cc695479",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "model",
-      "title_ja": "How to use Gemini to update your resume",
-      "original_title": "How to use Gemini to update your resume",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/"
-    },
-    {
-      "id": "google-ee9c906b643c",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "education",
-      "title_ja": "How Gemini is helping students and teachers in the classroom",
-      "original_title": "How Gemini is helping students and teachers in the classroom",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/"
-    },
-    {
-      "id": "google-db1777bc5288",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-29",
-      "category": "product",
-      "title_ja": "Partnering with Singapore to bring frontier AI to public health",
-      "original_title": "Partnering with Singapore to bring frontier AI to public health",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-03T02:53:17+00:00",
+  "updated_at": "2026-11-04T01:18:26+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
