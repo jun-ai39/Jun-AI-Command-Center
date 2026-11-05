@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T01:18:37+00:00",
+  "generated_at": "2026-11-05T01:26:50+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "欧州諸国の軍関係者数千人、ウクライナ停戦後の部隊派遣に向け軍事演習へ　英仏が主導",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Tue, 03 Nov 2026 04:45:44 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cj3vq0z29xyko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【米中間選挙2026】連邦最高裁、カリフォルニア州の票集計めぐるトランプ政権の訴え退ける",
+      "title": "【米中間選挙2026】上院のジョージア州選、現職の民主党オソフ氏が再選  大統領選出馬のうわさも",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 03 Nov 2026 04:45:18 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqm26g74pm80o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 04 Nov 2026 11:26:48 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cr89zjlgx3glo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃　大量の食品が廃棄に",
-      "category": "紛争",
+      "title": "【米中間選挙2026】民主党が下院を奪還、トランプ政権への影響は",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 03 Nov 2026 03:09:48 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cw4g13jp5l2vo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 04 Nov 2026 10:39:05 GMT",
+      "url": "https://www.bbc.com/japanese/watch/c6kg5xz129d5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "【米中間選挙2026】民主党が連邦上院を奪還、トランプ氏にとって何を意味するのか",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Wed, 04 Nov 2026 09:57:30 GMT",
+      "url": "https://www.bbc.com/japanese/watch/c8n5vd2xrknvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -4.18%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：日経平均 -3.89%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：Solana -0.57%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Ethereum +6.31%"
     },
     {
       "label": "市場心理",
-      "value": "34 / 100",
-      "detail": "恐怖"
+      "value": "50 / 100",
+      "detail": "中立"
     },
     {
       "label": "ドル円",
-      "value": "158.165 JPY",
-      "detail": "前日比 +0.21%"
+      "value": "158.002 JPY",
+      "detail": "前日比 +0.13%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "欧州諸国の軍関係者数千人、ウクライナ停戦後の部隊派遣に向け軍事演習へ　英仏が主導",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "【米中間選挙2026】上院のジョージア州選、現職の民主党オソフ氏が再選  大統領選出馬のうわさも",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-4.18%です。",
+      "detail": "日経平均が前日比-3.89%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは34（恐怖）です。",
+      "detail": "Fear & Greed Indexは50（中立）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-04T01:18:25+00:00",
-    "market": "2026-11-04T01:18:37+00:00"
+    "news": "2026-11-05T01:26:39+00:00",
+    "market": "2026-11-05T01:26:50+00:00"
   }
 }

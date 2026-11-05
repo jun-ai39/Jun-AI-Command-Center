@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-04",
+  "verified_at": "2026-11-05",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-1be4fdd8e6ca",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-04",
+      "category": "business",
+      "title_ja": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "original_title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary_ja": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+      "id": "openai-a3433e936d2c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-04",
+      "category": "safety",
+      "title_ja": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "original_title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary_ja": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+    },
+    {
+      "id": "openai-fbaa86a829ad",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-04",
+      "category": "safety",
+      "title_ja": "A thousand fewer paths to root",
+      "original_title": "A thousand fewer paths to root",
+      "summary_ja": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+    },
+    {
+      "id": "openai-295354ff422b",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-04",
+      "category": "model",
+      "title_ja": "Introducing Images 2.6",
+      "original_title": "Introducing Images 2.6",
+      "summary_ja": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "url": "https://openai.com/index/introducing-images-2-6"
+    },
+    {
+      "id": "openai-981785a01550",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-04",
+      "category": "business",
+      "title_ja": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "original_title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "summary_ja": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "url": "https://openai.com/index/devrev-enterprise-self-service"
+    },
+    {
+      "id": "google-c7602fd30663",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-04",
+      "category": "product",
+      "title_ja": "We're sharing our framework for building safer and more helpful AI for health.",
+      "original_title": "We're sharing our framework for building safer and more helpful AI for health.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/"
+    },
     {
       "id": "openai-25493a43cba5",
       "source": "openai",
@@ -75,39 +141,6 @@
       "original_title": "Scaling Git at OpenAI",
       "summary_ja": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
       "url": "https://openai.com/index/scaling-git-at-openai"
-    },
-    {
-      "id": "openai-5d33ed0c66ac",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-03",
-      "category": "product",
-      "title_ja": "Introducing the Grid Protectors Program",
-      "original_title": "Introducing the Grid Protectors Program",
-      "summary_ja": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "url": "https://openai.com/index/grid-protectors-program"
-    },
-    {
-      "id": "openai-bca108e4c77b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-03",
-      "category": "safety",
-      "title_ja": "Rewarding defenders with bigger bug bounties",
-      "original_title": "Rewarding defenders with bigger bug bounties",
-      "summary_ja": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-    },
-    {
-      "id": "openai-0d297090385a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-03",
-      "category": "safety",
-      "title_ja": "Preparing our next security sprint to harden OpenAI",
-      "original_title": "Preparing our next security sprint to harden OpenAI",
-      "summary_ja": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
     },
     {
       "id": "google-f841ee71fc6c",
@@ -187,28 +220,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
     },
     {
-      "id": "openai-5a014341bc3f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-02",
-      "category": "product",
-      "title_ja": "LifeVal",
-      "original_title": "LifeVal",
-      "summary_ja": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "url": "https://openai.com/index/lifeval"
-    },
-    {
-      "id": "openai-4094d4340f9e",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-02",
-      "category": "business",
-      "title_ja": "Qodo builds context into AI code review with Codex",
-      "original_title": "Qodo builds context into AI code review with Codex",
-      "summary_ja": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "url": "https://openai.com/index/qodo-codex-plugin"
-    },
-    {
       "id": "google-ed7605e93ca5",
       "source": "google",
       "source_name": "Google",
@@ -229,17 +240,6 @@
       "original_title": "See who has access to your Gmail inbox in 2 minutes.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/"
-    },
-    {
-      "id": "google-d9e57218237a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-30",
-      "category": "model",
-      "title_ja": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-      "original_title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-04T01:18:26+00:00",
+  "updated_at": "2026-11-05T01:26:40+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

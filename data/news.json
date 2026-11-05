@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-04T01:18:25+00:00",
+  "updated_at": "2026-11-05T01:26:39+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "ロシア軍が人道支援施設を攻撃し26人殺害、ウクライナ発表",
+      "title": "【米中間選挙2026】 民主党、上下両院で主導権を奪う　トランプ政権を有権者が否定",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw1m41pvzrgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 03 Nov 2026 01:32:19 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】連邦最高裁、カリフォルニア州の票集計めぐるトランプ政権の訴え退ける",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqm26g74pm80o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmly046vw000o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Tue, 03 Nov 2026 04:45:18 GMT"
+      "published_at": "Wed, 04 Nov 2026 09:05:42 GMT"
     },
     {
-      "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃　大量の食品が廃棄に",
+      "title": "【米中間選挙2026】民主党、トランプ氏の政治地図を打ち砕く",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw4g13jp5l2vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c3kgq8v8z00lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 03 Nov 2026 03:09:48 GMT"
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 04 Nov 2026 07:21:07 GMT"
     },
     {
-      "title": "欧州諸国の軍関係者数千人、ウクライナ停戦後の部隊派遣に向け軍事演習へ　英仏が主導",
+      "title": "【米中間選挙2026】 アメリカの有権者、経済と民主主義の現状が最重要課題だと……投票当日の世論調査",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj3vq0z29xyko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqy0rzgl2z27o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 03 Nov 2026 04:45:44 GMT"
+      "category": "経済",
+      "region": "north-america",
+      "published_at": "Wed, 04 Nov 2026 05:59:05 GMT"
     },
     {
-      "title": "【米中間選挙2026】有権者は何を最も重視するのか？",
+      "title": "【米中間選挙2026】熱狂的な光景、数々の歴史的な結果　トランプ氏は民主党が「よくやった」と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cmdx37yw99xno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm3r5eq0d0veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 04 Nov 2026 08:39:34 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 民主党がテキサス州で上院議席奪還、共和党の牙城で38年ぶり",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmvgxy4xq0qwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 03 Nov 2026 03:06:26 GMT"
+      "published_at": "Wed, 04 Nov 2026 09:19:31 GMT"
     },
     {
-      "title": "【米中間選挙2026】期日前投票が急増、10月末までに4300万票超",
+      "title": "【米中間選挙2026】民主党が連邦上院を奪還、トランプ氏にとって何を意味するのか",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9vgrj22e7g5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/c8n5vd2xrknvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 04 Nov 2026 09:57:30 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】民主党が下院を奪還、トランプ政権への影響は",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/c6kg5xz129d5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 04 Nov 2026 10:39:05 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】上院のジョージア州選、現職の民主党オソフ氏が再選  大統領選出馬のうわさも",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr89zjlgx3glo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Mon, 02 Nov 2026 07:11:47 GMT"
+      "published_at": "Wed, 04 Nov 2026 11:26:48 GMT"
     },
     {
-      "title": "【米中間選挙2026】議会の行方、トランプ氏にどう影響するのか…1分で解説",
+      "title": "【米中間選挙2026】 民主党がサウスカロライナ州で上院議席奪還、約30年ぶり　死去した共和党重鎮の妹敗退",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cjly0r0110r5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmwy9z314650o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Mon, 02 Nov 2026 06:15:29 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】11月3日にアメリカで中間選挙　勝敗はどこで決まるのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmvgxvgrk9w1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Sat, 31 Oct 2026 09:05:06 GMT"
-    },
-    {
-      "title": "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信　ウクライナ空軍が発表",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6ev3lw2dg99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Mon, 02 Nov 2026 00:51:02 GMT"
+      "region": "global",
+      "published_at": "Wed, 04 Nov 2026 06:19:31 GMT"
     }
   ]
 }
