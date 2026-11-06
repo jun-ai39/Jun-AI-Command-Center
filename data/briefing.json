@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T01:26:50+00:00",
+  "generated_at": "2026-11-06T01:31:16+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "【米中間選挙2026】上院のジョージア州選、現職の民主党オソフ氏が再選  大統領選出馬のうわさも",
-      "category": "世界情勢",
+      "title": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 04 Nov 2026 11:26:48 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cr89zjlgx3glo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 06 Nov 2026 00:42:37 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm9dzwwjl6q2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【米中間選挙2026】民主党が下院を奪還、トランプ政権への影響は",
+      "title": "【米中間選挙2026】 イスラム教徒初の上院議員に選出、民主党左派エル＝サイエド氏　ミシガン州",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 04 Nov 2026 10:39:05 GMT",
-      "url": "https://www.bbc.com/japanese/watch/c6kg5xz129d5o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 05 Nov 2026 09:05:30 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmvg9y7e3ewgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【米中間選挙2026】民主党が連邦上院を奪還、トランプ氏にとって何を意味するのか",
+      "title": "【米中間選挙2026】 民主党圧勝の結果に有権者は　「具体的な成果を」「対立だらけの2年間に」",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 04 Nov 2026 09:57:30 GMT",
-      "url": "https://www.bbc.com/japanese/watch/c8n5vd2xrknvo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 05 Nov 2026 08:52:52 GMT",
+      "url": "https://www.bbc.com/japanese/watch/c68xzk2xr5ylo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 1・下落 4・横ばい 0",
-      "detail": "最大変動：日経平均 -3.89%"
+      "value": "上昇 0・下落 5・横ばい 0",
+      "detail": "最大変動：日経平均 -9.55%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Ethereum +6.31%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Ethereum -7.82%"
     },
     {
       "label": "市場心理",
-      "value": "50 / 100",
-      "detail": "中立"
+      "value": "28 / 100",
+      "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "158.002 JPY",
-      "detail": "前日比 +0.13%"
+      "value": "157.807 JPY",
+      "detail": "前日比 +0.08%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "【米中間選挙2026】上院のジョージア州選、現職の民主党オソフ氏が再選  大統領選出馬のうわさも",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.89%です。",
+      "detail": "日経平均が前日比-9.55%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは50（中立）です。",
+      "detail": "Fear & Greed Indexは28（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-05T01:26:39+00:00",
-    "market": "2026-11-05T01:26:50+00:00"
+    "news": "2026-11-06T01:31:05+00:00",
+    "market": "2026-11-06T01:31:16+00:00"
   }
 }

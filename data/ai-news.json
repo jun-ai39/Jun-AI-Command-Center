@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-05",
+  "verified_at": "2026-11-06",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,116 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-bbd492caba72",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-06",
+      "category": "product",
+      "title_ja": "Cult.fit builds operational muscle with Codex",
+      "original_title": "Cult.fit builds operational muscle with Codex",
+      "summary_ja": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "url": "https://openai.com/index/cultfit-builds-with-codex"
+    },
+    {
+      "id": "google-c53952906443",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-06",
+      "category": "product",
+      "title_ja": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+      "original_title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/"
+    },
+    {
+      "id": "google-27b87d65d3f9",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-06",
+      "category": "model",
+      "title_ja": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "original_title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
+    {
+      "id": "google-4180f416c105",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-06",
+      "category": "product",
+      "title_ja": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "original_title": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/"
+    },
+    {
+      "id": "google-6d3308b82137",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-06",
+      "category": "model",
+      "title_ja": "Transform a quick drawing into a live app with Gemini.",
+      "original_title": "Transform a quick drawing into a live app with Gemini.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/"
+    },
+    {
+      "id": "openai-14e90e72d340",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-05",
+      "category": "safety",
+      "title_ja": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "original_title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "summary_ja": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber"
+    },
+    {
+      "id": "openai-db9792e954d4",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-05",
+      "category": "business",
+      "title_ja": "Merge builds product and business tools with OpenAI technology",
+      "original_title": "Merge builds product and business tools with OpenAI technology",
+      "summary_ja": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "url": "https://openai.com/index/merge-builds-with-openai"
+    },
+    {
+      "id": "openai-25fa4dd18ec7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-05",
+      "category": "safety",
+      "title_ja": "Setting a new standard for responsible AI infrastructure",
+      "original_title": "Setting a new standard for responsible AI infrastructure",
+      "summary_ja": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+    },
+    {
+      "id": "openai-2d1d326185a6",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-05",
+      "category": "model",
+      "title_ja": "Flipsnack grows product signups with conversion optimization",
+      "original_title": "Flipsnack grows product signups with conversion optimization",
+      "summary_ja": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "url": "https://openai.com/ads/customers/flipsnack"
+    },
+    {
+      "id": "openai-a8e215d1c3fc",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-05",
+      "category": "safety",
+      "title_ja": "Franklin Templeton uses OpenAI to support investment research",
+      "original_title": "Franklin Templeton uses OpenAI to support investment research",
+      "summary_ja": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "url": "https://openai.com/index/franklin-templeton"
+    },
     {
       "id": "openai-1be4fdd8e6ca",
       "source": "openai",
@@ -66,17 +176,6 @@
       "url": "https://openai.com/index/introducing-images-2-6"
     },
     {
-      "id": "openai-981785a01550",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-04",
-      "category": "business",
-      "title_ja": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "original_title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "summary_ja": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "url": "https://openai.com/index/devrev-enterprise-self-service"
-    },
-    {
       "id": "google-c7602fd30663",
       "source": "google",
       "source_name": "Google",
@@ -86,83 +185,6 @@
       "original_title": "We're sharing our framework for building safer and more helpful AI for health.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/"
-    },
-    {
-      "id": "openai-25493a43cba5",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-03",
-      "category": "model",
-      "title_ja": "Accelerating engineering for the physical world",
-      "original_title": "Accelerating engineering for the physical world",
-      "summary_ja": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
-    },
-    {
-      "id": "openai-34e7d6261520",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-03",
-      "category": "safety",
-      "title_ja": "How Cisco defends at machine speed with OpenAI",
-      "original_title": "How Cisco defends at machine speed with OpenAI",
-      "summary_ja": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "url": "https://openai.com/index/cisco-cyber"
-    },
-    {
-      "id": "openai-fc87a45dcfbf",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-03",
-      "category": "business",
-      "title_ja": "Heimstaden is changing residential real estate management with AI",
-      "original_title": "Heimstaden is changing residential real estate management with AI",
-      "summary_ja": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "url": "https://openai.com/index/heimstaden"
-    },
-    {
-      "id": "openai-019edb616369",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-03",
-      "category": "business",
-      "title_ja": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "original_title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "summary_ja": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
-    },
-    {
-      "id": "openai-277870ffc8d7",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-03",
-      "category": "product",
-      "title_ja": "Scaling Git at OpenAI",
-      "original_title": "Scaling Git at OpenAI",
-      "summary_ja": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "url": "https://openai.com/index/scaling-git-at-openai"
-    },
-    {
-      "id": "google-f841ee71fc6c",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-03",
-      "category": "education",
-      "title_ja": "We’re providing funding for organizations building AI for teachers.",
-      "original_title": "We’re providing funding for organizations building AI for teachers.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/"
-    },
-    {
-      "id": "google-11401edf31e0",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-03",
-      "category": "education",
-      "title_ja": "AI in the learning era",
-      "original_title": "AI in the learning era",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/"
     },
     {
       "id": "google-8bc47e2b3144",
@@ -176,6 +198,17 @@
       "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
     },
     {
+      "id": "google-f841ee71fc6c",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "education",
+      "title_ja": "We’re providing funding for organizations building AI for teachers.",
+      "original_title": "We’re providing funding for organizations building AI for teachers.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/"
+    },
+    {
       "id": "google-5d1fb9768da7",
       "source": "google",
       "source_name": "Google",
@@ -187,6 +220,17 @@
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/"
     },
     {
+      "id": "google-11401edf31e0",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-03",
+      "category": "education",
+      "title_ja": "AI in the learning era",
+      "original_title": "AI in the learning era",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/"
+    },
+    {
       "id": "google-6b8f491b6846",
       "source": "google",
       "source_name": "Google",
@@ -196,50 +240,6 @@
       "original_title": "Expanding AI educator training to new countries",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/"
-    },
-    {
-      "id": "google-b4a0323c6173",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-03",
-      "category": "product",
-      "title_ja": "Advancing research and partnering with universities in Singapore",
-      "original_title": "Advancing research and partnering with universities in Singapore",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/"
-    },
-    {
-      "id": "google-c45a0b6d7de1",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-03",
-      "category": "product",
-      "title_ja": "The latest AI news we announced in October 2026",
-      "original_title": "The latest AI news we announced in October 2026",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
-    },
-    {
-      "id": "google-ed7605e93ca5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-31",
-      "category": "product",
-      "title_ja": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-      "original_title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
-    },
-    {
-      "id": "google-ec71bd9a606c",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-10-31",
-      "category": "product",
-      "title_ja": "See who has access to your Gmail inbox in 2 minutes.",
-      "original_title": "See who has access to your Gmail inbox in 2 minutes.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-05T01:26:40+00:00",
+  "updated_at": "2026-11-06T01:31:05+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

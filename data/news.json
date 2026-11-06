@@ -1,34 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-05T01:26:39+00:00",
+  "updated_at": "2026-11-06T01:31:05+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "【米中間選挙2026】 民主党、上下両院で主導権を奪う　トランプ政権を有権者が否定",
+      "title": "【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmly046vw000o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c5gm0rld0w8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Thu, 05 Nov 2026 03:16:21 GMT"
+    },
+    {
+      "title": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm9dzwwjl6q2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Fri, 06 Nov 2026 00:42:37 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 トランプ氏の権力、国内では弱まっても国外では違う　BBC国際編集長",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c8dx35gxdw2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "japan",
+      "published_at": "Thu, 05 Nov 2026 07:59:39 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 民主党が議会両院を奪還、トランプ氏は今後どうする　まずは宴会場建設を話題に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/c687zvrzqdzjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Wed, 04 Nov 2026 09:05:42 GMT"
+      "published_at": "Thu, 05 Nov 2026 04:13:50 GMT"
     },
     {
-      "title": "【米中間選挙2026】民主党、トランプ氏の政治地図を打ち砕く",
+      "title": "香港の著名民主活動家・黄氏に拘禁10年の判決　国安法違反で再び実刑",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3kgq8v8z00lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c670plyekz8do?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 04 Nov 2026 07:21:07 GMT"
+      "region": "asia",
+      "published_at": "Thu, 05 Nov 2026 07:45:24 GMT"
     },
     {
-      "title": "【米中間選挙2026】 アメリカの有権者、経済と民主主義の現状が最重要課題だと……投票当日の世論調査",
+      "title": "【米中間選挙2026】 民主党圧勝の結果に有権者は　「具体的な成果を」「対立だらけの2年間に」",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqy0rzgl2z27o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/c68xzk2xr5ylo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "north-america",
-      "published_at": "Wed, 04 Nov 2026 05:59:05 GMT"
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 05 Nov 2026 08:52:52 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 イスラム教徒初の上院議員に選出、民主党左派エル＝サイエド氏　ミシガン州",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmvg9y7e3ewgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 05 Nov 2026 09:05:30 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 テキサス州の票、いかに民主党に動いたか　38年ぶりに民主党の上院議員を選出",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cwr5y010r4y5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 05 Nov 2026 08:28:18 GMT"
     },
     {
       "title": "【米中間選挙2026】熱狂的な光景、数々の歴史的な結果　トランプ氏は民主党が「よくやった」と",
@@ -38,51 +83,6 @@
       "category": "世界情勢",
       "region": "north-america",
       "published_at": "Wed, 04 Nov 2026 08:39:34 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 民主党がテキサス州で上院議席奪還、共和党の牙城で38年ぶり",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmvgxy4xq0qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 04 Nov 2026 09:19:31 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】民主党が連邦上院を奪還、トランプ氏にとって何を意味するのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c8n5vd2xrknvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 04 Nov 2026 09:57:30 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】民主党が下院を奪還、トランプ政権への影響は",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c6kg5xz129d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 04 Nov 2026 10:39:05 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】上院のジョージア州選、現職の民主党オソフ氏が再選  大統領選出馬のうわさも",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr89zjlgx3glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 04 Nov 2026 11:26:48 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 民主党がサウスカロライナ州で上院議席奪還、約30年ぶり　死去した共和党重鎮の妹敗退",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmwy9z314650o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 04 Nov 2026 06:19:31 GMT"
     }
   ]
 }
