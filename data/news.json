@@ -1,16 +1,70 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-06T01:31:05+00:00",
+  "updated_at": "2026-11-07T00:53:26+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "【米中間選挙2026】 トランプ氏、イランとの戦争が敗因との見方は「大方当たっている」",
+      "title": "欧州各国の航空会社と空港に偽の爆破予告、緊急着陸や捜索相次ぐ　爆発物は見つからず",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c5gm0rld0w8do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cwq6nng5vg2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 06 Nov 2026 05:21:28 GMT"
+    },
+    {
+      "title": "大手テクノロジー株が急落、米中間選挙での民主党勝利受け　AI開発の減速を懸念",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx98zz4q08d2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 06 Nov 2026 04:20:44 GMT"
+    },
+    {
+      "title": "フランス各地の抗議で参加者急増、賃上げ求め労組も協調",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqrmyyj282x0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 06 Nov 2026 08:04:53 GMT"
+    },
+    {
+      "title": "米カリフォルニア州知事、州内の死刑囚548人全員を減刑へ　仮釈放なしの終身刑に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwjdmmex141vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 06 Nov 2026 03:52:41 GMT"
+    },
+    {
+      "title": "メラニア・トランプ氏がウクライナでの恒久的な停戦を呼びかけ、ロ・ウ両国の代表と会談",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq5ynn0nd6zeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Thu, 05 Nov 2026 03:16:21 GMT"
+      "region": "north-america",
+      "published_at": "Fri, 06 Nov 2026 08:05:13 GMT"
+    },
+    {
+      "title": "ピザにパイナップルのせることを拒否、イタリア人シェフ解雇　豪レストラン",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c63ellvpdq58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 06 Nov 2026 07:37:05 GMT"
+    },
+    {
+      "title": "英人気コメディアン、レイプと性的暴行で有罪評決",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crgqww9zkn4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 06 Nov 2026 08:08:10 GMT"
     },
     {
       "title": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に",
@@ -22,67 +76,13 @@
       "published_at": "Fri, 06 Nov 2026 00:42:37 GMT"
     },
     {
-      "title": "【米中間選挙2026】 トランプ氏の権力、国内では弱まっても国外では違う　BBC国際編集長",
+      "title": "日本サッカー協会の田嶋名誉会長、FIFA会長選に立候補表明　インファンティーノ氏に対抗",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8dx35gxdw2xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c699zzxdy8eeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "japan",
-      "published_at": "Thu, 05 Nov 2026 07:59:39 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 民主党が議会両院を奪還、トランプ氏は今後どうする　まずは宴会場建設を話題に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c687zvrzqdzjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 05 Nov 2026 04:13:50 GMT"
-    },
-    {
-      "title": "香港の著名民主活動家・黄氏に拘禁10年の判決　国安法違反で再び実刑",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c670plyekz8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Thu, 05 Nov 2026 07:45:24 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 民主党圧勝の結果に有権者は　「具体的な成果を」「対立だらけの2年間に」",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c68xzk2xr5ylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 05 Nov 2026 08:52:52 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 イスラム教徒初の上院議員に選出、民主党左派エル＝サイエド氏　ミシガン州",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmvg9y7e3ewgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 05 Nov 2026 09:05:30 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 テキサス州の票、いかに民主党に動いたか　38年ぶりに民主党の上院議員を選出",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cwr5y010r4y5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 05 Nov 2026 08:28:18 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】熱狂的な光景、数々の歴史的な結果　トランプ氏は民主党が「よくやった」と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm3r5eq0d0veo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Wed, 04 Nov 2026 08:39:34 GMT"
+      "published_at": "Fri, 06 Nov 2026 05:48:41 GMT"
     }
   ]
 }

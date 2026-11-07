@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-06",
+  "verified_at": "2026-11-07",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,39 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-a0a44ed09dc9",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-06",
+      "category": "safety",
+      "title_ja": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "original_title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary_ja": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "id": "openai-5f721228af36",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-06",
+      "category": "product",
+      "title_ja": "Measuring how AI agents handle everyday wet-lab science",
+      "original_title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary_ja": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+    },
+    {
+      "id": "openai-616c68177b70",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-06",
+      "category": "education",
+      "title_ja": "Australian universities are creating AI-native graduates",
+      "original_title": "Australian universities are creating AI-native graduates",
+      "summary_ja": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates"
+    },
     {
       "id": "openai-bbd492caba72",
       "source": "openai",
@@ -143,39 +176,6 @@
       "url": "https://openai.com/index/openai-to-acquire-pierre"
     },
     {
-      "id": "openai-a3433e936d2c",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-04",
-      "category": "safety",
-      "title_ja": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "original_title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "summary_ja": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
-    },
-    {
-      "id": "openai-fbaa86a829ad",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-04",
-      "category": "safety",
-      "title_ja": "A thousand fewer paths to root",
-      "original_title": "A thousand fewer paths to root",
-      "summary_ja": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
-    },
-    {
-      "id": "openai-295354ff422b",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-04",
-      "category": "model",
-      "title_ja": "Introducing Images 2.6",
-      "original_title": "Introducing Images 2.6",
-      "summary_ja": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "url": "https://openai.com/index/introducing-images-2-6"
-    },
-    {
       "id": "google-c7602fd30663",
       "source": "google",
       "source_name": "Google",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-06T01:31:05+00:00",
+  "updated_at": "2026-11-07T00:53:27+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
