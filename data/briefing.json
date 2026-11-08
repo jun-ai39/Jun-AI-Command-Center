@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T00:53:37+00:00",
+  "generated_at": "2026-11-08T00:32:31+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "英人気コメディアン、レイプと性的暴行で有罪評決",
+      "title": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 06 Nov 2026 08:08:10 GMT",
-      "url": "https://www.bbc.com/japanese/articles/crgqww9zkn4lo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 07 Nov 2026 06:52:22 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c92033jxgmm6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "メラニア・トランプ氏がウクライナでの恒久的な停戦を呼びかけ、ロ・ウ両国の代表と会談",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Fri, 06 Nov 2026 08:05:13 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq5ynn0nd6zeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "フランス各地の抗議で参加者急増、賃上げ求め労組も協調",
+      "title": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 06 Nov 2026 08:04:53 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqrmyyj282x0o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 07 Nov 2026 06:31:56 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6lyeee3lpn3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "トランプ氏、首席補佐官に強硬派ミラー氏任命　中間選挙の歴史的敗北受け人事刷新",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 07 Nov 2026 04:20:48 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj62yye5krz3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,13 +35,13 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：XRP -2.83%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：XRP -1.57%"
     },
     {
       "label": "市場心理",
-      "value": "25 / 100",
-      "detail": "極度の恐怖"
+      "value": "28 / 100",
+      "detail": "恐怖"
     },
     {
       "label": "ドル円",
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "英人気コメディアン、レイプと性的暴行で有罪評決",
+      "detail": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,9 +64,9 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは25（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは28（恐怖）です。",
       "meta": "Alternative.meの参考指標",
-      "level": "alert"
+      "level": "normal"
     }
   ],
   "limitations": [
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-07T00:53:26+00:00",
-    "market": "2026-11-07T00:53:37+00:00"
+    "news": "2026-11-08T00:32:20+00:00",
+    "market": "2026-11-08T00:32:31+00:00"
   }
 }

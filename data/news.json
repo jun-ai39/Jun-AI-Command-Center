@@ -1,8 +1,53 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-07T00:53:26+00:00",
+  "updated_at": "2026-11-08T00:32:20+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "トランプ氏、首席補佐官に強硬派ミラー氏任命　中間選挙の歴史的敗北受け人事刷新",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj62yye5krz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 07 Nov 2026 04:20:48 GMT"
+    },
+    {
+      "title": "英メガン妃の父、児童性的虐待の画像所持で訴追され出廷",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6vg005njxzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 07 Nov 2026 02:12:37 GMT"
+    },
+    {
+      "title": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c92033jxgmm6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 07 Nov 2026 06:52:22 GMT"
+    },
+    {
+      "title": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6lyeee3lpn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 07 Nov 2026 06:31:56 GMT"
+    },
+    {
+      "title": "【解説】抗議活動で勢いづく欧州の若者たち、何で結びついているのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c8e364xewn5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 07 Nov 2026 02:53:46 GMT"
+    },
     {
       "title": "欧州各国の航空会社と空港に偽の爆破予告、緊急着陸や捜索相次ぐ　爆発物は見つからず",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -38,51 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Fri, 06 Nov 2026 03:52:41 GMT"
-    },
-    {
-      "title": "メラニア・トランプ氏がウクライナでの恒久的な停戦を呼びかけ、ロ・ウ両国の代表と会談",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq5ynn0nd6zeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Fri, 06 Nov 2026 08:05:13 GMT"
-    },
-    {
-      "title": "ピザにパイナップルのせることを拒否、イタリア人シェフ解雇　豪レストラン",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c63ellvpdq58o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 06 Nov 2026 07:37:05 GMT"
-    },
-    {
-      "title": "英人気コメディアン、レイプと性的暴行で有罪評決",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crgqww9zkn4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 06 Nov 2026 08:08:10 GMT"
-    },
-    {
-      "title": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm9dzwwjl6q2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Fri, 06 Nov 2026 00:42:37 GMT"
-    },
-    {
-      "title": "日本サッカー協会の田嶋名誉会長、FIFA会長選に立候補表明　インファンティーノ氏に対抗",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c699zzxdy8eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "japan",
-      "published_at": "Fri, 06 Nov 2026 05:48:41 GMT"
     }
   ]
 }
