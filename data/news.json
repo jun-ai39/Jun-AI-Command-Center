@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-09T00:49:36+00:00",
+  "updated_at": "2026-11-10T03:31:50+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか",
+      "title": "【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6lyeee3lpn3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 07 Nov 2026 06:31:56 GMT"
-    },
-    {
-      "title": "トランプ氏、首席補佐官に強硬派ミラー氏任命　中間選挙の歴史的敗北受け人事刷新",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj62yye5krz3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cq0k0kpv5kd4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Sat, 07 Nov 2026 04:20:48 GMT"
+      "published_at": "Tue, 10 Nov 2026 01:57:31 GMT"
     },
     {
-      "title": "英メガン妃の父、児童性的虐待の画像所持で訴追され出廷",
+      "title": "フランス、スーパーの冷蔵庫へのサイバー攻撃でイランを非難",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6vg005njxzro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c3ewewjl1wq8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Tue, 10 Nov 2026 02:08:08 GMT"
+    },
+    {
+      "title": "英人気コメディアンに拘禁10年半、レイプと性的暴行の罪",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr4g1g9klql2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Sat, 07 Nov 2026 02:12:37 GMT"
+      "published_at": "Tue, 10 Nov 2026 03:18:33 GMT"
     },
     {
-      "title": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
+      "title": "2026年は観測史上最も暑い年に…科学者予測　トルコでCOP31開幕",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c92033jxgmm6o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cked3d9yepqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Sat, 07 Nov 2026 06:52:22 GMT"
+      "published_at": "Tue, 10 Nov 2026 01:28:14 GMT"
     },
     {
-      "title": "【解説】抗議活動で勢いづく欧州の若者たち、何で結びついているのか",
+      "title": "米半導体エヌビディア、フアンCEOと中国スパイ疑惑の女性との関係について調査開始",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c8e364xewn5ko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cv4g1ng03e36o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Sat, 07 Nov 2026 02:53:46 GMT"
+      "region": "asia",
+      "published_at": "Mon, 09 Nov 2026 04:54:12 GMT"
     },
     {
-      "title": "欧州各国の航空会社と空港に偽の爆破予告、緊急着陸や捜索相次ぐ　爆発物は見つからず",
+      "title": "イラン、1月の反政府抗議めぐり3人の死刑執行　「武装騒乱」に関与と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwq6nng5vg2jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crx2d2nz2793o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 06 Nov 2026 05:21:28 GMT"
+      "region": "middle-east",
+      "published_at": "Mon, 09 Nov 2026 07:15:29 GMT"
     },
     {
-      "title": "大手テクノロジー株が急落、米中間選挙での民主党勝利受け　AI開発の減速を懸念",
+      "title": "米民主党下院トップ、ヘグセス国防長官の弾劾に「断固賛成」と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx98zz4q08d2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 06 Nov 2026 04:20:44 GMT"
-    },
-    {
-      "title": "フランス各地の抗議で参加者急増、賃上げ求め労組も協調",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqrmyyj282x0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Fri, 06 Nov 2026 08:04:53 GMT"
-    },
-    {
-      "title": "米カリフォルニア州知事、州内の死刑囚548人全員を減刑へ　仮釈放なしの終身刑に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwjdmmex141vo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/crn8w8jwgxq5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Fri, 06 Nov 2026 03:52:41 GMT"
+      "published_at": "Mon, 09 Nov 2026 13:20:24 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】連邦議会を奪還した野党・民主党、何ができて何ができないのか",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c65ynn5gq523o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 09 Nov 2026 04:35:21 GMT"
+    },
+    {
+      "title": "イスラエル大統領、野党指導者アイゼンコット氏に組閣要請",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqwy7077kpzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Mon, 09 Nov 2026 01:36:24 GMT"
     }
   ]
 }

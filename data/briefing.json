@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T00:49:47+00:00",
+  "generated_at": "2026-11-10T03:32:02+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
+      "title": "英人気コメディアンに拘禁10年半、レイプと性的暴行の罪",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 07 Nov 2026 06:52:22 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c92033jxgmm6o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 10 Nov 2026 03:18:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cr4g1g9klql2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【米中間選挙 2026】 AI関連株の急落、なぜ起きたのか",
-      "category": "世界情勢",
+      "title": "フランス、スーパーの冷蔵庫へのサイバー攻撃でイランを非難",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 07 Nov 2026 06:31:56 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6lyeee3lpn3o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 10 Nov 2026 02:08:08 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c3ewewjl1wq8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "トランプ氏、首席補佐官に強硬派ミラー氏任命　中間選挙の歴史的敗北受け人事刷新",
+      "title": "【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 07 Nov 2026 04:20:48 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cj62yye5krz3o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 10 Nov 2026 01:57:31 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cq0k0kpv5kd4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -7.37%"
+      "value": "上昇 3・下落 2・横ばい 0",
+      "detail": "最大変動：日経平均 -2.75%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Ethereum -4.49%"
+      "detail": "最大変動：Solana -2.61%"
     },
     {
       "label": "市場心理",
-      "value": "29 / 100",
+      "value": "32 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "158.314 JPY",
-      "detail": "前日比 +0.25%"
+      "value": "157.993 JPY",
+      "detail": "前日比 -0.30%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "パラグアイ大統領を弾劾罷免、自宅軟禁に　デジタル銀行破綻で",
+      "detail": "英人気コメディアンに拘禁10年半、レイプと性的暴行の罪",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-7.37%です。",
+      "detail": "日経平均が前日比-2.75%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは29（恐怖）です。",
+      "detail": "Fear & Greed Indexは32（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-09T00:49:36+00:00",
-    "market": "2026-11-09T00:49:47+00:00"
+    "news": "2026-11-10T03:31:50+00:00",
+    "market": "2026-11-10T03:32:02+00:00"
   }
 }

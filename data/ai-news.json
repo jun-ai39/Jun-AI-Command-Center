@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-09",
+  "verified_at": "2026-11-10",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,72 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-caa9073cefb4",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-10",
+      "category": "business",
+      "title_ja": "ChatGPT Enterprise now available in AWS Marketplace",
+      "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary_ja": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "id": "google-fc2fe6c60421",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-10",
+      "category": "product",
+      "title_ja": "Developers can now build with Google Maps Platform in AI Studio.",
+      "original_title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/"
+    },
+    {
+      "id": "openai-952d2516af2e",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-09",
+      "category": "safety",
+      "title_ja": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "original_title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary_ja": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "url": "https://openai.com/index/control-room"
+    },
+    {
+      "id": "openai-02e9abf47eaf",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-09",
+      "category": "model",
+      "title_ja": "CodeRabbit scales agentic software development and ships 20x more",
+      "original_title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary_ja": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak"
+    },
+    {
+      "id": "openai-2e34e84f0999",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-09",
+      "category": "product",
+      "title_ja": "Kuken Industries searches 70 years of drawings in minutes",
+      "original_title": "Kuken Industries searches 70 years of drawings in minutes",
+      "summary_ja": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "url": "https://openai.com/index/kuken"
+    },
+    {
+      "id": "google-e9950a58c892",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-09",
+      "category": "product",
+      "title_ja": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "original_title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+    },
     {
       "id": "openai-a0a44ed09dc9",
       "source": "openai",
@@ -132,50 +198,6 @@
       "url": "https://openai.com/index/merge-builds-with-openai"
     },
     {
-      "id": "openai-25fa4dd18ec7",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-05",
-      "category": "safety",
-      "title_ja": "Setting a new standard for responsible AI infrastructure",
-      "original_title": "Setting a new standard for responsible AI infrastructure",
-      "summary_ja": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
-    },
-    {
-      "id": "openai-2d1d326185a6",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-05",
-      "category": "model",
-      "title_ja": "Flipsnack grows product signups with conversion optimization",
-      "original_title": "Flipsnack grows product signups with conversion optimization",
-      "summary_ja": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "url": "https://openai.com/ads/customers/flipsnack"
-    },
-    {
-      "id": "openai-a8e215d1c3fc",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-05",
-      "category": "safety",
-      "title_ja": "Franklin Templeton uses OpenAI to support investment research",
-      "original_title": "Franklin Templeton uses OpenAI to support investment research",
-      "summary_ja": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "url": "https://openai.com/index/franklin-templeton"
-    },
-    {
-      "id": "openai-1be4fdd8e6ca",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-04",
-      "category": "business",
-      "title_ja": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "original_title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "summary_ja": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre"
-    },
-    {
       "id": "google-c7602fd30663",
       "source": "google",
       "source_name": "Google",
@@ -209,17 +231,6 @@
       "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/"
     },
     {
-      "id": "google-5d1fb9768da7",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-03",
-      "category": "safety",
-      "title_ja": "Working collaboratively to fight scams in Asia Pacific",
-      "original_title": "Working collaboratively to fight scams in Asia Pacific",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/"
-    },
-    {
       "id": "google-11401edf31e0",
       "source": "google",
       "source_name": "Google",
@@ -229,17 +240,6 @@
       "original_title": "AI in the learning era",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/"
-    },
-    {
-      "id": "google-6b8f491b6846",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-03",
-      "category": "education",
-      "title_ja": "Expanding AI educator training to new countries",
-      "original_title": "Expanding AI educator training to new countries",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-09T00:49:37+00:00",
+  "updated_at": "2026-11-10T03:31:51+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
