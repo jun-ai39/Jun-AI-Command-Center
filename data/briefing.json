@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-10T03:32:02+00:00",
+  "generated_at": "2026-11-11T01:13:25+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "英人気コメディアンに拘禁10年半、レイプと性的暴行の罪",
+      "title": "米陸軍兵士をイギリスで逮捕、ロシアのスパイ容疑で",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 10 Nov 2026 03:18:33 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cr4g1g9klql2o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 11 Nov 2026 00:40:01 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c9x2ey0eky6no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "フランス、スーパーの冷蔵庫へのサイバー攻撃でイランを非難",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Tue, 10 Nov 2026 02:08:08 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c3ewewjl1wq8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後",
+      "title": "【解説】エヌビディアCEOの不倫はアメリカ全土、そして世界中に波紋を広げる見通し",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 10 Nov 2026 01:57:31 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cq0k0kpv5kd4o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 10 Nov 2026 07:16:57 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cv0ldlx3ky5eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "オーストラリア、AI不正に対する刑事罰を検討　オープンAIのエージェントによるハッキング事件受け",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Tue, 10 Nov 2026 06:53:48 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm0j0j56pz1lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 3・下落 2・横ばい 0",
-      "detail": "最大変動：日経平均 -2.75%"
+      "value": "上昇 1・下落 4・横ばい 0",
+      "detail": "最大変動：NASDAQ総合 -1.21%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -2.61%"
+      "detail": "最大変動：XRP -4.21%"
     },
     {
       "label": "市場心理",
-      "value": "32 / 100",
+      "value": "29 / 100",
       "detail": "恐怖"
     },
     {
       "label": "ドル円",
-      "value": "157.993 JPY",
-      "detail": "前日比 -0.30%"
+      "value": "158.891 JPY",
+      "detail": "前日比 +0.34%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "英人気コメディアンに拘禁10年半、レイプと性的暴行の罪",
+      "detail": "米陸軍兵士をイギリスで逮捕、ロシアのスパイ容疑で",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-2.75%です。",
+      "detail": "NASDAQ総合が前日比-1.21%です。",
       "meta": "取得対象の中で絶対値が最大",
-      "level": "alert"
+      "level": "normal"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは32（恐怖）です。",
+      "detail": "Fear & Greed Indexは29（恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "normal"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-10T03:31:50+00:00",
-    "market": "2026-11-10T03:32:02+00:00"
+    "news": "2026-11-11T01:13:14+00:00",
+    "market": "2026-11-11T01:13:25+00:00"
   }
 }

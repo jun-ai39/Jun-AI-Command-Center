@@ -1,8 +1,44 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-10T03:31:50+00:00",
+  "updated_at": "2026-11-11T01:13:14+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "米陸軍兵士をイギリスで逮捕、ロシアのスパイ容疑で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c9x2ey0eky6no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Wed, 11 Nov 2026 00:40:01 GMT"
+    },
+    {
+      "title": "米エヌビディアCEOと中国のスパイとされる人物の不倫、FBIが捜査　トランプ氏が明らかに",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq3696z2ye79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 10 Nov 2026 06:51:40 GMT"
+    },
+    {
+      "title": "【解説】エヌビディアCEOの不倫はアメリカ全土、そして世界中に波紋を広げる見通し",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cv0ldlx3ky5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 10 Nov 2026 07:16:57 GMT"
+    },
+    {
+      "title": "2026年は観測史上最も暑い年に…科学者予測　トルコでCOP31開幕",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cked3d9yepqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 10 Nov 2026 01:28:14 GMT"
+    },
     {
       "title": "【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -31,22 +67,13 @@
       "published_at": "Tue, 10 Nov 2026 03:18:33 GMT"
     },
     {
-      "title": "2026年は観測史上最も暑い年に…科学者予測　トルコでCOP31開幕",
+      "title": "オーストラリア、AI不正に対する刑事罰を検討　オープンAIのエージェントによるハッキング事件受け",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cked3d9yepqeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm0j0j56pz1lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 10 Nov 2026 01:28:14 GMT"
-    },
-    {
-      "title": "米半導体エヌビディア、フアンCEOと中国スパイ疑惑の女性との関係について調査開始",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cv4g1ng03e36o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Mon, 09 Nov 2026 04:54:12 GMT"
+      "region": "oceania",
+      "published_at": "Tue, 10 Nov 2026 06:53:48 GMT"
     },
     {
       "title": "イラン、1月の反政府抗議めぐり3人の死刑執行　「武装騒乱」に関与と",
@@ -56,33 +83,6 @@
       "category": "世界情勢",
       "region": "middle-east",
       "published_at": "Mon, 09 Nov 2026 07:15:29 GMT"
-    },
-    {
-      "title": "米民主党下院トップ、ヘグセス国防長官の弾劾に「断固賛成」と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crn8w8jwgxq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 09 Nov 2026 13:20:24 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】連邦議会を奪還した野党・民主党、何ができて何ができないのか",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c65ynn5gq523o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 09 Nov 2026 04:35:21 GMT"
-    },
-    {
-      "title": "イスラエル大統領、野党指導者アイゼンコット氏に組閣要請",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqwy7077kpzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Mon, 09 Nov 2026 01:36:24 GMT"
     }
   ]
 }
