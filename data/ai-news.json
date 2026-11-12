@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-11",
+  "verified_at": "2026-11-12",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -31,6 +31,83 @@
       "original_title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary_ja": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    },
+    {
+      "id": "google-c06fca3b9549",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-12",
+      "category": "model",
+      "title_ja": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary_ja": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "id": "google-ab896b3f94b1",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-12",
+      "category": "model",
+      "title_ja": "Talk it through with Gemini, now on Apple CarPlay",
+      "original_title": "Talk it through with Gemini, now on Apple CarPlay",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"
+    },
+    {
+      "id": "google-bd91a5e650d4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-12",
+      "category": "safety",
+      "title_ja": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+      "original_title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/"
+    },
+    {
+      "id": "google-bf467d9aa9cc",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-12",
+      "category": "product",
+      "title_ja": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "original_title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/"
+    },
+    {
+      "id": "google-eac4d84ef949",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-12",
+      "category": "product",
+      "title_ja": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+    },
+    {
+      "id": "openai-ac94b61a25ad",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-11",
+      "category": "business",
+      "title_ja": "ChatGPT Plus for veterans and servicemembers",
+      "original_title": "ChatGPT Plus for veterans and servicemembers",
+      "summary_ja": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
+    {
+      "id": "openai-55ff14dc4213",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-11",
+      "category": "product",
+      "title_ja": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary_ja": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri"
     },
     {
       "id": "google-c0101f36ad82",
@@ -66,15 +143,15 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/"
     },
     {
-      "id": "google-172ae3f5f4b5",
+      "id": "google-875de747c346",
       "source": "google",
       "source_name": "Google",
       "published_at": "2026-11-11",
-      "category": "model",
-      "title_ja": "Introducing the Multimodal Knowledge Agent benchmark",
-      "original_title": "Introducing the Multimodal Knowledge Agent benchmark",
+      "category": "product",
+      "title_ja": "Introducing 3 new domains: .eat, .fly, and .here",
+      "original_title": "Introducing 3 new domains: .eat, .fly, and .here",
       "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/"
+      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/"
     },
     {
       "id": "google-5d3f1a46c035",
@@ -86,17 +163,6 @@
       "original_title": "Gemini 4 Carbon is now available",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
-    },
-    {
-      "id": "google-875de747c346",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-11",
-      "category": "product",
-      "title_ja": "Introducing 3 new domains: .eat, .fly, and .here",
-      "original_title": "Introducing 3 new domains: .eat, .fly, and .here",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/"
     },
     {
       "id": "openai-0f0020abcf73",
@@ -132,6 +198,17 @@
       "url": "https://openai.com/index/closing-ai-guidance-gap-education"
     },
     {
+      "id": "openai-9092d5eb66f2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-10",
+      "category": "model",
+      "title_ja": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "original_title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "summary_ja": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "url": "https://openai.com/index/singapore-airlines-travel-work"
+    },
+    {
       "id": "openai-f3fc54cd1d78",
       "source": "openai",
       "source_name": "OpenAI",
@@ -143,6 +220,17 @@
       "url": "https://openai.com/index/ai-effect-on-freelance-work"
     },
     {
+      "id": "openai-37e4452e64c8",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-10",
+      "category": "business",
+      "title_ja": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "original_title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary_ja": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "url": "https://openai.com/index/cogent-security"
+    },
+    {
       "id": "openai-caa9073cefb4",
       "source": "openai",
       "source_name": "OpenAI",
@@ -152,94 +240,6 @@
       "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
       "summary_ja": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-    },
-    {
-      "id": "google-59a8a5dd3afc",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-10",
-      "category": "product",
-      "title_ja": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
-    },
-    {
-      "id": "google-ef83b8dc18b1",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-10",
-      "category": "model",
-      "title_ja": "Google Cloud launches Gemini for healthcare.",
-      "original_title": "Google Cloud launches Gemini for healthcare.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
-    },
-    {
-      "id": "google-fc2fe6c60421",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-10",
-      "category": "product",
-      "title_ja": "Developers can now build with Google Maps Platform in AI Studio.",
-      "original_title": "Developers can now build with Google Maps Platform in AI Studio.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/"
-    },
-    {
-      "id": "openai-952d2516af2e",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-09",
-      "category": "safety",
-      "title_ja": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "original_title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summary_ja": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "url": "https://openai.com/index/control-room"
-    },
-    {
-      "id": "openai-02e9abf47eaf",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-09",
-      "category": "model",
-      "title_ja": "CodeRabbit scales agentic software development and ships 20x more",
-      "original_title": "CodeRabbit scales agentic software development and ships 20x more",
-      "summary_ja": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak"
-    },
-    {
-      "id": "openai-2e34e84f0999",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-09",
-      "category": "product",
-      "title_ja": "Kuken Industries searches 70 years of drawings in minutes",
-      "original_title": "Kuken Industries searches 70 years of drawings in minutes",
-      "summary_ja": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "url": "https://openai.com/index/kuken"
-    },
-    {
-      "id": "google-e9950a58c892",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-09",
-      "category": "product",
-      "title_ja": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-      "original_title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
-    },
-    {
-      "id": "openai-a0a44ed09dc9",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-06",
-      "category": "safety",
-      "title_ja": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "original_title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "summary_ja": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "url": "https://openai.com/index/partnering-with-hacktron"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-11T01:13:15+00:00",
+  "updated_at": "2026-11-12T02:14:06+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

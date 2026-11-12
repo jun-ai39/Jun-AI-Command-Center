@@ -1,8 +1,26 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-11T01:13:14+00:00",
+  "updated_at": "2026-11-12T02:14:06+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "【米中間選挙2026】 民主党コロム氏が歴史的勝利、ミシシッピ州の連邦上院選",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjy5x41ezplro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 12 Nov 2026 01:58:22 GMT"
+    },
+    {
+      "title": "米司法省、イランの支援を受けた工作員3人を起訴　英空軍基地の事件にも関与か",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6y49ypdk2z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Wed, 11 Nov 2026 04:20:23 GMT"
+    },
     {
       "title": "米陸軍兵士をイギリスで逮捕、ロシアのスパイ容疑で",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -13,76 +31,58 @@
       "published_at": "Wed, 11 Nov 2026 00:40:01 GMT"
     },
     {
-      "title": "米エヌビディアCEOと中国のスパイとされる人物の不倫、FBIが捜査　トランプ氏が明らかに",
+      "title": "ヘグセス米国防長官の弾劾決議案、下院でひとまず阻止",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq3696z2ye79o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmy0en9pe2ygo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Tue, 10 Nov 2026 06:51:40 GMT"
+      "published_at": "Wed, 11 Nov 2026 05:50:10 GMT"
     },
     {
-      "title": "【解説】エヌビディアCEOの不倫はアメリカ全土、そして世界中に波紋を広げる見通し",
+      "title": "ウクライナ和平の3カ国協議、初日は「建設的」とゼレンスキー氏",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cv0ldlx3ky5eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c3zxvlgv7p25o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 10 Nov 2026 07:16:57 GMT"
+      "category": "外交",
+      "region": "europe",
+      "published_at": "Wed, 11 Nov 2026 02:34:53 GMT"
     },
     {
-      "title": "2026年は観測史上最も暑い年に…科学者予測　トルコでCOP31開幕",
+      "title": "保護施設のチンパンジーが洪水で孤立、ドローンで食料を届ける　米フロリダ州",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cked3d9yepqeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/cmy97ejzdjego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "災害",
+      "region": "global",
+      "published_at": "Wed, 11 Nov 2026 03:52:01 GMT"
+    },
+    {
+      "title": "エプスティーン元被告の犯罪、米連邦当局が防げた可能性　議会報告書が指摘",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ckeq45jyz2ndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 10 Nov 2026 01:28:14 GMT"
+      "published_at": "Wed, 11 Nov 2026 12:30:47 GMT"
     },
     {
-      "title": "【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後",
+      "title": "【米中間選挙2026】党内のトランプ支持連合が崩れた今、共和党は今後どうするのか？",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq0k0kpv5kd4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c3kgqg9np8p2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Tue, 10 Nov 2026 01:57:31 GMT"
+      "published_at": "Wed, 11 Nov 2026 06:29:29 GMT"
     },
     {
-      "title": "フランス、スーパーの冷蔵庫へのサイバー攻撃でイランを非難",
+      "title": "イングランドとウェールズで受刑者の早期出所続く　収容人数が限界に近付く",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c3ewewjl1wq8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Tue, 10 Nov 2026 02:08:08 GMT"
-    },
-    {
-      "title": "英人気コメディアンに拘禁10年半、レイプと性的暴行の罪",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr4g1g9klql2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6n0l2j57d1xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 10 Nov 2026 03:18:33 GMT"
-    },
-    {
-      "title": "オーストラリア、AI不正に対する刑事罰を検討　オープンAIのエージェントによるハッキング事件受け",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm0j0j56pz1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "oceania",
-      "published_at": "Tue, 10 Nov 2026 06:53:48 GMT"
-    },
-    {
-      "title": "イラン、1月の反政府抗議めぐり3人の死刑執行　「武装騒乱」に関与と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crx2d2nz2793o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Mon, 09 Nov 2026 07:15:29 GMT"
+      "published_at": "Wed, 11 Nov 2026 09:42:45 GMT"
     }
   ]
 }
