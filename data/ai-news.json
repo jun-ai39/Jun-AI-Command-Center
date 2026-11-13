@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-13",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,127 @@
   ],
   "items": [
     {
+      "id": "openai-67672a694e38",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-13",
+      "category": "model",
+      "title_ja": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "original_title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary_ja": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "id": "google-77ce22269d7f",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-13",
+      "category": "product",
+      "title_ja": "5 new Google Flow Tools designed by visual artists",
+      "original_title": "5 new Google Flow Tools designed by visual artists",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"
+    },
+    {
+      "id": "google-f19cddd04797",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-13",
+      "category": "model",
+      "title_ja": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+    },
+    {
+      "id": "google-b4df4a94fa37",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-13",
+      "category": "model",
+      "title_ja": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "original_title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/"
+    },
+    {
+      "id": "google-80edea19d5fd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-13",
+      "category": "model",
+      "title_ja": "Introducing Gemini 4 Hydrogen",
+      "original_title": "Introducing Gemini 4 Hydrogen",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "id": "google-1c0ba4a23c77",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-13",
+      "category": "product",
+      "title_ja": "Scientists are using Google AI to help restore giant kelp forests.",
+      "original_title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/"
+    },
+    {
+      "id": "google-fa93928aa123",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-13",
+      "category": "product",
+      "title_ja": "We're launching a $10 million Energy Impact Program in West Virginia.",
+      "original_title": "We're launching a $10 million Energy Impact Program in West Virginia.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/"
+    },
+    {
+      "id": "google-dc9088dd5da0",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-13",
+      "category": "model",
+      "title_ja": "Get quick answers from Gemini on any website.",
+      "original_title": "Get quick answers from Gemini on any website.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/"
+    },
+    {
+      "id": "openai-b9840fd67063",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-12",
+      "category": "model",
+      "title_ja": "Gondola doubles revenue as its team builds more with Codex",
+      "original_title": "Gondola doubles revenue as its team builds more with Codex",
+      "summary_ja": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "url": "https://openai.com/business/customer-stories/gondola"
+    },
+    {
+      "id": "openai-4922ca6fb0dd",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-12",
+      "category": "product",
+      "title_ja": "Holiday Extras is rethinking what it can build with Codex",
+      "original_title": "Holiday Extras is rethinking what it can build with Codex",
+      "summary_ja": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    {
+      "id": "openai-d7c1da8cb7dc",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-12",
+      "category": "safety",
+      "title_ja": "Supporting research on AI and children’s safety",
+      "original_title": "Supporting research on AI and children’s safety",
+      "summary_ja": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "url": "https://openai.com/index/children-first-declaration"
+    },
+    {
       "id": "openai-65b96c238445",
       "source": "openai",
       "source_name": "OpenAI",
@@ -33,6 +154,28 @@
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
     },
     {
+      "id": "google-be046b96466f",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-12",
+      "category": "product",
+      "title_ja": "Designing for privacy on intelligent eyewear",
+      "original_title": "Designing for privacy on intelligent eyewear",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/"
+    },
+    {
+      "id": "google-feb34ac37e8e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-12",
+      "category": "product",
+      "title_ja": "See our intelligent eyewear lineup and pre-order your pair",
+      "original_title": "See our intelligent eyewear lineup and pre-order your pair",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/"
+    },
+    {
       "id": "google-c06fca3b9549",
       "source": "google",
       "source_name": "Google",
@@ -42,50 +185,6 @@
       "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "summary_ja": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-    },
-    {
-      "id": "google-ab896b3f94b1",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-12",
-      "category": "model",
-      "title_ja": "Talk it through with Gemini, now on Apple CarPlay",
-      "original_title": "Talk it through with Gemini, now on Apple CarPlay",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"
-    },
-    {
-      "id": "google-bd91a5e650d4",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-12",
-      "category": "safety",
-      "title_ja": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
-      "original_title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/"
-    },
-    {
-      "id": "google-bf467d9aa9cc",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-12",
-      "category": "product",
-      "title_ja": "Get certified as a Google Cloud Professional Agentic Architect.",
-      "original_title": "Get certified as a Google Cloud Professional Agentic Architect.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/"
-    },
-    {
-      "id": "google-eac4d84ef949",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-12",
-      "category": "product",
-      "title_ja": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
     },
     {
       "id": "openai-ac94b61a25ad",
@@ -108,61 +207,6 @@
       "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "summary_ja": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
       "url": "https://openai.com/index/jiostar-vijay-seshadri"
-    },
-    {
-      "id": "google-c0101f36ad82",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-11",
-      "category": "model",
-      "title_ja": "Gemini Intelligence: New features, on more devices",
-      "original_title": "Gemini Intelligence: New features, on more devices",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
-    },
-    {
-      "id": "google-d2cb458382e2",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-11",
-      "category": "model",
-      "title_ja": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
-      "original_title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/"
-    },
-    {
-      "id": "google-a2840211d251",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-11",
-      "category": "model",
-      "title_ja": "Gemini 4 Carbon is now available for developers.",
-      "original_title": "Gemini 4 Carbon is now available for developers.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/"
-    },
-    {
-      "id": "google-875de747c346",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-11",
-      "category": "product",
-      "title_ja": "Introducing 3 new domains: .eat, .fly, and .here",
-      "original_title": "Introducing 3 new domains: .eat, .fly, and .here",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/"
-    },
-    {
-      "id": "google-5d3f1a46c035",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-11",
-      "category": "model",
-      "title_ja": "Gemini 4 Carbon is now available",
-      "original_title": "Gemini 4 Carbon is now available",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
     },
     {
       "id": "openai-0f0020abcf73",
@@ -198,50 +242,6 @@
       "url": "https://openai.com/index/closing-ai-guidance-gap-education"
     },
     {
-      "id": "openai-9092d5eb66f2",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-10",
-      "category": "model",
-      "title_ja": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "original_title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "summary_ja": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "url": "https://openai.com/index/singapore-airlines-travel-work"
-    },
-    {
-      "id": "openai-f3fc54cd1d78",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-10",
-      "category": "business",
-      "title_ja": "Work at the Frontier: AI’s effect on freelance work",
-      "original_title": "Work at the Frontier: AI’s effect on freelance work",
-      "summary_ja": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work"
-    },
-    {
-      "id": "openai-37e4452e64c8",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-10",
-      "category": "business",
-      "title_ja": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "original_title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "summary_ja": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "url": "https://openai.com/index/cogent-security"
-    },
-    {
-      "id": "openai-caa9073cefb4",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-10",
-      "category": "business",
-      "title_ja": "ChatGPT Enterprise now available in AWS Marketplace",
-      "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summary_ja": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-12T02:14:06+00:00",
+  "updated_at": "2026-11-13T01:47:34+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
