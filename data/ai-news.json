@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-13",
+  "verified_at": "2026-11-14",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,50 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-7d4d71d056da",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-14",
+      "category": "model",
+      "title_ja": "Introducing ChatGPT Wallet",
+      "original_title": "Introducing ChatGPT Wallet",
+      "summary_ja": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "id": "google-176a9ceb17b4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-14",
+      "category": "product",
+      "title_ja": "Claim your Google Cloud Credits in Google AI Studio",
+      "original_title": "Claim your Google Cloud Credits in Google AI Studio",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/"
+    },
+    {
+      "id": "google-7deafdaefb22",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-14",
+      "category": "model",
+      "title_ja": "Connect Google Wallet to Gemini for personal finance insights",
+      "original_title": "Connect Google Wallet to Gemini for personal finance insights",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"
+    },
+    {
+      "id": "openai-a99dfdd20d85",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-13",
+      "category": "product",
+      "title_ja": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "original_title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary_ja": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield"
+    },
     {
       "id": "openai-67672a694e38",
       "source": "openai",
@@ -165,28 +209,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/"
     },
     {
-      "id": "google-feb34ac37e8e",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-12",
-      "category": "product",
-      "title_ja": "See our intelligent eyewear lineup and pre-order your pair",
-      "original_title": "See our intelligent eyewear lineup and pre-order your pair",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/"
-    },
-    {
-      "id": "google-c06fca3b9549",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-12",
-      "category": "model",
-      "title_ja": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary_ja": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-    },
-    {
       "id": "openai-ac94b61a25ad",
       "source": "openai",
       "source_name": "OpenAI",
@@ -218,28 +240,6 @@
       "original_title": "Helping caregivers use AI in everyday life",
       "summary_ja": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-    },
-    {
-      "id": "openai-991ad48e8559",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-10",
-      "category": "business",
-      "title_ja": "Introducing Businesses in ChatGPT",
-      "original_title": "Introducing Businesses in ChatGPT",
-      "summary_ja": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt"
-    },
-    {
-      "id": "openai-69d4d9d74efa",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-10",
-      "category": "education",
-      "title_ja": "Closing the AI guidance gap in education",
-      "original_title": "Closing the AI guidance gap in education",
-      "summary_ja": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-13T01:47:34+00:00",
+  "updated_at": "2026-11-14T01:25:32+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
