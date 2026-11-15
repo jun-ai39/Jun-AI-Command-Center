@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-14T01:25:42+00:00",
+  "updated_at": "2026-11-15T01:00:05+00:00",
   "stocks": [
     {
       "symbol": "^N225",
@@ -49,33 +49,33 @@
     {
       "symbol": "BTC",
       "name": "Bitcoin",
-      "price": 10899062.74142363,
+      "price": 10133090.096148027,
       "currency": "JPY",
-      "change_percent": -3.8635,
+      "change_percent": -7.12377,
       "decimals": 0
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
-      "price": 308035.6469258441,
+      "price": 277971.48542320135,
       "currency": "JPY",
-      "change_percent": -4.1317,
+      "change_percent": -9.86627,
       "decimals": 0
     },
     {
       "symbol": "XRP",
       "name": "XRP",
-      "price": 160.91445785154875,
+      "price": 147.14319022110996,
       "currency": "JPY",
-      "change_percent": -2.30061,
+      "change_percent": -8.65286,
       "decimals": 2
     },
     {
       "symbol": "SOL",
       "name": "Solana",
-      "price": 12354.287643087666,
+      "price": 11083.169078867368,
       "currency": "JPY",
-      "change_percent": -5.02046,
+      "change_percent": -10.60671,
       "decimals": 0
     }
   ],
@@ -101,17 +101,17 @@
     {
       "symbol": "GOLD",
       "name": "金先物",
-      "price": 3887.6,
+      "price": 3886.3,
       "currency": "USD",
-      "change_percent": -5.51464333454855,
+      "change_percent": -5.5462389111678165,
       "decimals": 2
     },
     {
       "symbol": "WTI",
       "name": "WTI原油先物",
-      "price": 88.92,
+      "price": 88.56,
       "currency": "USD",
-      "change_percent": 2.3834196891191795,
+      "change_percent": 1.9689119170984548,
       "decimals": 2
     }
   ],
@@ -123,10 +123,10 @@
   "sentiment": {
     "name": "Crypto Fear & Greed Index",
     "scope": "Bitcoin market sentiment",
-    "value": 13,
+    "value": 10,
     "classification": "Extreme Fear",
     "classification_ja": "極度の恐怖",
-    "observed_at": "2026-11-14T00:00:00+00:00",
+    "observed_at": "2026-11-15T00:00:00+00:00",
     "source": "Alternative.me"
   }
 }

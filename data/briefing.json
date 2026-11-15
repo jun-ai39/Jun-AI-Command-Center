@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T01:25:42+00:00",
+  "generated_at": "2026-11-15T01:00:05+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "米マイクロソフトで大規模障害、サービス停止　復旧作業も「期待通りには」進まずと",
+      "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 13 Nov 2026 08:35:07 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm5y13kry5l4o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 14 Nov 2026 06:02:14 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "北朝鮮が支援するハッカー、偽のビデオ通話使い4億ドル相当の暗号資産盗む",
-      "category": "世界情勢",
+      "title": "ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表　トランプ大統領、プーチン大統領、習主席が来週中国に集まると",
+      "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 13 Nov 2026 08:30:37 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm174lr79jx9o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 14 Nov 2026 05:40:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwkgrn5pnv0mo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】 AIの先駆者、誤った判断で破滅……エヌビディアのフアンCEO辞任",
+      "title": "全米の空港で航空機に約4時間の地上待機命令　「通信障害」と運輸長官は説明",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 13 Nov 2026 08:22:00 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cjy5xype60l0o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 14 Nov 2026 04:23:17 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6kgdv88pr0po?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -36,11 +36,11 @@
     {
       "label": "暗号資産",
       "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -5.02%"
+      "detail": "最大変動：Solana -10.61%"
     },
     {
       "label": "市場心理",
-      "value": "13 / 100",
+      "value": "10 / 100",
       "detail": "極度の恐怖"
     },
     {
@@ -52,7 +52,7 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "米マイクロソフトで大規模障害、サービス停止　復旧作業も「期待通りには」進まずと",
+      "detail": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは13（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは10（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-14T01:25:32+00:00",
-    "market": "2026-11-14T01:25:42+00:00"
+    "news": "2026-11-15T00:59:53+00:00",
+    "market": "2026-11-15T01:00:05+00:00"
   }
 }

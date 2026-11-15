@@ -1,8 +1,44 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-14T01:25:32+00:00",
+  "updated_at": "2026-11-15T00:59:53+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Sat, 14 Nov 2026 06:02:14 GMT"
+    },
+    {
+      "title": "ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表　トランプ大統領、プーチン大統領、習主席が来週中国に集まると",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwkgrn5pnv0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "north-america",
+      "published_at": "Sat, 14 Nov 2026 05:40:33 GMT"
+    },
+    {
+      "title": "【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmy5xy6yvn95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 14 Nov 2026 02:36:20 GMT"
+    },
+    {
+      "title": "全米の空港で航空機に約4時間の地上待機命令　「通信障害」と運輸長官は説明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6kgdv88pr0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 14 Nov 2026 04:23:17 GMT"
+    },
     {
       "title": "米エヌビディアのフアンCEOが辞任、議会委は証言を要請……不倫問題で大揺れのAI半導体大手",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -47,42 +83,6 @@
       "category": "世界情勢",
       "region": "north-america",
       "published_at": "Fri, 13 Nov 2026 04:25:16 GMT"
-    },
-    {
-      "title": "北朝鮮が支援するハッカー、偽のビデオ通話使い4億ドル相当の暗号資産盗む",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm174lr79jx9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 13 Nov 2026 08:30:37 GMT"
-    },
-    {
-      "title": "ウクライナのドローン、ロシア軍艦を攻撃　フィンランド湾",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqlyk7rrl9yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Fri, 13 Nov 2026 07:12:08 GMT"
-    },
-    {
-      "title": "米首都で医師が発砲、集合住宅の管理人死亡　自宅カビ問題で対立か",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c9vg2l1ykxe7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 13 Nov 2026 02:20:49 GMT"
-    },
-    {
-      "title": "GLP-1製剤にまれな眼の疾患リスク、米当局がメーカーに警告表示を指示",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmp3e5k2gwx3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 13 Nov 2026 07:51:34 GMT"
     }
   ]
 }
