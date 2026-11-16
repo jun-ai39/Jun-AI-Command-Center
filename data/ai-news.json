@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-15",
+  "verified_at": "2026-11-16",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,28 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-2e8f421d2ee2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-16",
+      "category": "model",
+      "title_ja": "A step toward defining the Standard Model on a lattice",
+      "original_title": "A step toward defining the Standard Model on a lattice",
+      "summary_ja": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+    },
+    {
+      "id": "openai-33b95c2112c4",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-16",
+      "category": "product",
+      "title_ja": "Our new blog for science",
+      "original_title": "Our new blog for science",
+      "summary_ja": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science"
+    },
     {
       "id": "openai-7d4d71d056da",
       "source": "openai",
@@ -220,28 +242,6 @@
       "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
-      "id": "openai-55ff14dc4213",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-11",
-      "category": "product",
-      "title_ja": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary_ja": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri"
-    },
-    {
-      "id": "openai-0f0020abcf73",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-10",
-      "category": "business",
-      "title_ja": "Helping caregivers use AI in everyday life",
-      "original_title": "Helping caregivers use AI in everyday life",
-      "summary_ja": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-15T00:59:54+00:00",
+  "updated_at": "2026-11-16T00:58:42+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
