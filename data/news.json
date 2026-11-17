@@ -1,88 +1,88 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-16T00:58:42+00:00",
+  "updated_at": "2026-11-17T03:47:44+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
+      "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm62p3wnp6j4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "europe",
-      "published_at": "Sat, 14 Nov 2026 06:02:14 GMT"
+      "published_at": "Tue, 17 Nov 2026 02:40:19 GMT"
     },
     {
-      "title": "ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表　トランプ大統領、プーチン大統領、習主席が来週中国に集まると",
+      "title": "次のジェイムズ・ボンド役に英俳優ロバート・パティンソン氏が決定　英王室も歓迎メッセージ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwkgrn5pnv0mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "north-america",
-      "published_at": "Sat, 14 Nov 2026 05:40:33 GMT"
-    },
-    {
-      "title": "【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmy5xy6yvn95o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm1dv364yng2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Sat, 14 Nov 2026 02:36:20 GMT"
+      "published_at": "Tue, 17 Nov 2026 03:11:52 GMT"
     },
     {
-      "title": "全米の空港で航空機に約4時間の地上待機命令　「通信障害」と運輸長官は説明",
+      "title": "ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請　「歴史の正しい側に立つ」よう訴え",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6kgdv88pr0po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 14 Nov 2026 04:23:17 GMT"
-    },
-    {
-      "title": "米エヌビディアのフアンCEOが辞任、議会委は証言を要請……不倫問題で大揺れのAI半導体大手",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm5y1j47wp5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 13 Nov 2026 05:47:23 GMT"
-    },
-    {
-      "title": "米マイクロソフトで大規模障害、サービス停止　復旧作業も「期待通りには」進まずと",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm5y13kry5l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 13 Nov 2026 08:35:07 GMT"
-    },
-    {
-      "title": "米特使、プーチン氏と会談　その後にゼレンスキー氏とも",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6kg7mxr20gdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "global",
-      "published_at": "Fri, 13 Nov 2026 08:11:10 GMT"
-    },
-    {
-      "title": "【解説】 AIの先駆者、誤った判断で破滅……エヌビディアのフアンCEO辞任",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cjy5xype60l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 13 Nov 2026 08:22:00 GMT"
-    },
-    {
-      "title": "ヘグセス米国防長官、自身と側近らを叱責した衛兵に勲章授与",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6vg2d9klmzlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm4gnzgeglj6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Fri, 13 Nov 2026 04:25:16 GMT"
+      "published_at": "Mon, 16 Nov 2026 01:50:59 GMT"
+    },
+    {
+      "title": "全米で航空1万便以上が欠航・遅延　運行停止措置2日後も影響続く",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwg7lr8vxx8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 16 Nov 2026 03:46:20 GMT"
+    },
+    {
+      "title": "イラン、バーレーンの米軍基地をドローン攻撃",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c85y1w3e7lnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Mon, 16 Nov 2026 02:51:32 GMT"
+    },
+    {
+      "title": "イギリスで性交同意年齢の引き上げを議論へ、著名人による性加害事件受け",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c60qj0evd3l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Mon, 16 Nov 2026 04:47:48 GMT"
+    },
+    {
+      "title": "車で襲われたとみられる豪議員が退院、事件から4週間後　「感謝でいっぱい」",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6greww2wy99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 16 Nov 2026 07:28:35 GMT"
+    },
+    {
+      "title": "パリ警察、一部の高校・大学の周囲で5日間の抗議禁止",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq7825lr047go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 16 Nov 2026 02:43:35 GMT"
+    },
+    {
+      "title": "チェコ公共放送、財源を受信料から国家予算に移す政府案　数十万人が抗議",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmx20pd8wkk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 16 Nov 2026 05:34:22 GMT"
     }
   ]
 }

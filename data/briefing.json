@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T00:58:52+00:00",
+  "generated_at": "2026-11-17T03:47:55+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
+      "title": "次のジェイムズ・ボンド役に英俳優ロバート・パティンソン氏が決定　英王室も歓迎メッセージ",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 14 Nov 2026 06:02:14 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cjx2r4rd93rzo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 17 Nov 2026 03:11:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm1dv364yng2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ホワイトハウス、米ロ中首脳の歴史的会談を実施すると発表　トランプ大統領、プーチン大統領、習主席が来週中国に集まると",
-      "category": "外交",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 14 Nov 2026 05:40:33 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cwkgrn5pnv0mo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "全米の空港で航空機に約4時間の地上待機命令　「通信障害」と運輸長官は説明",
+      "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Sat, 14 Nov 2026 04:23:17 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6kgdv88pr0po?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 17 Nov 2026 02:40:19 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm62p3wnp6j4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "車で襲われたとみられる豪議員が退院、事件から4週間後　「感謝でいっぱい」",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Mon, 16 Nov 2026 07:28:35 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6greww2wy99o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 5・下落 0・横ばい 0",
-      "detail": "最大変動：S&P 500 +2.51%"
+      "value": "上昇 0・下落 5・横ばい 0",
+      "detail": "最大変動：日経平均 -3.39%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +4.69%"
+      "value": "上昇 3・下落 1・横ばい 0",
+      "detail": "最大変動：Solana +0.91%"
     },
     {
       "label": "市場心理",
-      "value": "10 / 100",
+      "value": "12 / 100",
       "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.767 JPY",
-      "detail": "前日比 +1.13%"
+      "value": "159.363 JPY",
+      "detail": "前日比 +0.41%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "【解説】 強硬姿勢を崩さないプーチン氏、ウクライナ和平の条件を一段と拡大",
+      "detail": "次のジェイムズ・ボンド役に英俳優ロバート・パティンソン氏が決定　英王室も歓迎メッセージ",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "S&P 500が前日比+2.51%です。",
+      "detail": "日経平均が前日比-3.39%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは10（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは12（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-16T00:58:42+00:00",
-    "market": "2026-11-16T00:58:52+00:00"
+    "news": "2026-11-17T03:47:44+00:00",
+    "market": "2026-11-17T03:47:55+00:00"
   }
 }
