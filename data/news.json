@@ -1,8 +1,44 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-17T03:47:44+00:00",
+  "updated_at": "2026-11-18T02:52:23+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "トランプ氏がアジア歴訪を開始、主眼は米ロ中首脳の会談",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj752zwx7nz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "north-america",
+      "published_at": "Wed, 18 Nov 2026 01:16:44 GMT"
+    },
+    {
+      "title": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6ewv5x7g544o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Wed, 18 Nov 2026 02:09:17 GMT"
+    },
+    {
+      "title": "フアン前CEOを復帰させる動き、トランプ氏も支持　エヌビディアは取り合わない意向か",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx5y14qy79mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 17 Nov 2026 03:53:53 GMT"
+    },
+    {
+      "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表　米欧ウのオンライン協議の後に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ck3rgq2nr8rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Tue, 17 Nov 2026 07:49:22 GMT"
+    },
     {
       "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -13,6 +49,33 @@
       "published_at": "Tue, 17 Nov 2026 02:40:19 GMT"
     },
     {
+      "title": "ウクライナが過去最大のドローン攻撃、クリミア半島の象徴的な橋に被害とロシア",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvde1k4e7p3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Tue, 17 Nov 2026 05:22:06 GMT"
+    },
+    {
+      "title": "バーナム英首相、イギリスはEU離脱で得たものよりも失ったものの方が多かったと発言",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crgqx1p18275o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Tue, 17 Nov 2026 07:14:38 GMT"
+    },
+    {
+      "title": "法医学専門家、エプスティーン元被告は殺害された可能性が高いと指摘　検視資料を独自に分析",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cw62pzk48vpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 17 Nov 2026 04:55:46 GMT"
+    },
+    {
       "title": "次のジェイムズ・ボンド役に英俳優ロバート・パティンソン氏が決定　英王室も歓迎メッセージ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/cm1dv364yng2o?at_medium=RSS&at_campaign=rss",
@@ -20,69 +83,6 @@
       "category": "世界情勢",
       "region": "global",
       "published_at": "Tue, 17 Nov 2026 03:11:52 GMT"
-    },
-    {
-      "title": "ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請　「歴史の正しい側に立つ」よう訴え",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm4gnzgeglj6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Mon, 16 Nov 2026 01:50:59 GMT"
-    },
-    {
-      "title": "全米で航空1万便以上が欠航・遅延　運行停止措置2日後も影響続く",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwg7lr8vxx8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 16 Nov 2026 03:46:20 GMT"
-    },
-    {
-      "title": "イラン、バーレーンの米軍基地をドローン攻撃",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c85y1w3e7lnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Mon, 16 Nov 2026 02:51:32 GMT"
-    },
-    {
-      "title": "イギリスで性交同意年齢の引き上げを議論へ、著名人による性加害事件受け",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c60qj0evd3l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Mon, 16 Nov 2026 04:47:48 GMT"
-    },
-    {
-      "title": "車で襲われたとみられる豪議員が退院、事件から4週間後　「感謝でいっぱい」",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6greww2wy99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 16 Nov 2026 07:28:35 GMT"
-    },
-    {
-      "title": "パリ警察、一部の高校・大学の周囲で5日間の抗議禁止",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq7825lr047go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 16 Nov 2026 02:43:35 GMT"
-    },
-    {
-      "title": "チェコ公共放送、財源を受信料から国家予算に移す政府案　数十万人が抗議",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmx20pd8wkk9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 16 Nov 2026 05:34:22 GMT"
     }
   ]
 }

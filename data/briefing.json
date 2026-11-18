@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T03:47:55+00:00",
+  "generated_at": "2026-11-18T02:52:34+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "次のジェイムズ・ボンド役に英俳優ロバート・パティンソン氏が決定　英王室も歓迎メッセージ",
-      "category": "世界情勢",
+      "title": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 17 Nov 2026 03:11:52 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm1dv364yng2o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 18 Nov 2026 02:09:17 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6ewv5x7g544o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ",
-      "category": "世界情勢",
+      "title": "トランプ氏がアジア歴訪を開始、主眼は米ロ中首脳の会談",
+      "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 17 Nov 2026 02:40:19 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cm62p3wnp6j4o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 18 Nov 2026 01:16:44 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cj752zwx7nz9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "車で襲われたとみられる豪議員が退院、事件から4週間後　「感謝でいっぱい」",
-      "category": "世界情勢",
+      "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表　米欧ウのオンライン協議の後に",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Mon, 16 Nov 2026 07:28:35 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6greww2wy99o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 17 Nov 2026 07:49:22 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck3rgq2nr8rro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -3.39%"
+      "detail": "最大変動：日経平均 -3.49%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 3・下落 1・横ばい 0",
-      "detail": "最大変動：Solana +0.91%"
+      "value": "上昇 2・下落 2・横ばい 0",
+      "detail": "最大変動：Solana +3.42%"
     },
     {
       "label": "市場心理",
-      "value": "12 / 100",
+      "value": "11 / 100",
       "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.363 JPY",
-      "detail": "前日比 +0.41%"
+      "value": "159.357 JPY",
+      "detail": "前日比 -0.24%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "次のジェイムズ・ボンド役に英俳優ロバート・パティンソン氏が決定　英王室も歓迎メッセージ",
-      "meta": "世界情勢・BBC News 日本語",
+      "detail": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
+      "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.39%です。",
+      "detail": "日経平均が前日比-3.49%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは12（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは11（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-17T03:47:44+00:00",
-    "market": "2026-11-17T03:47:55+00:00"
+    "news": "2026-11-18T02:52:23+00:00",
+    "market": "2026-11-18T02:52:34+00:00"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-17",
+  "verified_at": "2026-11-18",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,138 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-8f6af8c44a4a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-18",
+      "category": "model",
+      "title_ja": "Introducing GPT-6.2 Astra and Sol",
+      "original_title": "Introducing GPT-6.2 Astra and Sol",
+      "summary_ja": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "id": "google-b6a48baf5af3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "product",
+      "title_ja": "How genome mapping can help researchers better understand disease",
+      "original_title": "How genome mapping can help researchers better understand disease",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/"
+    },
+    {
+      "id": "google-b56239a4da2e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "model",
+      "title_ja": "See what 5 builders are making with Gemini 4 Carbon",
+      "original_title": "See what 5 builders are making with Gemini 4 Carbon",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/"
+    },
+    {
+      "id": "google-f71df4eeea2a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "model",
+      "title_ja": "Read the EmbeddingGemma 2 technical report.",
+      "original_title": "Read the EmbeddingGemma 2 technical report.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/"
+    },
+    {
+      "id": "google-b451aff394ad",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "model",
+      "title_ja": "Put Gemini to work for you",
+      "original_title": "Put Gemini to work for you",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+    },
+    {
+      "id": "google-29339b7285f3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "product",
+      "title_ja": "10 states team up with Google on free AI training",
+      "original_title": "10 states team up with Google on free AI training",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/"
+    },
+    {
+      "id": "google-e4dfcc8c4cc7",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "product",
+      "title_ja": "Temporary threads are now available in AI Mode in Search.",
+      "original_title": "Temporary threads are now available in AI Mode in Search.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/"
+    },
+    {
+      "id": "google-aa57d2318fbd",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "product",
+      "title_ja": "Google Wallet is now available on iOS in the U.S.",
+      "original_title": "Google Wallet is now available on iOS in the U.S.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/"
+    },
+    {
+      "id": "openai-0e7f690aa4ff",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-17",
+      "category": "product",
+      "title_ja": "Strengthening NATO and allied cyber defenses with AI",
+      "original_title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary_ja": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+    },
+    {
+      "id": "openai-3047d7657748",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-17",
+      "category": "model",
+      "title_ja": "Introducing ChatGPT for Sales",
+      "original_title": "Introducing ChatGPT for Sales",
+      "summary_ja": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales"
+    },
+    {
+      "id": "openai-b43ef08ac3ed",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-17",
+      "category": "business",
+      "title_ja": "Astra for Law leads in legal intelligence",
+      "original_title": "Astra for Law leads in legal intelligence",
+      "summary_ja": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/astra-law-6-2"
+    },
+    {
+      "id": "openai-3b3be741a87f",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-17",
+      "category": "safety",
+      "title_ja": "Introducing OpenAI for Chile",
+      "original_title": "Introducing OpenAI for Chile",
+      "summary_ja": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "url": "https://openai.com/index/introducing-openai-for-chile"
+    },
     {
       "id": "openai-2d7a5d6b20ff",
       "source": "openai",
@@ -59,9 +191,9 @@
       "source": "google",
       "source_name": "Google",
       "published_at": "2026-11-17",
-      "category": "product",
+      "category": "safety",
       "title_ja": "The era of autonomous attacks has arrived.",
-      "original_title": "The era of autonomous attacks has arrived.",
+      "original_title": "Outpace automated cyber threats with security built for nonstop defense.",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/"
     },
@@ -77,28 +209,6 @@
       "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/"
     },
     {
-      "id": "google-6c84a24e87d5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-17",
-      "category": "product",
-      "title_ja": "New AI training performance benchmarks for Google TPUs",
-      "original_title": "New AI training performance benchmarks for Google TPUs",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/"
-    },
-    {
-      "id": "google-05fe485b609d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-17",
-      "category": "model",
-      "title_ja": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
-      "original_title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/"
-    },
-    {
       "id": "openai-d91fd06de7b8",
       "source": "openai",
       "source_name": "OpenAI",
@@ -110,6 +220,17 @@
       "url": "https://openai.com/index/science-at-the-frontier"
     },
     {
+      "id": "openai-b82b64ef90f7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-16",
+      "category": "safety",
+      "title_ja": "How Revolut raises ambition without lowering the bar",
+      "original_title": "How Revolut raises ambition without lowering the bar",
+      "summary_ja": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "url": "https://openai.com/business/customer-stories/revolut"
+    },
+    {
       "id": "openai-ff7833693fa2",
       "source": "openai",
       "source_name": "OpenAI",
@@ -119,127 +240,6 @@
       "original_title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "summary_ja": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
       "url": "https://openai.com/index/lvmh-media-division-partnership"
-    },
-    {
-      "id": "openai-9fe6d2ae73e5",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "safety",
-      "title_ja": "Our first phase of embedded assessments",
-      "original_title": "Our first phase of embedded assessments",
-      "summary_ja": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
-    },
-    {
-      "id": "openai-21b4758ab521",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "product",
-      "title_ja": "Advancing computer-use agents for healthcare teams",
-      "original_title": "Advancing computer-use agents for healthcare teams",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-    },
-    {
-      "id": "openai-21e886491b30",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "model",
-      "title_ja": "More ways to move care forward with ChatGPT for Healthcare",
-      "original_title": "More ways to move care forward with ChatGPT for Healthcare",
-      "summary_ja": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
-    },
-    {
-      "id": "openai-60f3c7381bc6",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "product",
-      "title_ja": "The King’s Trust and OpenAI launch £1m partnership",
-      "original_title": "The King’s Trust and OpenAI launch £1m partnership",
-      "summary_ja": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai"
-    },
-    {
-      "id": "openai-3d4aeac88b69",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "product",
-      "title_ja": "At Holiday Extras, dots get to work before anyone asks",
-      "original_title": "At Holiday Extras, dots get to work before anyone asks",
-      "summary_ja": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-      "url": "https://openai.com/business/customer-stories/holiday-extras-dots"
-    },
-    {
-      "id": "openai-2e8f421d2ee2",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "model",
-      "title_ja": "A step toward defining the Standard Model on a lattice",
-      "original_title": "A step toward defining the Standard Model on a lattice",
-      "summary_ja": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
-    },
-    {
-      "id": "google-0ede3a276ab0",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-16",
-      "category": "safety",
-      "title_ja": "What teenagers really think about online safety and AI",
-      "original_title": "What teenagers really think about online safety and AI",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/"
-    },
-    {
-      "id": "google-176a9ceb17b4",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-14",
-      "category": "product",
-      "title_ja": "Claim your Google Cloud Credits in Google AI Studio",
-      "original_title": "Claim your Google Cloud Credits in Google AI Studio",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/"
-    },
-    {
-      "id": "google-7deafdaefb22",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-14",
-      "category": "model",
-      "title_ja": "Connect Google Wallet to Gemini for personal finance insights",
-      "original_title": "Connect Google Wallet to Gemini for personal finance insights",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"
-    },
-    {
-      "id": "google-77ce22269d7f",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-13",
-      "category": "product",
-      "title_ja": "5 new Google Flow Tools designed by visual artists",
-      "original_title": "5 new Google Flow Tools designed by visual artists",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/"
-    },
-    {
-      "id": "google-f19cddd04797",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-13",
-      "category": "model",
-      "title_ja": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-17T03:47:45+00:00",
+  "updated_at": "2026-11-18T02:52:24+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
