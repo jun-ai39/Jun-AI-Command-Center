@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-18",
+  "verified_at": "2026-11-19",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,127 @@
   ],
   "items": [
     {
+      "id": "google-f539fcdaf975",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-19",
+      "category": "model",
+      "title_ja": "Introducing Gemini 4 Neon",
+      "original_title": "Introducing Gemini 4 Neon",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    },
+    {
+      "id": "google-52f6bc9a43b3",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-19",
+      "category": "model",
+      "title_ja": "Genie 4 is now available",
+      "original_title": "Genie 4 is now available",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+    },
+    {
+      "id": "google-361479cc0a0b",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-19",
+      "category": "product",
+      "title_ja": "Introducing Stitch Loop: A new way to build and evolve products",
+      "original_title": "Introducing Stitch Loop: A new way to build and evolve products",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/"
+    },
+    {
+      "id": "google-00a064e6720e",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-19",
+      "category": "model",
+      "title_ja": "The Gemini app is now available on lower-memory Android devices.",
+      "original_title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+    },
+    {
+      "id": "openai-184d931227f2",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-18",
+      "category": "product",
+      "title_ja": "The Silent Consensus",
+      "original_title": "The Silent Consensus",
+      "summary_ja": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "url": "https://openai.com/index/the-silent-consensus"
+    },
+    {
+      "id": "openai-58da586369f3",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-18",
+      "category": "product",
+      "title_ja": "Research acceleration: The jagged frontier",
+      "original_title": "Research acceleration: The jagged frontier",
+      "summary_ja": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+    },
+    {
+      "id": "openai-53d809d7420a",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-18",
+      "category": "business",
+      "title_ja": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "original_title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary_ja": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life"
+    },
+    {
+      "id": "openai-67952d9a918d",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-18",
+      "category": "product",
+      "title_ja": "Inside the Codex sandbox",
+      "original_title": "Inside the Codex sandbox",
+      "summary_ja": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "url": "https://openai.com/index/inside-the-codex-sandbox"
+    },
+    {
+      "id": "openai-99be0c0a7e07",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-18",
+      "category": "safety",
+      "title_ja": "Managing frontier AI risk: From training to deployment",
+      "original_title": "Managing frontier AI risk: From training to deployment",
+      "summary_ja": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "url": "https://openai.com/index/managing-frontier-ai-risk"
+    },
+    {
+      "id": "openai-a1de396d3910",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-18",
+      "category": "business",
+      "title_ja": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "original_title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "summary_ja": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+    },
+    {
+      "id": "openai-68ddb817fe40",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-18",
+      "category": "model",
+      "title_ja": "Advancing chip design with OpenAI models",
+      "original_title": "Advancing chip design with OpenAI models",
+      "summary_ja": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+    },
+    {
       "id": "openai-8f6af8c44a4a",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +152,17 @@
       "original_title": "Introducing GPT-6.2 Astra and Sol",
       "summary_ja": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
+    {
+      "id": "google-4d5ea6836812",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "safety",
+      "title_ja": "Cybersecurity tips and tools to keep you safe online",
+      "original_title": "Cybersecurity tips and tools to keep you safe online",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/"
     },
     {
       "id": "google-b6a48baf5af3",
@@ -55,17 +187,6 @@
       "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/"
     },
     {
-      "id": "google-f71df4eeea2a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-18",
-      "category": "model",
-      "title_ja": "Read the EmbeddingGemma 2 technical report.",
-      "original_title": "Read the EmbeddingGemma 2 technical report.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/"
-    },
-    {
       "id": "google-b451aff394ad",
       "source": "google",
       "source_name": "Google",
@@ -77,6 +198,17 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
     },
     {
+      "id": "google-f71df4eeea2a",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-18",
+      "category": "model",
+      "title_ja": "Read the EmbeddingGemma 2 technical report.",
+      "original_title": "Read the EmbeddingGemma 2 technical report.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/"
+    },
+    {
       "id": "google-29339b7285f3",
       "source": "google",
       "source_name": "Google",
@@ -86,28 +218,6 @@
       "original_title": "10 states team up with Google on free AI training",
       "summary_ja": "詳細は公式記事で確認してください。",
       "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/"
-    },
-    {
-      "id": "google-e4dfcc8c4cc7",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-18",
-      "category": "product",
-      "title_ja": "Temporary threads are now available in AI Mode in Search.",
-      "original_title": "Temporary threads are now available in AI Mode in Search.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/"
-    },
-    {
-      "id": "google-aa57d2318fbd",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-18",
-      "category": "product",
-      "title_ja": "Google Wallet is now available on iOS in the U.S.",
-      "original_title": "Google Wallet is now available on iOS in the U.S.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/"
     },
     {
       "id": "openai-0e7f690aa4ff",
@@ -130,116 +240,6 @@
       "original_title": "Introducing ChatGPT for Sales",
       "summary_ja": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
       "url": "https://openai.com/index/introducing-chatgpt-for-sales"
-    },
-    {
-      "id": "openai-b43ef08ac3ed",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-17",
-      "category": "business",
-      "title_ja": "Astra for Law leads in legal intelligence",
-      "original_title": "Astra for Law leads in legal intelligence",
-      "summary_ja": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "url": "https://openai.com/index/astra-law-6-2"
-    },
-    {
-      "id": "openai-3b3be741a87f",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-17",
-      "category": "safety",
-      "title_ja": "Introducing OpenAI for Chile",
-      "original_title": "Introducing OpenAI for Chile",
-      "summary_ja": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "url": "https://openai.com/index/introducing-openai-for-chile"
-    },
-    {
-      "id": "openai-2d7a5d6b20ff",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-17",
-      "category": "model",
-      "title_ja": "Broadening access to AI for scientists",
-      "original_title": "Broadening access to AI for scientists",
-      "summary_ja": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
-    },
-    {
-      "id": "openai-dd659f011024",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-17",
-      "category": "safety",
-      "title_ja": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "original_title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "summary_ja": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "url": "https://openai.com/index/strengthening-online-child-safety"
-    },
-    {
-      "id": "google-5cdbb0432c2d",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-17",
-      "category": "model",
-      "title_ja": "Regional voices are rolling out in the Gemini app.",
-      "original_title": "Regional voices are rolling out in the Gemini app.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/"
-    },
-    {
-      "id": "google-4fe7a1d3ccce",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-17",
-      "category": "safety",
-      "title_ja": "The era of autonomous attacks has arrived.",
-      "original_title": "Outpace automated cyber threats with security built for nonstop defense.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/"
-    },
-    {
-      "id": "google-c36f7f8681e6",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-17",
-      "category": "product",
-      "title_ja": "New Google AdMob AI tools help app creators build, fix, and grow faster",
-      "original_title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/"
-    },
-    {
-      "id": "openai-d91fd06de7b8",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "model",
-      "title_ja": "Science at the Frontier: How scientists use ChatGPT",
-      "original_title": "Science at the Frontier: How scientists use ChatGPT",
-      "summary_ja": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "url": "https://openai.com/index/science-at-the-frontier"
-    },
-    {
-      "id": "openai-b82b64ef90f7",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "safety",
-      "title_ja": "How Revolut raises ambition without lowering the bar",
-      "original_title": "How Revolut raises ambition without lowering the bar",
-      "summary_ja": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "url": "https://openai.com/business/customer-stories/revolut"
-    },
-    {
-      "id": "openai-ff7833693fa2",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-16",
-      "category": "business",
-      "title_ja": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "original_title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "summary_ja": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-18T02:52:24+00:00",
+  "updated_at": "2026-11-19T02:31:18+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

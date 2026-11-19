@@ -1,16 +1,25 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-18T02:52:23+00:00",
+  "updated_at": "2026-11-19T02:31:17+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "トランプ氏がアジア歴訪を開始、主眼は米ロ中首脳の会談",
+      "title": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cj752zwx7nz9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck782wyn9974o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "外交",
-      "region": "north-america",
-      "published_at": "Wed, 18 Nov 2026 01:16:44 GMT"
+      "region": "asia",
+      "published_at": "Thu, 19 Nov 2026 01:42:52 GMT"
+    },
+    {
+      "title": "米ロ両大統領が握手、習主席は笑顔で見守る　APEC首脳会議",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cmy86pww32vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "global",
+      "published_at": "Thu, 19 Nov 2026 02:21:32 GMT"
     },
     {
       "title": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
@@ -22,67 +31,58 @@
       "published_at": "Wed, 18 Nov 2026 02:09:17 GMT"
     },
     {
-      "title": "フアン前CEOを復帰させる動き、トランプ氏も支持　エヌビディアは取り合わない意向か",
+      "title": "【米中間選挙2026】 民主党、アラスカ州の連邦上院選で勝利　56議席確保",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx5y14qy79mvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmgj328en3dyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 18 Nov 2026 08:26:14 GMT"
+    },
+    {
+      "title": "アメリカで相次いだ技術障害、「組織的な攻撃ではない」とルビオ国務長官",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq5y17lee2vyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
       "region": "north-america",
-      "published_at": "Tue, 17 Nov 2026 03:53:53 GMT"
+      "published_at": "Wed, 18 Nov 2026 07:16:11 GMT"
     },
     {
-      "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表　米欧ウのオンライン協議の後に",
+      "title": "ロシアに攻撃されたキーウの橋からBBC報告　「橋をめぐる戦い」",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck3rgq2nr8rro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/cvj6l57wdrk4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Tue, 17 Nov 2026 07:49:22 GMT"
+      "published_at": "Wed, 18 Nov 2026 05:15:31 GMT"
     },
     {
-      "title": "EU5カ国がルワンダに不法移民の強制送還センターを設置へ",
+      "title": "エヌビディア、好調な業績を発表　フアン前CEOの復帰はないと強調",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm62p3wnp6j4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 17 Nov 2026 02:40:19 GMT"
-    },
-    {
-      "title": "ウクライナが過去最大のドローン攻撃、クリミア半島の象徴的な橋に被害とロシア",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvde1k4e7p3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 17 Nov 2026 05:22:06 GMT"
-    },
-    {
-      "title": "バーナム英首相、イギリスはEU離脱で得たものよりも失ったものの方が多かったと発言",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crgqx1p18275o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Tue, 17 Nov 2026 07:14:38 GMT"
-    },
-    {
-      "title": "法医学専門家、エプスティーン元被告は殺害された可能性が高いと指摘　検視資料を独自に分析",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw62pzk48vpvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cr15ez9jyenwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 17 Nov 2026 04:55:46 GMT"
+      "published_at": "Wed, 18 Nov 2026 02:58:05 GMT"
     },
     {
-      "title": "次のジェイムズ・ボンド役に英俳優ロバート・パティンソン氏が決定　英王室も歓迎メッセージ",
+      "title": "【解説】 エヌビディアめぐるスパイ疑惑、中国のAI構想にとって想定外の障害に　米中首脳が会談へ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm1dv364yng2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqz0kl38nyzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "asia",
+      "published_at": "Wed, 18 Nov 2026 06:58:29 GMT"
+    },
+    {
+      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/ck053pge55m6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Tue, 17 Nov 2026 03:11:52 GMT"
+      "region": "europe",
+      "published_at": "Wed, 18 Nov 2026 06:45:33 GMT"
     }
   ]
 }

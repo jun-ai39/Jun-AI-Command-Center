@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T02:52:34+00:00",
+  "generated_at": "2026-11-19T02:31:28+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Wed, 18 Nov 2026 02:09:17 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6ewv5x7g544o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "トランプ氏がアジア歴訪を開始、主眼は米ロ中首脳の会談",
+      "title": "米ロ両大統領が握手、習主席は笑顔で見守る　APEC首脳会議",
       "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 18 Nov 2026 01:16:44 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cj752zwx7nz9o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 19 Nov 2026 02:21:32 GMT",
+      "url": "https://www.bbc.com/japanese/watch/cmy86pww32vgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "キーウの主要な橋2本をロシアが攻撃、市長が発表　米欧ウのオンライン協議の後に",
-      "category": "紛争",
+      "title": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に",
+      "category": "外交",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 17 Nov 2026 07:49:22 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck3rgq2nr8rro?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 19 Nov 2026 01:42:52 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ck782wyn9974o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "【米中間選挙2026】 民主党、アラスカ州の連邦上院選で勝利　56議席確保",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Wed, 18 Nov 2026 08:26:14 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmgj328en3dyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -3.49%"
+      "detail": "最大変動：NYダウ -4.36%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：Solana +3.42%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Bitcoin -2.77%"
     },
     {
       "label": "市場心理",
-      "value": "11 / 100",
+      "value": "10 / 100",
       "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.357 JPY",
-      "detail": "前日比 -0.24%"
+      "value": "159.417 JPY",
+      "detail": "前日比 -0.29%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "米ロ両大統領が握手、習主席は笑顔で見守る　APEC首脳会議",
+      "meta": "外交・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.49%です。",
+      "detail": "NYダウが前日比-4.36%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは11（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは10（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-18T02:52:23+00:00",
-    "market": "2026-11-18T02:52:34+00:00"
+    "news": "2026-11-19T02:31:17+00:00",
+    "market": "2026-11-19T02:31:28+00:00"
   }
 }
