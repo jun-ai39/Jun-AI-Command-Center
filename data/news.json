@@ -1,16 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-19T02:31:17+00:00",
+  "updated_at": "2026-11-20T02:17:00+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に",
+      "title": "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck782wyn9974o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6702wn1xkepo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "外交",
+      "region": "global",
+      "published_at": "Fri, 20 Nov 2026 01:12:55 GMT"
+    },
+    {
+      "title": "ミャンマー軍はロヒンギャにジェノサイドと認定　国際司法裁判所",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crq5vz4j0xlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
       "region": "asia",
-      "published_at": "Thu, 19 Nov 2026 01:42:52 GMT"
+      "published_at": "Fri, 20 Nov 2026 01:27:30 GMT"
+    },
+    {
+      "title": "ウクライナがクリミア橋を攻撃、1週間で3度目　ロシア当局が発表",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c5j9m1kkkj3ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Thu, 19 Nov 2026 07:24:45 GMT"
+    },
+    {
+      "title": "アメリカの「はしか排除国」認定、26年ぶり取り消し　2年連続の記録的症例数を受け",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm1wr0nrp1e7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 20 Nov 2026 01:57:10 GMT"
+    },
+    {
+      "title": "米中ロの3首脳が歴史的会談　トランプ氏は習氏、プーチン氏と個別会談も",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmn80y0wz535o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "north-america",
+      "published_at": "Thu, 19 Nov 2026 09:27:31 GMT"
+    },
+    {
+      "title": "【解説】 プーチン氏にとって米中ロ首脳会談は快挙＝BBCロシア編集長",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/crlyenvl96jqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "europe",
+      "published_at": "Thu, 19 Nov 2026 03:24:59 GMT"
+    },
+    {
+      "title": "ゴッホ晩年の作品、記録的な1億9040万ドルで落札　ナチスとの関係めぐり論争",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cx30gd42zv3mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 19 Nov 2026 04:22:34 GMT"
+    },
+    {
+      "title": "イスラエル軍、ガザ地区で「撤退ライン」越える地上作戦を開始",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cj62p6q10xngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Thu, 19 Nov 2026 04:29:50 GMT"
     },
     {
       "title": "米ロ両大統領が握手、習主席は笑顔で見守る　APEC首脳会議",
@@ -20,69 +83,6 @@
       "category": "外交",
       "region": "global",
       "published_at": "Thu, 19 Nov 2026 02:21:32 GMT"
-    },
-    {
-      "title": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6ewv5x7g544o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Wed, 18 Nov 2026 02:09:17 GMT"
-    },
-    {
-      "title": "【米中間選挙2026】 民主党、アラスカ州の連邦上院選で勝利　56議席確保",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmgj328en3dyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 18 Nov 2026 08:26:14 GMT"
-    },
-    {
-      "title": "アメリカで相次いだ技術障害、「組織的な攻撃ではない」とルビオ国務長官",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq5y17lee2vyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "north-america",
-      "published_at": "Wed, 18 Nov 2026 07:16:11 GMT"
-    },
-    {
-      "title": "ロシアに攻撃されたキーウの橋からBBC報告　「橋をめぐる戦い」",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cvj6l57wdrk4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Wed, 18 Nov 2026 05:15:31 GMT"
-    },
-    {
-      "title": "エヌビディア、好調な業績を発表　フアン前CEOの復帰はないと強調",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr15ez9jyenwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 18 Nov 2026 02:58:05 GMT"
-    },
-    {
-      "title": "【解説】 エヌビディアめぐるスパイ疑惑、中国のAI構想にとって想定外の障害に　米中首脳が会談へ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqz0kl38nyzeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "asia",
-      "published_at": "Wed, 18 Nov 2026 06:58:29 GMT"
-    },
-    {
-      "title": "【解説】ロシアの超富裕層はすでに「プーチン氏以後」の未来を考えている",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck053pge55m6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 18 Nov 2026 06:45:33 GMT"
     }
   ]
 }

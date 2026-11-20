@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T02:31:28+00:00",
+  "generated_at": "2026-11-20T02:17:11+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "米ロ両大統領が握手、習主席は笑顔で見守る　APEC首脳会議",
-      "category": "外交",
-      "source": "BBC News 日本語",
-      "published_at": "Thu, 19 Nov 2026 02:21:32 GMT",
-      "url": "https://www.bbc.com/japanese/watch/cmy86pww32vgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に",
-      "category": "外交",
-      "source": "BBC News 日本語",
-      "published_at": "Thu, 19 Nov 2026 01:42:52 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ck782wyn9974o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "【米中間選挙2026】 民主党、アラスカ州の連邦上院選で勝利　56議席確保",
+      "title": "アメリカの「はしか排除国」認定、26年ぶり取り消し　2年連続の記録的症例数を受け",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 18 Nov 2026 08:26:14 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmgj328en3dyo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 20 Nov 2026 01:57:10 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cm1wr0nrp1e7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "ミャンマー軍はロヒンギャにジェノサイドと認定　国際司法裁判所",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 20 Nov 2026 01:27:30 GMT",
+      "url": "https://www.bbc.com/japanese/articles/crq5vz4j0xlvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後",
+      "category": "外交",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 20 Nov 2026 01:12:55 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6702wn1xkepo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：NYダウ -4.36%"
+      "detail": "最大変動：NYダウ -6.12%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Bitcoin -2.77%"
+      "detail": "最大変動：Ethereum -2.29%"
     },
     {
       "label": "市場心理",
-      "value": "10 / 100",
+      "value": "12 / 100",
       "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.417 JPY",
-      "detail": "前日比 -0.29%"
+      "value": "159.265 JPY",
+      "detail": "前日比 -0.32%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "米ロ両大統領が握手、習主席は笑顔で見守る　APEC首脳会議",
-      "meta": "外交・BBC News 日本語",
+      "detail": "アメリカの「はしか排除国」認定、26年ぶり取り消し　2年連続の記録的症例数を受け",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NYダウが前日比-4.36%です。",
+      "detail": "NYダウが前日比-6.12%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは10（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは12（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-19T02:31:17+00:00",
-    "market": "2026-11-19T02:31:28+00:00"
+    "news": "2026-11-20T02:17:00+00:00",
+    "market": "2026-11-20T02:17:11+00:00"
   }
 }
