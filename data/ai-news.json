@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-20",
+  "verified_at": "2026-11-21",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,61 @@
     }
   ],
   "items": [
+    {
+      "id": "google-8561578013c2",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-21",
+      "category": "model",
+      "title_ja": "Get your year-end tasks done with new Connected Apps.",
+      "original_title": "Get your year-end tasks done with new Connected Apps.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/"
+    },
+    {
+      "id": "google-c3e6a3cdd219",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-21",
+      "category": "model",
+      "title_ja": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "original_title": "How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/"
+    },
+    {
+      "id": "openai-7ad44f990f0c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-20",
+      "category": "safety",
+      "title_ja": "Combatting adversarial distillation",
+      "original_title": "Combatting adversarial distillation",
+      "summary_ja": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "url": "https://openai.com/index/combatting-adversarial-distillation"
+    },
+    {
+      "id": "openai-8145fefb47ff",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-20",
+      "category": "model",
+      "title_ja": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summary_ja": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "url": "https://openai.com/business/customer-stories/hebbia"
+    },
+    {
+      "id": "openai-c1a2af93db54",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-20",
+      "category": "model",
+      "title_ja": "Can AI help scientists identify promising drug candidates?",
+      "original_title": "Can AI help scientists identify promising drug candidates?",
+      "summary_ja": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "url": "https://openai.com/index/introducing-medchembench"
+    },
     {
       "id": "google-5b6ab73ed264",
       "source": "google",
@@ -110,28 +165,6 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
     },
     {
-      "id": "google-334444f4e5ca",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-20",
-      "category": "product",
-      "title_ja": "See some of the work from Google Flow and Flow Music Sessions artists",
-      "original_title": "See some of the work from Google Flow and Flow Music Sessions artists",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/"
-    },
-    {
-      "id": "google-44aacee85dd7",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-20",
-      "category": "product",
-      "title_ja": "Building the right way: Lessons from 20 years in The Dalles",
-      "original_title": "Building the right way: Lessons from 20 years in The Dalles",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/"
-    },
-    {
       "id": "openai-9342dbf934e4",
       "source": "openai",
       "source_name": "OpenAI",
@@ -141,28 +174,6 @@
       "original_title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "summary_ja": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-    },
-    {
-      "id": "openai-a890a236270c",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-19",
-      "category": "safety",
-      "title_ja": "Deploying Daybreak Red",
-      "original_title": "Deploying Daybreak Red",
-      "summary_ja": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red"
-    },
-    {
-      "id": "openai-17b7a2b39f09",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-19",
-      "category": "product",
-      "title_ja": "See PR scans in action",
-      "original_title": "See PR scans in action",
-      "summary_ja": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "url": "https://openai.com/business/learn/pr-scans-demo"
     },
     {
       "id": "openai-82fe289fe466",
@@ -176,6 +187,17 @@
       "url": "https://openai.com/business/learn/codex-security-plugin-demo"
     },
     {
+      "id": "openai-17b7a2b39f09",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-19",
+      "category": "product",
+      "title_ja": "See PR scans in action",
+      "original_title": "See PR scans in action",
+      "summary_ja": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "url": "https://openai.com/business/learn/pr-scans-demo"
+    },
+    {
       "id": "openai-da3064513703",
       "source": "openai",
       "source_name": "OpenAI",
@@ -185,6 +207,17 @@
       "original_title": "Get started with Daybreak Blue",
       "summary_ja": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
+    },
+    {
+      "id": "openai-a890a236270c",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-19",
+      "category": "safety",
+      "title_ja": "Deploying Daybreak Red",
+      "original_title": "Deploying Daybreak Red",
+      "summary_ja": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red"
     },
     {
       "id": "openai-184d931227f2",
@@ -198,17 +231,6 @@
       "url": "https://openai.com/index/the-silent-consensus"
     },
     {
-      "id": "openai-58da586369f3",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-18",
-      "category": "product",
-      "title_ja": "Research acceleration: The jagged frontier",
-      "original_title": "Research acceleration: The jagged frontier",
-      "summary_ja": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier"
-    },
-    {
       "id": "openai-53d809d7420a",
       "source": "openai",
       "source_name": "OpenAI",
@@ -218,28 +240,6 @@
       "original_title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "summary_ja": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "url": "https://openai.com/business/customer-stories/sumitomo-life"
-    },
-    {
-      "id": "openai-67952d9a918d",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-18",
-      "category": "product",
-      "title_ja": "Inside the Codex sandbox",
-      "original_title": "Inside the Codex sandbox",
-      "summary_ja": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "url": "https://openai.com/index/inside-the-codex-sandbox"
-    },
-    {
-      "id": "openai-99be0c0a7e07",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-18",
-      "category": "safety",
-      "title_ja": "Managing frontier AI risk: From training to deployment",
-      "original_title": "Managing frontier AI risk: From training to deployment",
-      "summary_ja": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "url": "https://openai.com/index/managing-frontier-ai-risk"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-20T02:17:01+00:00",
+  "updated_at": "2026-11-21T02:10:28+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
