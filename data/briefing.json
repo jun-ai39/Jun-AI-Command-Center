@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T02:10:39+00:00",
+  "generated_at": "2026-11-22T01:14:44+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
+    {
+      "title": "AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 21 Nov 2026 03:52:23 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwlyl6ymz841o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "英・EU、食品輸出や青少年プログラムなどで合意　関係深化を検討するとバーナム英首相",
+      "category": "外交",
+      "source": "BBC News 日本語",
+      "published_at": "Sat, 21 Nov 2026 03:45:57 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c61wr0wnnpxpo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
       "category": "紛争",
       "source": "BBC News 日本語",
       "published_at": "Sat, 21 Nov 2026 02:03:21 GMT",
       "url": "https://www.bbc.com/japanese/articles/cxg5rdrdlq6no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "米ナスダック急落、アンソロピック株も　ハイテク株に売り圧力",
-      "category": "世界情勢",
-      "source": "BBC News 日本語",
-      "published_at": "Sat, 21 Nov 2026 01:58:05 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cx62pzp8dgv4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "米中ロ3首脳は会談で何を得たのか、BBC各国特派員の意見",
-      "category": "外交",
-      "source": "BBC News 日本語",
-      "published_at": "Fri, 20 Nov 2026 07:23:27 GMT",
-      "url": "https://www.bbc.com/japanese/watch/cxj05q9yd06jo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
@@ -35,12 +35,12 @@
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Ethereum -6.69%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：Ethereum +3.75%"
     },
     {
       "label": "市場心理",
-      "value": "12 / 100",
+      "value": "11 / 100",
       "detail": "極度の恐怖"
     },
     {
@@ -52,8 +52,8 @@
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは12（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは11（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-21T02:10:28+00:00",
-    "market": "2026-11-21T02:10:39+00:00"
+    "news": "2026-11-22T01:14:34+00:00",
+    "market": "2026-11-22T01:14:44+00:00"
   }
 }

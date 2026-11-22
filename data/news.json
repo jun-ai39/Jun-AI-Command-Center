@@ -1,8 +1,17 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-21T02:10:28+00:00",
+  "updated_at": "2026-11-22T01:14:34+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "英・EU、食品輸出や青少年プログラムなどで合意　関係深化を検討するとバーナム英首相",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c61wr0wnnpxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "europe",
+      "published_at": "Sat, 21 Nov 2026 03:45:57 GMT"
+    },
     {
       "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,6 +20,15 @@
       "category": "紛争",
       "region": "europe",
       "published_at": "Sat, 21 Nov 2026 02:03:21 GMT"
+    },
+    {
+      "title": "AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwlyl6ymz841o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Sat, 21 Nov 2026 03:52:23 GMT"
     },
     {
       "title": "米ナスダック急落、アンソロピック株も　ハイテク株に売り圧力",
@@ -65,24 +83,6 @@
       "category": "外交",
       "region": "global",
       "published_at": "Fri, 20 Nov 2026 07:23:27 GMT"
-    },
-    {
-      "title": "膵臓がん治療薬の臨床試験で一部の患者の腫瘍消失、効果に大きな期待",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckpdwe1gwyyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 20 Nov 2026 03:40:13 GMT"
-    },
-    {
-      "title": "動物園のカバが飼育場に落ちた帽子を飲み込んで死亡　米オハイオ州",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6gqx971yqq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Fri, 20 Nov 2026 02:38:38 GMT"
     }
   ]
 }
