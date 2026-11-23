@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -21,6 +21,17 @@
     }
   ],
   "items": [
+    {
+      "id": "openai-1a10f1676d46",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-22",
+      "category": "model",
+      "title_ja": "Perplexity and Intelligence",
+      "original_title": "Perplexity and Intelligence",
+      "summary_ja": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
+    },
     {
       "id": "google-8561578013c2",
       "source": "google",
@@ -176,15 +187,15 @@
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
     },
     {
-      "id": "openai-82fe289fe466",
+      "id": "openai-a890a236270c",
       "source": "openai",
       "source_name": "OpenAI",
       "published_at": "2026-11-19",
       "category": "safety",
-      "title_ja": "Explore the Codex Security Plugin",
-      "original_title": "Explore the Codex Security Plugin",
-      "summary_ja": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo"
+      "title_ja": "Deploying Daybreak Red",
+      "original_title": "Deploying Daybreak Red",
+      "summary_ja": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red"
     },
     {
       "id": "openai-17b7a2b39f09",
@@ -209,15 +220,15 @@
       "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
     },
     {
-      "id": "openai-a890a236270c",
+      "id": "openai-82fe289fe466",
       "source": "openai",
       "source_name": "OpenAI",
       "published_at": "2026-11-19",
       "category": "safety",
-      "title_ja": "Deploying Daybreak Red",
-      "original_title": "Deploying Daybreak Red",
-      "summary_ja": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red"
+      "title_ja": "Explore the Codex Security Plugin",
+      "original_title": "Explore the Codex Security Plugin",
+      "summary_ja": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo"
     },
     {
       "id": "openai-184d931227f2",
@@ -229,17 +240,6 @@
       "original_title": "The Silent Consensus",
       "summary_ja": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "url": "https://openai.com/index/the-silent-consensus"
-    },
-    {
-      "id": "openai-53d809d7420a",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-18",
-      "category": "business",
-      "title_ja": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "original_title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summary_ja": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life"
     },
     {
       "id": "anthropic-claude-for-teachers-2026-07-14",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-22T01:14:35+00:00",
+  "updated_at": "2026-11-23T01:38:43+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",
