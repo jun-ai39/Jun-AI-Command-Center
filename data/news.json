@@ -1,16 +1,79 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-23T01:38:43+00:00",
+  "updated_at": "2026-11-24T05:17:23+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "英・EU、食品輸出や青少年プログラムなどで合意　関係深化を検討するとバーナム英首相",
+      "title": "フアン氏がエヌビディアに復帰、不倫発覚による辞任から一転　トランプ氏は「私が取引をまとめた」と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c61wr0wnnpxpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6g7l1397vvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 24 Nov 2026 01:55:33 GMT"
+    },
+    {
+      "title": "エヌビディア時価総額が1兆ドル近く増加、ハイテク株も急騰　フアン氏のCEO復帰で",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6x28xr98n7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Tue, 24 Nov 2026 02:17:57 GMT"
+    },
+    {
+      "title": "フアン氏の歴史的なカムバック、トランプ氏の影響は",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cqwy4n20ngzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 24 Nov 2026 04:16:16 GMT"
+    },
+    {
+      "title": "ウクライナがロシア艦船をドローン攻撃、動画や衛星画像で分かること",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/c68x0g21ywk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
+      "region": "europe",
+      "published_at": "Tue, 24 Nov 2026 04:43:46 GMT"
+    },
+    {
+      "title": "COP31、気候変動対策で主要合意に至らず閉幕　深い対立があらわに",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6n83zyvj5pro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "外交",
+      "region": "global",
+      "published_at": "Mon, 23 Nov 2026 03:17:36 GMT"
+    },
+    {
+      "title": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm205xnej3z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "紛争",
       "region": "europe",
-      "published_at": "Sat, 21 Nov 2026 03:45:57 GMT"
+      "published_at": "Mon, 23 Nov 2026 03:14:10 GMT"
+    },
+    {
+      "title": "【米中間選挙2026】 民主党、連邦下院で1992年以来最多の議席確保　ノースカロライナで現職に勝利",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cr4gn3w991jdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 23 Nov 2026 08:49:19 GMT"
+    },
+    {
+      "title": "BBCの人気ダンス番組中にわいせつ音　「不快な思いさせた」と謝罪",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cq8r7ejx2y1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Mon, 23 Nov 2026 05:23:41 GMT"
     },
     {
       "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
@@ -20,69 +83,6 @@
       "category": "紛争",
       "region": "europe",
       "published_at": "Sat, 21 Nov 2026 02:03:21 GMT"
-    },
-    {
-      "title": "AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cwlyl6ymz841o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 21 Nov 2026 03:52:23 GMT"
-    },
-    {
-      "title": "米ナスダック急落、アンソロピック株も　ハイテク株に売り圧力",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cx62pzp8dgv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Sat, 21 Nov 2026 01:58:05 GMT"
-    },
-    {
-      "title": "欧州諸国首脳、ウクライナでの戦争終結に向けてロシアと協議する用意あると",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvwy0n8p07r7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Fri, 20 Nov 2026 04:58:35 GMT"
-    },
-    {
-      "title": "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6702wn1xkepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "global",
-      "published_at": "Fri, 20 Nov 2026 01:12:55 GMT"
-    },
-    {
-      "title": "ミャンマー軍はロヒンギャにジェノサイドと認定　国際司法裁判所",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/crq5vz4j0xlvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Fri, 20 Nov 2026 01:27:30 GMT"
-    },
-    {
-      "title": "アメリカの「はしか排除国」認定、26年ぶり取り消し　2年連続の記録的症例数を受け",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm1wr0nrp1e7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Fri, 20 Nov 2026 01:57:10 GMT"
-    },
-    {
-      "title": "米中ロ3首脳は会談で何を得たのか、BBC各国特派員の意見",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cxj05q9yd06jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "global",
-      "published_at": "Fri, 20 Nov 2026 07:23:27 GMT"
     }
   ]
 }
