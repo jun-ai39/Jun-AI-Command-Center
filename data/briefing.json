@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T05:17:34+00:00",
+  "generated_at": "2026-11-25T04:08:45+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ウクライナがロシア艦船をドローン攻撃、動画や衛星画像で分かること",
+      "title": "イスラエル軍、ハマス内部治安トップを殺害　ガザ空爆",
       "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 24 Nov 2026 04:43:46 GMT",
-      "url": "https://www.bbc.com/japanese/watch/c68x0g21ywk2o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 25 Nov 2026 02:47:56 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmkgdj182rl8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "フアン氏の歴史的なカムバック、トランプ氏の影響は",
-      "category": "世界情勢",
+      "title": "米司法長官、エヌビディアを捜査するか答えず　株価6％反落、フアン氏復帰に米与野党から批判",
+      "category": "経済",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 24 Nov 2026 04:16:16 GMT",
-      "url": "https://www.bbc.com/japanese/watch/cqwy4n20ngzdo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Wed, 25 Nov 2026 01:48:28 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckg5rzd9zy4go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "エヌビディア時価総額が1兆ドル近く増加、ハイテク株も急騰　フアン氏のCEO復帰で",
-      "category": "世界情勢",
+      "title": "【解説】 ウクライナでの戦争が拡大、リビア海域でのロシア艦船攻撃から分かること",
+      "category": "紛争",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 24 Nov 2026 02:17:57 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6x28xr98n7do?at_medium=RSS&at_campaign=rss"
+      "published_at": "Tue, 24 Nov 2026 09:02:16 GMT",
+      "url": "https://www.bbc.com/japanese/articles/ckvg2qyr1ypno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：NYダウ -3.90%"
+      "detail": "最大変動：日経平均 -3.59%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 2・下落 2・横ばい 0",
-      "detail": "最大変動：XRP +2.32%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Solana -3.23%"
     },
     {
       "label": "市場心理",
-      "value": "11 / 100",
+      "value": "13 / 100",
       "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.053 JPY",
-      "detail": "前日比 -0.28%"
+      "value": "159.299 JPY",
+      "detail": "前日比 -0.05%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ウクライナがロシア艦船をドローン攻撃、動画や衛星画像で分かること",
+      "detail": "イスラエル軍、ハマス内部治安トップを殺害　ガザ空爆",
       "meta": "紛争・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NYダウが前日比-3.90%です。",
+      "detail": "日経平均が前日比-3.59%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは11（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは13（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-24T05:17:23+00:00",
-    "market": "2026-11-24T05:17:34+00:00"
+    "news": "2026-11-25T04:08:33+00:00",
+    "market": "2026-11-25T04:08:45+00:00"
   }
 }

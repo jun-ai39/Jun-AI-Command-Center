@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "verified_at": "2026-11-24",
+  "verified_at": "2026-11-25",
   "display_timezone": "Asia/Tokyo",
   "notice": "OpenAIとGoogleは公式RSSから自動更新しています。Anthropicは確認済みの公式Newsroom記事を保持しています。詳細は必ず公式記事で確認してください。",
   "sources": [
@@ -22,6 +22,94 @@
   ],
   "items": [
     {
+      "id": "google-e7f7857605a4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-25",
+      "category": "product",
+      "title_ja": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "original_title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/"
+    },
+    {
+      "id": "google-0d108e7b71c4",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-25",
+      "category": "model",
+      "title_ja": "How Gemini is changing the game for Golden State's organization and fans.",
+      "original_title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/"
+    },
+    {
+      "id": "google-4aad2bdf1fe7",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-25",
+      "category": "model",
+      "title_ja": "See what 5 builders are making with Gemini 4 Neon",
+      "original_title": "See what 5 builders are making with Gemini 4 Neon",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/"
+    },
+    {
+      "id": "openai-ac2f786b30f6",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-24",
+      "category": "model",
+      "title_ja": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "original_title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "summary_ja": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+    },
+    {
+      "id": "openai-7758c04a6293",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-24",
+      "category": "product",
+      "title_ja": "Searching for distant planets with Astra",
+      "original_title": "Searching for distant planets with Astra",
+      "summary_ja": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
+    },
+    {
+      "id": "openai-7e14b56be674",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-24",
+      "category": "product",
+      "title_ja": "How Intentful uses dots to make more time for growth",
+      "original_title": "How Intentful uses dots to make more time for growth",
+      "summary_ja": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "url": "https://openai.com/business/customer-stories/intentful-dots"
+    },
+    {
+      "id": "openai-89a905d5eae9",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-24",
+      "category": "product",
+      "title_ja": "How iFood scales coding agents across 15,000 repositories",
+      "original_title": "How iFood scales coding agents across 15,000 repositories",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://openai.com/business/customer-stories/ifood"
+    },
+    {
+      "id": "openai-a3c9028eefd6",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "published_at": "2026-11-24",
+      "category": "model",
+      "title_ja": "Clay helps sales teams win with Codex and ChatGPT",
+      "original_title": "Clay helps sales teams win with Codex and ChatGPT",
+      "summary_ja": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai"
+    },
+    {
       "id": "openai-b0689cf87ab5",
       "source": "openai",
       "source_name": "OpenAI",
@@ -31,6 +119,17 @@
       "original_title": "OpenAI and Cisco introduce Shirudo",
       "summary_ja": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "url": "https://openai.com/index/introducing-shirudo"
+    },
+    {
+      "id": "google-796415acf152",
+      "source": "google",
+      "source_name": "Google",
+      "published_at": "2026-11-24",
+      "category": "product",
+      "title_ja": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+      "original_title": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+      "summary_ja": "詳細は公式記事で確認してください。",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/"
     },
     {
       "id": "google-28cc1ec33c3b",
@@ -143,105 +242,6 @@
       "url": "https://openai.com/index/combatting-adversarial-distillation"
     },
     {
-      "id": "openai-8145fefb47ff",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-20",
-      "category": "model",
-      "title_ja": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summary_ja": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "url": "https://openai.com/business/customer-stories/hebbia"
-    },
-    {
-      "id": "openai-c1a2af93db54",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-20",
-      "category": "model",
-      "title_ja": "Can AI help scientists identify promising drug candidates?",
-      "original_title": "Can AI help scientists identify promising drug candidates?",
-      "summary_ja": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "url": "https://openai.com/index/introducing-medchembench"
-    },
-    {
-      "id": "google-5b6ab73ed264",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-20",
-      "category": "model",
-      "title_ja": "ICYMI: Transfer your history from other AI apps into Gemini.",
-      "original_title": "ICYMI: Transfer your history from other AI apps into Gemini.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/"
-    },
-    {
-      "id": "google-979f97d8e071",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-20",
-      "category": "product",
-      "title_ja": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
-      "original_title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/"
-    },
-    {
-      "id": "google-1b3aafed7dd5",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-20",
-      "category": "model",
-      "title_ja": "Introducing Tool Retrieval in the Gemini API",
-      "original_title": "Introducing Tool Retrieval in the Gemini API",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
-    },
-    {
-      "id": "google-69d162e3003a",
-      "source": "google",
-      "source_name": "Google",
-      "published_at": "2026-11-20",
-      "category": "model",
-      "title_ja": "Let Gemini tackle repetitive chores on your Mac",
-      "original_title": "Let Gemini tackle repetitive chores on your Mac",
-      "summary_ja": "詳細は公式記事で確認してください。",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
-    },
-    {
-      "id": "openai-9342dbf934e4",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-19",
-      "category": "education",
-      "title_ja": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "original_title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "summary_ja": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
-    },
-    {
-      "id": "openai-17b7a2b39f09",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-19",
-      "category": "product",
-      "title_ja": "See PR scans in action",
-      "original_title": "See PR scans in action",
-      "summary_ja": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "url": "https://openai.com/business/learn/pr-scans-demo"
-    },
-    {
-      "id": "openai-da3064513703",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "published_at": "2026-11-19",
-      "category": "product",
-      "title_ja": "Get started with Daybreak Blue",
-      "original_title": "Get started with Daybreak Blue",
-      "summary_ja": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
-    },
-    {
       "id": "anthropic-claude-for-teachers-2026-07-14",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -275,7 +275,7 @@
       "url": "https://www.anthropic.com/news/claude-sonnet-5"
     }
   ],
-  "updated_at": "2026-11-24T05:17:24+00:00",
+  "updated_at": "2026-11-25T04:08:34+00:00",
   "source_status": {
     "openai": "updated",
     "google": "updated",

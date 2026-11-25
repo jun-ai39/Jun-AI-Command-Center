@@ -1,34 +1,25 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-24T05:17:23+00:00",
+  "updated_at": "2026-11-25T04:08:33+00:00",
   "source": "Official news RSS feeds",
   "items": [
     {
-      "title": "フアン氏がエヌビディアに復帰、不倫発覚による辞任から一転　トランプ氏は「私が取引をまとめた」と",
+      "title": "イスラエル軍、ハマス内部治安トップを殺害　ガザ空爆",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6g7l1397vvzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cmkgdj182rl8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 24 Nov 2026 01:55:33 GMT"
+      "category": "紛争",
+      "region": "middle-east",
+      "published_at": "Wed, 25 Nov 2026 02:47:56 GMT"
     },
     {
-      "title": "エヌビディア時価総額が1兆ドル近く増加、ハイテク株も急騰　フアン氏のCEO復帰で",
+      "title": "米司法長官、エヌビディアを捜査するか答えず　株価6％反落、フアン氏復帰に米与野党から批判",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6x28xr98n7do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ckg5rzd9zy4go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "世界情勢",
+      "category": "経済",
       "region": "global",
-      "published_at": "Tue, 24 Nov 2026 02:17:57 GMT"
-    },
-    {
-      "title": "フアン氏の歴史的なカムバック、トランプ氏の影響は",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cqwy4n20ngzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 24 Nov 2026 04:16:16 GMT"
+      "published_at": "Wed, 25 Nov 2026 01:48:28 GMT"
     },
     {
       "title": "ウクライナがロシア艦船をドローン攻撃、動画や衛星画像で分かること",
@@ -40,49 +31,58 @@
       "published_at": "Tue, 24 Nov 2026 04:43:46 GMT"
     },
     {
-      "title": "COP31、気候変動対策で主要合意に至らず閉幕　深い対立があらわに",
+      "title": "【解説】 ウクライナでの戦争が拡大、リビア海域でのロシア艦船攻撃から分かること",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6n83zyvj5pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "global",
-      "published_at": "Mon, 23 Nov 2026 03:17:36 GMT"
-    },
-    {
-      "title": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm205xnej3z7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ckvg2qyr1ypno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "紛争",
       "region": "europe",
-      "published_at": "Mon, 23 Nov 2026 03:14:10 GMT"
+      "published_at": "Tue, 24 Nov 2026 09:02:16 GMT"
     },
     {
-      "title": "【米中間選挙2026】 民主党、連邦下院で1992年以来最多の議席確保　ノースカロライナで現職に勝利",
+      "title": "フアン氏がエヌビディアに復帰、不倫発覚による辞任から一転　トランプ氏は「私が取引をまとめた」と",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cr4gn3w991jdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c6g7l1397vvzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Tue, 24 Nov 2026 01:55:33 GMT"
+    },
+    {
+      "title": "トルコ富豪、アンドリュー元王子に75万ポンド提供と　法廷で証言",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cvp865xdg927o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Mon, 23 Nov 2026 08:49:19 GMT"
+      "published_at": "Tue, 24 Nov 2026 07:42:02 GMT"
     },
     {
-      "title": "BBCの人気ダンス番組中にわいせつ音　「不快な思いさせた」と謝罪",
+      "title": "フアン氏の歴史的なカムバック、トランプ氏の影響は",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cq8r7ejx2y1eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/watch/cqwy4n20ngzdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Mon, 23 Nov 2026 05:23:41 GMT"
+      "region": "north-america",
+      "published_at": "Tue, 24 Nov 2026 04:16:16 GMT"
     },
     {
-      "title": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
+      "title": "ネパール新首相がインド初訪問、関係再構築を模索　インドは復興支援に16億ドル約束",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cxg5rdrdlq6no?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cvn0d5pw63plo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Sat, 21 Nov 2026 02:03:21 GMT"
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Tue, 24 Nov 2026 07:16:17 GMT"
+    },
+    {
+      "title": "「世界経済史上最大のUターン」フアン氏のエヌビディア復帰、専門家の反応は",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cxnv41n72ldqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "global",
+      "published_at": "Tue, 24 Nov 2026 07:19:01 GMT"
     }
   ]
 }
