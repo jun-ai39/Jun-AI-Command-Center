@@ -1,8 +1,26 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-25T04:08:33+00:00",
+  "updated_at": "2026-11-26T03:31:20+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "米トランプ政権、中国や日本など14カ国・地域に新関税",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqn0dz6e7yg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "経済",
+      "region": "japan",
+      "published_at": "Thu, 26 Nov 2026 03:07:45 GMT"
+    },
+    {
+      "title": "カイロ近郊の幹線道路で燃料タンク車が横転、大規模火災が発生　31人死亡",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6grexv97jg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Thu, 26 Nov 2026 03:06:39 GMT"
+    },
     {
       "title": "イスラエル軍、ハマス内部治安トップを殺害　ガザ空爆",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -11,6 +29,42 @@
       "category": "紛争",
       "region": "middle-east",
       "published_at": "Wed, 25 Nov 2026 02:47:56 GMT"
+    },
+    {
+      "title": "ロシアのウクライナでの戦死者は約50万人　流出公式データをBBCが分析",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmp3ell1k2y5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Wed, 25 Nov 2026 06:40:36 GMT"
+    },
+    {
+      "title": "中国ファーウェイ、企業秘密窃盗などでアメリカで有罪評決　組織犯罪では無罪",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cqzr5y8326yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Wed, 25 Nov 2026 04:23:01 GMT"
+    },
+    {
+      "title": "イングランドの暑さ関連死、2026年は過去最多の推定5200人",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cw0k673z7ppko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Wed, 25 Nov 2026 05:07:40 GMT"
+    },
+    {
+      "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示　ウクライナを支援する企業に",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmq5v38864w0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Wed, 25 Nov 2026 08:50:32 GMT"
     },
     {
       "title": "米司法長官、エヌビディアを捜査するか答えず　株価6％反落、フアン氏復帰に米与野党から批判",
@@ -22,67 +76,13 @@
       "published_at": "Wed, 25 Nov 2026 01:48:28 GMT"
     },
     {
-      "title": "ウクライナがロシア艦船をドローン攻撃、動画や衛星画像で分かること",
+      "title": "米アイオワ州で劣化した爆薬の爆破処理計画、住民から不安の声",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/c68x0g21ywk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 24 Nov 2026 04:43:46 GMT"
-    },
-    {
-      "title": "【解説】 ウクライナでの戦争が拡大、リビア海域でのロシア艦船攻撃から分かること",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckvg2qyr1ypno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "europe",
-      "published_at": "Tue, 24 Nov 2026 09:02:16 GMT"
-    },
-    {
-      "title": "フアン氏がエヌビディアに復帰、不倫発覚による辞任から一転　トランプ氏は「私が取引をまとめた」と",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6g7l1397vvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 24 Nov 2026 01:55:33 GMT"
-    },
-    {
-      "title": "トルコ富豪、アンドリュー元王子に75万ポンド提供と　法廷で証言",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvp865xdg927o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/ck30g7z274jlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Tue, 24 Nov 2026 07:42:02 GMT"
-    },
-    {
-      "title": "フアン氏の歴史的なカムバック、トランプ氏の影響は",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cqwy4n20ngzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Tue, 24 Nov 2026 04:16:16 GMT"
-    },
-    {
-      "title": "ネパール新首相がインド初訪問、関係再構築を模索　インドは復興支援に16億ドル約束",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvn0d5pw63plo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "asia",
-      "published_at": "Tue, 24 Nov 2026 07:16:17 GMT"
-    },
-    {
-      "title": "「世界経済史上最大のUターン」フアン氏のエヌビディア復帰、専門家の反応は",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/watch/cxnv41n72ldqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "global",
-      "published_at": "Tue, 24 Nov 2026 07:19:01 GMT"
+      "published_at": "Wed, 25 Nov 2026 08:21:39 GMT"
     }
   ]
 }

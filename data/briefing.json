@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T04:08:45+00:00",
+  "generated_at": "2026-11-26T03:31:31+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "イスラエル軍、ハマス内部治安トップを殺害　ガザ空爆",
-      "category": "紛争",
-      "source": "BBC News 日本語",
-      "published_at": "Wed, 25 Nov 2026 02:47:56 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmkgdj182rl8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "米司法長官、エヌビディアを捜査するか答えず　株価6％反落、フアン氏復帰に米与野党から批判",
+      "title": "米トランプ政権、中国や日本など14カ国・地域に新関税",
       "category": "経済",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 25 Nov 2026 01:48:28 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ckg5rzd9zy4go?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 26 Nov 2026 03:07:45 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cqn0dz6e7yg7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "【解説】 ウクライナでの戦争が拡大、リビア海域でのロシア艦船攻撃から分かること",
-      "category": "紛争",
+      "title": "カイロ近郊の幹線道路で燃料タンク車が横転、大規模火災が発生　31人死亡",
+      "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Tue, 24 Nov 2026 09:02:16 GMT",
-      "url": "https://www.bbc.com/japanese/articles/ckvg2qyr1ypno?at_medium=RSS&at_campaign=rss"
+      "published_at": "Thu, 26 Nov 2026 03:06:39 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6grexv97jg2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示　ウクライナを支援する企業に",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Wed, 25 Nov 2026 08:50:32 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmq5v38864w0o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
       "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：日経平均 -3.59%"
+      "detail": "最大変動：NASDAQ総合 -3.46%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 0・下落 4・横ばい 0",
-      "detail": "最大変動：Solana -3.23%"
+      "value": "上昇 4・下落 0・横ばい 0",
+      "detail": "最大変動：XRP +3.92%"
     },
     {
       "label": "市場心理",
-      "value": "13 / 100",
+      "value": "11 / 100",
       "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.299 JPY",
-      "detail": "前日比 -0.05%"
+      "value": "159.193 JPY",
+      "detail": "前日比 -0.32%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "イスラエル軍、ハマス内部治安トップを殺害　ガザ空爆",
-      "meta": "紛争・BBC News 日本語",
+      "detail": "米トランプ政権、中国や日本など14カ国・地域に新関税",
+      "meta": "経済・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "日経平均が前日比-3.59%です。",
+      "detail": "NASDAQ総合が前日比-3.46%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは13（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは11（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-25T04:08:33+00:00",
-    "market": "2026-11-25T04:08:45+00:00"
+    "news": "2026-11-26T03:31:20+00:00",
+    "market": "2026-11-26T03:31:31+00:00"
   }
 }
