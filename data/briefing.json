@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T03:31:31+00:00",
+  "generated_at": "2026-11-27T03:37:01+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "米トランプ政権、中国や日本など14カ国・地域に新関税",
-      "category": "経済",
-      "source": "BBC News 日本語",
-      "published_at": "Thu, 26 Nov 2026 03:07:45 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cqn0dz6e7yg7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "カイロ近郊の幹線道路で燃料タンク車が横転、大規模火災が発生　31人死亡",
+      "title": "ゼレンスキー氏、トランプ氏とプーチン氏の「奇妙な」友情関係に言及　BBCのインタビューで",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Thu, 26 Nov 2026 03:06:39 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6grexv97jg2o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 27 Nov 2026 02:28:33 GMT",
+      "url": "https://www.bbc.com/japanese/watch/cq782mm7l8jjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示　ウクライナを支援する企業に",
+      "title": "ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Wed, 25 Nov 2026 08:50:32 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmq5v38864w0o?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 27 Nov 2026 02:20:34 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c6742dd74d4eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "ゼレンスキー氏、アメリカは中東に集中しすぎてロシアへの圧力不十分と　BBC単独インタビューで",
+      "category": "世界情勢",
+      "source": "BBC News 日本語",
+      "published_at": "Fri, 27 Nov 2026 01:56:33 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cmj4rww1npreo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 0・下落 5・横ばい 0",
-      "detail": "最大変動：NASDAQ総合 -3.46%"
+      "value": "上昇 2・下落 3・横ばい 0",
+      "detail": "最大変動：TOPIX連動ETF（参考値） +3.56%"
     },
     {
       "label": "暗号資産",
       "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：XRP +3.92%"
+      "detail": "最大変動：Solana +2.84%"
     },
     {
       "label": "市場心理",
-      "value": "11 / 100",
+      "value": "12 / 100",
       "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.193 JPY",
-      "detail": "前日比 -0.32%"
+      "value": "159.223 JPY",
+      "detail": "前日比 +0.18%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "米トランプ政権、中国や日本など14カ国・地域に新関税",
-      "meta": "経済・BBC News 日本語",
+      "detail": "ゼレンスキー氏、トランプ氏とプーチン氏の「奇妙な」友情関係に言及　BBCのインタビューで",
+      "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "NASDAQ総合が前日比-3.46%です。",
+      "detail": "TOPIX連動ETF（参考値）が前日比+3.56%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは11（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは12（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-26T03:31:20+00:00",
-    "market": "2026-11-26T03:31:31+00:00"
+    "news": "2026-11-27T03:36:51+00:00",
+    "market": "2026-11-27T03:37:01+00:00"
   }
 }

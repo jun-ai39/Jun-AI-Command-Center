@@ -1,8 +1,35 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-26T03:31:20+00:00",
+  "updated_at": "2026-11-27T03:36:51+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "ゼレンスキー氏、アメリカは中東に集中しすぎてロシアへの圧力不十分と　BBC単独インタビューで",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cmj4rww1npreo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "middle-east",
+      "published_at": "Fri, 27 Nov 2026 01:56:33 GMT"
+    },
+    {
+      "title": "ゼレンスキー氏、トランプ氏とプーチン氏の「奇妙な」友情関係に言及　BBCのインタビューで",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/watch/cq782mm7l8jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 27 Nov 2026 02:28:33 GMT"
+    },
+    {
+      "title": "ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6742dd74d4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "asia",
+      "published_at": "Fri, 27 Nov 2026 02:20:34 GMT"
+    },
     {
       "title": "米トランプ政権、中国や日本など14カ国・地域に新関税",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -13,76 +40,49 @@
       "published_at": "Thu, 26 Nov 2026 03:07:45 GMT"
     },
     {
-      "title": "カイロ近郊の幹線道路で燃料タンク車が横転、大規模火災が発生　31人死亡",
+      "title": "米当局、スペースXの宇宙データセンター計画を承認　人工衛星「100万基」打ち上げ",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c6grexv97jg2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/c893rdp04kglo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "global",
-      "published_at": "Thu, 26 Nov 2026 03:06:39 GMT"
+      "published_at": "Thu, 26 Nov 2026 09:02:33 GMT"
     },
     {
-      "title": "イスラエル軍、ハマス内部治安トップを殺害　ガザ空爆",
+      "title": "英バンド「デュラン・デュラン」の元ギタリスト、アンディ・テイラーさん死去　65歳",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmkgdj182rl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "紛争",
-      "region": "middle-east",
-      "published_at": "Wed, 25 Nov 2026 02:47:56 GMT"
-    },
-    {
-      "title": "ロシアのウクライナでの戦死者は約50万人　流出公式データをBBCが分析",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmp3ell1k2y5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cvj6l1jrzg84o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 25 Nov 2026 06:40:36 GMT"
+      "region": "global",
+      "published_at": "Thu, 26 Nov 2026 06:13:03 GMT"
     },
     {
-      "title": "中国ファーウェイ、企業秘密窃盗などでアメリカで有罪評決　組織犯罪では無罪",
+      "title": "北朝鮮、スイス外交事務所代表に退去命令　「ウクライナの子ども移送」めぐる制裁に反発",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqzr5y8326yro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cqkg5dge2rx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "外交",
+      "region": "europe",
+      "published_at": "Thu, 26 Nov 2026 07:19:43 GMT"
+    },
+    {
+      "title": "【解説】 トランプ氏の投資口座、エヌビディア株を今年44回売買　開示資料で判明",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm5y1p1kn5v0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
       "region": "north-america",
-      "published_at": "Wed, 25 Nov 2026 04:23:01 GMT"
+      "published_at": "Thu, 26 Nov 2026 05:38:45 GMT"
     },
     {
-      "title": "イングランドの暑さ関連死、2026年は過去最多の推定5200人",
+      "title": "イスラエルの裁判所、ネタニヤフ氏に対する収賄罪の起訴取り下げを勧告",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cw0k673z7ppko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/japanese/articles/cm702r2kr1y6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News 日本語",
       "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 25 Nov 2026 05:07:40 GMT"
-    },
-    {
-      "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示　ウクライナを支援する企業に",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cmq5v38864w0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "europe",
-      "published_at": "Wed, 25 Nov 2026 08:50:32 GMT"
-    },
-    {
-      "title": "米司法長官、エヌビディアを捜査するか答えず　株価6％反落、フアン氏復帰に米与野党から批判",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ckg5rzd9zy4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "経済",
-      "region": "global",
-      "published_at": "Wed, 25 Nov 2026 01:48:28 GMT"
-    },
-    {
-      "title": "米アイオワ州で劣化した爆薬の爆破処理計画、住民から不安の声",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/ck30g7z274jlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Wed, 25 Nov 2026 08:21:39 GMT"
+      "region": "middle-east",
+      "published_at": "Thu, 26 Nov 2026 06:40:51 GMT"
     }
   ]
 }
