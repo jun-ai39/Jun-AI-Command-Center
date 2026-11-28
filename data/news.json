@@ -1,8 +1,26 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-27T03:36:51+00:00",
+  "updated_at": "2026-11-28T03:16:28+00:00",
   "source": "Official news RSS feeds",
   "items": [
+    {
+      "title": "米沿岸部で大雨と強風、広い範囲で停電　ニューヨークでは感謝祭パレードが初の延期",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwdd13d25jvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 28 Nov 2026 01:59:56 GMT"
+    },
+    {
+      "title": "カナダ最高裁、ケベック州の一部公務員による宗教的シンボルの着用禁止を支持",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c9kgmdgv7vpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Sat, 28 Nov 2026 01:57:34 GMT"
+    },
     {
       "title": "ゼレンスキー氏、アメリカは中東に集中しすぎてロシアへの圧力不十分と　BBC単独インタビューで",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
@@ -22,6 +40,33 @@
       "published_at": "Fri, 27 Nov 2026 02:28:33 GMT"
     },
     {
+      "title": "英列車内での刺傷事件の被告に有罪評決　計14人に対する殺人未遂罪",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cwyvdn5mz4lvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "global",
+      "published_at": "Fri, 27 Nov 2026 08:13:12 GMT"
+    },
+    {
+      "title": "米政府が「手違い」で中米に強制送還した男性、米国からスペインに到着　トランプ政権との争いに終止符",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/cm174nxw20qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "north-america",
+      "published_at": "Fri, 27 Nov 2026 05:57:25 GMT"
+    },
+    {
+      "title": "イギリスの若者、3人に1人は性交経験なし　「セクスティング」やポルノ視聴は半数以上",
+      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
+      "url": "https://www.bbc.com/japanese/articles/c6074pvlep5po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News 日本語",
+      "category": "世界情勢",
+      "region": "europe",
+      "published_at": "Fri, 27 Nov 2026 06:55:34 GMT"
+    },
+    {
       "title": "ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明",
       "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
       "url": "https://www.bbc.com/japanese/articles/c6742dd74d4eo?at_medium=RSS&at_campaign=rss",
@@ -38,51 +83,6 @@
       "category": "経済",
       "region": "japan",
       "published_at": "Thu, 26 Nov 2026 03:07:45 GMT"
-    },
-    {
-      "title": "米当局、スペースXの宇宙データセンター計画を承認　人工衛星「100万基」打ち上げ",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/c893rdp04kglo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 26 Nov 2026 09:02:33 GMT"
-    },
-    {
-      "title": "英バンド「デュラン・デュラン」の元ギタリスト、アンディ・テイラーさん死去　65歳",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cvj6l1jrzg84o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "global",
-      "published_at": "Thu, 26 Nov 2026 06:13:03 GMT"
-    },
-    {
-      "title": "北朝鮮、スイス外交事務所代表に退去命令　「ウクライナの子ども移送」めぐる制裁に反発",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cqkg5dge2rx1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "外交",
-      "region": "europe",
-      "published_at": "Thu, 26 Nov 2026 07:19:43 GMT"
-    },
-    {
-      "title": "【解説】 トランプ氏の投資口座、エヌビディア株を今年44回売買　開示資料で判明",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm5y1p1kn5v0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "north-america",
-      "published_at": "Thu, 26 Nov 2026 05:38:45 GMT"
-    },
-    {
-      "title": "イスラエルの裁判所、ネタニヤフ氏に対する収賄罪の起訴取り下げを勧告",
-      "summary": "見出しの詳細は、リンク先の情報源で確認してください。",
-      "url": "https://www.bbc.com/japanese/articles/cm702r2kr1y6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News 日本語",
-      "category": "世界情勢",
-      "region": "middle-east",
-      "published_at": "Thu, 26 Nov 2026 06:40:51 GMT"
     }
   ]
 }

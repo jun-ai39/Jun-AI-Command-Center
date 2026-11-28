@@ -1,70 +1,70 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T03:37:01+00:00",
+  "generated_at": "2026-11-28T03:16:39+00:00",
   "mode": "rule_based",
   "mode_label": "ルールベース（AI未使用）",
   "ai_generated": false,
   "news_items": [
     {
-      "title": "ゼレンスキー氏、トランプ氏とプーチン氏の「奇妙な」友情関係に言及　BBCのインタビューで",
+      "title": "米沿岸部で大雨と強風、広い範囲で停電　ニューヨークでは感謝祭パレードが初の延期",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 27 Nov 2026 02:28:33 GMT",
-      "url": "https://www.bbc.com/japanese/watch/cq782mm7l8jjo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 28 Nov 2026 01:59:56 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwdd13d25jvyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ミャンマー大統領、ジェノサイド認定したICJ判決の一部には従わないと表明",
+      "title": "カナダ最高裁、ケベック州の一部公務員による宗教的シンボルの着用禁止を支持",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 27 Nov 2026 02:20:34 GMT",
-      "url": "https://www.bbc.com/japanese/articles/c6742dd74d4eo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Sat, 28 Nov 2026 01:57:34 GMT",
+      "url": "https://www.bbc.com/japanese/articles/c9kgmdgv7vpno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ゼレンスキー氏、アメリカは中東に集中しすぎてロシアへの圧力不十分と　BBC単独インタビューで",
+      "title": "英列車内での刺傷事件の被告に有罪評決　計14人に対する殺人未遂罪",
       "category": "世界情勢",
       "source": "BBC News 日本語",
-      "published_at": "Fri, 27 Nov 2026 01:56:33 GMT",
-      "url": "https://www.bbc.com/japanese/articles/cmj4rww1npreo?at_medium=RSS&at_campaign=rss"
+      "published_at": "Fri, 27 Nov 2026 08:13:12 GMT",
+      "url": "https://www.bbc.com/japanese/articles/cwyvdn5mz4lvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "market_snapshot": [
     {
       "label": "株式",
-      "value": "上昇 2・下落 3・横ばい 0",
-      "detail": "最大変動：TOPIX連動ETF（参考値） +3.56%"
+      "value": "上昇 5・下落 0・横ばい 0",
+      "detail": "最大変動：日経平均 +4.03%"
     },
     {
       "label": "暗号資産",
-      "value": "上昇 4・下落 0・横ばい 0",
-      "detail": "最大変動：Solana +2.84%"
+      "value": "上昇 0・下落 4・横ばい 0",
+      "detail": "最大変動：Ethereum -3.43%"
     },
     {
       "label": "市場心理",
-      "value": "12 / 100",
+      "value": "10 / 100",
       "detail": "極度の恐怖"
     },
     {
       "label": "ドル円",
-      "value": "159.223 JPY",
-      "detail": "前日比 +0.18%"
+      "value": "159.515 JPY",
+      "detail": "前日比 +0.37%"
     }
   ],
   "watch_points": [
     {
       "title": "最新ニュースを確認",
-      "detail": "ゼレンスキー氏、トランプ氏とプーチン氏の「奇妙な」友情関係に言及　BBCのインタビューで",
+      "detail": "米沿岸部で大雨と強風、広い範囲で停電　ニューヨークでは感謝祭パレードが初の延期",
       "meta": "世界情勢・BBC News 日本語",
       "level": "normal"
     },
     {
       "title": "株式市場の最大変動",
-      "detail": "TOPIX連動ETF（参考値）が前日比+3.56%です。",
+      "detail": "日経平均が前日比+4.03%です。",
       "meta": "取得対象の中で絶対値が最大",
       "level": "alert"
     },
     {
       "title": "Bitcoin市場心理",
-      "detail": "Fear & Greed Indexは12（極度の恐怖）です。",
+      "detail": "Fear & Greed Indexは10（極度の恐怖）です。",
       "meta": "Alternative.meの参考指標",
       "level": "alert"
     }
@@ -75,7 +75,7 @@
     "将来予測・売買判断・投資助言は生成していません。"
   ],
   "source_updated_at": {
-    "news": "2026-11-27T03:36:51+00:00",
-    "market": "2026-11-27T03:37:01+00:00"
+    "news": "2026-11-28T03:16:28+00:00",
+    "market": "2026-11-28T03:16:39+00:00"
   }
 }
